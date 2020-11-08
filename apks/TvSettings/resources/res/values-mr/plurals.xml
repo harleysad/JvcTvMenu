@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d खाते</item>
+        <item quantity="other">%1$d खाती</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">कनेक्ट केलेले इनपुट</item>
+        <item quantity="other">कनेक्ट केलेले इनपुट</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">कनेक्ट न केलेले इनपुट</item>
+        <item quantity="other">कनेक्ट न केलेले इनपुट</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">स्टँडबाय इनपुट</item>
+        <item quantity="other">स्टँडबाय इनपुट</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d अॅक्सेसरी</item>
+        <item quantity="other">%1$d अॅक्सेसरी</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d अ‍ॅपला अनुमती आहे</item>
+        <item quantity="other">%d अ‍ॅप्सना अनुमती आहे</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">तुम्ही अाता विकासक होण्यापासून %1$d चरण दूर आहात</item>
+        <item quantity="other">तुम्ही विकासक होण्यापासून%1$d चरणे दूर आहात</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d डिव्हाइस कनेक्ट केले आहे</item>
+        <item quantity="other">%1$d डिव्हाइस कनेक्ट केली आहेत</item>
+    </plurals>
+</resources>

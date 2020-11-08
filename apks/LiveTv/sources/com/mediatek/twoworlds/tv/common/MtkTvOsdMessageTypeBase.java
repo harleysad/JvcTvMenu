@@ -1,0 +1,41 @@
+package com.mediatek.twoworlds.tv.common;
+
+public class MtkTvOsdMessageTypeBase {
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_3D = 22;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_AUTO_SHUTOFF_POWER_OFF = 13;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_BLOCK = 33;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_CAR_BATTERY = 23;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_CEC = 9;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_CHANNEL = 2;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_CH_LST = 29;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_CI = 21;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_DEMO = 3;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_DURATION = 18;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_FAV_LST = 10;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_FIRST_ENTRY = 0;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_GINGA = 31;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_GINGA_PROMPT = 32;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_IDLE_POWER_OFF = 14;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_IDLE_POWER_OFF_DUR_ON = 17;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_IPTV_BROWSER = 6;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_IPTV_RIC = 5;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_LAUNCH_MMP = 7;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_NO_FEATURE = 1;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_ON_TIMER_POWER_OFF = 15;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_ON_TIMER_POWER_OFF_DUR_ON = 16;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_OVER_CURRENT = 0;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_PASSWORD = 19;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_PIP = 20;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_POWER_OFF = 11;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_PVR = 26;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_PVR_TRIGGER = 25;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_SCENE = 28;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_SIGNAL = 34;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_SIGNAL_W_TIMEOUT = 30;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_SPEAKER_OFF = 35;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_STORE_DISP_MODE = 4;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_THEATER = 8;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_UPG = 27;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_USB = 24;
+    public static final int MTKTV_NAV_IB_STATUS_MSG_TYPE_VGA_POWER_OFF = 12;
+}

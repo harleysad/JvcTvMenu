@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d уліковы запіс</item>
+        <item quantity="few">%1$d уліковыя запісы</item>
+        <item quantity="many">%1$d уліковых запісаў</item>
+        <item quantity="other">%1$d уліковага запісу</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Падключаныя ўваходы</item>
+        <item quantity="few">Падключаныя ўваходы</item>
+        <item quantity="many">Падключаныя ўваходы</item>
+        <item quantity="other">Падключаныя ўваходы</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Не падключаныя ўваходы</item>
+        <item quantity="few">Не падключаныя ўваходы</item>
+        <item quantity="many">Не падключаныя ўваходы</item>
+        <item quantity="other">Не падключаныя ўваходы</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Уваходы ў рэжыме чакання</item>
+        <item quantity="few">Уваходы ў рэжыме чакання</item>
+        <item quantity="many">Уваходы ў рэжыме чакання</item>
+        <item quantity="other">Уваходы ў рэжыме чакання</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d аксесуар</item>
+        <item quantity="few">%1$d аксесуары</item>
+        <item quantity="many">%1$d аксесуараў</item>
+        <item quantity="other">%1$d аксесуара</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d праграма дазволена</item>
+        <item quantity="few">%d праграмы дазволены</item>
+        <item quantity="many">%d праграм дазволены</item>
+        <item quantity="other">%d праграмы дазволены</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Зараз вы ў %1$d кроку ад таго, каб стаць распрацоўшчыкам</item>
+        <item quantity="few">Зараз вы ў %1$d кроках ад таго, каб стаць распрацоўшчыкам</item>
+        <item quantity="many">Зараз вы ў %1$d кроках ад таго, каб стаць распрацоўшчыкам</item>
+        <item quantity="other">Зараз вы ў %1$d кроку ад таго, каб стаць распрацоўшчыкам</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d прылада падключана</item>
+        <item quantity="few">%1$d прылады падключаны</item>
+        <item quantity="many">%1$d прылад падключана</item>
+        <item quantity="other">%1$d прылады падключана</item>
+    </plurals>
+</resources>

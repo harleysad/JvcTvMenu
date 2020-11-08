@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d compte</item>
+        <item quantity="other">%1$d comptes</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Entrada connectada</item>
+        <item quantity="other">Entrades connectades</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Entrada no connectada</item>
+        <item quantity="other">Entrades no connectades</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Entrada en espera</item>
+        <item quantity="other">Entrades en espera</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d accessori</item>
+        <item quantity="other">%1$d accessoris</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 aplicació permesa</item>
+        <item quantity="other">%d 1 aplicacions permeses</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Ja només et queda %1$d pas per convertir-te en desenvolupador.</item>
+        <item quantity="other">Ja només et queden %1$d passos per convertir-te en desenvolupador.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d dispositiu connectat</item>
+        <item quantity="other">%1$d dispositius connectats</item>
+    </plurals>
+</resources>

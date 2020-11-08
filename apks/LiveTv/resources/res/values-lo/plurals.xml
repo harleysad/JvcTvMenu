@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">ທ່ານປ້ອນລະຫັດ PIN ຜິດ 5 ເທື່ອແລ້ວ.\10ກະລຸນາລອງໃໝ່ໃອນີກ %1$d ວິນາທີ.</item>
+        <item quantity="other">ທ່ານປ້ອນລະຫັດ PIN ຜິດ 5 ເທື່ອແລ້ວ.\10ກະລຸນາລອງໃໝ່ໃອນີກ %1$d ວິນາທີ.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d ຊ່ອງ</item>
+        <item quantity="other">%1$d ຊ່ອງ</item>
+    </plurals>
+</resources>

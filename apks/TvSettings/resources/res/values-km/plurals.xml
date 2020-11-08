@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d ថ្ងៃ​មុន</item>
+        <item quantity="other">%d ថ្ងៃ​មុន</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d នាទី​មុន</item>
+        <item quantity="other">%d នាទី​មុន</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d ឆ្នាំ​មុន</item>
+        <item quantity="other">%d ឆ្នាំ​មុន</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">គណនី %1$d</item>
+        <item quantity="other">គណនី %1$d</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">ធាតុបញ្ចូលត្រូវបានភ្ជាប់</item>
+        <item quantity="other">ធាតុបញ្ចូលត្រូវបានភ្ជាប់</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">ធាតុបញ្ចូលមិនត្រូវបានភ្ជាប់</item>
+        <item quantity="other">ធាតុបញ្ចូលមិនត្រូវបានភ្ជាប់</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">ធាតុបញ្ចូលដែលមានការផ្អាក</item>
+        <item quantity="other">ធាតុបញ្ចូលដែលមានការផ្អាក</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">ឧបករណ៍​បន្ទាប់​បន្សំ %1$d</item>
+        <item quantity="other">ឧបករណ៍​បន្ទាប់​បន្សំ %1$d</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">បានអនុញ្ញាតកម្មវិធី 1</item>
+        <item quantity="other">បានអនុញ្ញាតកម្មវិធី %d</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">ឥឡូវនេះអ្នកនៅសល់ %1$d ជំហានទៀតដើម្បីក្លាយជាអ្នកអភិវឌ្ឍន៍</item>
+        <item quantity="other">ឥឡូវនេះអ្នកនៅសល់ %1$d ជំហានទៀតដើម្បីក្លាយជាអ្នកអភិវឌ្ឍន៍</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">បានភ្ជាប់​ឧបករណ៍ %1$d</item>
+        <item quantity="other">បានភ្ជាប់​ឧបករណ៍ %1$d</item>
+    </plurals>
+</resources>

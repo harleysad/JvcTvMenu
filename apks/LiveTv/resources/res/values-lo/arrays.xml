@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ampm">
+        <item>ກ່ອນທ່ຽງ</item>
+        <item>ຫຼັງທ່ຽງ</item>
+    </array>
+</resources>

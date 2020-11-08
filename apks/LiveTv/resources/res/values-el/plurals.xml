@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Εισαγάγετε λανθασμένο PIN 5 φορές.\10Δοκιμάστε ξανά σε %1$d δευτερόλεπτο.</item>
+        <item quantity="other">Εισαγάγετε λανθασμένο PIN 5 φορές.\10Δοκιμάστε ξανά σε %1$d δευτερόλεπτα.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d κανάλι</item>
+        <item quantity="other">%1$d κανάλια</item>
+    </plurals>
+</resources>

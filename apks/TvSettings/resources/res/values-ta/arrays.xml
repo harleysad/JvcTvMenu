@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ஆஃப்</item>
+        <item>இடது</item>
+        <item>வலது</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>டெமோ வீடியோ</item>
+        <item>இடப்புற e-POP</item>
+        <item>கீழ்ப்புற e-POP</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>அனிமேஷனை முடக்கு</item>
+        <item>அனிமேஷன் வேகம் .5x</item>
+        <item>அனிமேஷன் வேகம் 1x</item>
+        <item>அனிமேஷன் வேகம் 1.5x</item>
+        <item>அனிமேஷன் வேகம் 2x</item>
+        <item>அனிமேஷன் வேகம் 5x</item>
+        <item>அனிமேஷன் வேகம் 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>அனிமேஷனை முடக்கு</item>
+        <item>அனிமேஷன் அளவு .5x</item>
+        <item>அனிமேஷன் அளவு 1x</item>
+        <item>அனிமேஷன் அளவு 1.5x</item>
+        <item>அனிமேஷன் அளவு 2x</item>
+        <item>அனிமேஷன் அளவு 5x</item>
+        <item>அனிமேஷன் அளவு 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>நிலையான வரம்பு</item>
+        <item>பின்புலச் செயல்முறைகள் இல்லை</item>
+        <item>அதிகபட்சமாக 1 செயல்முறை</item>
+        <item>அதிகபட்சமாக 2 செயல்முறைகள்</item>
+        <item>அதிகபட்சமாக 3 செயல்முறைகள்</item>
+        <item>அதிகபட்சமாக 4 செயல்முறைகள்</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>நெட்வொர்க் வழங்கும் நேரத்தைப் பயன்படுத்து</item>
+        <item>முடக்கு</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>நெட்வொர்க் வழங்கும் நேரத்தைப் பயன்படுத்து</item>
+        <item>டிரான்ஸ்போர்ட் ஸ்ட்ரீம் வழங்கும் நேரத்தைப் பயன்படுத்து</item>
+        <item>முடக்கு</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>சாதனத் தேர்வைப் பயன்படுத்து (இயல்பு)</item>
+        <item>16 பிட்கள்/சாம்பிள்</item>
+        <item>24 பிட்கள்/சாம்பிள்</item>
+        <item>32 பிட்கள்/சாம்பிள்</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>சாதனத் தேர்வைப் பயன்படுத்து (இயல்பு)</item>
+        <item>16 பிட்கள்/சாம்பிள்</item>
+        <item>24 பிட்கள்/சாம்பிள்</item>
+        <item>32 பிட்கள்/சாம்பிள்</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>சாதனத் தேர்வைப் பயன்படுத்து (இயல்பு)</item>
+        <item>மோனோ</item>
+        <item>ஸ்டீரியோ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>சாதனத் தேர்வைப் பயன்படுத்து (இயல்பு)</item>
+        <item>மோனோ</item>
+        <item>ஸ்டீரியோ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>ஆடியோ தரத்திற்காக மேம்படுத்தியது</item>
+        <item>சமன்படுத்தப்பட்ட ஆடியோ மற்றும் இணைப்புத் தரம்</item>
+        <item>இணைப்புத் தரத்திற்காக மேம்படுத்தியது</item>
+        <item>சிறந்த முறை (அடாப்டிவ் பிட் வீதம்)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ஆடியோ தரத்திற்காக மேம்படுத்தியது (990kbps/909kbps)</item>
+        <item>சமன்படுத்தப்பட்ட ஆடியோ மற்றும் இணைப்புத் தரம் (660kbps/606kbps)</item>
+        <item>இணைப்புத் தரத்திற்காக மேம்படுத்தியது (330kbps/303kbps)</item>
+        <item>சிறந்த முறை (அடாப்டிவ் பிட் வீதம்)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>சாதனத் தேர்வைப் பயன்படுத்து (இயல்பு)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>சாதனத் தேர்வைப் பயன்படுத்து (இயல்பு)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>சாதனத் தேர்வைப் பயன்படுத்து (இயல்பு)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ஆடியோ</item>
+        <item>Qualcomm® aptX™ HD ஆடியோ</item>
+        <item>LDAC</item>
+        <item>கட்டாயமில்லா கோடெக்குகளை இயக்கு</item>
+        <item>கட்டாயமில்லா கோடெக்குகளை முடக்கு</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>சாதனத் தேர்வைப் பயன்படுத்து (இயல்பு)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ஆடியோ</item>
+        <item>Qualcomm® aptX™ HD ஆடியோ</item>
+        <item>LDAC</item>
+        <item>கட்டாயமில்லா கோடெக்குகளை இயக்கு</item>
+        <item>கட்டாயமில்லா கோடெக்குகளை முடக்கு</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (இயல்பு)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>இயல்பு</item>
+        <item>எதுவுமில்லை</item>
+        <item>அவுட்லைன்</item>
+        <item>டிராப் ஷேடோ</item>
+        <item>ரெய்ஸ்டு</item>
+        <item>டிப்ரஸ்டு</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>இயல்பு</item>
+        <item>கறுப்பு</item>
+        <item>வெள்ளை</item>
+        <item>பச்சை</item>
+        <item>நீலம்</item>
+        <item>சிவப்பு</item>
+        <item>சியான்</item>
+        <item>மஞ்சள்</item>
+        <item>மெஜந்தா</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>இயல்பு</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>இணைவெழுத்து</item>
+        <item>Small capitals</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>இயல்பு</item>
+        <item>திடமானது</item>
+        <item>ஒளி ஊடுருவக்கூடியது</item>
+        <item>ஒளிபுகுத்தன்மை</item>
+        <item>ஒளிர்வுத்தன்மை</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>இயல்பு</item>
+        <item>சிறியது</item>
+        <item>இயல்பு</item>
+        <item>பெரியது</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>ஏதுமில்லை</item>
+        <item>வெளிக்கோடு</item>
+        <item>நிழலிடு</item>
+        <item>மேலெழும்பியது</item>
+        <item>அழுத்தியது</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>மிகச் சிறிய</item>
+        <item>சிறியது</item>
+        <item>இயல்பு</item>
+        <item>பெரியது</item>
+        <item>மிகப் பெரியது</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>இயல்புநிலை</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif குறுகியது</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>கேஷ்வல்</item>
+        <item>இணைவெழுத்து முறை</item>
+        <item>சிறிய எழுத்துகள்</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC சாதனம் எதுவுமில்லை</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>மேம்படுத்தப்பட்ட வண்ணங்கள்</item>
+        <item>கண்களால் பார்ப்பதைப் போலவே இயற்கையான வண்ணங்கள்</item>
+        <item>டிஜிட்டல் உள்ளடக்கத்திற்கு ஏற்ப மேம்படுத்தப்பட்ட வண்ணங்கள்</item>
+    </array>
+    <array name="color_mode_names">
+        <item>வைபிரன்ட் (இயல்பு)</item>
+        <item>இயற்கை வண்ணம்</item>
+        <item>வழக்கமான வண்ணம்</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>ஆஃப்</item>
+        <item>ஓவர்டிரா பகுதிகளைக் காட்டு</item>
+        <item>நிறக்குருடின் பகுதிகளைக் காட்டு</item>
+    </array>
+    <array name="display_caption_array">
+        <item>ஆஃப்</item>
+        <item>ஆன்</item>
+        <item>வசனம் (ஒலியடக்கப்பட்டது)</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>ஏதுமில்லை</item>
+        <item>Logcat</item>
+        <item>Systrace (கிராஃபிக்ஸ்)</item>
+        <item>glGetError இல் அழைப்பின் அடுக்கு</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>HDCP சரிபார்ப்பை எப்போதும் பயன்படுத்தாதே</item>
+        <item>DRM உள்ளடக்கத்திற்கு மட்டும் HDCP சோதனையைப் பயன்படுத்து</item>
+        <item>HDCP சரிபார்ப்பை எப்போதும் பயன்படுத்து</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>எப்போதும் சரிபார்க்க வேண்டாம்</item>
+        <item>DRM உள்ளடக்கத்தை மட்டும் சரிபார்</item>
+        <item>எப்போதும் சரிபார்</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>தானியங்கு EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>ஏதுமில்லை</item>
+        <item>480பி</item>
+        <item>480பி (பாதுகாப்பானது)</item>
+        <item>720பி</item>
+        <item>720பி (பாதுகாப்பானது)</item>
+        <item>1080பி</item>
+        <item>1080பி (பாதுகாப்பானது)</item>
+        <item>4K</item>
+        <item>4K (பாதுகாப்பானது)</item>
+        <item>4K (மேம்படுத்தப்பட்டது)</item>
+        <item>4K (மேம்படுத்தப்பட்டது, பாதுகாப்பானது)</item>
+        <item>720பி, 1080பி (இரட்டைத் திரை)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>மேனுவல்</item>
+        <item>செமி-ஆட்டோ</item>
+        <item>ஆட்டோ</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>ஆஃப்</item>
+        <item>ஆட்டோ</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>ஆஃப்</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>அனைத்தும்</item>
+        <item>வலது</item>
+        <item>இடது</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>ஆஃப்</item>
+        <item>குறைவானது</item>
+        <item>நடுத்தரமானது</item>
+        <item>வலிமையானது</item>
+        <item>ஆட்டோ</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>ஆஃப்</item>
+        <item>குறைவானது</item>
+        <item>நடுத்தரமானது</item>
+        <item>வலிமையானது</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>ஆட்டோ</item>
+        <item>முழுத்திரை</item>
+        <item>வரம்பு</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>ஆஃப்</item>
+        <item>குறைவானது</item>
+        <item>நடுத்தரமானது</item>
+        <item>அதிகம்</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>ஆஃப்</item>
+        <item>குறைவானது</item>
+        <item>நடுத்தரமானது</item>
+        <item>அதிகபட்சமானது</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>பயனர்</item>
+        <item>இதமானது</item>
+        <item>இயல்பு</item>
+        <item>பிரகாசமானது</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>இருள்</item>
+        <item>நடுத்தரம்</item>
+        <item>பிரகாசம்</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>ஆன்</item>
+        <item>ஆஃப்</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Bright</item>
+        <item>Dolby Vision Dark</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>பயனர்</item>
+        <item>சினிமா</item>
+        <item>விளையாட்டு</item>
+        <item>விவிட்</item>
+        <item>அதிகப் பிரகாசம்</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>இயல்பு</item>
+        <item>நேச்சுரல்</item>
+        <item>விவிட்</item>
+        <item>விளையாட்டு</item>
+        <item>திரைப்படம்</item>
+        <item>கேம்</item>
+        <item>ஆற்றல் சேமிப்பு</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>பயனர்</item>
+        <item>இயல்பு</item>
+        <item>விவிட்</item>
+        <item>விளையாட்டு</item>
+        <item>திரைப்படம்</item>
+        <item>கேம்</item>
+        <item>ஆற்றல் சேமிப்பு</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>ஆஃப்</item>
+        <item>%d நிமிடங்கள்</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>ஹால் (பொது அறை) டிவி</item>
+        <item>குடும்ப அறை டிவி</item>
+        <item>படுக்கையறை டிவி</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>தானியங்கு</item>
+        <item>மிகப் பெரிதாக்கும்</item>
+        <item>4:3</item>
+        <item>திரைப்படத் தோற்ற விகிதம்: 14:9</item>
+        <item>திரைப்படத் தோற்ற விகிதம்: 16:9</item>
+        <item>அகலத்திரை</item>
+        <item>முழுத்திரை</item>
+        <item>வரையறுக்கப்படாத அளவு</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>மிகப் பெரிதாக்கும்</item>
+        <item>முழுத்திரை</item>
+        <item>வரையறுக்கப்படாத அளவு</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>தானியங்கு</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>முழுத்திரை</item>
+        <item>அளவை மாற்றும்</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 நிமிடங்கள்</item>
+        <item>1 மணிநேரம்</item>
+        <item>3 மணிநேரம்</item>
+        <item>6 மணிநேரம்</item>
+        <item>12 மணிநேரம்</item>
+        <item>எப்போதும் வேண்டாம்</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>ஆஃப்</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>ஆஃப்</item>
+        <item>64K / லாக் பஃபர்</item>
+        <item>256K / லாக் பஃபர்</item>
+        <item>1M / லாக் பஃபர்</item>
+        <item>4M / லாக் பஃபர்</item>
+        <item>16M / லாக் பஃபர்</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>ஆஃப்</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>ஆஃப்</item>
+        <item>தற்காலிகமாகச் சேமித்த எல்லா பதிவுகளும்</item>
+        <item>எல்லாம் (தற்காலிகமாகச் சேமித்த ரேடியோ பதிவுகள் தவிர்த்து)</item>
+        <item>கெர்னல் லாக் பஃபர் மட்டும்</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>ஆஃப்</item>
+        <item>எல்லாம்</item>
+        <item>எல்லாம் (ரேடியோ தவிர்த்து)</item>
+        <item>கெர்னல் மட்டும்</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>ஆஃப்</item>
+        <item>செவ்வகம் அல்லாத கிளிப் பகுதியை நீல நிறத்தில் வரையவும்</item>
+        <item>சோதிக்கப்பட்ட வரைதல் கட்டளைகளைப் பச்சை நிறத்தில் தனிப்படுத்தவும்</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 நிமிடங்கள்</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>1 மணிநேரம்</item>
+        <item>2 மணிநேரம்</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>கேம்</item>
+        <item>திரைப்படம்</item>
+        <item>இசை</item>
+        <item>செய்திகள்</item>
+        <item>அரங்கம்</item>
+        <item>இயல்பு</item>
+        <item>பயனர்</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>ஆஃப்</item>
+        <item>ஆன்</item>
+        <item>ஆட்டோ</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>ஆஃப்</item>
+        <item>இயல்பு</item>
+        <item>இரவு</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>ஸ்டீரியோ</item>
+        <item>சரவுண்ட்</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>ஆஃப்</item>
+        <item>ராக்</item>
+        <item>பாப்</item>
+        <item>நேரலை</item>
+        <item>நடனம்</item>
+        <item>டெக்னோ</item>
+        <item>கிளாசிக்</item>
+        <item>சாஃப்ட்</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>ஆட்டோ</item>
+        <item>பைபாஸ்</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>ஆஃப்</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP ஊடுருவிப் பார்த்தல்</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>டிவி ஸ்பீக்கர்கள்</item>
+        <item>வெளிப்புற ஆடியோ சிஸ்டம்</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>பயனர்</item>
+        <item>இயல்பு</item>
+        <item>விவிட்</item>
+        <item>விளையாட்டு</item>
+        <item>திரைப்படம்</item>
+        <item>இசை</item>
+        <item>செய்திகள்</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>இயல்பு</item>
+        <item>விளையாட்டு</item>
+        <item>திரைப்படம்</item>
+        <item>இசை</item>
+        <item>பயனர்</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>இயல்பு</item>
+        <item>காதுகேட்புக் குறைபாடு உள்ளவர்களுக்கானது</item>
+        <item>பார்வைக் குறைபாடு உள்ளவர்களுக்கானது</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>ஆஃப்</item>
+        <item>திரையில் பட்டிகளாக</item>
+        <item>adb shell dumpsys gfxinfo இல்</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>அனிமேஷனை முடக்கு</item>
+        <item>அனிமேஷன் அளவு .5x</item>
+        <item>அனிமேஷன் அளவு 1x</item>
+        <item>அனிமேஷன் அளவு 1.5x</item>
+        <item>அனிமேஷன் அளவு 2x</item>
+        <item>அனிமேஷன் அளவு 5x</item>
+        <item>அனிமேஷன் அளவு 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>மிகவும் மெதுவாக</item>
+        <item>மெதுவாக</item>
+        <item>இயல்பு</item>
+        <item>வேகமாக</item>
+        <item>மிக வேகமாக</item>
+        <item>அதிவேகமாக</item>
+        <item>அதிக வேகமாக</item>
+        <item>மிக அதிக வேகமாக</item>
+        <item>அதிகபட்ச வேகம்</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>சார்ஜ் ஆகிறது</item>
+        <item>MTP (மீடியா பரிமாற்ற நெறிமுறை)</item>
+        <item>PTP (படப் பரிமாற்ற நெறிமுறை)</item>
+        <item>RNDIS (USB ஈத்தர்நெட்)</item>
+        <item>ஆடியோ மூலம்</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>ஏதுமில்லை</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>ஏதுமில்லை</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>மோசம்</item>
+        <item>சுமார்</item>
+        <item>நன்று</item>
+        <item>பிரமாதம்</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>ஸ்கேன் செய்கிறது…</item>
+        <item>இணைக்கிறது...</item>
+        <item>அங்கீகரிக்கிறது...</item>
+        <item>IP முகவரியைப் பெறுகிறது…</item>
+        <item>இணைக்கப்பட்டது</item>
+        <item>இடைநீக்கப்பட்டது</item>
+        <item>துண்டிக்கிறது...</item>
+        <item>தொடர்பு துண்டிக்கப்பட்டது</item>
+        <item>தோல்வி</item>
+        <item>தடுக்கப்பட்டது</item>
+        <item>வேகம் குறைந்த இணைப்பைத் தற்காலிகமாகத் தவிர்க்கிறது</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>ஸ்கேன் செய்கிறது…</item>
+        <item>%1$s இல் இணைக்கிறது…</item>
+        <item>%1$s உடன் அங்கீகரிக்கிறது…</item>
+        <item>%1$s இலிருந்து IP முகவரியைப் பெறுகிறது…</item>
+        <item>%1$s உடன் இணைக்கப்பட்டது</item>
+        <item>இடைநீக்கப்பட்டது</item>
+        <item>%1$s இலிருந்து தொடர்பு துண்டிக்கப்படுகிறது…</item>
+        <item>தொடர்பு துண்டிக்கப்பட்டது</item>
+        <item>தோல்வி</item>
+        <item>தடுக்கப்பட்டது</item>
+        <item>வேகம் குறைந்த இணைப்பைத் தற்காலிகமாகத் தவிர்க்கிறது</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>அனிமேஷனை முடக்கு</item>
+        <item>அனிமேஷன் அளவு .5x</item>
+        <item>அனிமேஷன் அளவு 1x</item>
+        <item>அனிமேஷன் அளவு 1.5x</item>
+        <item>அனிமேஷன் அளவு 2x</item>
+        <item>அனிமேஷன் அளவு 5x</item>
+        <item>அனிமேஷன் அளவு 10x</item>
+    </array>
+</resources>

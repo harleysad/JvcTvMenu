@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:orientation="vertical" android:id="@+id/main_frame" android:background="?android:attr/windowBackground" android:layout_width="match_parent" android:layout_height="match_parent" android:transitionGroup="false">
+    <FrameLayout android:id="@+id/decor_title_container" android:background="?attr/defaultBrandColor" android:layout_width="match_parent" android:layout_height="wrap_content" android:transitionGroup="false" android:elevation="@dimen/lb_preference_decor_title_container_elevation">
+        <TextView android:gravity="center_vertical" android:id="@+id/decor_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" style="?android:attr/titleTextStyle"/>
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="center_vertical" android:id="@+id/picker_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/lb_preference_item_padding_start" android:paddingEnd="@dimen/lb_preference_item_padding_end" android:transitionGroup="true"/>
+</FrameLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_gravity="bottom" android:orientation="horizontal" android:background="@drawable/info_banner_background" android:layout_width="match_parent" android:layout_height="@dimen/timeshift_layout_height">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/tshfit_root1" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginStart="@dimen/timeshift_margin_start_end" android:layout_marginEnd="@dimen/timeshift_margin_start_end">
+        <ImageView android:layout_gravity="center" android:id="@+id/tshift_plcontorl_btn" android:layout_width="40dp" android:layout_height="wrap_content" android:src="@drawable/timshift_pasuse" android:scaleType="fitStart"/>
+        <ImageView android:layout_gravity="center" android:id="@+id/tshift_plcontorl_btn_num" android:padding="@dimen/padding_medium" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/timeshift_f_one"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/tshfit_root2" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/timeshift_margin_top" android:layout_marginBottom="@dimen/timeshift_margin_bottom" android:layout_marginEnd="@dimen/timeshift_margin_start_end">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/timeshift_time_size" android:textColor="@color/white" android:gravity="start" android:id="@+id/program_start_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_tshift_offset_time" android:layout_weight="1"/>
+            <TextView android:textSize="@dimen/timeshift_time_size" android:textColor="@color/white" android:gravity="center_horizontal" android:id="@+id/tf_playing_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_tshift_13_00" android:layout_weight="1"/>
+            <TextView android:textSize="@dimen/timeshift_time_size" android:textColor="@color/white" android:gravity="end" android:id="@+id/program_end_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_tshift_13_30" android:layout_weight="1"/>
+        </LinearLayout>
+        <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="20dp" android:layout_marginTop="@dimen/timeshift_margin_top">
+            <ImageView android:id="@+id/timeline_bg_start" android:background="@color/play_controls_progress_bar_background" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentStart="true"/>
+            <ImageView android:id="@+id/watched" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@color/play_controls_progress_bar_watched" android:layout_toEndOf="@+id/timeline_bg_start"/>
+            <ImageView android:id="@+id/buffered" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@color/play_controls_progress_bar_buffered" android:layout_toEndOf="@+id/watched"/>
+            <ImageView android:id="@+id/timeline_bg_end" android:background="@color/play_controls_progress_bar_background" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_toEndOf="@+id/buffered" android:layout_alignParentEnd="true"/>
+            <ImageView android:id="@+id/time_indicator" android:background="@drawable/play_controls_time_indicator" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="match_parent" android:elevation="1dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

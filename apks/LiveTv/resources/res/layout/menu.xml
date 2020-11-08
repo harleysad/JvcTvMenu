@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.tv.menu.MenuView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/menu" android:background="@drawable/bg_protection" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/menu_margin_top">
+    <TextView android:id="@+id/temp_title_for_old" android:visibility="gone" style="@style/menu_row_title_view"/>
+    <TextView android:id="@+id/temp_title_for_current" android:visibility="gone" style="@style/menu_row_title_view"/>
+</com.android.tv.menu.MenuView>

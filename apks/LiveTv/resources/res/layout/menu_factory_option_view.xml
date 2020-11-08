@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/factory_option_tv_itemname" android:layout_weight="1" style="@style/listitem_normal_tv"/>
+    <TextView android:id="@+id/factory_option_tv_itemshow" android:layout_weight="3" style="@style/listitem_normal_tv"/>
+</LinearLayout>

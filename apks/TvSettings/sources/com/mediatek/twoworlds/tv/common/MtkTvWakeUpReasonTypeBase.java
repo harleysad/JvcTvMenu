@@ -1,0 +1,40 @@
+package com.mediatek.twoworlds.tv.common;
+
+public class MtkTvWakeUpReasonTypeBase {
+    public static final int MTKTV_WAKE_UP_REASON_AC_POWER = 7;
+    public static final int MTKTV_WAKE_UP_REASON_BT = 36;
+    public static final int MTKTV_WAKE_UP_REASON_DVD = 29;
+    public static final int MTKTV_WAKE_UP_REASON_ETHERNET = 33;
+    public static final int MTKTV_WAKE_UP_REASON_FP = 4;
+    public static final int MTKTV_WAKE_UP_REASON_FP_INP_SRC = 28;
+    public static final int MTKTV_WAKE_UP_REASON_FP_PRG_DOWN = 27;
+    public static final int MTKTV_WAKE_UP_REASON_FP_PRG_UP = 26;
+    public static final int MTKTV_WAKE_UP_REASON_HDMI = 8;
+    public static final int MTKTV_WAKE_UP_REASON_IRRC = 5;
+    public static final int MTKTV_WAKE_UP_REASON_RC_ANALOG = 23;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGITAL = 24;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGITAL_ANALOG = 25;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_0 = 10;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_1 = 11;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_2 = 12;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_3 = 13;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_4 = 14;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_5 = 15;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_6 = 16;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_7 = 17;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_8 = 18;
+    public static final int MTKTV_WAKE_UP_REASON_RC_DIGIT_9 = 19;
+    public static final int MTKTV_WAKE_UP_REASON_RC_INP_SRC = 22;
+    public static final int MTKTV_WAKE_UP_REASON_RC_PRG_DOWN = 21;
+    public static final int MTKTV_WAKE_UP_REASON_RC_PRG_UP = 20;
+    public static final int MTKTV_WAKE_UP_REASON_RESUME_FROM_SUSPEND = 34;
+    public static final int MTKTV_WAKE_UP_REASON_RTC = 3;
+    public static final int MTKTV_WAKE_UP_REASON_RTC_SPECIAL = 30;
+    public static final int MTKTV_WAKE_UP_REASON_SCART = 32;
+    public static final int MTKTV_WAKE_UP_REASON_UART = 6;
+    public static final int MTKTV_WAKE_UP_REASON_UART_NORMAL = 9;
+    public static final int MTKTV_WAKE_UP_REASON_UNKNOWN = 1;
+    public static final int MTKTV_WAKE_UP_REASON_VGA = 2;
+    public static final int MTKTV_WAKE_UP_REASON_WATCHDOG = 31;
+    public static final int MTKTV_WAKE_UP_REASON_WIFI = 35;
+}

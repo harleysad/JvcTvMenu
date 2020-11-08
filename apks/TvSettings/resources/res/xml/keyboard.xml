@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/system_keyboard_autofill">
+    <PreferenceCategory android:title="@string/system_keyboard" android:key="keyboardCategory" android:order="0"/>
+    <ListPreference android:title="@string/title_current_keyboard" android:key="currentKeyboard" android:summary="%s" android:order="1" android:dialogTitle="@string/title_current_keyboard"/>
+    <Preference android:title="@string/manage_keyboards" android:key="manageKeyboards" android:order="3" android:fragment="com.android.tv.settings.inputmethod.AvailableVirtualKeyboardFragment"/>
+    <PreferenceCategory android:title="@string/system_autofill" android:key="autofillCategory" android:order="4">
+        <Preference android:title="@string/title_current_autofill_service" android:key="currentAutofill" android:summary="%s" android:fragment="com.android.tv.settings.autofill.AutofillPickerFragment"/>
+    </PreferenceCategory>
+</PreferenceScreen>

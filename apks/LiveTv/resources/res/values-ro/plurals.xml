@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Ați introdus un cod PIN greșit de 5 ori. \10Încercați din nou peste %1$d secunde.</item>
+        <item quantity="few">Ați introdus un cod PIN greșit de 5 ori. \10Încercați din nou peste %1$d secunde.</item>
+        <item quantity="other">Ați introdus un cod PIN greșit de 5 ori. \10Încercați din nou peste %1$d de secunde.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d canal</item>
+        <item quantity="few">%1$d canale</item>
+        <item quantity="other">%1$d de canale</item>
+    </plurals>
+</resources>

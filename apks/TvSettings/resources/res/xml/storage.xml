@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings">
+    <Preference android:title="@string/storage_migrate" android:key="migrate"/>
+    <Preference android:title="@string/storage_eject" android:key="eject"/>
+    <Preference android:title="@string/storage_format" android:key="erase"/>
+    <com.android.tv.settings.device.storage.StoragePreference android:icon="@drawable/storage_indicator_apps" android:title="@string/storage_apps_usage" android:key="apps_usage"/>
+    <com.android.tv.settings.device.storage.StoragePreference android:icon="@drawable/storage_indicator_dcim" android:title="@string/storage_dcim_usage" android:key="dcim_usage"/>
+    <com.android.tv.settings.device.storage.StoragePreference android:icon="@drawable/storage_indicator_music" android:title="@string/storage_music_usage" android:key="music_usage"/>
+    <com.android.tv.settings.device.storage.StoragePreference android:icon="@drawable/storage_indicator_downloads" android:title="@string/storage_downloads_usage" android:key="downloads_usage"/>
+    <com.android.tv.settings.device.storage.StoragePreference android:icon="@drawable/storage_indicator_cache" android:title="@string/storage_media_cache_usage" android:key="cache_usage"/>
+    <com.android.tv.settings.device.storage.StoragePreference android:icon="@drawable/storage_indicator_misc" android:title="@string/storage_media_misc_usage" android:key="misc_usage"/>
+    <com.android.tv.settings.device.storage.StoragePreference android:icon="@drawable/storage_indicator_available" android:title="@string/storage_available" android:key="available"/>
+</PreferenceScreen>

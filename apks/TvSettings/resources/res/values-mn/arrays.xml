@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>УНТРААСАН</item>
+        <item>ЗҮҮН</item>
+        <item>БАРУУН</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Демо видео</item>
+        <item>e-POP зүүн</item>
+        <item>e-POP-н доод хэсэг</item>
+    </array>
+    <array name="ampm">
+        <item>AM (Үдээс өмнө)</item>
+        <item>PM (Үдээс хойш)</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animation тохиргоо идэвхгүй байна</item>
+        <item>Animation хэмжээ .5x</item>
+        <item>Animation хэмжээ 1x</item>
+        <item>Animation хэмжээ 1.5x</item>
+        <item>Animation хэмжээ 2x</item>
+        <item>Animation хэмжээ 5x</item>
+        <item>Animation хэмжээ 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Дүрс амилуулалт идэвхгүй</item>
+        <item>Дүрс амилуулах далайц .5x</item>
+        <item>Дүрс амилуулах далайц 1x</item>
+        <item>Дүрс амилуулах далайц 1.5x</item>
+        <item>Дүрс амилуулалтын далайц 2x</item>
+        <item>Дүрс амилуулалтын далайц 5x</item>
+        <item>Дүрс амилуулалтын далайц 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Стандарт хязгаар</item>
+        <item>Далд процесс байхгүй</item>
+        <item>Хамгийн ихдээ 1 процесс</item>
+        <item>Хамгийн ихдээ 2 процесс</item>
+        <item>Хамгийн ихдээ 3 процесс</item>
+        <item>Хамгийн ихдээ 4 процесс</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Сүлжээнээс олгосон хугацааг ашиглах</item>
+        <item>Идэвхгүй</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Сүлжээнээс олгосон хугацааг ашиглах</item>
+        <item>Тээврийн урсгалаас олгосон хугацааг ашиглах</item>
+        <item>Идэвхгүй</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Системийн сонголтыг ашиглах (Өгөгдмөл)</item>
+        <item>16 бит/жишээ</item>
+        <item>24 бит/жишээ</item>
+        <item>32 бит/жишээ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Системийн сонголтыг ашиглах (Өгөгдмөл)</item>
+        <item>16 бит/жишээ</item>
+        <item>24 бит/жишээ</item>
+        <item>32 бит/жишээ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Системийн сонголтыг ашиглах (Өгөгдмөл)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Системийн сонголтыг ашиглах (Өгөгдмөл)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Аудио чанарт тааруулсан</item>
+        <item>Аудио, холболтын чанарыг тэнцүүлсэн</item>
+        <item>Холболтын чанарт тааруулсан</item>
+        <item>Шилдэг оролдлого (Тохируулж болох битийн хурд)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Аудио чанарт тааруулсан (990кб/цаг/909кб/цаг)</item>
+        <item>Аудио, холболтын чанарыг тэнцүүлсэн (660кб/цаг/606кб/цаг)</item>
+        <item>Холболтын чанарт тааруулсан (330кб/цаг/303кб/цаг)</item>
+        <item>Шилдэг оролдлого (Тохируулж болох битийн хурд)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Системийн сонголтыг ашиглах (Өгөгдмөл)</item>
+        <item>44.1 кГц</item>
+        <item>48.0 кГц</item>
+        <item>88.2 кГц</item>
+        <item>96.0 кГц</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Системийн сонголтыг ашиглах (Өгөгдмөл)</item>
+        <item>44.1 кГц</item>
+        <item>48.0 кГц</item>
+        <item>88.2 кГц</item>
+        <item>96.0 кГц</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Системийн сонголтыг ашиглах (Өгөгдмөл)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ аудио</item>
+        <item>Qualcomm® aptX™ HD аудио</item>
+        <item>LDAC</item>
+        <item>Нэмэлт кодлогчийг идэвхжүүлэх</item>
+        <item>Нэмэлт кодлогчийг идэвхгүй болгох</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Системийн сонголтыг ашиглах (Өгөгдмөл)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ аудио</item>
+        <item>Qualcomm® aptX™ HD аудио</item>
+        <item>LDAC</item>
+        <item>Нэмэлт кодлогчийг идэвхжүүлэх</item>
+        <item>Нэмэлт кодлогчийг идэвхгүй болгох</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Өгөгдмөл)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Өгөгдмөл</item>
+        <item>Ирмэггүй</item>
+        <item>Хүрээтэй</item>
+        <item>Сүүдэр буулгах</item>
+        <item>Томруулсан</item>
+        <item>Ухмал</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Өгөгдмөл</item>
+        <item>Хар</item>
+        <item>Цагаан</item>
+        <item>Ногоон</item>
+        <item>Хөх</item>
+        <item>Улаан</item>
+        <item>Ногоон цэнхэр</item>
+        <item>Шар</item>
+        <item>Гүн ягаан</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Өгөгдмөл</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Сериф</item>
+        <item>Serif monospace</item>
+        <item>Энгийн</item>
+        <item>Cursive</item>
+        <item>Жижиг хэмжээтэй том үсэг</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Өгөгдмөл</item>
+        <item>Хатуу</item>
+        <item>Нэвт гэрэлтсэн</item>
+        <item>Тунгалаг</item>
+        <item>Гэрэлтүүлэг</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Өгөгдмөл</item>
+        <item>Жижиг</item>
+        <item>Энгийн</item>
+        <item>Том</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Хоосон</item>
+        <item>Гадна хүрээ</item>
+        <item>Сүүдэр тусгах</item>
+        <item>Товгор</item>
+        <item>Ухмал</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Маш жижиг</item>
+        <item>Жижиг</item>
+        <item>Энгийн</item>
+        <item>Том</item>
+        <item>Маш том</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Үндсэн</item>
+        <item>Sans Serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Энгийн</item>
+        <item>Үргэлжилсэн</item>
+        <item>Жижиг дармал</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC Төхөөрөмж алга</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Сайжруулсан өнгө</item>
+        <item>Нүдээр харж болох байгалийн өнгө</item>
+        <item>Дижитал агуулгад зориулан тааруулсан өнгө</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Хурц (үндсэн)</item>
+        <item>Байгалийн</item>
+        <item>Стандарт</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Идэвхгүй</item>
+        <item>Давхар дүрслэлтэй хэсгийг харуулах</item>
+        <item>Өнгө үл ялгагчид зориулсан бүсүүдийг харуулах</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Унтраасан</item>
+        <item>Асаасан</item>
+        <item>Дууг хааж, хаалттай тайлбар харуулах</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Алийг нь ч биш</item>
+        <item>Logcat</item>
+        <item>Systrace (График)</item>
+        <item>Стекийг glGetError дээр дуудах</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>HDCP шалгахыг хэзээ ч ашиглахгүй</item>
+        <item>HDCP шалгахыг зөвхөн DRM контентэд ашиглах</item>
+        <item>Байнга HDCP шалгахыг ашиглах</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Хэзээ ч шалгахгүй</item>
+        <item>Зөвхөн DRM агуулгыг шалгах</item>
+        <item>Байнга шалгах</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Автомат EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Байхгүй</item>
+        <item>480пиксель</item>
+        <item>480пиксель (найдвартай)</item>
+        <item>720пиксель</item>
+        <item>720пиксель (найдвартай)</item>
+        <item>1080пиксель</item>
+        <item>1080пиксель (найдвартай)</item>
+        <item>4К</item>
+        <item>4К (найдвартай)</item>
+        <item>4К (өндөр чанартай)</item>
+        <item>4К (өндөр чанартай, найдвартай)</item>
+        <item>720пиксель, 1080пиксель (хос дэлгэц)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Гар ажиллагаатай</item>
+        <item>Хагас автомат</item>
+        <item>Автомат</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Унтраасан</item>
+        <item>Автомат</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Унтраасан</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Бүх</item>
+        <item>Баруун</item>
+        <item>Зүүн</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Унтраасан</item>
+        <item>Бага</item>
+        <item>Дундaж</item>
+        <item>Хүчтэй</item>
+        <item>Автомат</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Унтраасан</item>
+        <item>Бага</item>
+        <item>Дундaж</item>
+        <item>Хүчтэй</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Автомат</item>
+        <item>Бүтэн</item>
+        <item>Хязгаар</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Унтраасан</item>
+        <item>Бага</item>
+        <item>Дундaж</item>
+        <item>Дээд</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Унтраасан</item>
+        <item>Хамгийн бага</item>
+        <item>Дундaж</item>
+        <item>Хамгийн их</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Хэрэглэгч</item>
+        <item>Хүйтэн</item>
+        <item>Стандарт</item>
+        <item>Дулаан</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Бараан</item>
+        <item>Дунд</item>
+        <item>Тод</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Асаасан</item>
+        <item>Унтраасан</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Bright</item>
+        <item>Dolby Vision Dark</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Хэрэглэгч</item>
+        <item>Кино театр</item>
+        <item>Спорт</item>
+        <item>Тод</item>
+        <item>Хурц</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Стандарт</item>
+        <item>Байгалийн</item>
+        <item>Тод</item>
+        <item>Спорт</item>
+        <item>Кино</item>
+        <item>Тоглоом</item>
+        <item>Эрчим хүчний хэмнэлт</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Хэрэглэгч</item>
+        <item>Стандарт</item>
+        <item>Тод</item>
+        <item>Спорт</item>
+        <item>Кино</item>
+        <item>Тоглоом</item>
+        <item>Эрчим хүчний хэмнэлт</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Унтраасан</item>
+        <item>%d Минут</item>
+    </array>
+    <array name="rooms">
+        <item>Андройд ТV</item>
+        <item>Зочны өрөөний ТВ</item>
+        <item>Гэр бүлийн өрөөний ТВ</item>
+        <item>Унтлагын өрөөний ТВ</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Автомат</item>
+        <item>Супер томруулалт</item>
+        <item>4:3</item>
+        <item>Киног дэлгэх 14:9</item>
+        <item>Киног дэлгэх 16:9</item>
+        <item>Өргөн дэлгэц</item>
+        <item>Бүтэн</item>
+        <item>Хэмжээгүй</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Супер томруулалт</item>
+        <item>Бүтэн</item>
+        <item>Хэмжээгүй</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Автомат</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Бүтэн</item>
+        <item>Томруулалт</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 минут</item>
+        <item>1 цаг</item>
+        <item>3 цаг</item>
+        <item>6 цаг</item>
+        <item>12 цаг</item>
+        <item>Хэзээ ч үгүй</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Идэвхгүй</item>
+        <item>64000</item>
+        <item>256000</item>
+        <item>1 сая</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Идэвхгүй</item>
+        <item>лог буфер бүрт 64K</item>
+        <item>лог буфер бүрт 256K</item>
+        <item>лог буфер бүрт 1M</item>
+        <item>лог буфер бүрт 4M</item>
+        <item>лог буфер бүрт 16M</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Идэвхгүй</item>
+        <item>64000</item>
+        <item>256000</item>
+        <item>1 сая</item>
+        <item>4 сая</item>
+        <item>16 сая</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Идэвхгүй</item>
+        <item>Бүх логийн хамгаалалт</item>
+        <item>Радиогоос бусад бүх логийн хамгаалалт</item>
+        <item>зөвхөн үйлдлийн системийн төв логийн хамгаалалтад</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Идэвхгүй</item>
+        <item>Бүгд</item>
+        <item>Радиогоос бусад бүх</item>
+        <item>зөвхөн төвд</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Идэвхгүй</item>
+        <item>Тэгш өнцөгт бус клипийн бүсийг цэнхэрээр зурах</item>
+        <item>Шалгасан зурах командуудыг ногоон өнгөөр тэмдэглэх</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 цаг</item>
+        <item>2 цаг</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Тоглоом</item>
+        <item>Кино</item>
+        <item>Хөгжим</item>
+        <item>Мэдээ</item>
+        <item>Стадион</item>
+        <item>Стандарт</item>
+        <item>Хэрэглэгч</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Унтраасан</item>
+        <item>Асаасан</item>
+        <item>Автомат</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Унтраасан</item>
+        <item>Энгийн</item>
+        <item>Шөнө</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Стерео</item>
+        <item>Орчин тойрны</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Унтраасан</item>
+        <item>Рок</item>
+        <item>Поп</item>
+        <item>Шууд</item>
+        <item>Бүжиг</item>
+        <item>Техно</item>
+        <item>Сонгодог</item>
+        <item>Софт</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Автомат</item>
+        <item>Алгасах</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Унтраасан</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP Дамжин өнгөрөх</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>ТВ-н чанга яригч</item>
+        <item>Гадаад аудио систем</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Хэрэглэгч</item>
+        <item>Стандарт</item>
+        <item>Тод</item>
+        <item>Спорт</item>
+        <item>Кино</item>
+        <item>Хөгжим</item>
+        <item>Мэдээ</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Стандарт</item>
+        <item>Спорт</item>
+        <item>Кино</item>
+        <item>Хөгжим</item>
+        <item>Хэрэглэгч</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Энгийн</item>
+        <item>Сонсголын бэрхшээлтэй</item>
+        <item>Харааны бэрхшээлтэй</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Идэвхгүй</item>
+        <item>Дэлгэц дээр савхаар</item>
+        <item>adb shell dumpsys gfxinfo-д</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Дүрс амилуулалт идэвхгүй</item>
+        <item>Дүрс амилуулах далайц .5x</item>
+        <item>Дүрс амилуулах далайц 1x</item>
+        <item>Дүрс амилуулах далайц 1.5x</item>
+        <item>Дүрс амилуулалтын далайц 2x</item>
+        <item>Дүрс амилуулалтын далайц 5x</item>
+        <item>Дүрс амилуулалтын далайц 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Маш удаан</item>
+        <item>Удаан</item>
+        <item>Хэвийн</item>
+        <item>Хурдан</item>
+        <item>Илүү хурдан</item>
+        <item>Маш хурдан</item>
+        <item>Түргэн</item>
+        <item>Маш түргэн</item>
+        <item>Хамгийн хурдан</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Цэнэглэж байна</item>
+        <item>MTP (Медиа дамжуулах протокол)</item>
+        <item>PTP (Зураг Дамжуулах Протокол)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Аудио эх сурвалж</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Байхгүй</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Байхгүй</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Муу</item>
+        <item>Боломжийн</item>
+        <item>Сайн</item>
+        <item>Маш сайн</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Скан хийж байна…</item>
+        <item>Холбогдож байна...</item>
+        <item>Гэрчлэж байна</item>
+        <item>IP хаягийг авч байна…</item>
+        <item>Холбогдсон</item>
+        <item>Түр хаасан</item>
+        <item>Салгаж байна…</item>
+        <item>Салгагдсан</item>
+        <item>Амжилтгүй</item>
+        <item>Хориглогдсон</item>
+        <item>Муу холболтоос түр зайлсхийж байна</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Скан хийж байна…</item>
+        <item>%1$s руу холбогдож байна…</item>
+        <item>%1$s-тай гэрчилж байна…</item>
+        <item>%1$s-с IP хаягийг авч байна…</item>
+        <item>%1$s руу холбогдсон</item>
+        <item>Түр хаасан</item>
+        <item>%1$s-с салгагдаж байна…</item>
+        <item>Салгагдсан</item>
+        <item>Амжилтгүй</item>
+        <item>Хориглогдсон</item>
+        <item>Муу холболтоос түр зайлсхийж байна</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Дүрс амилуулалт идэвхгүй</item>
+        <item>Дүрс амилуулах далайц .5x</item>
+        <item>Дүрс амилуулах далайц 1x</item>
+        <item>Дүрс амилуулах далайц 1.5x</item>
+        <item>Дүрс амилуулалтын далайц 2x</item>
+        <item>Дүрс амилуулалтын далайц 5x</item>
+        <item>Дүрс амилуулалтын далайц 10x</item>
+    </array>
+</resources>

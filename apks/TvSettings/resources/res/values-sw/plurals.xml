@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">Siku %d iliyopita</item>
+        <item quantity="other">Siku %d zilizopita</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">Dakika %d iliyopita</item>
+        <item quantity="other">Dakika %d zilizopita</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">Mwaka %d uliopita</item>
+        <item quantity="other">Miaka %d iliyopita</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">Akaunti %1$d</item>
+        <item quantity="other">Akaunti %1$d</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Kifaa Kilichounganishwa</item>
+        <item quantity="other">Vifaa Vilivyounganishwa</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Kifaa ambacho Hakijaunganishwa</item>
+        <item quantity="other">Vifaa ambavyo Havijaunganishwa</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Kifaa ambacho Hakina Shughuli</item>
+        <item quantity="other">Vifaa ambavyo Havina Shughuli</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">Kifaa %1$d cha ziada</item>
+        <item quantity="other">Vifaa %1$d vya ziada</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">Programu 1 imeruhusiwa</item>
+        <item quantity="other">Programu %d zimeruhusiwa</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Umebakiza hatua %1$d ili uwe msanidi programu</item>
+        <item quantity="other">Umebakiza hatua %1$d ili uwe msanidi programu</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Imeunganisha kifaa %1$d</item>
+        <item quantity="other">Imeunganisha vifaa %1$d</item>
+    </plurals>
+</resources>

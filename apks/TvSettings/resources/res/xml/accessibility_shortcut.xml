@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/accessibility_shortcut">
+    <SwitchPreference android:persistent="true" android:title="@string/accessibility_shortcut_enable" android:key="enable"/>
+    <Preference android:persistent="true" android:title="@string/accessibility_shortcut_service" android:key="service" android:fragment="com.android.tv.settings.accessibility.AccessibilityShortcutServiceFragment"/>
+    <Preference android:enabled="false" android:title="@string/accessibility_shortcut_description" android:selectable="false" android:singleLineTitle="false"/>
+</PreferenceScreen>

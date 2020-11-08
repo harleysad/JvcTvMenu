@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@drawable/info_banner_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/disk_wizard_title" android:background="@color/nav_ch_list_title_back" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="center_horizontal" android:padding="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="130dp" android:text="@string/pvr_disksetup_disk_setup" android:singleLine="true" android:layout_weight="0.6"/>
+        <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="center_horizontal" android:id="@+id/diskwizard_title_diskinfo" android:padding="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="0.2"/>
+    </LinearLayout>
+    <TableLayout android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/disk_wizard_hintbar" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20sp" android:layout_marginRight="20sp" android:stretchColumns="0,2,4,6,8,9" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <TableRow>
+            <ImageView android:layout_gravity="center_vertical" android:padding="3dp" android:src="@drawable/tk_cm_key_back" android:layout_column="1"/>
+            <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:padding="2dp" android:layout_column="1" android:text="@string/pvr_playlist_page_up"/>
+            <ImageView android:layout_gravity="center_vertical" android:padding="3dp" android:src="@drawable/tk_cm_key_select_up" android:layout_column="1"/>
+            <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:padding="2dp" android:layout_column="1" android:text="@string/pvr_disksetup_select"/>
+            <ImageView android:layout_gravity="center_vertical" android:padding="3dp" android:src="@drawable/tk_cm_key_next" android:layout_column="1"/>
+            <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:padding="2dp" android:layout_column="1" android:text="@string/pvr_playlist_page_down"/>
+            <ImageView android:gravity="right" android:layout_gravity="center_vertical" android:padding="3dp" android:src="@drawable/tk_cm_key_exit" android:layout_column="1"/>
+            <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="left" android:padding="2dp" android:layout_column="1" android:text="@string/exit"/>
+        </TableRow>
+    </TableLayout>
+    <RelativeLayout android:paddingTop="47dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/disk_wizard_hintbar" android:layout_below="@+id/disk_wizard_title">
+        <ListView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/disk_wizard_op_list" android:layout_width="130dp" android:layout_height="wrap_content" android:layout_marginRight="13dp" android:listSelector="@drawable/nav_ch_list_selector" android:dividerHeight="0dp" android:layout_alignParentRight="true" android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+    <com.mediatek.wwtv.tvcenter.timeshift_pvr.controller.PvrLoading android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/disk_wizard_summary" android:paddingLeft="20dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="13dp" android:layout_above="@+id/disk_wizard_hintbar" android:layout_below="@+id/disk_wizard_title" android:layout_alignParentLeft="true"/>
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/disk_progress_layout" android:paddingLeft="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:layout_below="@+id/disk_wizard_summary">
+        <ProgressBar android:layout_gravity="center" android:id="@+id/disk_progress_progressbar" android:focusable="false" android:layout_width="300dp" android:layout_height="wrap_content" android:layout_marginRight="13dp" android:progressDrawable="@drawable/progressbar_style" android:layout_centerInParent="true" style="?android:attr/progressBarStyleHorizontal"/>
+        <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@drawable/white" android:layout_gravity="center_horizontal" android:id="@+id/disk_progress_percent" android:padding="3dp" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="android:style/TextAppearance_Theme_Dialog"/>
+    </LinearLayout>
+</RelativeLayout>

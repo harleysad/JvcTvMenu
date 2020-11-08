@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d gün əvvəl</item>
+        <item quantity="other">%d gün əvvəl</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d dəq əvvəl</item>
+        <item quantity="other">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d il əvvəl</item>
+        <item quantity="other">%d il əvvəl</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d hesab</item>
+        <item quantity="other">%1$d hesab</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Qoşulu Daxiletmə</item>
+        <item quantity="other">Qoşulu Daxiletmə</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Qoşulu Olmayan Daxiletmə</item>
+        <item quantity="other">Qoşulu Olmayan Daxiletmə</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Gözləmə Daxiletməsi</item>
+        <item quantity="other">Gözləmə Daxiletməsi</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d aksessuar</item>
+        <item quantity="other">%1$d aksessuar</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 proqrama icazə verilir</item>
+        <item quantity="other">%d proqrama icazə verilir</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Siz indi tərtibatçı olmaqdan %1$d addım uzaqsınız.</item>
+        <item quantity="other">Siz indi tərtibatçı olmaqdan %1$d addım uzaqsınız.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d cihaz qoşuludur</item>
+        <item quantity="other">%1$d cihaz qoşuludur</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:id="@+id/title_text" android:layout_width="@dimen/width_description" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/add_accessory_padding_start" android:layout_alignParentStart="true" style="@style/Theme.Settings.BluetoothPairing"/>
+    <RelativeLayout android:layout_width="@dimen/width_action" android:layout_height="match_parent" android:layout_centerVertical="true" android:paddingEnd="@dimen/pad_end_unsafe_action" android:layout_marginStart="@dimen/pad_start_unsafe_action" android:layout_toEndOf="@+id/title_text">
+        <EditText android:textAppearance="?android:attr/textAppearanceListItem" android:id="@+id/text_input" android:focusable="true" android:layout_width="@dimen/edit_text_width_default" android:layout_height="wrap_content" android:layout_centerVertical="true" android:inputType="text" android:imeOptions="actionUnspecified|actionNone|actionSend|actionNext|flagNoExtractUi" android:layout_alignParentStart="true">
+            <requestFocus/>
+        </EditText>
+        <TextView android:id="@+id/hint_text" android:layout_width="@dimen/edit_text_width_default" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bt_secure_pair_hint_top_margin" android:layout_below="@+id/text_input" android:layout_marginStart="@dimen/bt_secure_pair_hint_start_margin" android:layout_alignStart="@+id/text_input" style="@style/HintText"/>
+    </RelativeLayout>
+</RelativeLayout>

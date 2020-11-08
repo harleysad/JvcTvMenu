@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_gravity="center" android:paddingTop="@dimen/pin_dialog_top_padding" android:paddingBottom="@dimen/pin_dialog_bottom_padding" android:layout_width="@dimen/pin_dialog_width" android:layout_height="@dimen/pin_dialog_height" android:paddingStart="@dimen/pin_dialog_horizontal_padding" android:paddingEnd="@dimen/pin_dialog_horizontal_padding" android:elevation="@dimen/pin_dialog_elevation">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="@dimen/pin_dialog_pin_numbers_width" android:layout_height="@dimen/pin_dialog_pin_numbers_height" android:paddingStart="@dimen/pin_dialog_pin_numbers_horizontal_padding" android:paddingEnd="@dimen/pin_dialog_pin_numbers_horizontal_padding">
+        <view android:id="@+id/first" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.mediatek.wwtv.tvcenter.nav.view.ciview.PinDialogFragment$PinNumberPicker"/>
+        <view android:id="@+id/second" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/pin_dialog_pin_number_spacing" class="com.mediatek.wwtv.tvcenter.nav.view.ciview.PinDialogFragment$PinNumberPicker"/>
+        <view android:id="@+id/third" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/pin_dialog_pin_number_spacing" class="com.mediatek.wwtv.tvcenter.nav.view.ciview.PinDialogFragment$PinNumberPicker"/>
+        <view android:id="@+id/fourth" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/pin_dialog_pin_number_spacing" class="com.mediatek.wwtv.tvcenter.nav.view.ciview.PinDialogFragment$PinNumberPicker"/>
+    </LinearLayout>
+</FrameLayout>

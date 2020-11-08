@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ИСКЛУЧЕНО</item>
+        <item>ЛЕВО</item>
+        <item>ДЕСНО</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Демо-видео</item>
+        <item>e-POP лево</item>
+        <item>e-POP на долен дел</item>
+    </array>
+    <array name="ampm">
+        <item>Претпладне</item>
+        <item>Попладне</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Анимацијата е исклучена</item>
+        <item>Опсег на анимација 0,5x</item>
+        <item>Опсег на анимација 1x</item>
+        <item>Опсег на анимација 1,5x</item>
+        <item>Опсег на анимација 2x</item>
+        <item>Опсег на анимација 5x</item>
+        <item>Опсег на анимација 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Исклучи анимација</item>
+        <item>Опсег на анимација 5x</item>
+        <item>Опсег на анимација 1x</item>
+        <item>Опсег на анимација 1,5x</item>
+        <item>Опсег на анимација 2x</item>
+        <item>Опсег на анимација 5x</item>
+        <item>Опсег на анимација 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Стандардна граница</item>
+        <item>Нема процеси во заднина</item>
+        <item>Најмногу 1 процес</item>
+        <item>Најмногу 2 процеса</item>
+        <item>Најмногу 3 процеси</item>
+        <item>Најмногу 4 процеси</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Користи време обезбедено од мрежа</item>
+        <item>Исклучено</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Користи време обезбедено од мрежа</item>
+        <item>Користи време обезбедено од TS</item>
+        <item>Исклучено</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Користи избор на системот (стандардно)</item>
+        <item>16 бита/семпл</item>
+        <item>24 бита/семпл</item>
+        <item>32 бита/семпл</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Користи избор на системот (стандардно)</item>
+        <item>16 бита/семпл</item>
+        <item>24 бита/семпл</item>
+        <item>32 бита/семпл</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Користи избор на системот (стандардно)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Користи избор на системот (стандардно)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Оптимизирано за квалитет на аудиото</item>
+        <item>Балансиран квалитет на звукот и врската</item>
+        <item>Оптимизирано за квалитет на врската</item>
+        <item>Најдобар напор (приспособлива стапка на битови)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Оптимизирано за квалитет на аудиото (990 кб/с - 909 кб/с)</item>
+        <item>Балансиран квалитет на звукот и врската (660 kb/s/606 kb/s)</item>
+        <item>Оптимизирано за квалитет на врската (330 кб/с - 303 кб/с)</item>
+        <item>Најдобар напор (приспособлива стапка на битови)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Користи избор на системот (стандардно)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Користи избор на системот (стандардно)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Користи избор на системот (стандардно)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ аудио</item>
+        <item>Qualcomm® aptX™ HD аудио</item>
+        <item>LDAC</item>
+        <item>Овозможи ја „Кодеци по избор“</item>
+        <item>Оневозможи ја „Кодеци по избор“</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Користи избор на системот (стандардно)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ аудио</item>
+        <item>Qualcomm® aptX™ HD аудио</item>
+        <item>LDAC</item>
+        <item>Овозможување на „Кодеци по избор“</item>
+        <item>Оневозможување на „Кодеци по избор“</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Стандардно)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Стандарден</item>
+        <item>Нема</item>
+        <item>Со контури</item>
+        <item>Со сенка</item>
+        <item>Подигнат</item>
+        <item>Вдлабнат</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Стандардна</item>
+        <item>Црна</item>
+        <item>Бела</item>
+        <item>Зелена</item>
+        <item>Сина</item>
+        <item>Црвена</item>
+        <item>Тиркизна</item>
+        <item>Жолта</item>
+        <item>Магента</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Стандарден</item>
+        <item>Sans Serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Обичен</item>
+        <item>Cursive</item>
+        <item>Мали големи букви</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Стандарден</item>
+        <item>Непровиден</item>
+        <item>Провиден</item>
+        <item>Провиден</item>
+        <item>Трепкачки</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Стандардна</item>
+        <item>Мал</item>
+        <item>Нормален</item>
+        <item>Голем</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Ништо</item>
+        <item>Со контури</item>
+        <item>Со сенка</item>
+        <item>Поткренати</item>
+        <item>Вдлабнати</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Многу мали</item>
+        <item>Мали</item>
+        <item>Нормално</item>
+        <item>Големи</item>
+        <item>Многу големи</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Стандардно</item>
+        <item>Sans-serif</item>
+        <item>Sans-Serif збиени</item>
+        <item>Sans-serif со еднаква ширина</item>
+        <item>Serif</item>
+        <item>Serif со еднаква ширина</item>
+        <item>Обичен</item>
+        <item>Курзив</item>
+        <item>Мали големи букви</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Нема CEC-уред</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Подобрени бои</item>
+        <item>Природни бои како што со гледаат со голо око</item>
+        <item>Оптимизирани бои за дигитална содржина</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Динамично (стандардно)</item>
+        <item>Природно</item>
+        <item>Стандардно</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Исклучено</item>
+        <item>Прикажи пречекорени делови</item>
+        <item>Прикажи делови за лица со девтераномалија</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Исклучен</item>
+        <item>Вклучен</item>
+        <item>Затворени титлови кога звукот е исклучен</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Ниедна</item>
+        <item>Евиденција за систем</item>
+        <item>Systrace (Графика)</item>
+        <item>Повици насобрани во glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Никогаш не користи ХДЦП проверка</item>
+        <item>Користи ХДЦП проверка само за ДРМ содржина</item>
+        <item>Секогаш користи ХДЦП проверка</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Никогаш не проверувај</item>
+        <item>Провери само ДРМ содржина</item>
+        <item>Секогаш проверувај</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Автоматска EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Ниедна</item>
+        <item>480p</item>
+        <item>480p (безбедно)</item>
+        <item>720p</item>
+        <item>720p (безбедно)</item>
+        <item>1080p</item>
+        <item>1080p (безбедно)</item>
+        <item>4 илјади</item>
+        <item>4 илјади (безбедно)</item>
+        <item>4 илјади (подобрено)</item>
+        <item>4 илјади (подобрено, безбедно)</item>
+        <item>720p, 1080p (двоен екран)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Рачно</item>
+        <item>Полуавтоматски</item>
+        <item>Автоматски</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Исклучен</item>
+        <item>Автоматски</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Исклучен</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Сите</item>
+        <item>Десна</item>
+        <item>Лева</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Исклучено</item>
+        <item>Слабo</item>
+        <item>Среднo</item>
+        <item>Силно</item>
+        <item>Автоматски</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Исклучено</item>
+        <item>Слабо</item>
+        <item>Средно</item>
+        <item>Силно</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Автоматски</item>
+        <item>Целоснo</item>
+        <item>Ограничување</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Исклучен</item>
+        <item>Слаб</item>
+        <item>Среден</item>
+        <item>Голем</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Исклучена</item>
+        <item>Минимална</item>
+        <item>Средна</item>
+        <item>Максимална</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Корисник</item>
+        <item>Ладни бои</item>
+        <item>Стандардни бои</item>
+        <item>Топли бои</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Темна</item>
+        <item>Средна</item>
+        <item>Светла</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Вклучен</item>
+        <item>Исклучен</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Светол режим на Dolby Vision</item>
+        <item>Темен режим на Dolby Vision</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Корисник</item>
+        <item>Кино</item>
+        <item>Спортови</item>
+        <item>Живописен</item>
+        <item>Многу светол</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Стандарден</item>
+        <item>Природен</item>
+        <item>Живописен</item>
+        <item>Спортови</item>
+        <item>Филм</item>
+        <item>Игра</item>
+        <item>Заштеда на енергија</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Корисник</item>
+        <item>Стандарден</item>
+        <item>Живописен</item>
+        <item>Спорт</item>
+        <item>Филм</item>
+        <item>Игра</item>
+        <item>Заштеда на енергија</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Исклучено</item>
+        <item>%d минути</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>ТВ во дневна соба</item>
+        <item>ТВ во семејна соба</item>
+        <item>ТВ во спална соба</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Автоматски</item>
+        <item>Голем зум</item>
+        <item>4:3</item>
+        <item>Прошири филм на 14:9</item>
+        <item>Прошири филм на 16:9</item>
+        <item>Широк екран</item>
+        <item>Цел</item>
+        <item>Нескалиран</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Голем зум</item>
+        <item>Цел</item>
+        <item>Нескалиран</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Автоматски</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Цел</item>
+        <item>Зум</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>3 часа</item>
+        <item>6 часа</item>
+        <item>12 часа</item>
+        <item>Никогаш</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Исклучено</item>
+        <item>64.000</item>
+        <item>256.000</item>
+        <item>1 M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Исклучено</item>
+        <item>64 K/меѓумеморија</item>
+        <item>256 K/меѓумеморија</item>
+        <item>1 M/меѓумеморија</item>
+        <item>4 M/меѓумеморија</item>
+        <item>16 M/меѓумеморија</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Исклучено</item>
+        <item>64.000</item>
+        <item>256.000</item>
+        <item>1 M</item>
+        <item>4 M</item>
+        <item>16 M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Исклучено</item>
+        <item>Привремена меморија на целата евиденција</item>
+        <item>Привремена мем. на цела евиденција освен за радио</item>
+        <item>само привремена меморија за евиденција на јадро</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Исклучено</item>
+        <item>Сите</item>
+        <item>Сите освен радио</item>
+        <item>само јадро</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Исклучено</item>
+        <item>Нацртај неправоаголен реон со сино</item>
+        <item>Со зелено тестир. наредби за цртање</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 минути</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Игра</item>
+        <item>Филм</item>
+        <item>Музика</item>
+        <item>Вести</item>
+        <item>Стадион</item>
+        <item>Стандарден</item>
+        <item>Корисник</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Исклучен</item>
+        <item>Вклучен</item>
+        <item>Автоматски</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Исклучен</item>
+        <item>Нормален</item>
+        <item>Ноќен</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Стерео</item>
+        <item>Опкружувачки</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Исклучен</item>
+        <item>Рок</item>
+        <item>Поп</item>
+        <item>Во живо</item>
+        <item>Денс</item>
+        <item>Техно</item>
+        <item>Класична</item>
+        <item>Мек</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Автоматски</item>
+        <item>Заобиколување</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Исклучен</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>Премин за DDP</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>ТВ-звучници</item>
+        <item>Надворешен аудиосистем</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Корисник</item>
+        <item>Стандарден</item>
+        <item>Живописен</item>
+        <item>Спортови</item>
+        <item>Филм</item>
+        <item>Музика</item>
+        <item>Вести</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Стандарден</item>
+        <item>Спортови</item>
+        <item>Филм</item>
+        <item>Музика</item>
+        <item>Корисник</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Нормален</item>
+        <item>За лица со оштетен слух</item>
+        <item>За лица со оштетен вид</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Исклучено</item>
+        <item>На екранот како цртички</item>
+        <item>Во adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Без анимација</item>
+        <item>Опсег на анимација 0,5x</item>
+        <item>Опсег на анимација 1x</item>
+        <item>Опсег на анимација 1,5x</item>
+        <item>Опсег на анимација 2x</item>
+        <item>Опсег на анимација 5x</item>
+        <item>Опсег на анимација 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Многу бавно</item>
+        <item>Бавно</item>
+        <item>Нормално</item>
+        <item>Брзо</item>
+        <item>Побрзо</item>
+        <item>Многу брзо</item>
+        <item>Рапидно</item>
+        <item>Многу рапидно</item>
+        <item>Најбрзо</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Се полни</item>
+        <item>МТП (Протокол за трансфер на медиуми)</item>
+        <item>ПТП (Протокол за трансфер на слика)</item>
+        <item>РНДИС (USB за етернет)</item>
+        <item>Аудиоизвор</item>
+        <item>МИДИ</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Нема</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Нема</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Слаба</item>
+        <item>Задоволителна</item>
+        <item>Добар</item>
+        <item>Одлична</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Скенирање...</item>
+        <item>Се поврзува...</item>
+        <item>Автентицирање...</item>
+        <item>Добивање ИП адреса...</item>
+        <item>Поврзана</item>
+        <item>Суспендирана</item>
+        <item>Се исклучува...</item>
+        <item>Исклучено</item>
+        <item>Неуспешна</item>
+        <item>Блокирана</item>
+        <item>Привремено избегнува лоша врска</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Скенирање...</item>
+        <item>Поврзување на %1$s...</item>
+        <item>Автентикација со %1$s...</item>
+        <item>Добивање ИП адреса од %1$s...</item>
+        <item>Поврзано на %1$s</item>
+        <item>Суспендирана</item>
+        <item>Исклучување од %1$s...</item>
+        <item>Исклучено</item>
+        <item>Неуспешна</item>
+        <item>Блокирано</item>
+        <item>Привремено избегнува лоша врска</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Без анимација</item>
+        <item>Опсег на анимација 0,5x</item>
+        <item>Опсег на анимација 1x</item>
+        <item>Опсег на анимација 1,5x</item>
+        <item>Опсег на анимација 2x</item>
+        <item>Опсег на анимација 5x</item>
+        <item>Опсег на анимација 10x</item>
+    </array>
+</resources>

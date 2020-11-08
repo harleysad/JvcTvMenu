@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d दिनअघि</item>
+        <item quantity="other">%d दिनअघि</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d मिनेटअघि</item>
+        <item quantity="other">%d मिनेटअघि</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d वर्षअघि</item>
+        <item quantity="other">%d वर्षअघि</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d खाता</item>
+        <item quantity="other">%1$d खाताहरू</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">जडान गरिएको इनपुट</item>
+        <item quantity="other">जडान गरिएका इनपुटहरू</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">जडान नगरिएको इनपुट</item>
+        <item quantity="other">जडान नगरिएका इनपुटहरू</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">स्ट्यान्डबाइ इनपुट</item>
+        <item quantity="other">स्ट्यान्डबाइ इनपुटहरू</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d सामग्री</item>
+        <item quantity="other">%1$d सामग्रीहरू</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 अनुप्रयोगलाई अनुमति दिइयो</item>
+        <item quantity="other">%d अनुप्रयोगहरूलाई अनुमति दिइयो</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">तपाईं अहिले एउटा विकासकर्ता हुनबाट %1$d कदम टाढा हुनुहुन्छ</item>
+        <item quantity="other">तपाईं अहिले एउटा विकासकर्ता हुनबाट %1$d कदमहरू टाढा हुनुहुन्छ</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d यन्त्र जडान गरियो</item>
+        <item quantity="other">%1$d यन्त्रहरू जडान गरिए</item>
+    </plurals>
+</resources>

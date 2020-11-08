@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/turnkey_comm_dialog" android:padding="@dimen/menu_main_draw_pad" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="@dimen/large_text_size1" android:textStyle="bold" android:gravity="center" android:id="@+id/comm_dialog_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1"/>
+        <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:layout_weight="1">
+            <Button android:textSize="@dimen/large_text_size" android:textColor="@android:color/white" android:id="@+id/comm_dialog_buttonNo" android:background="@drawable/menu_dialog_button" android:layout_width="@dimen/menu_button_width" android:layout_height="@dimen/menu_seekbar_thumb_height" android:layout_marginLeft="30dp" android:text="@string/menu_ok"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

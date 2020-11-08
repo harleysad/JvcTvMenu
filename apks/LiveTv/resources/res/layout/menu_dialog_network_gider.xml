@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/turnkey_comm_dialog" android:padding="@dimen/menu_main_draw_pad" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="@dimen/large_text_size2" android:textStyle="bold" android:id="@+id/comm_dialog_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true"/>
+    <TextView android:gravity="center" android:id="@+id/comm_dialog_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="false" android:layout_centerInParent="true"/>
+    <TextView android:textSize="@dimen/left_marge_size" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/menumain_dialog_enter" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/middle_margin_edge" android:text="@string/menu_exit" android:drawableLeft="@drawable/tk_cm_key_exit" android:drawablePadding="@dimen/large_margin_edge" android:layout_alignParentRight="true" android:layout_alignParentBottom="true"/>
+</RelativeLayout>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>වම</item>
+        <item>දකුණ</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>ආදර්ශන වීඩියෝව</item>
+        <item>e-POP වම</item>
+        <item>e-POP පහළ</item>
+    </array>
+    <array name="ampm">
+        <item>පෙ.ව.</item>
+        <item>ප.ව.</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>සජිවිකරණය අක්‍රිය කිරීම</item>
+        <item>සජීවීකරණ පරිමාණය .5x</item>
+        <item>සජීවීකරණ පරිමාණය 1x</item>
+        <item>සජීවීකරණ පරිමාණය 1.5x</item>
+        <item>සජිවිකරණ පරාසය 2x</item>
+        <item>සජීවිකරණ පරිමාණය 5x</item>
+        <item>සජිවිකරණ පරාසය 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>සජිවිකරණය අක්‍රිය කිරීම</item>
+        <item>සජීවීකරණ පරිමාණය .5x</item>
+        <item>සජීවීකරණ පරිමාණය 1x</item>
+        <item>සජීවීකරණ පරිමාණය 1.5x</item>
+        <item>සජිවිකරණ පරාසය 2x</item>
+        <item>සජීවිකරණ පරිමාණය 5x</item>
+        <item>සජිවිකරණ පරාසය 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>සම්මත සීමාව</item>
+        <item>පසුබිම් ක්‍රියාවලි නොමැත</item>
+        <item>උපරිම වශයෙන් 1 ක්‍රියාවලියක්</item>
+        <item>උපරිම ලෙස ක්‍රියාවලි 2 කි</item>
+        <item>උපරිම ලෙස ක්‍රියාවලි 3 කි</item>
+        <item>උපරිම ලෙස ක්‍රියාවලි 4 කි</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>ජාලයෙන්-සැපයූ වේලාව භාවිතා කරන්න</item>
+        <item>ක්‍රියාවිරහිත කරන්න</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>ජාලයෙන්-සැපයූ වේලාව භාවිතා කරන්න</item>
+        <item>සංක්‍රමණ-ප්‍රවාහ සැපයූ කාලය භාවිතා කරන්න</item>
+        <item>ක්‍රියාවිරහිත කරන්න</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>පද්ධති තේරීම භාවිත කරන්න (පෙරනිමි)</item>
+        <item>බිටු 16/නියැදිය</item>
+        <item>බිටු 24/නියැදිය</item>
+        <item>බිටු 32/නියැදිය</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>පද්ධති තේරීම භාවිත කරන්න (පෙරනිමි)</item>
+        <item>බිටු 16/නියැදිය</item>
+        <item>බිටු 24/නියැදිය</item>
+        <item>බිටු 32/නියැදිය</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>පද්ධති තේරීම භාවිත කරන්න (පෙරනිමි)</item>
+        <item>ඒකල</item>
+        <item>ස්ටීරියෝ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>පද්ධති තේරීම භාවිත කරන්න (පෙරනිමි)</item>
+        <item>ඒකල</item>
+        <item>ස්ටීරියෝ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>ශ්‍රව්‍ය ගුණත්වය සඳහා ප්‍රශස්ත කරන ලදී</item>
+        <item>සමබර ශ්‍රව්‍ය සහ සබැඳුම් ගුණත්වය</item>
+        <item>සබැඳුම් ගුණත්වය සඳහා ප්‍රශස්ත කරන ලදී</item>
+        <item>හොඳම වෑයම (අනුවර්තී බිට් අනුපාතය)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ශ්‍රව්‍ය ගුණත්වය සඳහා ප්‍රශස්ත කරන ලදී (990kbps/909kbps)</item>
+        <item>සමබර ශ්‍රව්‍ය සහ සබැඳුම් ගුණත්වය (660kbps/606kbps)</item>
+        <item>සබැඳුම් ගුණත්වය සඳහා ප්‍රශස්ත කරන ලදී (330kbps/303kbps)</item>
+        <item>හොඳම වෑයම (අනුවර්තී බිට් අනුපාතය)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>පද්ධති තේරීම භාවිත කරන්න (පෙරනිමි)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>පද්ධති තේරීම භාවිත කරන්න (පෙරනිමි)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>පද්ධති තේරීම භාවිත කරන්න (පෙරනිමි)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ශ්‍රව්‍යය</item>
+        <item>Qualcomm® aptX™ HD ශ්‍රව්‍යය</item>
+        <item>LDAC</item>
+        <item>විකල්පමය කොඩෙක් සබල කරන්න</item>
+        <item>විකල්පමය කොඩෙක් අබල කරන්න</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>පද්ධති තේරීම භාවිත කරන්න (පෙරනිමි)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ශ්‍රව්‍යය</item>
+        <item>Qualcomm® aptX™ HD ශ්‍රව්‍යය</item>
+        <item>LDAC</item>
+        <item>විකල්පමය කොඩෙක් සබල කරන්න</item>
+        <item>විකල්පමය කොඩෙක් අබල කරන්න</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (පෙරනිමි)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>පෙරනිමි</item>
+        <item>කිසිවක් නැත</item>
+        <item>වැටිසන</item>
+        <item>පතිත ඡායාව</item>
+        <item>නංවන ලද</item>
+        <item>අවපාත කරන ලද</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>පෙරනිමි</item>
+        <item>කළු</item>
+        <item>සුදු</item>
+        <item>කොළ</item>
+        <item>නිල්</item>
+        <item>රතු</item>
+        <item>මයුර නිල්</item>
+        <item>කහ</item>
+        <item>දම් රතු</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>පෙරනිමි</item>
+        <item>සැන්ස්-සේරිෆ්</item>
+        <item>සැන්ස්-සේරිෆ් මොනෝස්පේස්</item>
+        <item>සෙරිෆ්</item>
+        <item>සේරිෆ් මොනෝස්පේස්</item>
+        <item>සාමාන්‍ය</item>
+        <item>බැඳි අකුරුමය</item>
+        <item>කුඩා ලොකු අකුරු</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>පෙරනිමි</item>
+        <item>ඝන</item>
+        <item>පාරභාසක</item>
+        <item>විනිවිද පෙනෙන</item>
+        <item>දැල්වීම</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>පෙරනිමි</item>
+        <item>කුඩා</item>
+        <item>සාමාන්‍ය</item>
+        <item>විශාල</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>කිසිවක් නැත</item>
+        <item>පිට මායිම</item>
+        <item>පතිත ඡායාව</item>
+        <item>නංවන ලද</item>
+        <item>අවපාත කරන ලද</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>ඉතා කුඩා</item>
+        <item>කුඩා</item>
+        <item>සාමාන්‍ය</item>
+        <item>විශාල</item>
+        <item>ඉතා විශාල</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>සුපුරුදු</item>
+        <item>සෑන්ස්සේරිෆ්</item>
+        <item>සෑන්ස්-සේරිෆ් කන්ඩෙන්ස්ඩ්</item>
+        <item>සාන්ස්-සේරිෆ් මොනොස්පේස්</item>
+        <item>සේරිෆ්</item>
+        <item>සේරිෆ් මොනොස්පේස්</item>
+        <item>සාමාන්‍ය</item>
+        <item>බැඳි අකුරුමය</item>
+        <item>කුඩා ලොකු අකුරු</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC උපාංගයක් නැත</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>වැඩිදියුණු කරන ලද වර්ණ</item>
+        <item>ඇස දකින ස්වභාවික වර්ණ</item>
+        <item>ඩිජිටල් අන්තර්ගතය සඳහා වර්ණ ප්‍රශස්ත කරන ලද</item>
+    </array>
+    <array name="color_mode_names">
+        <item>දීප්තිමත් (පෙරනිමිය)</item>
+        <item>ස්වභාවික</item>
+        <item>සම්මත</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>අක්‍රියයි</item>
+        <item>වැඩිකොට දක්වනවා ඇති ප්‍රදේශ පෙන්වන්න</item>
+        <item>අපවිෂවීම සඳහා ප්‍රදේශ පෙන්වන්න</item>
+    </array>
+    <array name="display_caption_array">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>ක්‍රියාත්මකයි</item>
+        <item>CC නිහඬ/සමඟ</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>කිසිවක් නැත</item>
+        <item>Logcat</item>
+        <item>Systrace (චිත්‍රක)</item>
+        <item>glGetError මත ඇමතීමේ අට්ටිය</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>කිසිවිටෙකත් HDCP පරීක්ෂාකිරීම භාවිතා නොකරන්න</item>
+        <item>DRM අන්තර්ගත සඳහා පමණක් HDCP පරික්ෂාව භාවිතා කරන්න</item>
+        <item>සැමවිටම HDCP පිරික්සුම භාවිතා කරන්න</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>කිසිදා පරික්ෂා නොකරන්න</item>
+        <item>DRM අන්තර්ගතය සඳහා පමණක් පිරික්සන්න</item>
+        <item>සැමවිටම පරික්ෂා කරන්න</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>ස්වයං EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>කිසිවක් නැත</item>
+        <item>480p</item>
+        <item>480p (ආරක්ෂිත)</item>
+        <item>720p</item>
+        <item>720p (ආරක්ෂිත)</item>
+        <item>1080p</item>
+        <item>1080p (ආරක්ෂිත)</item>
+        <item>4K</item>
+        <item>4K (ආරක්ෂිත)</item>
+        <item>4K (පරිමාණය වැඩි කළ)</item>
+        <item>4K (පරිමාණය වැඩි කළ, ආරක්ෂිත)</item>
+        <item>720p, 1080p (ද්විත්ව තිරය)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>හස්තීය</item>
+        <item>අර්ධ-ස්වයං</item>
+        <item>ස්වයං</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>ස්වයං</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>සියලු</item>
+        <item>දකුණ</item>
+        <item>වම</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>අඩු</item>
+        <item>මධ්‍යම</item>
+        <item>ශක්තිමත්</item>
+        <item>ස්වයං</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>අඩු</item>
+        <item>මධ්‍යම</item>
+        <item>ශක්තිමත්</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>ස්වයං</item>
+        <item>පූර්ණ</item>
+        <item>සීමාව</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>අඩු</item>
+        <item>මධ්‍යම</item>
+        <item>ඉහළ</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>අවම</item>
+        <item>මධ්‍යම</item>
+        <item>උපරිම</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>පරිශීලක</item>
+        <item>ශීත</item>
+        <item>සම්මත</item>
+        <item>උණුසුම්</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>අඳුරු</item>
+        <item>මැද</item>
+        <item>දීප්තිමත්</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>ක්‍රියාත්මකයි</item>
+        <item>ක්‍රියාවිරහිතයි</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>ඩොල්බි විෂන් දීප්තිය</item>
+        <item>ඩොල්බි විෂන් අඳුරු</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>පරිශීලක</item>
+        <item>සිනමාව</item>
+        <item>ක්‍රීඩා</item>
+        <item>විචිත්‍ර</item>
+        <item>ඉහළ-දීප්ත</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>සම්මත</item>
+        <item>ස්වභාවික</item>
+        <item>විචිත්‍ර</item>
+        <item>ක්‍රීඩා</item>
+        <item>චිත්‍රපටය</item>
+        <item>ක්‍රීඩාව</item>
+        <item>බලශක්ති සුරැකීම</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>පරිශීලක</item>
+        <item>සම්මත</item>
+        <item>විචිත්‍ර</item>
+        <item>ක්‍රීඩා</item>
+        <item>චිත්‍රපටය</item>
+        <item>ක්‍රීඩාව</item>
+        <item>බලශක්ති සුරැකීම</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>විනාඩි %dක්</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>සාලයේ TV</item>
+        <item>පවුල් කාමරයේ TV</item>
+        <item>නිදන කාමරයේ TV</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>ස්වයංක්‍රීය</item>
+        <item>සුපිරි විශාලනය</item>
+        <item>4:3</item>
+        <item>චිත්‍රපටය පුළුල් කිරීම 14:9</item>
+        <item>චිත්‍රපටය පුළුල් කිරීම 16:9</item>
+        <item>පුළුල් තිරය</item>
+        <item>පූර්ණ</item>
+        <item>පරිමාණයෙන් තොරයි</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>සුපිරි විශාලනය</item>
+        <item>පූර්ණ</item>
+        <item>පරිමාණයෙන් තොරයි</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>ස්වයංක්‍රීය</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>පූර්ණ</item>
+        <item>විශාලනය</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>මිනිත්තු 30</item>
+        <item>පැය 1</item>
+        <item>පැය 3</item>
+        <item>පැය 6</item>
+        <item>පැය 12</item>
+        <item>කවදාවත් නෑ</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>ක්‍රියාවිරහිතය</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>ක්‍රියාවිරහිතය</item>
+        <item>ලොග අන්තරාවකට 64K</item>
+        <item>ලොග අන්තරාවකට 256K</item>
+        <item>ලොග අන්තරාවකට 1M</item>
+        <item>ලොග අන්තරාවකට 4M</item>
+        <item>ලොග අන්තරාවකට 16M</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>ක්‍රියාවිරහිතය</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>සියලු ලොග අන්තරාචය</item>
+        <item>සියලු නමුත් රේඩියෝ ලොග අන්තරාචය</item>
+        <item>කර්නල ලොග් අන්තරාචය පමණි</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>ක්‍රියාවිරහිතය</item>
+        <item>සියලු</item>
+        <item>සැම වුවද රේඩි.</item>
+        <item>කර්නල පමණි</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>අක්‍රියව ඇත</item>
+        <item>ඍජුකෝණාස‍්‍ර-නොවන ක්ලිප් ප්‍රදේශය නිල් පාටින් අදින්න</item>
+        <item>පරික්ෂා කරන ලද ඇඳීමේ විධාන කොළ පැහැයෙන් ඉස්මතු කරන්න</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>මිනිත්තු 5</item>
+        <item>මිනිත්තු 15</item>
+        <item>මිනිත්තු 30</item>
+        <item>පැය 1</item>
+        <item>පැය 2</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>ක්‍රීඩාව</item>
+        <item>චිත්‍රපටය</item>
+        <item>සංගීතය</item>
+        <item>පුවත්</item>
+        <item>ක්‍රීඩාංගණය</item>
+        <item>සම්මත</item>
+        <item>පරිශීලක</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>ක්‍රියාත්මකයි</item>
+        <item>ස්වයං</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>සාමාන්‍ය</item>
+        <item>රාත්‍රිය</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>ස්ටීරියෝ</item>
+        <item>වටපිටාව</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>රොක්</item>
+        <item>පොප්</item>
+        <item>සජීවී</item>
+        <item>නර්තනය</item>
+        <item>ටෙක්නෝ</item>
+        <item>පැරණි</item>
+        <item>මෘදු</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>ස්වයං</item>
+        <item>මඟහැරයාම</item>
+        <item>PCM</item>
+        <item>ඩොල්බි ඩිජිටල් ප්ලස්</item>
+        <item>ඩොල්බි ඩිජිටල්</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>ඩොල්බි ඩිජිටල්</item>
+        <item>PCM</item>
+        <item>DDP පසුකර යාම</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>රූපවාහිනී ස්පීකර්</item>
+        <item>බාහිර ශ්‍රව්‍ය පද්ධතිය</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>පරිශීලක</item>
+        <item>සම්මත</item>
+        <item>විචිත්‍ර</item>
+        <item>ක්‍රීඩා</item>
+        <item>චිත්‍රපටය</item>
+        <item>සංගීතය</item>
+        <item>පුවත්</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>සම්මත</item>
+        <item>ක්‍රීඩා</item>
+        <item>චිත්‍රපටය</item>
+        <item>සංගීතය</item>
+        <item>පරිශීලක</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>සාමාන්‍ය</item>
+        <item>ශ්‍රවණ හානිය ඇති</item>
+        <item>දෘශ්‍ය හානිය ඇති</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>අක්‍රියයි</item>
+        <item>තිරයෙහි පටි ලෙස</item>
+        <item>adb shell dumpsys gfxinfo තුළ</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>සජීවිකරණ අක්‍රියයි</item>
+        <item>සජීවීකරණ පරිමාණය .5x</item>
+        <item>සජීවීකරණ පරිමාණය 1x</item>
+        <item>සජීවීකරණ පරිමාණය 1.5x</item>
+        <item>සජිවිකරණ පරාසය 2x</item>
+        <item>සජීවිකරණ පරිමාණය 5x</item>
+        <item>සජීවිතා පරාසය 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>ඉතා මන්දගාමී</item>
+        <item>මන්දගාමී</item>
+        <item>සාමාන්‍ය</item>
+        <item>වේගවත්</item>
+        <item>වේශවත්</item>
+        <item>ඉතා වේගවත්</item>
+        <item>ශීඝ්‍ර</item>
+        <item>ඉතා ශීඝ්‍ර</item>
+        <item>ඉතාම වේගවත්</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>ආරෝපණය වෙමින්</item>
+        <item>MTP (මාධ්‍ය මාරු කිරීමේ ප්‍රොටෝකෝලය)</item>
+        <item>PTP (පින්තූර මාරු කිරීමේ ප්‍රොටෝකෝලය)</item>
+        <item>RNDIS (USB ඊතර නෙට්)</item>
+        <item>ශ්‍රව්‍ය මූලය</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>කිසිත් නැත</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>කිසිත් නැත</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>දුර්වල</item>
+        <item>සාධාරණ</item>
+        <item>හොඳයි</item>
+        <item>අනර්ඝ</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>පරිලෝකනය කරමින්…</item>
+        <item>සම්බන්ධ වෙමින්…</item>
+        <item>සත්‍යාපනය වෙමින්…</item>
+        <item>IP ලිපිනය ලබාගනිමින්…</item>
+        <item>සම්බන්ධිතයි</item>
+        <item>අත්හිටුවන ලදි</item>
+        <item>විසන්ධි වෙමින්…</item>
+        <item>විසන්ධි වුණි</item>
+        <item>අසාර්ථකයි</item>
+        <item>අවහිර කරන ලදි</item>
+        <item>දුර්වල සම්බන්ධතාවය තාවකාලිකව මඟහරිමින්</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>පරිලෝකනය කරමින්…</item>
+        <item>%1$s වෙත සම්බන්ධ වෙමින්…</item>
+        <item>%1$s සමග සත්‍යාපනය කරමින්…</item>
+        <item>%1$s මගින් IP ලිපිනය ලබා ගනිමින්</item>
+        <item>%1$s වෙත සම්බන්ධ වුණි</item>
+        <item>අත්හිටුවන ලදි</item>
+        <item>%1$s වෙතින් විසන්ධි වෙමින්…</item>
+        <item>විසන්ධි විය</item>
+        <item>අසාර්ථකයි</item>
+        <item>අවහිර කරන ලදි</item>
+        <item>දුර්වල සම්බන්ධතාවය තාවකාලිකව මඟහරිමින්</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>සජිවිකරණය අක්‍රිය කිරීම</item>
+        <item>සජීවීකරණ පරිමාණය .5x</item>
+        <item>සජීවීකරණ පරිමාණය 1x</item>
+        <item>සජීවීකරණ පරිමාණය 1.5x</item>
+        <item>සජීවීකරණ පරිමාණය 2x</item>
+        <item>සජීවිකරණ පරිමාණය 5x</item>
+        <item>සජීවිතා පරාසය 10x</item>
+    </array>
+</resources>

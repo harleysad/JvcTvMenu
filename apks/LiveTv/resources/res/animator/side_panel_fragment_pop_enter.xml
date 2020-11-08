@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:ordering="sequentially">
+    <set>
+        <objectAnimator android:duration="@integer/side_panel_anim_duration" android:valueFrom="@dimen/side_panel_fragment_pop_enter_offset_x" android:valueTo="@dimen/side_panel_fragment_pop_enter_offset_x" android:propertyName="translationX"/>
+        <objectAnimator android:duration="@integer/side_panel_anim_duration" android:valueFrom="0" android:valueTo="0" android:propertyName="alpha"/>
+    </set>
+    <set>
+        <objectAnimator android:interpolator="@android:interpolator/linear_out_slow_in" android:duration="@integer/side_panel_anim_duration" android:valueFrom="@dimen/side_panel_fragment_pop_enter_offset_x" android:valueTo="0dp" android:propertyName="translationX"/>
+        <objectAnimator android:interpolator="@android:interpolator/linear_out_slow_in" android:duration="@integer/side_panel_anim_duration" android:valueFrom="0" android:valueTo="1" android:propertyName="alpha"/>
+    </set>
+</set>

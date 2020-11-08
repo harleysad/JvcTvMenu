@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:id="@+id/nav_epg_filter" android:background="@drawable/transparent_background" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+        <TextView android:textSize="@dimen/epg_type_main_ts" android:textColor="@color/white" android:gravity="center" android:id="@+id/nav_epg_book_list_title" android:background="@color/nav_ch_list_title_back" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/nav_epg_book_list" android:layout_weight="0.88"/>
+        <ListView android:id="@+id/nav_epg_book_list" android:background="@color/nav_ch_list_view_back" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="@drawable/nav_epg_type_selector" android:layout_weight="0.12"/>
+    </LinearLayout>
+</LinearLayout>

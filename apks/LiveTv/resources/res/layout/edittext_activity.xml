@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:background="@color/livetvsettings_background" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:id="@+id/description" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Canvas.Scan.Text.Large"/>
+    <EditText android:textSize="30sp" android:id="@+id/edittext" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="20dp" android:singleLine="true" android:digits="1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM" android:layout_below="@+id/description" android:inputType="number" android:imeOptions="flagNoExtractUi"/>
+</RelativeLayout>

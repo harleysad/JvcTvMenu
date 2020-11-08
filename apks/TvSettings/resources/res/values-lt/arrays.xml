@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>IŠJUNGTA</item>
+        <item>KAIRĖ</item>
+        <item>DEŠINĖ</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demonstracinis vaizdo įrašas</item>
+        <item>E-POP kairė</item>
+        <item>E-POP apačia</item>
+    </array>
+    <array name="ampm">
+        <item>priešpiet</item>
+        <item>popiet</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animacija išjungta</item>
+        <item>Animacijos mastelis 0,5x</item>
+        <item>Animacijos mastelis 1x</item>
+        <item>Animacijos mastelis 1,5x</item>
+        <item>Animacijos mastelis 2x</item>
+        <item>Animacijos mastelis 5x</item>
+        <item>Animacijos mastelis 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animacija išjungta</item>
+        <item>Animacijos mastelis 0,5 x</item>
+        <item>Animacijos mastelis 1 x</item>
+        <item>Animacijos mastelis 1,5 x</item>
+        <item>Animacijos mastelis 2 x</item>
+        <item>Animacijos mastelis 5 x</item>
+        <item>Animacijos mastelis 10 x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standartinis apribojimas</item>
+        <item>Nėra fono procesų</item>
+        <item>Daugiausia 1 procesas</item>
+        <item>Daugiausia 2 procesai</item>
+        <item>Daugiausia 3 procesai</item>
+        <item>Daugiausia 4 procesai</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Naudoti tinklo pateiktą laiką</item>
+        <item>Išjungti</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Naudoti tinklo pateiktą laiką</item>
+        <item>Naudoti transporto srauto pateiktą laiką</item>
+        <item>Išjungti</item>
+    </array>
+    <array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Naudoti sistemos pasirink. (numatytasis)</item>
+        <item>16 bitų pavyzdyje</item>
+        <item>24 bitai pavyzdyje</item>
+        <item>32 bitai pavyzdyje</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Naudoti sistemos pasirink. (numatytasis)</item>
+        <item>16 bitų pavyzdyje</item>
+        <item>24 bitai pavyzdyje</item>
+        <item>32 bitai pavyzdyje</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Naudoti sistemos pasirink. (numatytasis)</item>
+        <item>Monofoninis garsas</item>
+        <item>Stereofoninis garsas</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Naudoti sistemos pasirink. (numatytasis)</item>
+        <item>Monofoninis garsas</item>
+        <item>Stereofoninis garsas</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizuota garso kokybė</item>
+        <item>Subalansuota garso ir ryšio kokybė</item>
+        <item>Optimizuota ryšio kokybė</item>
+        <item>Geriausias rezultatas (adaptyvusis pralaidumas)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizuota garso kokybė (990 Kb/s; 909 Kb/s)</item>
+        <item>Subalansuotą garso ir ryšio kokybė (660 kbps / 606 kbps)</item>
+        <item>Optimizuota ryšio kokybė (330 Kb/s; 303 Kb/s)</item>
+        <item>Geriausias rezultatas (adaptyvusis pralaidumas)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Naudoti sistemos pasirink. (numatytasis)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Naudoti sistemos pasirink. (numatytasis)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Naudoti sistemos pasirink. (numatytasis)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ garsas</item>
+        <item>Qualcomm® aptX™ HD garsas</item>
+        <item>LDAC</item>
+        <item>Įgalinti nebūtinus kodekus</item>
+        <item>Išjungti nebūtinus kodekus</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Naudoti sistemos pasirink. (numatytasis)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ garsas</item>
+        <item>Qualcomm® aptX™ HD garsas</item>
+        <item>LDAC</item>
+        <item>Įgalinti nebūtinus kodekus</item>
+        <item>Išjungti nebūtinus kodekus</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (numatytoji)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Numatytasis</item>
+        <item>Nėra</item>
+        <item>Kontūras</item>
+        <item>Krintantis šešėlis</item>
+        <item>Iškilęs</item>
+        <item>Įdubęs</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Numatytasis</item>
+        <item>Juoda</item>
+        <item>Balta</item>
+        <item>Žalia</item>
+        <item>Mėlyna</item>
+        <item>Raudona</item>
+        <item>Žydra</item>
+        <item>Geltona</item>
+        <item>Purpurinė</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Numatytasis</item>
+        <item>Be užraitų</item>
+        <item>Be užraitų, lygiaplotis</item>
+        <item>Su užraitais</item>
+        <item>Su užraitais, lygiaplotis</item>
+        <item>Paprastas</item>
+        <item>Kursyvas</item>
+        <item>Sumažintos didžiosios raidės</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Numatytasis</item>
+        <item>Grynas</item>
+        <item>Permatoma</item>
+        <item>Skaidrus</item>
+        <item>Blyksėjimas</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Numatytasis</item>
+        <item>Mažas</item>
+        <item>Įprastas</item>
+        <item>Didelė</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Nėra</item>
+        <item>Kontūras</item>
+        <item>Krintantis šešėlis</item>
+        <item>Iškilęs</item>
+        <item>Įdubęs</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Labai mažas</item>
+        <item>Mažas</item>
+        <item>Įprastas</item>
+        <item>Didelis</item>
+        <item>Labai didelis</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Numatytasis</item>
+        <item>Be užraitų</item>
+        <item>Be užraitų, glaustas</item>
+        <item>Be užraitų, lygiaplotis</item>
+        <item>Su užraitais</item>
+        <item>Su užraitais, lygiaplotis</item>
+        <item>Paprastas</item>
+        <item>Rankraštinis</item>
+        <item>Sumažintos didžiosios raidės</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>NĖRA CEC įrenginio</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Patobulintos spalvos</item>
+        <item>Natūralios spalvos</item>
+        <item>Skaitmeniniam turiniui optimizuotos spalvos</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Ryškus (numatytasis)</item>
+        <item>Natūralus</item>
+        <item>Standartinis</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Išjungta</item>
+        <item>Rodyti perdangos sritis</item>
+        <item>Rodyti deuteranomalijos sritis</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Išjungta</item>
+        <item>Įjungta</item>
+        <item>Subtitrai žodžiais / slėpti</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Nėra</item>
+        <item>Logcat</item>
+        <item>„Systrace“ (grafika)</item>
+        <item>Kreipinių dėklas „glGetError“</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Niekada nenaudoti HDCP tikrinimo</item>
+        <item>Taikyti HDCP tikrinimą tik DRM turiniui</item>
+        <item>Visada naudoti HDCP tikrinimą</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Niekada netikrinti</item>
+        <item>Tikrinti tik DRM turinį</item>
+        <item>Visada tikrinti</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Automatinis EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Nėra</item>
+        <item>480 piks.</item>
+        <item>480 piks. (saugus)</item>
+        <item>720 piks.</item>
+        <item>720 piks. (saugus)</item>
+        <item>1 080 piks.</item>
+        <item>1 080 piks. (saugus)</item>
+        <item>4K</item>
+        <item>4K (saugus)</item>
+        <item>4K (didesnio mastelio)</item>
+        <item>4K (didesnio mastelio, saugus)</item>
+        <item>720 piks., 1 080 piks. (dvig. ekr.)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Neautomatinis</item>
+        <item>Pusiau automatinis</item>
+        <item>Automatinis</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Išjungta</item>
+        <item>Automatinis</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Išjungta</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Visi</item>
+        <item>Dešinė</item>
+        <item>Kairė</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Išjungta</item>
+        <item>Mažas</item>
+        <item>Vidutinis</item>
+        <item>Stiprus</item>
+        <item>Automatinis</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Išjungta</item>
+        <item>Mažas</item>
+        <item>Vidutinis</item>
+        <item>Stiprus</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Automatinis</item>
+        <item>Visas</item>
+        <item>Apribojimas</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Išjungta</item>
+        <item>Mažas</item>
+        <item>Vidutinis</item>
+        <item>Didelis</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Išjungta</item>
+        <item>Minimalus</item>
+        <item>Vidutinis</item>
+        <item>Daugiausia</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Naudotojas</item>
+        <item>Vėsa</item>
+        <item>Standartinis</item>
+        <item>Šilta</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Tamsu</item>
+        <item>Vidurys</item>
+        <item>Šviesu</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Įjungta</item>
+        <item>Išjungta</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Bright</item>
+        <item>Dolby Vision Dark</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Naudotojas</item>
+        <item>Kinas</item>
+        <item>Sportas</item>
+        <item>Ryškus</item>
+        <item>Labai šviesu</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standartinis</item>
+        <item>Natūralus</item>
+        <item>Ryškus</item>
+        <item>Sportas</item>
+        <item>Filmas</item>
+        <item>Žaidimas</item>
+        <item>Energijos taupymas</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Naudotojas</item>
+        <item>Standartinis</item>
+        <item>Ryškus</item>
+        <item>Sportas</item>
+        <item>Filmas</item>
+        <item>Žaidimas</item>
+        <item>Energijos taupymas</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Išjungta</item>
+        <item>%d min.</item>
+    </array>
+    <array name="rooms">
+        <item>„Android“ TV</item>
+        <item>Svetainės TV</item>
+        <item>Šeimos kambario TV</item>
+        <item>Miegamojo TV</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Automatinis</item>
+        <item>Itin didelis priartinimas</item>
+        <item>4:3</item>
+        <item>Filmo išskleidimas 14:9</item>
+        <item>Filmo išskleidimas 16:9</item>
+        <item>Platus ekranas</item>
+        <item>Visas</item>
+        <item>Nepakeista</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Itin didelis priartinimas</item>
+        <item>Visas</item>
+        <item>Nepakeista</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Automatinis</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Visas</item>
+        <item>Keisti mastelį</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 min.</item>
+        <item>1 val.</item>
+        <item>3 val.</item>
+        <item>6 val.</item>
+        <item>12 val.</item>
+        <item>Niekada</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Išjungta</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Išjungta</item>
+        <item>64 KB žurnalo buferis</item>
+        <item>256 KB žurnalo buferis</item>
+        <item>1 MB žurnalo buferis</item>
+        <item>4 MB žurnalo buferis</item>
+        <item>16 MB žurnalo buferis</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Išjungta</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Išjungta</item>
+        <item>Visi žurnalų buferiai</item>
+        <item>Visi, išskyrus radijo ryšio žurnalų buferius</item>
+        <item>tik branduolio žurnalo buferis</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Išjungta</item>
+        <item>Viskas</item>
+        <item>Viskas, išsk. rad. r.</item>
+        <item>tik branduolys</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Išjungta</item>
+        <item>Piešti ne stačiak. reg. mėlyna sp.</item>
+        <item>Paryš. išban. pieš. kom. žalia sp.</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 min.</item>
+        <item>15 min.</item>
+        <item>30 min.</item>
+        <item>1 val.</item>
+        <item>2 val.</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Žaidimas</item>
+        <item>Filmas</item>
+        <item>Muzika</item>
+        <item>Naujienos</item>
+        <item>Stadionas</item>
+        <item>Standartinis</item>
+        <item>Naudotojas</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Išjungta</item>
+        <item>Įjungta</item>
+        <item>Automatinis</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Išjungta</item>
+        <item>Įprastas</item>
+        <item>Naktis</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereofoninis</item>
+        <item>Erdvinis garsas</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Išjungta</item>
+        <item>Rokas</item>
+        <item>Pop</item>
+        <item>Tiesiogiai</item>
+        <item>Šokių muzika</item>
+        <item>Techno</item>
+        <item>Klasika</item>
+        <item>Švelnus</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Automatinis</item>
+        <item>Apeiti</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Išjungta</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP sumažėjimas</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>TV garsiakalbiai</item>
+        <item>Išorinė garso sistema</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Naudotojas</item>
+        <item>Standartinis</item>
+        <item>Ryškus</item>
+        <item>Sportas</item>
+        <item>Filmas</item>
+        <item>Muzika</item>
+        <item>Naujienos</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standartinis</item>
+        <item>Sportas</item>
+        <item>Filmas</item>
+        <item>Muzika</item>
+        <item>Naudotojas</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Įprastas</item>
+        <item>Klausos sutrik. turintys asm.</item>
+        <item>Regos sutrikimų turintys asm.</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Išjungta</item>
+        <item>Ekrane (stulpeliai)</item>
+        <item>Po adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animacija išjungta</item>
+        <item>Animacijos mastelis 0,5x</item>
+        <item>Animacijos mastelis 1x</item>
+        <item>Animacijos mastelis 1,5x</item>
+        <item>Animacijos mastelis 2x</item>
+        <item>Animacijos mastelis 5x</item>
+        <item>Animacijos mastelis 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Labai lėtas</item>
+        <item>Lėtas</item>
+        <item>Įprastas</item>
+        <item>Greitas</item>
+        <item>Greitesnis</item>
+        <item>Labai greitas</item>
+        <item>Spartus</item>
+        <item>Labai spartus</item>
+        <item>Greičiausias</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Kraunama</item>
+        <item>MTP (medijos perdavimo protokolas)</item>
+        <item>PTP (nuotraukų perdavimo protokolas)</item>
+        <item>RNDIS (USB eternetas)</item>
+        <item>Garso šaltinis</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Nėra</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Nėra</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Prastas</item>
+        <item>Neblogas</item>
+        <item>Geras</item>
+        <item>Puikus</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Nuskaitoma...</item>
+        <item>Prisijungiama...</item>
+        <item>Nustatoma tapatybė...</item>
+        <item>Gaunamas IP adresas...</item>
+        <item>Prisijungta</item>
+        <item>Pristabdyta</item>
+        <item>Atjungiama...</item>
+        <item>Atsijungęs (-usi)</item>
+        <item>Nesėkminga</item>
+        <item>Užblokuota</item>
+        <item>Laikinai vengiama prasto ryšio</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Nuskaitoma...</item>
+        <item>Prijungiama prie %1$s...</item>
+        <item>Nustatoma tapatybė su %1$s...</item>
+        <item>Gaunamas IP adresas iš %1$s...</item>
+        <item>Prijungta prie %1$s</item>
+        <item>Pristabdyta</item>
+        <item>Atjungiama nuo %1$s...</item>
+        <item>Atsijungęs (-usi)</item>
+        <item>Nesėkminga</item>
+        <item>Užblokuota</item>
+        <item>Laikinai vengiama prasto ryšio</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animacija išjungta</item>
+        <item>Animacijos mastelis 0,5x</item>
+        <item>Animacijos mastelis 1x</item>
+        <item>Animacijos mastelis 1,5x</item>
+        <item>Animacijos mastelis 2x</item>
+        <item>Animacijos mastelis 5x</item>
+        <item>Animacijos mastelis 10x</item>
+    </array>
+</resources>

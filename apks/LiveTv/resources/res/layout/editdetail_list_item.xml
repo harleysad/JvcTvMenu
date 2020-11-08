@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="40dp">
+    <TextView android:id="@+id/editdetail_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/Canvas.Scan.Text.Middle"/>
+    <EditText android:id="@+id/editdetail_value" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20dp" android:singleLine="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/Canvas.Scan.Text.Middle"/>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/editdetail_option_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20dp" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <TextView android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/editdetail_option" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10dp" style="@style/Canvas.Scan.Text.Middle"/>
+        <ImageView android:layout_gravity="center_vertical" android:id="@+id/editdetail_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/scan_option"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/editdetail_hassub_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20dp" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <ImageView android:layout_gravity="center_vertical" android:id="@+id/editdetail_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/double_arrows_right"/>
+    </LinearLayout>
+</RelativeLayout>

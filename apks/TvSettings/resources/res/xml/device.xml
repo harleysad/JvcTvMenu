@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_pref_category_title">
+    <Preference android:icon="@drawable/ic_info_outline" android:title="@string/about_preference" android:key="about_device" android:fragment="com.android.tv.settings.about.AboutFragment"/>
+    <Preference android:icon="@drawable/ic_access_time" android:title="@string/system_date_time" android:key="date_time" android:fragment="com.android.tv.settings.system.DateTimeFragment"/>
+    <Preference android:icon="@drawable/ic_access_time" android:title="@string/system_timer" android:key="timer" android:fragment="com.android.tv.settings.partnercustomizer.timer.TimerFragment"/>
+    <Preference android:icon="@drawable/ic_language" android:title="@string/system_language" android:key="language" android:fragment="com.android.tv.settings.system.LanguageFragment"/>
+    <Preference android:icon="@drawable/ic_keyboard" android:title="@string/system_keyboard" android:key="keyboard" android:fragment="com.android.tv.settings.inputmethod.KeyboardFragment"/>
+    <Preference android:icon="@drawable/ic_input_132dp" android:title="@string/system_inputs" android:key="inputs" android:fragment="com.android.tv.settings.system.InputsFragment"/>
+    <Preference android:icon="@drawable/partner_ic_power" android:title="@string/device_power" android:key="power_effects" android:fragment="com.android.tv.settings.partnercustomizer.power.PowerFragment"/>
+    <Preference android:icon="@drawable/partner_ic_picture" android:title="@string/device_picture" android:key="picture_effects" android:fragment="com.android.tv.settings.partnercustomizer.picture.PictureFragment"/>
+    <Preference android:icon="@drawable/ic_volume_up" android:title="@string/device_sound" android:key="sound_effects" android:fragment="com.android.tv.settings.device.sound.SoundFragment"/>
+    <Preference android:icon="@drawable/ic_storage" android:title="@string/device_storage" android:key="storage" android:fragment="com.android.tv.settings.device.StorageSummaryFragment"/>
+    <Preference android:icon="@drawable/ic_home" android:title="@string/system_home" android:key="home">
+        <intent android:action="com.google.android.tvlauncher.SETTINGS"/>
+    </Preference>
+    <Preference android:icon="@drawable/partner_ic_retail_mode" android:title="@string/s_retail_mode" android:key="retail_mode" android:fragment="com.android.tv.settings.partnercustomizer.retailmode.RetailModeSettingFragment"/>
+    <Preference android:title="@string/system_google" android:key="google_settings">
+        <intent android:action="com.google.assistant.GOOGLE_SETTINGS"/>
+    </Preference>
+    <Preference android:icon="@drawable/ic_cast" android:title="@string/system_cast" android:key="cast">
+        <intent android:action="com.google.android.settings.CAST_RECEIVER_SETTINGS"/>
+    </Preference>
+    <Preference android:icon="@drawable/ic_settings_system_daydream" android:title="@string/device_daydream" android:key="daydream" android:fragment="com.android.tv.settings.device.display.daydream.DaydreamFragment"/>
+    <Preference android:icon="@drawable/ic_settings_developeroptions" android:title="@string/system_developer_options" android:key="developer" android:fragment="com.android.tv.settings.system.development.DevelopmentFragment"/>
+    <Preference android:icon="@drawable/ic_location_on" android:title="@string/system_location" android:key="location" android:fragment="com.android.tv.settings.system.LocationFragment"/>
+    <Preference android:icon="@drawable/ic_timeline" android:title="@string/system_diagnostic" android:key="usageAndDiag">
+        <intent android:action="com.google.android.settings.USAGE_AND_DIAGNOSTICS_SETTING"/>
+    </Preference>
+    <Preference android:icon="@drawable/ic_accessibility_new" android:title="@string/system_accessibility" android:key="accessibility" android:fragment="com.android.tv.settings.accessibility.AccessibilityFragment"/>
+    <Preference android:icon="@drawable/ic_reset" android:title="@string/device_reset" android:key="reset">
+        <intent android:targetPackage="com.android.tv.settings" android:targetClass="com.android.tv.settings.device.storage.ResetActivity"/>
+    </Preference>
+</PreferenceScreen>

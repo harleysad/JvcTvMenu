@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/accessibility_captions">
+    <SwitchPreference android:persistent="true" android:title="@string/captions_display" android:key="captions_display"/>
+    <PreferenceCategory android:title="@string/display_options" android:key="display_options">
+        <ListPreference android:title="@string/captions_language" android:key="captions_language" android:summary="%s"/>
+        <ListPreference android:entries="@array/captioning_font_size_selector_titles" android:title="@string/captions_textsize" android:key="captions_text_size" android:summary="%s" android:entryValues="@array/captioning_font_size_selector_values"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/captions_captionstyle" android:key="captions_style">
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/captions_style_0" android:key="captions_style_0" app:radioGroup="captions_style"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/captions_style_1" android:key="captions_style_1" app:radioGroup="captions_style"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/captions_style_2" android:key="captions_style_2" app:radioGroup="captions_style"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/captions_style_3" android:key="captions_style_3" app:radioGroup="captions_style"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/captions_style_custom" android:key="captions_style_custom" android:fragment="com.android.tv.settings.system.development.CaptionCustomFragment" app:radioGroup="captions_style"/>
+    </PreferenceCategory>
+</PreferenceScreen>

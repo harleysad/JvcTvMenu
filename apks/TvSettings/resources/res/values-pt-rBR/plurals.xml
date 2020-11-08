@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d dia atrás</item>
+        <item quantity="other">%d dias atrás</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d min atrás</item>
+        <item quantity="other">%d min atrás</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d ano atrás</item>
+        <item quantity="other">%d anos atrás</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d conta</item>
+        <item quantity="other">%1$d contas</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Entradas conectadas</item>
+        <item quantity="other">Entradas conectadas</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Entradas não conectadas</item>
+        <item quantity="other">Entradas não conectadas</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Entradas em espera</item>
+        <item quantity="other">Entradas em espera</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d acessório</item>
+        <item quantity="other">%1$d acessórios</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d apps permitidos</item>
+        <item quantity="other">%d apps permitidos</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Agora faltam %1$d etapas para você se tornar um desenvolvedor</item>
+        <item quantity="other">Agora faltam %1$d etapas para você se tornar um desenvolvedor</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d dispositivo conectado</item>
+        <item quantity="other">%1$d dispositivos conectados</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">הזנת קוד אימות שגוי חמש פעמים.\10עליך לנסות שוב בעוד שנייה אחת (%1$d).</item>
+        <item quantity="two">הזנת קוד אימות שגוי חמש פעמים.\10עליך לנסות שוב בעוד %1$d שניות.</item>
+        <item quantity="many">הזנת קוד אימות שגוי חמש פעמים.\10עליך לנסות שוב בעוד %1$d שניות.</item>
+        <item quantity="other">הזנת קוד אימות שגוי חמש פעמים.\10עליך לנסות שוב בעוד %1$d שניות.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">ערוץ אחד (%1$d)</item>
+        <item quantity="two">%1$d ערוצים</item>
+        <item quantity="many">%1$d ערוצים</item>
+        <item quantity="other">%1$d ערוצים</item>
+    </plurals>
+</resources>

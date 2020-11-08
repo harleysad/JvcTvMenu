@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>POIS PÄÄLTÄ</item>
+        <item>VASEN</item>
+        <item>OIKEA</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demovideo</item>
+        <item>e-POP vasemmalla</item>
+        <item>e-POP alla</item>
+    </array>
+    <array name="ampm">
+        <item>ap</item>
+        <item>ip</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animaatio pois käytöstä</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 1-kertainen</item>
+        <item>Animaatioasteikko 1,5-kertainen</item>
+        <item>Animaatioasteikko 2-kertainen</item>
+        <item>Animaatioasteikko 5-kertainen</item>
+        <item>Animaatioasteikko 10-kertainen</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animaatio pois käytöstä</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 1-kertainen</item>
+        <item>Animaatioasteikko 1,5-kertainen</item>
+        <item>Animaatioasteikko 2-kertainen</item>
+        <item>Animaatioasteikko 5-kertainen</item>
+        <item>Animaatioasteikko 10-kertainen</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Vakioraja</item>
+        <item>Ei taustaprosesseja</item>
+        <item>Enintään 4 prosessia</item>
+        <item>Enintään 2 prosessia</item>
+        <item>Enintään 3 prosessia</item>
+        <item>Enintään 4 prosessia</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Käytä verkon määrittämää aikaa</item>
+        <item>Ei käytössä</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Käytä verkon määrittämää aikaa</item>
+        <item>Käytä siirtovirran määrittämää aikaa</item>
+        <item>Ei käytössä</item>
+    </array>
+    <array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>16 bittiä/näyte</item>
+        <item>24 bittiä/näyte</item>
+        <item>32 bittiä/näyte</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>16 bittiä/näyte</item>
+        <item>24 bittiä/näyte</item>
+        <item>32 bittiä/näyte</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimoi äänenlaatu</item>
+        <item>Tasapainoinen yhteyden ja äänenlaadun optimointi</item>
+        <item>Optimoi yhteyden laatu</item>
+        <item>Paras mahdollinen (mukautuva siirtonopeus)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimoi äänenlaatu (990 kb/s / 909 kb/s)</item>
+        <item>Tasapainoinen yhteyden ja äänenlaadun optimointi (660 kb/s / 606 kb/s)</item>
+        <item>Optimoi yhteyden laatu (330 kb/s / 303 kb/s)</item>
+        <item>Paras mahdollinen (mukautuva siirtonopeus)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ‑ääni</item>
+        <item>Qualcomm® aptX™ HD ‑ääni</item>
+        <item>LDAC</item>
+        <item>Ota valinnaiset koodekit käyttöön</item>
+        <item>Poista valinnaiset koodekit käytöstä</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Käytä järjestelmän valintaa (oletus)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ‑ääni</item>
+        <item>Qualcomm® aptX™ HD ‑ääni</item>
+        <item>LDAC</item>
+        <item>Ota valinnaiset koodekit käyttöön</item>
+        <item>Poista valinnaiset koodekit käytöstä</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (oletus)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Oletus</item>
+        <item>Ei mitään</item>
+        <item>Ääriviiva</item>
+        <item>Varjostus</item>
+        <item>Korotettu</item>
+        <item>Laskettu</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Oletus</item>
+        <item>Musta</item>
+        <item>Valkoinen</item>
+        <item>Vihreä</item>
+        <item>Sininen</item>
+        <item>Punainen</item>
+        <item>Syaani</item>
+        <item>Keltainen</item>
+        <item>Magenta</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Oletus</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif Monospace</item>
+        <item>Serif</item>
+        <item>Serif Monospace</item>
+        <item>Rento</item>
+        <item>Kaunokirjoitus</item>
+        <item>Kapiteelit</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Oletus</item>
+        <item>Läpinäkymätön</item>
+        <item>Läpikuultava</item>
+        <item>Läpinäkyvä</item>
+        <item>Vilkkuva</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Oletus</item>
+        <item>Pieni</item>
+        <item>Normaali</item>
+        <item>Suuri</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Ei mitään</item>
+        <item>Ääriviiva</item>
+        <item>Varjostus</item>
+        <item>Korotettu</item>
+        <item>Upotettu</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Hyvin pieni</item>
+        <item>Pieni</item>
+        <item>Normaali</item>
+        <item>Suuri</item>
+        <item>Hyvin suuri</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Oletus</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif, tiivistetty</item>
+        <item>Sans Serif Monospace</item>
+        <item>Serif</item>
+        <item>Serif Monospace</item>
+        <item>Tavallinen</item>
+        <item>Kursiivi</item>
+        <item>Isot kirjaimet</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Ei CEC-laitetta</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Tehostetut värit</item>
+        <item>Ihmissilmän näkemät luonnolliset värit</item>
+        <item>Digitaaliselle sisällölle parhaiten sopivat värit</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Voimakas (oletus)</item>
+        <item>Luonnollinen</item>
+        <item>Normaali</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Ei käytössä</item>
+        <item>Näytä päällekkäiset alueet</item>
+        <item>Näytä alueet puna-vihersokeille näkyvinä</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Ei käytössä</item>
+        <item>Käytössä</item>
+        <item>Tekstitykset ja mykistys</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Ei mitään</item>
+        <item>Logcat</item>
+        <item>Systrace (grafiikka)</item>
+        <item>Kutsu pinoa, jos glGetError tapaht.</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Älä koskaan käytä HDCP-tarkistusta</item>
+        <item>Käytä HDCP-tarkistusta vain DRM-suojatulle sisällölle</item>
+        <item>Käytä aina HDCP-tarkistusta</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Älä tarkista koskaan</item>
+        <item>Tarkista vain DRM-suojattu sisältö</item>
+        <item>Tarkista aina</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Automaattinen EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Ei mitään</item>
+        <item>480p</item>
+        <item>480p (turvallinen)</item>
+        <item>720p</item>
+        <item>720p (turvallinen)</item>
+        <item>1080p</item>
+        <item>1080p (turvallinen)</item>
+        <item>4K</item>
+        <item>4K (turvallinen)</item>
+        <item>4K (skaalattu)</item>
+        <item>4K (skaalattu, turvallinen)</item>
+        <item>720p, 1080p (kaksoisnäyttö)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Manuaalinen</item>
+        <item>Puoliautomaattinen</item>
+        <item>Automaattinen</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Ei käytössä</item>
+        <item>Automaattinen</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Ei käytössä</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Kaikki</item>
+        <item>Oikea</item>
+        <item>Vasen</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Ei käytössä</item>
+        <item>Matala</item>
+        <item>Keskitaso</item>
+        <item>Voimakas</item>
+        <item>Automaattinen</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Ei käytössä</item>
+        <item>Matala</item>
+        <item>Keskitaso</item>
+        <item>Voimakas</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Automaattinen</item>
+        <item>Täysi</item>
+        <item>Raja</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Ei käytössä</item>
+        <item>Pieni</item>
+        <item>Keskitaso</item>
+        <item>Suuri</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Ei käytössä</item>
+        <item>Vähintään</item>
+        <item>Keskitaso</item>
+        <item>Enimmäismäärä</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Käyttäjä</item>
+        <item>Viileä</item>
+        <item>Vakio</item>
+        <item>Lämmin</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Tumma</item>
+        <item>Keskitaso</item>
+        <item>Kirkas</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Käytössä</item>
+        <item>Ei käytössä</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Kirkas Dolby Vision</item>
+        <item>Tumma Dolby Vision</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Käyttäjä</item>
+        <item>Elokuvateatteri</item>
+        <item>Urheilu</item>
+        <item>Elävä</item>
+        <item>Erittäin kirkas</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Vakio</item>
+        <item>Luonnollinen</item>
+        <item>Elävä</item>
+        <item>Urheilu</item>
+        <item>Elokuva</item>
+        <item>Peli</item>
+        <item>Energiansäästö</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Käyttäjä</item>
+        <item>Vakio</item>
+        <item>Elävä</item>
+        <item>Urheilu</item>
+        <item>Elokuva</item>
+        <item>Peli</item>
+        <item>Energiansäästö</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Ei käytössä</item>
+        <item>%d minuuttia</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Olohuoneen TV</item>
+        <item>Oleskelutilan TV</item>
+        <item>Makuuhuoneen TV</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Automaattinen</item>
+        <item>Superzoom</item>
+        <item>4:3</item>
+        <item>Venytetty elokuva 14:9</item>
+        <item>Venytetty elokuva 16:9</item>
+        <item>Laajakuva</item>
+        <item>Täysi</item>
+        <item>Skaalaamaton</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Superzoom</item>
+        <item>Täysi</item>
+        <item>Skaalaamaton</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Automaattinen</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Täysi</item>
+        <item>Zoomaus</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+        <item>3 tuntia</item>
+        <item>6 tuntia</item>
+        <item>12 tuntia</item>
+        <item>Ei koskaan</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Ei käytössä</item>
+        <item>64 kt</item>
+        <item>256 kt</item>
+        <item>1 Mt</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Ei käytössä</item>
+        <item>64 kt / lokipuskuri</item>
+        <item>256 kt / lokipuskuri</item>
+        <item>1 Mt / lokipuskuri</item>
+        <item>4 Mt / lokipuskuri</item>
+        <item>16 Mt / lokipuskuri</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Ei käytössä</item>
+        <item>64 kt</item>
+        <item>256 kt</item>
+        <item>1 Mt</item>
+        <item>4 Mt</item>
+        <item>16 Mt</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Ei käytössä</item>
+        <item>Kaikki lokipuskurit</item>
+        <item>Kaikki paitsi radiolokipuskurit</item>
+        <item>vain kernel-lokipuskuri</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Ei käytössä</item>
+        <item>Kaikki</item>
+        <item>Kaikki paitsi radio</item>
+        <item>vain kernel</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Pois</item>
+        <item>Piirrä ei-suorakulm. leikealue sinisellä</item>
+        <item>Korosta testatut piirtokom. vihreällä</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Peli</item>
+        <item>Elokuva</item>
+        <item>Musiikki</item>
+        <item>Uutiset</item>
+        <item>Stadion</item>
+        <item>Vakio</item>
+        <item>Käyttäjä</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Ei käytössä</item>
+        <item>Käytössä</item>
+        <item>Automaattinen</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Ei käytössä</item>
+        <item>Normaali</item>
+        <item>Yö</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Surround</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Ei käytössä</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Live</item>
+        <item>Tanssi</item>
+        <item>Tekno</item>
+        <item>Klassinen</item>
+        <item>Pehmeä</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Automaattinen</item>
+        <item>Ohita</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Ei käytössä</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP-läpäisy</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>TV-kaiuttimet</item>
+        <item>Ulkoinen äänijärjestelmä</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Käyttäjä</item>
+        <item>Vakio</item>
+        <item>Elävä</item>
+        <item>Urheilu</item>
+        <item>Elokuva</item>
+        <item>Musiikki</item>
+        <item>Uutiset</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Vakio</item>
+        <item>Urheilu</item>
+        <item>Elokuva</item>
+        <item>Musiikki</item>
+        <item>Käyttäjä</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normaali</item>
+        <item>Kuulovammainen</item>
+        <item>Näkövammainen</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Pois käytöstä</item>
+        <item>Ruudulla palkkeina</item>
+        <item>Kohteessa adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animaatio pois käytöstä</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 1-kertainen</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 2-kertainen</item>
+        <item>Animaatioasteikko 5-kertainen</item>
+        <item>Animaatioasteikko 10-kertainen</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Hyvin hidas</item>
+        <item>Hidas</item>
+        <item>Normaali</item>
+        <item>Nopea</item>
+        <item>Nopeampi</item>
+        <item>Hyvin nopea</item>
+        <item>Nopea</item>
+        <item>Erittäin nopea</item>
+        <item>Nopein</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Lataaminen</item>
+        <item>MTP (median siirtoprotokolla)</item>
+        <item>PTP (kuvan siirtoprotokolla)</item>
+        <item>RNDIS (USB-ethernet)</item>
+        <item>Äänilähde</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Ei mitään</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Ei mitään</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Huono</item>
+        <item>Kohtalainen</item>
+        <item>Hyvä</item>
+        <item>Erinomainen</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Etsitään...</item>
+        <item>Yhdistetään…</item>
+        <item>Varmennetaan…</item>
+        <item>Haetaan IP-osoitetta...</item>
+        <item>Yhdistetty</item>
+        <item>Pidätetty</item>
+        <item>Katkaistaan yhteyttä...</item>
+        <item>Yhteys katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Vältetään huonoa yhteyttä tilapäisesti</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Etsitään...</item>
+        <item>Yhdistetään verkkoon %1$s...</item>
+        <item>Varmennetaan verkkoon %1$s...</item>
+        <item>Haetaan IP-osoitetta verkosta %1$s...</item>
+        <item>Yhdistetty verkkoon %1$s</item>
+        <item>Pidätetty</item>
+        <item>Katkaistaan yhteys verkosta %1$s…</item>
+        <item>Yhteys katkaistu</item>
+        <item>Epäonnistui</item>
+        <item>Estetty</item>
+        <item>Vältetään huonoa yhteyttä tilapäisesti</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animaatio pois käytöstä</item>
+        <item>Animaatioasteikko 0,5-kertainen</item>
+        <item>Animaatioasteikko 1-kertainen</item>
+        <item>Animaatioasteikko 1,5-kertainen</item>
+        <item>Animaatioasteikko 2-kertainen</item>
+        <item>Animaatioasteikko 5-kertainen</item>
+        <item>Animaatioasteikko 10-kertainen</item>
+    </array>
+</resources>

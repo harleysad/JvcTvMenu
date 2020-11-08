@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d tài khoản</item>
+        <item quantity="other">%1$d tài khoản</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Đầu vào đã kết nối</item>
+        <item quantity="other">Đầu vào đã kết nối</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Đầu vào chưa kết nối</item>
+        <item quantity="other">Đầu vào chưa kết nối</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Đầu vào dự phòng</item>
+        <item quantity="other">Đầu vào dự phòng</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d phụ kiện</item>
+        <item quantity="other">%1$d phụ kiện</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 ứng dụng được phép</item>
+        <item quantity="other">%d ứng dụng được phép</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Bây giờ, bạn giờ chỉ cần thực hiện %1$d bước nữa là trở thành nhà phát triển</item>
+        <item quantity="other">Bây giờ, bạn giờ chỉ cần thực hiện %1$d bước nữa là trở thành nhà phát triển</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d thiết bị được kết nối</item>
+        <item quantity="other">%1$d thiết bị được kết nối</item>
+    </plurals>
+</resources>

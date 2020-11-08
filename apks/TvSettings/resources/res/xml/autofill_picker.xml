@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/title_select_autofill_service">
+    <com.android.tv.settings.RadioPreference android:persistent="false" android:layout="@layout/preference_reversed_widget" android:title="@string/autofill_none" android:key="_none_" app:radioGroup="autofill_service_group"/>
+</PreferenceScreen>

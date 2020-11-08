@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>TẮT</item>
+        <item>TRÁI</item>
+        <item>PHẢI</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Video minh họa</item>
+        <item>e-POP trái</item>
+        <item>e-POP dưới cùng</item>
+    </array>
+    <array name="ampm">
+        <item>SÁNG</item>
+        <item>CHIỀU</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Tắt hình động</item>
+        <item>Tỷ lệ hình động 0,5x</item>
+        <item>Tỷ lệ hình động 1x</item>
+        <item>Tỷ lệ hình động 1,5x</item>
+        <item>Tỷ lệ hình động 2x</item>
+        <item>Tỷ lệ hình động 5x</item>
+        <item>Tỷ lệ hình động 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Tắt hình động</item>
+        <item>Tỷ lệ hình động 0,5x</item>
+        <item>Tỷ lệ hình động 1x</item>
+        <item>Tỷ lệ hình động 1,5x</item>
+        <item>Tỷ lệ hình động 2x</item>
+        <item>Tỷ lệ hình động 5x</item>
+        <item>Tỷ lệ hình động 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Giới hạn tiêu chuẩn</item>
+        <item>Không có quá trình nền</item>
+        <item>Tối đa 1 quá trình</item>
+        <item>Tối đa 2 quá trình</item>
+        <item>Tối đa 3 quá trình</item>
+        <item>Tối đa 4 quá trình</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Sử dụng thời gian do mạng cung cấp</item>
+        <item>Tắt</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Sử dụng thời gian do mạng cung cấp</item>
+        <item>Sử dụng thời gian do luồng vận chuyển cung cấp</item>
+        <item>Tắt</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>16 bit/mẫu</item>
+        <item>24 bit/mẫu</item>
+        <item>32 bit/mẫu</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>16 bit/mẫu</item>
+        <item>24 bit/mẫu</item>
+        <item>32 bit/mẫu</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>Đơn âm</item>
+        <item>Âm thanh nổi</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>Đơn âm</item>
+        <item>Âm thanh nổi</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Được tối ưu hóa cho chất lượng âm thanh</item>
+        <item>Chất lượng kết nối và âm thanh cân bằng</item>
+        <item>Được tối ưu hóa cho chất lượng kết nối</item>
+        <item>Nỗ lực cao nhất (Tốc độ bit thích ứng)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Được tối ưu hóa cho chất lượng âm thanh (990kb/giây/909kb/giây)</item>
+        <item>Chất lượng kết nối và âm thanh cân bằng (660kbps/606kbps)</item>
+        <item>Được tối ưu hóa cho chất lượng kết nối (330kb/giây/303kb/giây)</item>
+        <item>Nỗ lực cao nhất (Tốc độ bit thích ứng)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Âm thanh Qualcomm® aptX™</item>
+        <item>Âm thanh Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Âm thanh Qualcomm® aptX™</item>
+        <item>Âm thanh Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Mặc định)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Mặc định</item>
+        <item>Không</item>
+        <item>Đường viền</item>
+        <item>Bóng đổ</item>
+        <item>Nhô lên</item>
+        <item>Hạ xuống</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Mặc định</item>
+        <item>Đen</item>
+        <item>Trắng</item>
+        <item>Xanh lục</item>
+        <item>Xanh lam</item>
+        <item>Đỏ</item>
+        <item>Lục lam</item>
+        <item>Vàng</item>
+        <item>Đỏ thẫm</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Mặc định</item>
+        <item>Sans-serif</item>
+        <item>Giãn cách đơn Sans-serif</item>
+        <item>Serif</item>
+        <item>Giãn cách đơn Serif</item>
+        <item>Phổ thông</item>
+        <item>Chữ thảo</item>
+        <item>Chữ viết hoa nhỏ</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Mặc định</item>
+        <item>Liền nét</item>
+        <item>Mờ</item>
+        <item>Trong suốt</item>
+        <item>Nhấp nháy</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Mặc định</item>
+        <item>Nhỏ</item>
+        <item>Bình thường</item>
+        <item>Lớn</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Không có</item>
+        <item>Viền ngoài</item>
+        <item>Bóng đổ</item>
+        <item>Nổi</item>
+        <item>Chìm</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Rất nhỏ</item>
+        <item>Nhỏ</item>
+        <item>Bình thường</item>
+        <item>Lớn</item>
+        <item>Rất lớn</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Mặc định</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif mật độ cao</item>
+        <item>Giãn cách đơn Sans-serif</item>
+        <item>Serif</item>
+        <item>Giãn cách đơn Serif</item>
+        <item>Thông thường</item>
+        <item>Chữ thảo</item>
+        <item>Chữ viết hoa nhỏ</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Không có thiết bị CEC nào</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Màu tăng cường</item>
+        <item>Màu tự nhiên giống như nhìn bằng mắt</item>
+        <item>Màu được tối ưu hóa cho nội dung kỹ thuật số</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Sống động (mặc định)</item>
+        <item>Tự nhiên</item>
+        <item>Tiêu chuẩn</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Tắt</item>
+        <item>Hiển thị các vùng vẽ quá</item>
+        <item>Hiển thị các vùng mô phỏng mù màu lục</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Tắt</item>
+        <item>Bật</item>
+        <item>Phụ đề và tắt tiếng</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Không có</item>
+        <item>Logcat</item>
+        <item>Systrace (Đồ họa)</item>
+        <item>Chồng lệnh trên glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Không bao giờ sử dụng kiểm tra HDCP</item>
+        <item>Chỉ sử dụng kiểm tra HDCP cho nội dung DRM</item>
+        <item>Luôn sử dụng kiểm tra HDCP</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Không bao giờ kiểm tra</item>
+        <item>Chỉ kiểm tra nội dung DRM</item>
+        <item>Luôn kiểm tra</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>EDID tự động</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Không có</item>
+        <item>480p</item>
+        <item>480p (bảo mật)</item>
+        <item>720p</item>
+        <item>720p (bảo mật)</item>
+        <item>1080p</item>
+        <item>1080p (bảo mật)</item>
+        <item>4k</item>
+        <item>4k (bảo mật)</item>
+        <item>4k (đã nâng cấp)</item>
+        <item>4K (đã nâng cấp, bảo mật)</item>
+        <item>720p, 1080p (màn hình đôi)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Thủ công</item>
+        <item>Bán tự động</item>
+        <item>Tự động</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Tắt</item>
+        <item>Tự động</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Tắt</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Tất cả</item>
+        <item>Phải</item>
+        <item>Trái</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Tắt</item>
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Mạnh</item>
+        <item>Tự động</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Tắt</item>
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Mạnh</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Tự động</item>
+        <item>Toàn màn hình</item>
+        <item>Giới hạn</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Tắt</item>
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Tắt</item>
+        <item>Tối thiểu</item>
+        <item>Trung bình</item>
+        <item>Tối đa</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Người dùng</item>
+        <item>Mát</item>
+        <item>Chuẩn</item>
+        <item>Ấm</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Tối</item>
+        <item>Giữa</item>
+        <item>Sáng</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Bật</item>
+        <item>Tắt</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Sáng</item>
+        <item>Dolby Vision Tối</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Người dùng</item>
+        <item>Rạp chiếu phim</item>
+        <item>Thể thao</item>
+        <item>Sặc sỡ</item>
+        <item>Rất sáng</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Chuẩn</item>
+        <item>Tự nhiên</item>
+        <item>Sặc sỡ</item>
+        <item>Thể thao</item>
+        <item>Phim</item>
+        <item>Trò chơi</item>
+        <item>Tiết kiệm điện</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Người dùng</item>
+        <item>Chuẩn</item>
+        <item>Sặc sỡ</item>
+        <item>Thể thao</item>
+        <item>Phim</item>
+        <item>Trò chơi</item>
+        <item>Tiết kiệm điện</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Tắt</item>
+        <item>%d phút</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>TV phòng khách</item>
+        <item>TV phòng gia đình</item>
+        <item>TV phòng ngủ</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Tự động</item>
+        <item>Siêu thu phóng</item>
+        <item>4:3</item>
+        <item>Phim mở rộng 14:9</item>
+        <item>Phim mở rộng 16:9</item>
+        <item>Màn hình rộng</item>
+        <item>Toàn màn hình</item>
+        <item>Không được tính tỷ lệ</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Siêu thu phóng</item>
+        <item>Toàn màn hình</item>
+        <item>Không được tính tỷ lệ</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Tự động</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Toàn màn hình</item>
+        <item>Thu phóng</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>3 giờ</item>
+        <item>6 giờ</item>
+        <item>12 giờ</item>
+        <item>Không bao giờ</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Tắt</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Tắt</item>
+        <item>64K/lần tải nhật ký</item>
+        <item>256K/lần tải nhật ký</item>
+        <item>1M/lần tải nhật ký</item>
+        <item>4M/lần tải nhật ký</item>
+        <item>16M/lần tải nhật ký</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Tắt</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Tắt</item>
+        <item>Tất cả lần tải nhật ký</item>
+        <item>Tất cả trừ lần tải nhật ký qua đài</item>
+        <item>chỉ vùng đệm nhật ký kernel</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Tắt</item>
+        <item>Tất cả</item>
+        <item>Tất cả trừ đài</item>
+        <item>chỉ kernel</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Tắt</item>
+        <item>Vẽ vùng clip khác hình chữ nhật bằng màu lam</item>
+        <item>Đánh dấu lệnh vẽ đã kiểm tra bằng màu lục</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Trò chơi</item>
+        <item>Phim</item>
+        <item>Nhạc</item>
+        <item>Tin tức</item>
+        <item>Sân vận động</item>
+        <item>Chuẩn</item>
+        <item>Người dùng</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Tắt</item>
+        <item>Bật</item>
+        <item>Tự động</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Tắt</item>
+        <item>Bình thường</item>
+        <item>Đêm</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Âm thanh nổi</item>
+        <item>Vòm</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Tắt</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Trực tiếp</item>
+        <item>Khiêu vũ</item>
+        <item>Techno</item>
+        <item>Cổ điển</item>
+        <item>Êm dịu</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Tự động</item>
+        <item>Bỏ qua</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Tắt</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>Chuyển qua DDP</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>Loa TV</item>
+        <item>Hệ thống âm thanh ngoài</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Người dùng</item>
+        <item>Chuẩn</item>
+        <item>Sặc sỡ</item>
+        <item>Thể thao</item>
+        <item>Phim</item>
+        <item>Nhạc</item>
+        <item>Tin tức</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Chuẩn</item>
+        <item>Thể thao</item>
+        <item>Phim</item>
+        <item>Nhạc</item>
+        <item>Người dùng</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Bình thường</item>
+        <item>Khiếm thính</item>
+        <item>Khiếm thị</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Tắt</item>
+        <item>Trên màn hình dưới dạng thanh</item>
+        <item>Trong adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Tắt hình động</item>
+        <item>Tỷ lệ hình động 0,5x</item>
+        <item>Tỷ lệ hình động 1x</item>
+        <item>Tỷ lệ hình động 1,5x</item>
+        <item>Tỷ lệ hình động 2x</item>
+        <item>Tỷ lệ hình động 5x</item>
+        <item>Tỷ lệ hình động 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Rất chậm</item>
+        <item>Chậm</item>
+        <item>Bình thường</item>
+        <item>Nhanh</item>
+        <item>Nhanh hơn</item>
+        <item>Rất nhanh</item>
+        <item>Nhanh</item>
+        <item>Rất nhanh</item>
+        <item>Nhanh nhất</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Đang sạc</item>
+        <item>MTP (Giao thức truyền phương tiện)</item>
+        <item>PTP (Giao thức truyền hình ảnh)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Nguồn âm thanh</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Không</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Không</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Kém</item>
+        <item>Khá tốt</item>
+        <item>Tốt</item>
+        <item>Tuyệt vời</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Đang quét…</item>
+        <item>Đang kết nối…</item>
+        <item>Đang xác thực…</item>
+        <item>Đang lấy địa chỉ IP…</item>
+        <item>Đã kết nối</item>
+        <item>Bị tạm ngưng</item>
+        <item>Đang ngắt kết nối…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Bị chặn</item>
+        <item>Tạm thời tránh kết nối kém</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Đang quét…</item>
+        <item>Đang kết nối tới %1$s</item>
+        <item>Đang xác thực với %1$s…</item>
+        <item>Đang lấy địa chỉ IP từ %1$s…</item>
+        <item>Đã kết nối tới %1$s</item>
+        <item>Bị tạm ngưng</item>
+        <item>Đăng ngắt kết nối khỏi %1$s…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Bị chặn</item>
+        <item>Tạm thời tránh kết nối kém</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Tắt hình động</item>
+        <item>Tỷ lệ hình động 0,5x</item>
+        <item>Tỷ lệ hình động 1x</item>
+        <item>Tỷ lệ hình động 1,5x</item>
+        <item>Tỷ lệ hình động 2x</item>
+        <item>Tỷ lệ hình động 5x</item>
+        <item>Tỷ lệ hình động 10x</item>
+    </array>
+</resources>

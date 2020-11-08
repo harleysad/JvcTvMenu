@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings">
+    <Preference android:title="@string/title_internet_connection" android:key="connection_status" android:summary="@string/connected"/>
+    <Preference android:title="@string/title_ip_address" android:key="ip_address"/>
+    <Preference android:title="@string/title_mac_address" android:key="mac_address"/>
+    <Preference android:title="@string/title_signal_strength" android:key="signal_strength"/>
+    <Preference android:title="@string/title_wifi_proxy_settings" android:key="proxy_settings"/>
+    <Preference android:title="@string/title_wifi_ip_settings" android:key="ip_settings"/>
+    <Preference android:title="@string/wifi_forget_network" android:key="forget_network"/>
+</PreferenceScreen>

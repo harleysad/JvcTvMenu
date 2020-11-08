@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/accessibility_captions_fusion">
+    <ListPreference android:entries="@array/display_caption_array" android:title="@string/captions_display" android:key="captions_display" android:summary="%s"/>
+    <ListPreference android:entries="@array/caption_service_array" android:title="@string/captions_service" android:key="captions_services" android:summary="%s"/>
+    <ListPreference android:entries="@array/caption_advanced_selection_array" android:title="@string/captions_advanced_selection" android:key="captions_advanced_selection" android:summary="%s"/>
+    <PreferenceCategory android:title="@string/captions_captionstyle">
+        <ListPreference android:entries="@array/caption_text_size_array" android:title="@string/captions_textsize" android:key="captions_text_size" android:summary="%s"/>
+        <ListPreference android:entries="@array/caption_font_family_array" android:title="@string/captions_font_family" android:key="captions_font_family" android:summary="%s"/>
+        <ListPreference android:entries="@array/caption_font_color_array" android:title="@string/captions_text_color" android:key="captions_text_color" android:summary="%s"/>
+        <ListPreference android:entries="@array/caption_font_opacity_array" android:title="@string/captions_font_opacity" android:key="captions_font_opacity" android:summary="%s"/>
+        <ListPreference android:entries="@array/caption_edge_type_array" android:title="@string/captions_edge_type" android:key="captions_edge_type" android:summary="%s"/>
+        <ListPreference android:entries="@array/caption_font_color_array" android:title="@string/captions_edge_color" android:key="captions_edge_color" android:summary="%s"/>
+        <ListPreference android:entries="@array/caption_font_color_array" android:title="@string/captions_background_color" android:key="captions_background_color" android:summary="%s"/>
+        <ListPreference android:entries="@array/caption_font_opacity_array" android:title="@string/captions_background_opacity" android:key="captions_background_opacity" android:summary="%s"/>
+    </PreferenceCategory>
+</PreferenceScreen>

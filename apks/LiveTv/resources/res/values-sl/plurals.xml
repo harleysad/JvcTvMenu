@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Petkrat ste vnesli napačno kodo PIN.\10Poskusite znova čez %1$d sekundo.</item>
+        <item quantity="two">Petkrat ste vnesli napačno kodo PIN.\10Poskusite znova čez %1$d sekundi.</item>
+        <item quantity="few">Petkrat ste vnesli napačno kodo PIN.\10Poskusite znova čez %1$d sekunde.</item>
+        <item quantity="other">Petkrat ste vnesli napačno kodo PIN.\10Poskusite znova čez %1$d sekund.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d kanal</item>
+        <item quantity="two">%1$d kanala</item>
+        <item quantity="few">%1$d kanali</item>
+        <item quantity="other">%1$d kanalov</item>
+    </plurals>
+</resources>

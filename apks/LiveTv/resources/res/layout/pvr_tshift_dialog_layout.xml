@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/menu_scan_dialog_id" android:background="@drawable/info_banner_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="16sp" android:layout_gravity="center" android:id="@+id/diskop_title_line1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" style="android:style/TextAppearance_Theme_Dialog"/>
+    <TextView android:textSize="16sp" android:layout_gravity="center_horizontal" android:id="@+id/diskop_title_line2" android:layout_width="wrap_content" android:layout_height="wrap_content" style="android:style/TextAppearance_Theme_Dialog"/>
+    <RelativeLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/menu_scan_proline" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="14dp" android:layout_marginTop="20dp" android:layout_marginRight="14dp" android:layout_marginBottom="10dp">
+        <ProgressBar android:layout_gravity="center" android:id="@+id/progressbar" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" style="@style/Widget.ProgressBar.Horizontal"/>
+        <TextView android:textSize="16sp" android:textColor="@drawable/white" android:layout_gravity="center_horizontal" android:id="@+id/finishpercentage" android:padding="4dp" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="android:style/TextAppearance_Theme_Dialog"/>
+    </RelativeLayout>
+    <RelativeLayout android:gravity="center" android:background="@drawable/info_banner_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_vertical" android:id="@+id/iv" android:padding="6dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/tk_cm_key_exit"/>
+        <Button android:textSize="14sp" android:textColor="@drawable/white" android:id="@+id/pvr_tshift_device_diskop_exit" android:background="@drawable/menu_dialog_button" android:paddingLeft="7dp" android:paddingRight="7dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/exit" android:layout_toRightOf="@+id/iv" android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>

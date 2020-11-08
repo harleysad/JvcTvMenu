@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d ანგარიში</item>
+        <item quantity="other">%1$d ანგარიში</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">დაკავშირებული შემ. სიგნალი</item>
+        <item quantity="other">დაკავშირებული შემ. სიგნალები</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">დაუკავშირებელი შემ. სიგნალი</item>
+        <item quantity="other">დაუკავშირებელი შემ. სიგნალები</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">შემ. სიგნალი მოლოდინის რეჟიმში</item>
+        <item quantity="other">შემ. სიგნალები მოლოდ. რეჟიმში</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d აქსესუარი</item>
+        <item quantity="other">%1$d აქსესუარი</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">თქვენ ახლა %1$d ნაბიჯი გაშორებთ, რომ გახდეთ დეველოპერი</item>
+        <item quantity="other">თქვენ ახლა %1$d ნაბიჯი გაშორებთ, რომ გახდეთ დეველოპერი</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">დაკავშირებულია %1$d მოწყობილობა</item>
+        <item quantity="other">დაკავშირებულია %1$d მოწყობილობა</item>
+    </plurals>
+</resources>

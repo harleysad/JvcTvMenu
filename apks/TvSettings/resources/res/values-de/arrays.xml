@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>AUS</item>
+        <item>LINKS</item>
+        <item>RECHTS</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demovideo</item>
+        <item>e-POP links</item>
+        <item>e-POP unten</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animation aus</item>
+        <item>Animationsmaßstab: 0,5x</item>
+        <item>Animationsmaßstab: 1x</item>
+        <item>Animationsmaßstab: 1,5x</item>
+        <item>Animationsmaßstab: 2x</item>
+        <item>Animationsmaßstab: 5x</item>
+        <item>Animationsmaßstab: 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animation aus</item>
+        <item>Animationsmaßstab: 0,5x</item>
+        <item>Animationsmaßstab: 1x</item>
+        <item>Animationsmaßstab: 1,5x</item>
+        <item>Animationsmaßstab: 2x</item>
+        <item>Animationsmaßstab: 5x</item>
+        <item>Animationsmaßstab: 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standardlimit</item>
+        <item>Keine Hintergrundprozesse</item>
+        <item>Höchstens 1 Prozess</item>
+        <item>Höchstens 2 Prozesse</item>
+        <item>Höchstens 3 Prozesse</item>
+        <item>Höchstens 4 Prozesse</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Zeit aus Netzwerk beziehen</item>
+        <item>Aus</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Zeit aus Netzwerk beziehen</item>
+        <item>Zeit aus Transport Stream beziehen</item>
+        <item>Aus</item>
+    </array>
+    <array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Systemauswahl verwenden (Standard)</item>
+        <item>16 Bits pro Sample</item>
+        <item>24 Bits pro Sample</item>
+        <item>32 Bits pro Sample</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Systemauswahl verwenden (Standard)</item>
+        <item>16 Bits pro Sample</item>
+        <item>24 Bits pro Sample</item>
+        <item>32 Bits pro Sample</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Systemauswahl verwenden (Standard)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Systemauswahl verwenden (Standard)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Für Audioqualität optimiert</item>
+        <item>Ausgeglichene Audio- und Verbindungsqualität</item>
+        <item>Für Verbindungsqualität optimiert</item>
+        <item>Bestmöglich (adaptive Bitrate)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Für Audioqualität optimiert (990 kbit/s/909 kbit/s)</item>
+        <item>Ausgeglichene Audio- und Verbindungsqualität (660 kbit/s/606 kbit/s)</item>
+        <item>Für Verbindungsqualität optimiert (330 kbit/s/303 kbit/s)</item>
+        <item>Bestmöglich (adaptive Bitrate)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Systemauswahl verwenden (Standard)</item>
+        <item>44,1 kHz</item>
+        <item>48 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Systemauswahl verwenden (Standard)</item>
+        <item>44,1 kHz</item>
+        <item>48 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Systemauswahl verwenden (Standard)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™-Audio</item>
+        <item>Qualcomm® aptX™ HD-Audio</item>
+        <item>LDAC</item>
+        <item>Optionale Codecs aktivieren</item>
+        <item>Optionale Codecs deaktivieren</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Systemauswahl verwenden (Standard)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™-Audio</item>
+        <item>Qualcomm® aptX™ HD-Audio</item>
+        <item>LDAC</item>
+        <item>Optionale Codecs aktivieren</item>
+        <item>Optionale Codecs deaktivieren</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Standard)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Standard</item>
+        <item>–</item>
+        <item>Umriss</item>
+        <item>Schlagschatten</item>
+        <item>Erhöht</item>
+        <item>Vertieft</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Standard</item>
+        <item>Schwarz</item>
+        <item>Weiß</item>
+        <item>Grün</item>
+        <item>Blau</item>
+        <item>Rot</item>
+        <item>Cyan</item>
+        <item>Gelb</item>
+        <item>Magenta</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Standard</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif Monospace</item>
+        <item>Serifen</item>
+        <item>Serif Monospace</item>
+        <item>Casual</item>
+        <item>Kursiv</item>
+        <item>Kapitälchen</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Standard</item>
+        <item>Durchgängig</item>
+        <item>Durchscheinend</item>
+        <item>Transparent</item>
+        <item>Blinkend</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Standard</item>
+        <item>Klein</item>
+        <item>Normal</item>
+        <item>Groß</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Ohne</item>
+        <item>Kontur</item>
+        <item>Schlagschatten</item>
+        <item>Erhöht</item>
+        <item>Vertieft</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Sehr klein</item>
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+        <item>Sehr groß</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Standard</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif, schmal</item>
+        <item>Sans Serif Monospace</item>
+        <item>Serif</item>
+        <item>Serif Monospace</item>
+        <item>Casual</item>
+        <item>Kursiv</item>
+        <item>Kapitälchen</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Kein CEC-Gerät</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Verstärkte Farben</item>
+        <item>Natürliche Farben wie vom Auge wahrgenommen</item>
+        <item>Für digitale Inhalte optimierte Farben</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Brillant (Standardeinstellung)</item>
+        <item>Natürlich</item>
+        <item>Standard</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Aus</item>
+        <item>Überschneidungsbereiche anzeigen</item>
+        <item>Bereiche für Deuteranomalie anzeigen</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Aus</item>
+        <item>An</item>
+        <item>Mit Untertiteln und stumm</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Keine</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafik)</item>
+        <item>Aufrufliste für glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>HDCP-Prüfung nie verwenden</item>
+        <item>HDCP-Prüfung nur für DRM-Inhalte verwenden</item>
+        <item>HDCP-Prüfung immer verwenden</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Nie prüfen</item>
+        <item>Nur auf DRM-Inhalte prüfen</item>
+        <item>Immer prüfen</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Automatische EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Keine</item>
+        <item>480p</item>
+        <item>480p (sicher)</item>
+        <item>720p</item>
+        <item>720p (sicher)</item>
+        <item>1080p</item>
+        <item>1080p (sicher)</item>
+        <item>4K</item>
+        <item>4K (sicher)</item>
+        <item>4K (hochskaliert)</item>
+        <item>4K (hochskaliert, sicher)</item>
+        <item>720p, 1080p (Dual-Screen)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Manuell</item>
+        <item>Halbautomatisch</item>
+        <item>Automatisch</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Aus</item>
+        <item>Automatisch</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Aus</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Alle</item>
+        <item>Rechts</item>
+        <item>Links</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Aus</item>
+        <item>Niedrig</item>
+        <item>Mittel</item>
+        <item>Stark</item>
+        <item>Automatisch</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Aus</item>
+        <item>Niedrig</item>
+        <item>Mittel</item>
+        <item>Stark</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Automatisch</item>
+        <item>Vollbild</item>
+        <item>Beschränkung</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Aus</item>
+        <item>Niedrig</item>
+        <item>Mittel</item>
+        <item>Hoch</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Aus</item>
+        <item>Minimum</item>
+        <item>Mittel</item>
+        <item>Maximal</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Nutzer</item>
+        <item>Kühl</item>
+        <item>Standard</item>
+        <item>Warm</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Dunkel</item>
+        <item>Mittel</item>
+        <item>Hell</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>An</item>
+        <item>Aus</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision – hell</item>
+        <item>Dolby Vision – dunkel</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Nutzer</item>
+        <item>Kino</item>
+        <item>Sport</item>
+        <item>Lebhaft</item>
+        <item>Sehr hell</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standard</item>
+        <item>Natürlich</item>
+        <item>Lebhaft</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Spiel</item>
+        <item>Energiesparen</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Nutzer</item>
+        <item>Standard</item>
+        <item>Lebhaft</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Spiel</item>
+        <item>Energiesparen</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Aus</item>
+        <item>%d Minuten</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Fernseher im Wohnzimmer</item>
+        <item>Fernseher im Familienzimmer</item>
+        <item>Fernseher im Gästezimmer</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Automatisch</item>
+        <item>Superzoom</item>
+        <item>4:3</item>
+        <item>Breitbildformat 14:9</item>
+        <item>Breitbildformat 16:9</item>
+        <item>Breitbild</item>
+        <item>Vollbild</item>
+        <item>Nicht skaliert</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Superzoom</item>
+        <item>Vollbild</item>
+        <item>Nicht skaliert</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Automatisch</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Vollbild</item>
+        <item>Zoom</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>3 Stunden</item>
+        <item>6 Stunden</item>
+        <item>12 Stunden</item>
+        <item>Nie</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Aus</item>
+        <item>64.000</item>
+        <item>256.000</item>
+        <item>1 Mio.</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Aus</item>
+        <item>64.000 pro Puffer</item>
+        <item>256.000 pro Puffer</item>
+        <item>1 Mio. pro Puffer</item>
+        <item>4 Mio. pro Puffer</item>
+        <item>16 Mio. pro Puffer</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Aus</item>
+        <item>64.000</item>
+        <item>256.000</item>
+        <item>1 Mio.</item>
+        <item>4 Mio.</item>
+        <item>16 Mio.</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Aus</item>
+        <item>Alle Protokollzwischenspeicher</item>
+        <item>Alle Protokollzwischenspeicher außer Funkschnittstelle</item>
+        <item>Nur Kernelprotokoll-Zwischenspeicher</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Aus</item>
+        <item>Alle</item>
+        <item>Alle außer Funkschnittstelle</item>
+        <item>Nur Kernel</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Aus</item>
+        <item>Nicht rechteckigen Clipbereich blau zeichnen</item>
+        <item>Getestete Zeichenbefehle grün hervorheben</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>2 Stunden</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Spiel</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Nachrichten</item>
+        <item>Stadion</item>
+        <item>Standard</item>
+        <item>Nutzer</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Aus</item>
+        <item>An</item>
+        <item>Automatisch</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Aus</item>
+        <item>Normal</item>
+        <item>Nacht</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Surround</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Aus</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Live</item>
+        <item>Dance</item>
+        <item>Techno</item>
+        <item>Klassik</item>
+        <item>Weich</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Automatisch</item>
+        <item>Umgehen</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Aus</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP-Passthrough</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>Fernsehlautsprecher</item>
+        <item>Externes Audiosystem</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Nutzer</item>
+        <item>Standard</item>
+        <item>Lebhaft</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Nachrichten</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standard</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Nutzer</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normal</item>
+        <item>Hörgeschädigt</item>
+        <item>Sehbehindert</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Aus</item>
+        <item>Auf Bildschirm als Balken</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animation aus</item>
+        <item>Animationsmaßstab: 0,5x</item>
+        <item>Animationsmaßstab: 1x</item>
+        <item>Animationsmaßstab: 1,5x</item>
+        <item>Animationsmaßstab: 2x</item>
+        <item>Animationsmaßstab: 5x</item>
+        <item>Animationsmaßstab: 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Sehr langsam</item>
+        <item>Langsam</item>
+        <item>Mittel</item>
+        <item>Schnell</item>
+        <item>Schneller</item>
+        <item>Sehr schnell</item>
+        <item>Schnell</item>
+        <item>Sehr schnell</item>
+        <item>Am schnellsten</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Wird aufgeladen</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB-Ethernet)</item>
+        <item>Audioquelle</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Keine</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Keine</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Schwach</item>
+        <item>Ausreichend</item>
+        <item>Gut</item>
+        <item>Ausgezeichnet</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Scan läuft…</item>
+        <item>Verbindung wird hergestellt...</item>
+        <item>Authentifizierung...</item>
+        <item>IP-Adresse wird abgerufen...</item>
+        <item>Verbunden</item>
+        <item>Angehalten</item>
+        <item>Verbindung wird getrennt...</item>
+        <item>Nicht verbunden</item>
+        <item>Nicht erfolgreich</item>
+        <item>Blockiert</item>
+        <item>Schlechte Internetverbindung wird vorübergehend vermieden.</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Scan läuft…</item>
+        <item>Verbindung mit %1$s wird hergestellt...</item>
+        <item>Authentifizierung mit %1$s...</item>
+        <item>IP-Adresse wird von %1$s abgerufen...</item>
+        <item>Verbunden mit %1$s</item>
+        <item>Angehalten</item>
+        <item>Verbindung mit %1$s wird getrennt...</item>
+        <item>Nicht verbunden</item>
+        <item>Nicht erfolgreich</item>
+        <item>Blockiert</item>
+        <item>Schlechte Internetverbindung wird vorübergehend vermieden.</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animation aus</item>
+        <item>Animationsmaßstab: 0,5x</item>
+        <item>Animationsmaßstab: 1x</item>
+        <item>Animationsmaßstab: 1,5x</item>
+        <item>Animationsmaßstab: 2x</item>
+        <item>Animationsmaßstab: 5x</item>
+        <item>Animationsmaßstab: 10x</item>
+    </array>
+</resources>

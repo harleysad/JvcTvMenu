@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/special_access">
+    <Preference android:title="@string/high_power_apps" android:key="high_power_apps" android:fragment="com.android.tv.settings.device.apps.specialaccess.HighPower"/>
+    <Preference android:title="@string/usage_access" android:key="AppUsage" android:fragment="com.android.tv.settings.device.apps.specialaccess.AppUsageAccess"/>
+    <Preference android:title="@string/manage_notification_access_title" android:key="notification_access" android:fragment="com.android.tv.settings.device.apps.specialaccess.NotificationAccess"/>
+    <Preference android:title="@string/system_alert_window_settings" android:key="system_alert_window" android:fragment="com.android.tv.settings.device.apps.specialaccess.SystemAlertWindow"/>
+    <Preference android:title="@string/write_system_settings" android:key="write_settings" android:fragment="com.android.tv.settings.device.apps.specialaccess.WriteSettings"/>
+    <Preference android:title="@string/picture_in_picture_title" android:key="picture_in_picture" android:fragment="com.android.tv.settings.device.apps.specialaccess.PictureInPicture"/>
+    <Preference android:title="@string/directory_access" android:key="directory_access" android:fragment="com.android.tv.settings.device.apps.specialaccess.DirectoryAccess"/>
+</PreferenceScreen>

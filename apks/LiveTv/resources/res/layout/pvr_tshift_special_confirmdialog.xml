@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/menu_scan_dialog_id" android:background="@drawable/nav_infobar_special_confirm_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="16sp" android:layout_gravity="center" android:id="@+id/diskop_title_line1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" style="android:style/TextAppearance_Theme_Dialog"/>
+    <TextView android:textSize="16sp" android:layout_gravity="center_horizontal" android:id="@+id/diskop_title_line2" android:layout_width="wrap_content" android:layout_height="wrap_content" style="android:style/TextAppearance_Theme_Dialog"/>
+    <TableLayout android:textSize="@dimen/nav_pvr_textsize" android:textColor="@color/white" android:id="@+id/device_info" android:padding="7dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="13sp" android:layout_marginRight="17sp" android:stretchColumns="0,1,2,3,4"/>
+    <LinearLayout android:orientation="horizontal" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+        <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1">
+            <Button android:textSize="16sp" android:textColor="@drawable/white" android:layout_gravity="center_horizontal" android:id="@+id/confirm_btn_yes" android:background="@drawable/menu_dialog_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_confirm_yes"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1">
+            <Button android:textSize="16sp" android:textColor="@drawable/white" android:layout_gravity="center_horizontal" android:id="@+id/confirm_btn_no" android:background="@drawable/menu_dialog_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_confirm_no"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

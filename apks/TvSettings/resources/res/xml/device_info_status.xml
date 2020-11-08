@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_status_title">
+    <Preference android:persistent="false" android:title="@string/battery_status_title" android:key="battery_status" android:summary="@string/status_unavailable"/>
+    <Preference android:persistent="false" android:title="@string/battery_level_title" android:key="battery_level" android:summary="@string/status_unavailable"/>
+    <PreferenceScreen android:persistent="false" android:title="@string/sim_status_title" android:key="sim_status">
+        <intent android:targetPackage="com.android.settings" android:targetClass="com.android.settings.deviceinfo.SimStatus"/>
+    </PreferenceScreen>
+    <PreferenceScreen android:persistent="false" android:title="@string/imei_information_title" android:key="imei_info">
+        <intent android:targetPackage="com.android.settings" android:targetClass="com.android.settings.deviceinfo.ImeiInformation"/>
+    </PreferenceScreen>
+    <Preference android:persistent="false" android:title="@string/title_ip_address" android:key="wifi_ip_address" android:summary="@string/status_unavailable"/>
+    <Preference android:persistent="false" android:title="@string/title_mac_address" android:key="wifi_mac_address" android:summary="@string/status_unavailable"/>
+    <Preference android:persistent="false" android:title="@string/status_bt_address" android:key="bt_address" android:summary="@string/status_unavailable"/>
+    <Preference android:persistent="false" android:title="@string/about_serial" android:key="serial_number" android:summary="@string/status_unavailable"/>
+    <Preference android:persistent="false" android:title="@string/status_up_time" android:key="up_time" android:summary="@string/status_unavailable"/>
+    <Preference android:persistent="false" android:enabled="false" android:title="@string/ims_reg_title" android:key="ims_reg_state" android:shouldDisableView="false"/>
+</PreferenceScreen>

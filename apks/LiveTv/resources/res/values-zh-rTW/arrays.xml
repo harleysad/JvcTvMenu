@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ampm">
+        <item>上午</item>
+        <item>下午</item>
+    </array>
+</resources>

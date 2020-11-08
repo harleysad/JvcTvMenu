@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">您已輸入錯誤的 PIN 5 次。\10請於 %1$d 秒後再試。</item>
+        <item quantity="other">您已輸入錯誤的 PIN 5 次。\10請於 %1$d 秒後再試。</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d 個頻道</item>
+        <item quantity="other">%1$d 個頻道</item>
+    </plurals>
+</resources>

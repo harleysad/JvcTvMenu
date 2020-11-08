@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>AV</item>
+        <item>VÄNSTER</item>
+        <item>HÖGER</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demovideo</item>
+        <item>e-POP, vänster</item>
+        <item>e-POP, nederkant</item>
+    </array>
+    <array name="ampm">
+        <item>FM</item>
+        <item>EM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animation avstängd</item>
+        <item>Animation i skala 0,5x</item>
+        <item>Animation i skala 1x</item>
+        <item>Animation i skala 1,5x</item>
+        <item>Animation i skala 2x</item>
+        <item>Animation i skala 5x</item>
+        <item>Animation i skala 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animation avstängd</item>
+        <item>Animation i skala 0,5x</item>
+        <item>Animation i skala 1x</item>
+        <item>Animation i skala 1,5x</item>
+        <item>Animation i skala 2x</item>
+        <item>Animation i skala 5x</item>
+        <item>Animation i skala 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standardgräns</item>
+        <item>Inga bakgrundsprocesser</item>
+        <item>Högst 1 process</item>
+        <item>Högst 2 processer</item>
+        <item>Högst 3 processer</item>
+        <item>Högst 4 processer</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Använd nätverkets tid</item>
+        <item>Av</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Använd nätverkets tid</item>
+        <item>Använd tid från transportström</item>
+        <item>Av</item>
+    </array>
+    <array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Använd systemval (standardinställning)</item>
+        <item>16 bitar/sampling</item>
+        <item>24 bitar/sampling</item>
+        <item>32 bitar/sampling</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Använd systemval (standardinställning)</item>
+        <item>16 bitar/sampling</item>
+        <item>24 bitar/sampling</item>
+        <item>32 bitar/sampling</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Använd systemval (standardinställning)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Använd systemval (standardinställning)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimerad för ljudkvalitet</item>
+        <item>Balanserad ljud- och anslutningskvalitet</item>
+        <item>Optimerad för anslutningskvalitet</item>
+        <item>Bästa möjliga kvalitet (anpassad bithastighet)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimerad för ljudkvalitet (990 kbit/s eller 909 kbit/s)</item>
+        <item>Balanserad ljud- och anslutningskvalitet (660 kbit/s/606 kbit/s)</item>
+        <item>Optimerad för anslutningskvalitet (330 kbit/s eller 303 kbit/s)</item>
+        <item>Bästa möjliga kvalitet (anpassad bithastighet)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Använd systemval (standardinställning)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Använd systemval (standardinställning)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Använd systemval (standardinställning)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™-ljud</item>
+        <item>Qualcomm® aptX™ HD-ljud</item>
+        <item>LDAC</item>
+        <item>Aktivera valfria kodekar</item>
+        <item>Inaktivera valfria kodekar</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Använd systemval (standardinställning)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™-ljud</item>
+        <item>Qualcomm® aptX™ HD-ljud</item>
+        <item>LDAC</item>
+        <item>Aktivera valfria kodekar</item>
+        <item>Inaktivera valfria kodekar</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (standard)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Standard</item>
+        <item>Ingen</item>
+        <item>Kontur</item>
+        <item>Skugga</item>
+        <item>Upphöjd</item>
+        <item>Nedsänkt</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Standard</item>
+        <item>Svart</item>
+        <item>Vit</item>
+        <item>Grön</item>
+        <item>Blå</item>
+        <item>Röd</item>
+        <item>Cyan</item>
+        <item>Gul</item>
+        <item>Magenta</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Standard</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif med fast breddsteg</item>
+        <item>Seriff</item>
+        <item>Seriff med fast breddsteg</item>
+        <item>Vanliga</item>
+        <item>Kursiv</item>
+        <item>Kapitäler</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Standard</item>
+        <item>Solitt</item>
+        <item>Genomskinligt</item>
+        <item>Genomskinlig</item>
+        <item>Blinkande</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Standard</item>
+        <item>Liten</item>
+        <item>Normal</item>
+        <item>Stor</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Ingen</item>
+        <item>Kontur</item>
+        <item>Skugga</item>
+        <item>Upphöjd</item>
+        <item>Nedsänkt</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Mycket liten</item>
+        <item>Liten</item>
+        <item>Medelstor</item>
+        <item>Stor</item>
+        <item>Mycket stor</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Standard</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif Condensed</item>
+        <item>Jämnbreda typsnitt – sans-serif</item>
+        <item>Seriff</item>
+        <item>Jämnbreda typsnitt – seriff</item>
+        <item>Informell</item>
+        <item>Kursiv</item>
+        <item>Kapitäler</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Ingen CEC-enhet</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Berikade färger</item>
+        <item>Naturliga färger så som ögat ser dem</item>
+        <item>Färger som har anpassats för digitalt innehåll</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Starka (standard)</item>
+        <item>Naturliga</item>
+        <item>Standardfärger</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Av</item>
+        <item>Visa överritningsområden</item>
+        <item>Visa områden för deuteranomali</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Av</item>
+        <item>På</item>
+        <item>Undertexter med ljud av</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Inga</item>
+        <item>Logcat</item>
+        <item>Systrace (grafik)</item>
+        <item>Anropsstacken på glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Använd aldrig HDCP-kontroll</item>
+        <item>Använd bara HDCP-kontroll för DRM-innehåll</item>
+        <item>Använd alltid HDCP-kontroll</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Kontrollera aldrig</item>
+        <item>Kontrollera bara DRM-innehåll</item>
+        <item>Kontrollera alltid</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Automatisk EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Inga</item>
+        <item>480 p</item>
+        <item>480 p (säkert)</item>
+        <item>720 p</item>
+        <item>720 p (säkert)</item>
+        <item>1080 p</item>
+        <item>1080 p (säkert)</item>
+        <item>4K</item>
+        <item>4K (säkert)</item>
+        <item>4K (uppskalat)</item>
+        <item>4K (uppskalat, säkert)</item>
+        <item>720 p, 1080 p (dubbla skärmar)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Manuellt</item>
+        <item>Semiautomatiskt</item>
+        <item>Automatiskt</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Av</item>
+        <item>Automatiskt</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Av</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Alla</item>
+        <item>Höger</item>
+        <item>Vänster</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Av</item>
+        <item>Låg</item>
+        <item>Medel</item>
+        <item>Skarp</item>
+        <item>Automatiskt</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Av</item>
+        <item>Låg</item>
+        <item>Medel</item>
+        <item>Skarp</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Automatiskt</item>
+        <item>Full</item>
+        <item>Gräns</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Av</item>
+        <item>Låg</item>
+        <item>Medel</item>
+        <item>Hög</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Av</item>
+        <item>Minimum</item>
+        <item>Medel</item>
+        <item>Högsta</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Användare</item>
+        <item>Kalla färger</item>
+        <item>Standard</item>
+        <item>Varma färger</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Mörkt</item>
+        <item>Mitten</item>
+        <item>Ljus</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>På</item>
+        <item>Av</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision, ljust</item>
+        <item>Dolby Vision, mörkt</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Användare</item>
+        <item>Bio</item>
+        <item>Sport</item>
+        <item>Starka färger</item>
+        <item>Hög ljusstyrka</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standard</item>
+        <item>Naturlig</item>
+        <item>Starka färger</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Spel</item>
+        <item>Energisparläge</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Användare</item>
+        <item>Standard</item>
+        <item>Starka färger</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Spel</item>
+        <item>Energisparläge</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Av</item>
+        <item>%d minuter</item>
+    </array>
+    <array name="rooms">
+        <item>Android-TV</item>
+        <item>TV:n i vardagsrummet</item>
+        <item>TV:n i familjerummet</item>
+        <item>TV:n i sovrummet</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Automatiskt</item>
+        <item>Superzoom</item>
+        <item>4:3</item>
+        <item>Utöka till 14:9 för film</item>
+        <item>Utöka till 16:9 för film</item>
+        <item>Bredbild</item>
+        <item>Helskärm</item>
+        <item>Ingen skalning</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Superzoom</item>
+        <item>Helskärm</item>
+        <item>Ingen skalning</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Automatiskt</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Helskärm</item>
+        <item>Zoom</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 minuter</item>
+        <item>1 timme</item>
+        <item>3 timmar</item>
+        <item>6 timmar</item>
+        <item>12 timmar</item>
+        <item>Aldrig</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Av</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Av</item>
+        <item>64 kB/loggbuffert</item>
+        <item>256 kB/loggbuffert</item>
+        <item>1 MB/loggbuffert</item>
+        <item>4 MB/loggbuffert</item>
+        <item>16 MB/loggbuffert</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Av</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Av</item>
+        <item>Alla loggbuffertar</item>
+        <item>Alla loggbuffertar utom för radio</item>
+        <item>endast buffert av kernellogg</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Av</item>
+        <item>Alla</item>
+        <item>Alla utom radio</item>
+        <item>endast kernel</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Av</item>
+        <item>Rita icke-rektangulära urklippsavsnitt i blått</item>
+        <item>Markera testade ritningskommandon i grönt</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 minuter</item>
+        <item>15 minuter</item>
+        <item>30 minuter</item>
+        <item>1 timme</item>
+        <item>2 timmar</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Spel</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Nyheter</item>
+        <item>Stadion</item>
+        <item>Standard</item>
+        <item>Användare</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Av</item>
+        <item>På</item>
+        <item>Automatiskt</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Av</item>
+        <item>Normal</item>
+        <item>Natt</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Surroundljud</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Av</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Live</item>
+        <item>Dance</item>
+        <item>Techno</item>
+        <item>Klassisk musik</item>
+        <item>Dämpat</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Automatiskt</item>
+        <item>Hoppa över</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Av</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP-vidarebefordran</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>Tv-högtalare</item>
+        <item>Externt ljudsystem</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Användare</item>
+        <item>Standard</item>
+        <item>Starka färger</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Nyheter</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standard</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Användare</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normal</item>
+        <item>Hörselnedsättning</item>
+        <item>Synnedsättning</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Av</item>
+        <item>På skärmen som fält</item>
+        <item>Om adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animation avstängd</item>
+        <item>Animation i skala 0,5x</item>
+        <item>Animation i skala 1x</item>
+        <item>Animation i skala 1,5x</item>
+        <item>Animation i skala 2x</item>
+        <item>Animation i skala 5x</item>
+        <item>Animation i skala 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Mycket långsamt</item>
+        <item>Långsamt</item>
+        <item>Normalt</item>
+        <item>Snabbt</item>
+        <item>Snabbare</item>
+        <item>Mycket snabbt</item>
+        <item>Supersnabbt</item>
+        <item>Turbosnabbt</item>
+        <item>Snabbast</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Laddar</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB-ethernet)</item>
+        <item>Ljudkälla</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Inga</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Inga</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Dålig</item>
+        <item>Medel</item>
+        <item>Bra</item>
+        <item>Utmärkt</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Skannar…</item>
+        <item>Ansluter…</item>
+        <item>Autentiserar…</item>
+        <item>Erhåller IP-adress…</item>
+        <item>Ansluten</item>
+        <item>Pausad</item>
+        <item>Kopplar ifrån…</item>
+        <item>Frånkopplad</item>
+        <item>Misslyckades</item>
+        <item>Blockerat</item>
+        <item>Undviker just nu dålig anslutning</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Skannar…</item>
+        <item>Ansluter till %1$s…</item>
+        <item>Autentiserar med %1$s…</item>
+        <item>Hämtar IP-adress från %1$s…</item>
+        <item>Ansluten till: %1$s</item>
+        <item>Pausad</item>
+        <item>Kopplar ifrån %1$s…</item>
+        <item>Frånkopplad</item>
+        <item>Misslyckades</item>
+        <item>Blockerat</item>
+        <item>Undviker just nu dålig anslutning</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animation avstängd</item>
+        <item>Animation i skala 0,5x</item>
+        <item>Animation i skala 1x</item>
+        <item>Animation i skala 1,5x</item>
+        <item>Animation i skala 2x</item>
+        <item>Animation i skala 5x</item>
+        <item>Animation i skala 10x</item>
+    </array>
+</resources>

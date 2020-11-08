@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="30dp">
+        <shape android:shape="line">
+            <size android:height="1sp" android:width="1sp"/>
+            <stroke android:width="1sp" android:color="@color/setup_list_item_focused"/>
+        </shape>
+    </item>
+</layer-list>

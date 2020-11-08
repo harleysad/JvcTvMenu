@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="config_additional_system_update_setting_enable">false</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="config_quick_settings_show_take_bugreport">true</bool>
+    <bool name="config_show_manual">false</bool>
+    <bool name="config_show_regulatory_info">false</bool>
+</resources>

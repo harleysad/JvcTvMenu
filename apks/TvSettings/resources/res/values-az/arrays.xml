@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>DEAKTİV</item>
+        <item>SOL</item>
+        <item>SAĞ</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demo video</item>
+        <item>e-POP sol</item>
+        <item>e-POP küncü</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animasiya qeyri-aktivdir</item>
+        <item>.5x miqyaslı animasiya</item>
+        <item>1x miqyaslı animasiya</item>
+        <item>1.5x miqyaslı animasiya</item>
+        <item>2x miqyaslı animasiya</item>
+        <item>5x miqyaslı animasiya</item>
+        <item>10x miqyaslı animasiya</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animasiya qapalıdır</item>
+        <item>Animasiya miqyası .5x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>2x miqyaslı animasiya</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>10x miqyaslı animasiya</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standart limit</item>
+        <item>Fon proses yoxdur</item>
+        <item>Ən çox 1 proses</item>
+        <item>Ən çox 2 proses</item>
+        <item>Ən çox 3 proses</item>
+        <item>Ən çox 4 proses</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Şəbəkə təminatlı zamandan istifadə edin.</item>
+        <item>Deaktiv</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Şəbəkə təminatlı zamandan istifadə edin.</item>
+        <item>Transport yayım təminatlı zamandan istifadə edin.</item>
+        <item>Deaktiv</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sistem Seçimini istifadə edin (Defolt)</item>
+        <item>16 bit/nümunə</item>
+        <item>24 bit/nümunə</item>
+        <item>32 bit/nümunə</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sistem Seçimini istifadə edin (Defolt)</item>
+        <item>16 bit/nümunə</item>
+        <item>24 bit/nümunə</item>
+        <item>32 bit/nümunə</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sistem Seçimini istifadə edin (Defolt)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sistem Seçimini istifadə edin (Defolt)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Audio Keyfiyyəti üçün optimallaşdırıldı</item>
+        <item>Balanslı Audio və Bağlantı Keyfiyyəti</item>
+        <item>Bağlantı Keyfiyyəti üçün optimallaşdırıldı</item>
+        <item>Yüksək Cəhd (Adaptiv Bit Ölçüsü)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Audio Keyfiyyəti üçün optimallaşdırıldı (990kbps/909kbps)</item>
+        <item>Balanslı Audio və Bağlantı Keyfiyyəti (660kbps/606kbps)</item>
+        <item>Bağlantı Keyfiyyəti üçün optimallaşdırıldı (330kbps/303kbps)</item>
+        <item>Yüksək Cəhd (Adaptiv Bit Ölçüsü)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sistem Seçimini istifadə edin (Defolt)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sistem Seçimini istifadə edin (Defolt)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Sistem Seçimini istifadə edin (Defolt)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Şəxsi Kodekləri Aktiv edin</item>
+        <item>Şəxsi Kodekləri Deaktiv edin</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem Seçimini istifadə edin (Defolt)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Şəxsi Kodekləri Aktiv edin</item>
+        <item>Şəxsi Kodekləri Deaktiv edin</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Defolt)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Defolt</item>
+        <item>Heç biri</item>
+        <item>Kontur</item>
+        <item>Düşən kölgə</item>
+        <item>Qaldırılmış</item>
+        <item>Əyilmiş</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Defolt</item>
+        <item>Qara</item>
+        <item>Ağ</item>
+        <item>Yaşıl</item>
+        <item>Göy</item>
+        <item>Qırmızı</item>
+        <item>Firuzəyi</item>
+        <item>Sarı</item>
+        <item>Bənövşəyi-qırmızı</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Defolt</item>
+        <item>Sans-serif</item>
+        <item>Tək boşluqlu sans-serif</item>
+        <item>Serif</item>
+        <item>Tək boşluqlu Serif</item>
+        <item>Sadə</item>
+        <item>Kursiv</item>
+        <item>Kiçik hərflər</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Defolt</item>
+        <item>Doğun</item>
+        <item>Yarı şəffaf</item>
+        <item>Şəffaf</item>
+        <item>Yanıb-sönən</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Defolt</item>
+        <item>Kiçik</item>
+        <item>Normal</item>
+        <item>Böyük</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Heç biri</item>
+        <item>Kontur</item>
+        <item>Kölgə salın</item>
+        <item>Qaldırılmış</item>
+        <item>Bunalımlı</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Çox kiçik</item>
+        <item>Kiçik</item>
+        <item>Normal</item>
+        <item>Böyük</item>
+        <item>Çox böyük</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Defolt</item>
+        <item>Sans-serif</item>
+        <item>Qalın sans-serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Gündəlik</item>
+        <item>Kursiv</item>
+        <item>Kiçik böyüklər</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC Cihazı Yoxdur</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Artırılmış rənglər</item>
+        <item>Gözlə göründüyü kimi təbii rənglər</item>
+        <item>Rəqəmsal məzmun üçün optimallaşdırılan rənglər</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Canlı (defolt)</item>
+        <item>Təbii</item>
+        <item>Standart</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Deaktiv</item>
+        <item>Böyütmə sahələrini göstər</item>
+        <item>Daltonizm üçün sahələri göstərin</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Deaktiv</item>
+        <item>Aktiv</item>
+        <item>Altyazı səssiz</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Heç biri</item>
+        <item>Logcat</item>
+        <item>Systrace (Qrafika)</item>
+        <item>GlGetError üzərində zəng yğını</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Heç vaxt HDCP yoxlama istifadə etməyin</item>
+        <item>Yalnız DRM məzmun oxumaq üçün HDCP istifadə edin</item>
+        <item>Həmişə HDCP yoxlama istifadə edin</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Heç vaxt yoxlama</item>
+        <item>Yalnız DRM kontent üçün yoxlayın</item>
+        <item>Həmişə yoxlayın</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Avto EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Heç biri</item>
+        <item>480p</item>
+        <item>480p (güvənli)</item>
+        <item>720p</item>
+        <item>720p (güvənli)</item>
+        <item>1080p</item>
+        <item>1080p (güvənli)</item>
+        <item>4K</item>
+        <item>4K (güvənli)</item>
+        <item>4K (geniş miqyaslı)</item>
+        <item>4K (geniş miqyaslı, güvənli)</item>
+        <item>720p, 1080p (ikili ekran)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Manual</item>
+        <item>Yarı avtomatik</item>
+        <item>Avto</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Deaktiv</item>
+        <item>Avto</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Deaktiv</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Hamısı</item>
+        <item>Sağ</item>
+        <item>Sol</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Deaktiv</item>
+        <item>Aşağı</item>
+        <item>Orta</item>
+        <item>Güclü</item>
+        <item>Avto</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Deaktiv</item>
+        <item>Aşağı</item>
+        <item>Orta</item>
+        <item>Güclü</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Avto</item>
+        <item>Tam</item>
+        <item>Limit</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Deaktiv</item>
+        <item>Aşağı</item>
+        <item>Orta</item>
+        <item>Yüksək</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Deaktiv</item>
+        <item>Minimum</item>
+        <item>Orta</item>
+        <item>Maksimum</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>İstifadəçi</item>
+        <item>Soyuq</item>
+        <item>Standart</item>
+        <item>İsti</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Tünd</item>
+        <item>Orta</item>
+        <item>Parlaq</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Aktiv</item>
+        <item>Deaktiv</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Parlaqlığı</item>
+        <item>Dolby Vision Tünd</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>İstifadəçi</item>
+        <item>Kino</item>
+        <item>İdman</item>
+        <item>Canlı</item>
+        <item>Çox parlaq</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standart</item>
+        <item>Təbii</item>
+        <item>Canlı</item>
+        <item>İdman</item>
+        <item>Film</item>
+        <item>Oyun</item>
+        <item>Batareyaya qənaət</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>İstifadəçi</item>
+        <item>Standart</item>
+        <item>Canlı</item>
+        <item>İdman</item>
+        <item>Film</item>
+        <item>Oyun</item>
+        <item>Batareyaya qənaət</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Deaktiv</item>
+        <item>%d dəqiqə</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Qonaq Otağı TV-si</item>
+        <item>Ailə Otağı TV-si</item>
+        <item>Yataq Otağı TV-si</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Avtomatik</item>
+        <item>Super yaxınlaşdırma</item>
+        <item>4:3</item>
+        <item>Film genişlətməsi 14:9</item>
+        <item>Film genişlətməsi 16:9</item>
+        <item>Geniş ekran</item>
+        <item>Tam</item>
+        <item>Ölçülməmiş</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Super yaxınlaşdırma</item>
+        <item>Tam</item>
+        <item>Ölçülməmiş</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Avtomatik</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Tam</item>
+        <item>Miqyas</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 dəqiqə</item>
+        <item>1 saat</item>
+        <item>3 saat</item>
+        <item>6 saat</item>
+        <item>12 saat</item>
+        <item>Heç vaxt</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Deaktiv</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Deaktiv</item>
+        <item>hər jurnal buferinə 64K</item>
+        <item>hər jurnal buferinə 256K</item>
+        <item>hər jurnal buferinə 1M</item>
+        <item>hər jurnal buferinə 4M</item>
+        <item>hər jurnal buferinə 16M</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Deaktiv</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Qeyri-aktiv</item>
+        <item>Bütün loq buferləri</item>
+        <item>Radio loq buferlərindən başqa hamısı</item>
+        <item>yalnız kernel loq bufferi</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Deaktiv</item>
+        <item>Bütün</item>
+        <item>Radiodan başqa hamısı</item>
+        <item>yalnız kernel</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Deaktiv</item>
+        <item>Qeyri-düzbucaqlı regionu mavi rəngdə çəkin</item>
+        <item>Testdən keçmiş çəkmə əmrlərini yaşıl rəng ilə vurğulayın</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 dəqiqə</item>
+        <item>15 dəqiqə</item>
+        <item>30 dəqiqə</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Oyun</item>
+        <item>Film</item>
+        <item>Musiqi</item>
+        <item>Xəbərlər</item>
+        <item>Stadion</item>
+        <item>Standart</item>
+        <item>İstifadəçi</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Deaktiv</item>
+        <item>Aktiv</item>
+        <item>Avto</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Deaktiv</item>
+        <item>Normal</item>
+        <item>Gecə rejimi</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Ətraf</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Deaktiv</item>
+        <item>Rok</item>
+        <item>Pop</item>
+        <item>Canlı</item>
+        <item>Rəqs</item>
+        <item>Texno</item>
+        <item>Klassik</item>
+        <item>Sakitləşdirici</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Avto</item>
+        <item>Keçin</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Deaktiv</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP keçidi</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>TV Spikerləri</item>
+        <item>Xarici Audio Sistemi</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>İstifadəçi</item>
+        <item>Standart</item>
+        <item>Canlı</item>
+        <item>İdman</item>
+        <item>Film</item>
+        <item>Musiqi</item>
+        <item>Xəbərlər</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standart</item>
+        <item>İdman</item>
+        <item>Film</item>
+        <item>Musiqi</item>
+        <item>İstifadəçi</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normal</item>
+        <item>Eşitmə qüsurlu</item>
+        <item>Görmə qüsurlu</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Deaktiv</item>
+        <item>Ekranda panel şəklində</item>
+        <item>adb shell dumpsys gfxinfo üzrə</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animasiya qapalıdır</item>
+        <item>Animasiya miqyası .5 x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>2x miqyaslı animasiya</item>
+        <item>5x miqyaslı animasiya</item>
+        <item>Animasiya miqyası 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Çox yavaş</item>
+        <item>Yavaş</item>
+        <item>Normal</item>
+        <item>Sürətli</item>
+        <item>Daha sürətli</item>
+        <item>Çox sürətli</item>
+        <item>Tez</item>
+        <item>Çox tez</item>
+        <item>Ən sürətli</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Qidalanır</item>
+        <item>MTP (Media Transfer Protokolu)</item>
+        <item>PTP (Şəkil Transfer Protokolu)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Mənbə</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Yoxdur</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Yoxdur</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Zəif</item>
+        <item>Kafi</item>
+        <item>Yaxşı</item>
+        <item>Əla</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Skan edilir ...</item>
+        <item>Qoşulur ...</item>
+        <item>Autentifikasiya edilir...</item>
+        <item>IP ünvanı əldə edilir...</item>
+        <item>Qoşulu</item>
+        <item>Durdurulmuş</item>
+        <item>Ayrılır ...</item>
+        <item>Əlaqə kəsildi</item>
+        <item>Uğursuz</item>
+        <item>Bloklanıb</item>
+        <item>Keyfiyyətsiz bağlantıdan müvəqqəti qaçış</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Skan edilir...</item>
+        <item>%1$s qoşulur…</item>
+        <item>%1$s ilə autentifikasiya edilir...</item>
+        <item>%1$s şəbəkəsindən IP ünvan əldə olunur...</item>
+        <item>%1$s qoşuldu</item>
+        <item>Dayandırılıb</item>
+        <item>%1$s şəbəkəsindən ayrılır...</item>
+        <item>Bağlantı kəsildi</item>
+        <item>Uğursuz</item>
+        <item>Bloklanıb</item>
+        <item>Zəif bağlantı müvəqqəti aradan qaldırılır</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animasiya deaktiv</item>
+        <item>Animasiya miqyası .5 x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>2x miqyaslı animasiya</item>
+        <item>5x miqyaslı animasiya</item>
+        <item>Animasiya miqyası 10x</item>
+    </array>
+</resources>

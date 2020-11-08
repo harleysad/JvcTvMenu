@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="horizontal" android:background="#171717" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="10dp">
+    <LinearLayout android:orientation="vertical" android:background="#171717" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="3">
+        <TextView android:textSize="50sp" android:gravity="center" android:layout_width="wrap_content" android:layout_height="0dp" android:layout_marginLeft="50dp" android:text="@string/option_ratings" android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="#171717" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="-10dp" android:layout_weight="1">
+            <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_a" android:layout_weight="1"/>
+                <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_d" android:layout_weight="1"/>
+                <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_l" android:layout_weight="1"/>
+                <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_s" android:layout_weight="1"/>
+                <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_v" android:layout_weight="1"/>
+                <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_fv" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_tvy" android:layout_weight="1"/>
+            <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <RadioButton android:id="@+id/radioButton1" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton2" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton3" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton4" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton5" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton6" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_tvy7" android:layout_weight="1"/>
+            <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <RadioButton android:id="@+id/radioButton7" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton8" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton9" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton10" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton11" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton12" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_tvg" android:layout_weight="1"/>
+            <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <RadioButton android:id="@+id/radioButton13" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton14" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton15" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton16" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton17" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton18" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_tvpg" android:layout_weight="1"/>
+            <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <RadioButton android:id="@+id/radioButton19" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton20" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton21" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton22" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton23" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton24" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_tv14" android:layout_weight="1"/>
+            <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <RadioButton android:id="@+id/radioButton25" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton26" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton27" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton28" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton29" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton30" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_tvma" android:layout_weight="1"/>
+            <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <RadioButton android:id="@+id/radioButton31" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton32" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton33" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton34" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton35" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <RadioButton android:id="@+id/radioButton36" android:focusable="true" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="150dp" android:layout_weight="1">
+            <RadioButton android:id="@+id/radioButton37" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_allowed_rating" android:layout_weight="1"/>
+            <RadioButton android:id="@+id/radioButton38" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="@string/menu_blocked_rating" android:layout_weight="1"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

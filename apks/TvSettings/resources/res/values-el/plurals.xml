@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d ημ. πριν</item>
+        <item quantity="other">%d ημ. πριν</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d λεπ. πριν</item>
+        <item quantity="other">%d λεπ. πριν</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d χρ. πριν</item>
+        <item quantity="other">%d χρ. πριν</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d λογαριασμός</item>
+        <item quantity="other">%1$d λογαριασμοί</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Συνδεδεμένη είσοδος</item>
+        <item quantity="other">Συνδεδεμένες είσοδοι</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Καμία συνδεδεμένη είσοδος</item>
+        <item quantity="other">Καμία συνδεδεμένη είσοδος</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Είσοδος σε αναμονή</item>
+        <item quantity="other">Είσοδοι σε αναμονή</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d αξεσουάρ</item>
+        <item quantity="other">%1$d αξεσουάρ</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 επιτρεπόμενη εφαρμογή</item>
+        <item quantity="other">%d επιτρεπόμενες εφαρμογές</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Απομένει %1$d βήμα για να γίνετε προγραμματιστής</item>
+        <item quantity="other">Απομένουν %1$d βήματα για να γίνετε προγραμματιστής</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d συσκευή συνδέθηκε</item>
+        <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
+    </plurals>
+</resources>

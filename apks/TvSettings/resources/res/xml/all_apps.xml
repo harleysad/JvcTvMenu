@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/all_apps_title">
+    <PreferenceCategory android:title="@string/all_apps_installed" android:orderingFromXml="false" android:key="InstalledPreferenceGroup"/>
+    <PreferenceCategory android:visible="false" android:title="@string/all_apps_disabled" android:orderingFromXml="false" android:key="DisabledPreferenceGroup"/>
+    <Preference android:title="@string/all_apps_show_system_apps" android:key="ShowOtherApps"/>
+    <PreferenceCategory android:visible="false" android:title="@string/all_apps_other" android:orderingFromXml="false" android:key="OtherPreferenceGroup"/>
+</PreferenceScreen>

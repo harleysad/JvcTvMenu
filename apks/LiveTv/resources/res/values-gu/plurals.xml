@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">તમે 5 વાર ખોટો પિન દાખલ કર્યો.\10%1$d સેકન્ડમાં ફરી પ્રયાસ કરો.</item>
+        <item quantity="other">તમે 5 વાર ખોટો પિન દાખલ કર્યો.\10%1$d સેકન્ડમાં ફરી પ્રયાસ કરો.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d ચૅનલ</item>
+        <item quantity="other">%1$d ચૅનલ</item>
+    </plurals>
+</resources>

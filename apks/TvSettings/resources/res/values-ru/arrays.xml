@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ВЫКЛ.</item>
+        <item>СЛЕВА</item>
+        <item>СПРАВА</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Деморолик</item>
+        <item>Реклама слева</item>
+        <item>Реклама внизу</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация (0,5x)</item>
+        <item>Анимация (1x)</item>
+        <item>Анимация (1,5x)</item>
+        <item>Анимация (2x)</item>
+        <item>Анимация (5x)</item>
+        <item>Анимация (10x)</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Использовать время сети</item>
+        <item>Отключить</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Использовать время сети</item>
+        <item>Использовать время потока</item>
+        <item>Отключить</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>16 бит/отсчет</item>
+        <item>24 бит/отсчет</item>
+        <item>32 бит/отсчет</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>16 бит/отсчет</item>
+        <item>24 бит/отсчет</item>
+        <item>32 бит/отсчет</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Оптимизировать качество звука</item>
+        <item>Баланс качества звука и скорости подключения</item>
+        <item>Оптимизировать скорость подключения</item>
+        <item>Лучший возможный результат (адаптивный битрейт)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Оптимизировать качество звука (990/909 Кбит/с)</item>
+        <item>Баланс качества звука и скорости подключения (660/606 кбит/с)</item>
+        <item>Оптимизировать скорость подключения (330/303 Кбит/с)</item>
+        <item>Лучший возможный результат (адаптивный битрейт)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>44,1 кГц</item>
+        <item>48 кГц</item>
+        <item>88,2 кГц</item>
+        <item>96 кГц</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>44,1 кГц</item>
+        <item>48 кГц</item>
+        <item>88,2 кГц</item>
+        <item>96 кГц</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Аудиокодек: Qualcomm® aptX™</item>
+        <item>Аудиокодек: Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Включить дополнительные кодеки</item>
+        <item>Отключить дополнительные кодеки</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Аудиокодек: Qualcomm® aptX™</item>
+        <item>Аудиокодек: Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Включить дополнительные кодеки</item>
+        <item>Отключить дополнительные кодеки</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (по умолчанию)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>По умолчанию</item>
+        <item>Нет</item>
+        <item>С контуром</item>
+        <item>С тенью</item>
+        <item>Приподнятый</item>
+        <item>Утопленный</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>По умолчанию</item>
+        <item>Черный</item>
+        <item>Белый</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Голубой</item>
+        <item>Желтый</item>
+        <item>Пурпурный</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>По умолчанию</item>
+        <item>Без засечек</item>
+        <item>Без засечек, моноширинный</item>
+        <item>С засечками</item>
+        <item>C засечками, моноширинный</item>
+        <item>Неофициальный</item>
+        <item>Курсив</item>
+        <item>Малые прописные</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>По умолчанию</item>
+        <item>Сплошной</item>
+        <item>Полупрозрачный</item>
+        <item>Прозрачный</item>
+        <item>Мерцающий</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>По умолчанию</item>
+        <item>Маленький</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Нет</item>
+        <item>Контур</item>
+        <item>С тенью</item>
+        <item>Приподнятый</item>
+        <item>Утопленный</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Очень мелкий</item>
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Крупный</item>
+        <item>Очень крупный</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>По умолчанию</item>
+        <item>Без засечек</item>
+        <item>Без засечек, сжатый</item>
+        <item>Без засечек, моноширинный</item>
+        <item>С засечками</item>
+        <item>C засечками, моноширинный</item>
+        <item>Неофициальный</item>
+        <item>Курсив</item>
+        <item>Малые прописные</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Нет устройства с шиной CEC.</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Улучшенные цвета</item>
+        <item>Натуральные цвета, привычные глазу</item>
+        <item>Цвета, оптимизированные для цифрового контента</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Насыщенный (по умолчанию)</item>
+        <item>Естественный</item>
+        <item>Стандартный</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>ВЫКЛ</item>
+        <item>Показывать области наложения</item>
+        <item>Выделять области определенного цвета</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Выкл.</item>
+        <item>Вкл.</item>
+        <item>С субтитрами и без звука</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (графика)</item>
+        <item>Список вызовов в glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для DRM-контента</item>
+        <item>Всегда использовать проверку HDCP</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только DRM-контент</item>
+        <item>Всегда проверять</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>EDID (авто)</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>480p</item>
+        <item>480p (защита)</item>
+        <item>720p</item>
+        <item>720p (защита)</item>
+        <item>1080p</item>
+        <item>1080p (защита)</item>
+        <item>4K</item>
+        <item>4K (защита)</item>
+        <item>4K (масштабирование)</item>
+        <item>4K (масштабирование, защита)</item>
+        <item>720p, 1080p (два экрана)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Ручной</item>
+        <item>Полуавтоматический</item>
+        <item>Автоматический</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Выкл.</item>
+        <item>Авто</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Откл.</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Все</item>
+        <item>Справа</item>
+        <item>Cлева</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Выкл.</item>
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
+        <item>Авто</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Откл.</item>
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Авто</item>
+        <item>Весь экран</item>
+        <item>Ограниченно</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Выкл.</item>
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Выкл.</item>
+        <item>Минимальное значение</item>
+        <item>Среднее значение</item>
+        <item>Максимальное значение</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Пользовательские настройки</item>
+        <item>Холодная</item>
+        <item>Стандартные настройки</item>
+        <item>Теплая</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Темная</item>
+        <item>Средняя</item>
+        <item>Яркая</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Вкл.</item>
+        <item>Выкл.</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Bright</item>
+        <item>Dolby Vision Dark</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Пользовательские настройки</item>
+        <item>Кино</item>
+        <item>Спорт</item>
+        <item>Насыщенное изображение</item>
+        <item>Яркое изображение</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Стандартные настройки</item>
+        <item>Обычное изображение</item>
+        <item>Насыщенное изображение</item>
+        <item>Спорт</item>
+        <item>Фильм</item>
+        <item>Игра</item>
+        <item>Режим энергосбережения</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Пользовательские настройки</item>
+        <item>Стандартные настройки</item>
+        <item>Насыщенное изображение</item>
+        <item>Спорт</item>
+        <item>Фильм</item>
+        <item>Игра</item>
+        <item>Режим энергосбережения</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Выкл.</item>
+        <item>%d мин.</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Телевизор в гостиной</item>
+        <item>Телевизор в большой комнате</item>
+        <item>Телевизор в спальне</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Авто</item>
+        <item>Сверхувеличение</item>
+        <item>4:3</item>
+        <item>Широкоэкранный 14:9</item>
+        <item>Широкоэкранный 16:9</item>
+        <item>Широкоэкранный режим</item>
+        <item>Полноэкранный</item>
+        <item>Без масштабирования</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Сверхувеличение</item>
+        <item>Полноэкранный</item>
+        <item>Без масштабирования</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Авто</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Полноэкранный</item>
+        <item>Масштаб</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>3 часа</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>Не выключать экран</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Выкл.</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Выкл.</item>
+        <item>Буфер: макс. 64 КБ</item>
+        <item>Буфер: макс. 256 КБ</item>
+        <item>Буфер: макс. 1 МБ</item>
+        <item>Буфер: макс. 4 МБ</item>
+        <item>Буфер: макс. 16 МБ</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Выкл.</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>16 МБ</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Отключено</item>
+        <item>Все буферы журналов</item>
+        <item>Все, кроме буферов системного журнала</item>
+        <item>только буфер журнала ядра</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Отключено</item>
+        <item>Все</item>
+        <item>Все, кроме системных</item>
+        <item>только ядро</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Откл.</item>
+        <item>Непрямоугольное усечение синим</item>
+        <item>Тест. команды рисования зеленым</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Игра</item>
+        <item>Фильм</item>
+        <item>Музыка</item>
+        <item>Новости</item>
+        <item>Стадион</item>
+        <item>Стандартные настройки</item>
+        <item>Пользовательские настройки</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Откл.</item>
+        <item>Вкл.</item>
+        <item>Авто</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Выкл.</item>
+        <item>Обычный режим</item>
+        <item>Ночной режим</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Стерео</item>
+        <item>Объемный звук</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Выкл.</item>
+        <item>Рок</item>
+        <item>Поп</item>
+        <item>Концерт</item>
+        <item>Танцевальная музыка</item>
+        <item>Техно</item>
+        <item>Классическая музыка</item>
+        <item>Мягкая музыка</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Авто</item>
+        <item>Пропуск</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Выкл.</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>Канал DDP</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>Колонки телевизора</item>
+        <item>Внешняя аудиосистема</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Пользовательские настройки</item>
+        <item>Стандартные настройки</item>
+        <item>Живой звук</item>
+        <item>Спорт</item>
+        <item>Фильм</item>
+        <item>Музыка</item>
+        <item>Новости</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Стандартные настройки</item>
+        <item>Спорт</item>
+        <item>Фильм</item>
+        <item>Музыка</item>
+        <item>Пользовательские настройки</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Обычный</item>
+        <item>Для людей с нарушениями слуха</item>
+        <item>Для людей с нарушениями зрения</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Отключить</item>
+        <item>На экране в виде полос</item>
+        <item>В adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Умеренно быстрая</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+        <item>Ускоренная</item>
+        <item>Сильно ускоренная</item>
+        <item>Максимальная</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Зарядка</item>
+        <item>MTP</item>
+        <item>PTP</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Источник аудио</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Нет</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Хороший</item>
+        <item>Сильный</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Поиск...</item>
+        <item>Подключение...</item>
+        <item>Аутентификация...</item>
+        <item>Получение IP-адреса...</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение...</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Поиск...</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s...</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </array>
+</resources>

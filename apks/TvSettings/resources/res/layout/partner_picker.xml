@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:gravity="center" android:id="@+id/picker_frame" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/picker_background" android:background="@color/selector_color" android:layout_width="match_parent" android:layout_height="@dimen/list_item_min_height" android:layout_centerVertical="true"/>
+    <com.android.tv.settings.partnercustomizer.timer.picker.PickerLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:id="@+id/picker" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/picker_start_padding"/>
+</RelativeLayout>

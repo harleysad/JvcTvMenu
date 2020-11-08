@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_auto_backlight_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="a_pq_demo_entries">
+        <item>OFF</item>
+        <item>LEFT</item>
+        <item>RIGHT</item>
+    </array>
+    <array name="a_pq_demo_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demo video</item>
+        <item>e-POP left</item>
+        <item>e-POP bottom</item>
+    </array>
+    <array name="a_retail_messaging_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="ac4_de_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </array>
+    <array name="animation_scale_values">
+        <item>@null</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </array>
+    <array name="animator_duration_scale_values">
+        <item>@null</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standard limit</item>
+        <item>No background processes</item>
+        <item>At most 1 process</item>
+        <item>At most 2 processes</item>
+        <item>At most 3 processes</item>
+        <item>At most 4 processes</item>
+    </array>
+    <array name="app_process_limit_values">
+        <item>-1</item>
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="aus_timezone_keys">
+        <item>Australia/Sydney</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Perth</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Darwin</item>
+    </array>
+    <array name="aus_timezone_names">
+        <item>@string/Sydney_NSW_ACT</item>
+        <item>@string/Sydney_VIC</item>
+        <item>@string/Brisbane_QLD</item>
+        <item>@string/Adelaide_SA</item>
+        <item>@string/Perth_WA</item>
+        <item>@string/Hobart_TAS</item>
+        <item>@string/Darwin_NT</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Use network-provided time</item>
+        <item>Off</item>
+    </array>
+    <array name="auto_date_time_entry_values">
+        <item>network</item>
+        <item>off</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Use network-provided time</item>
+        <item>Use transport stream-provided time</item>
+        <item>Off</item>
+    </array>
+    <array name="auto_date_time_ts_entry_values">
+        <item>network</item>
+        <item>transport_stream</item>
+        <item>off</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>@null</item>
+        <item>392</item>
+        <item>@null</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>@null</item>
+        <item>334</item>
+    </array>
+    <array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </array>
+    <array name="batterymeter_color_values">
+        <item>?unknown_attr_ref: 1010543</item>
+        <item>@android:color/white</item>
+    </array>
+    <array name="batterymeter_plus_points">
+        <item>3</item>
+        <item>@null</item>
+        <item>5</item>
+        <item>@null</item>
+        <item>5</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>5</item>
+        <item>@null</item>
+        <item>5</item>
+        <item>@null</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Use System Selection (Default)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Use System Selection (Default)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Use System Selection (Default)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Use System Selection (Default)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimized for Audio Quality</item>
+        <item>Balanced Audio And Connection Quality</item>
+        <item>Optimized for Connection Quality</item>
+        <item>Best Effort (Adaptive Bit Rate)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
+        <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
+        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
+        <item>Best Effort (Adaptive Bit Rate)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
+        <item>1000</item>
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Use System Selection (Default)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Use System Selection (Default)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Use System Selection (Default)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Enable Optional Codecs</item>
+        <item>Disable Optional Codecs</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Use System Selection (Default)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Enable Optional Codecs</item>
+        <item>Disable Optional Codecs</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_values">
+        <item>1000000</item>
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </array>
+    <array name="bluetooth_audio_active_device_summaries">
+        <item />
+        <item>, active</item>
+        <item>, active (media)</item>
+        <item>, active (phone)</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_advanced_selection_array">
+        <item>CS-1</item>
+        <item>CS-2</item>
+        <item>CS-3</item>
+        <item>CS-4</item>
+        <item>CS-5</item>
+        <item>CS-6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Default</item>
+        <item>None</item>
+        <item>Outline</item>
+        <item>Drop shadow</item>
+        <item>Raised</item>
+        <item>Depressed</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Default</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Cyan</item>
+        <item>Yellow</item>
+        <item>Magenta</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Default</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Small capitals</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Default</item>
+        <item>Solid</item>
+        <item>Translucent</item>
+        <item>Transparent</item>
+        <item>Flashing</item>
+    </array>
+    <array name="caption_service_array">
+        <item>CC-1</item>
+        <item>CC-2</item>
+        <item>CC-3</item>
+        <item>CC-4</item>
+        <item>T-1</item>
+        <item>T-2</item>
+        <item>T-3</item>
+        <item>T-4</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Default</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+    </array>
+    <array name="captioning_color_selector_ids">
+        <item>@color/captioning_color_FFFFFF</item>
+        <item>@color/captioning_color_000000</item>
+        <item>@color/captioning_color_FF0000</item>
+        <item>@color/captioning_color_FFFF00</item>
+        <item>@color/captioning_color_00FF00</item>
+        <item>@color/captioning_color_00FFFF</item>
+        <item>@color/captioning_color_0000FF</item>
+        <item>@color/captioning_color_FF00FF</item>
+        <item>@color/captioning_color_000055</item>
+        <item>@color/captioning_color_0000AA</item>
+        <item>@color/captioning_color_005500</item>
+        <item>@color/captioning_color_005555</item>
+        <item>@color/captioning_color_0055AA</item>
+        <item>@color/captioning_color_0055FF</item>
+        <item>@color/captioning_color_00AA00</item>
+        <item>@color/captioning_color_00AA55</item>
+        <item>@color/captioning_color_00AAAA</item>
+        <item>@color/captioning_color_00AAFF</item>
+        <item>@color/captioning_color_00FF55</item>
+        <item>@color/captioning_color_00FFAA</item>
+        <item>@color/captioning_color_550000</item>
+        <item>@color/captioning_color_550055</item>
+        <item>@color/captioning_color_5500AA</item>
+        <item>@color/captioning_color_5500FF</item>
+        <item>@color/captioning_color_555500</item>
+        <item>@color/captioning_color_555555</item>
+        <item>@color/captioning_color_5555AA</item>
+        <item>@color/captioning_color_5555FF</item>
+        <item>@color/captioning_color_55AA00</item>
+        <item>@color/captioning_color_55AA55</item>
+        <item>@color/captioning_color_55AAAA</item>
+        <item>@color/captioning_color_55AAFF</item>
+        <item>@color/captioning_color_55FF00</item>
+        <item>@color/captioning_color_55FF55</item>
+        <item>@color/captioning_color_55FFAA</item>
+        <item>@color/captioning_color_55FFFF</item>
+        <item>@color/captioning_color_AA0000</item>
+        <item>@color/captioning_color_AA0055</item>
+        <item>@color/captioning_color_AA00AA</item>
+        <item>@color/captioning_color_AA00FF</item>
+        <item>@color/captioning_color_AA5500</item>
+        <item>@color/captioning_color_AA5555</item>
+        <item>@color/captioning_color_AA55AA</item>
+        <item>@color/captioning_color_AA55FF</item>
+        <item>@color/captioning_color_AAAA00</item>
+        <item>@color/captioning_color_AAAA55</item>
+        <item>@color/captioning_color_AAAAAA</item>
+        <item>@color/captioning_color_AAAAFF</item>
+        <item>@color/captioning_color_AAFF00</item>
+        <item>@color/captioning_color_AAFF55</item>
+        <item>@color/captioning_color_AAFFAA</item>
+        <item>@color/captioning_color_AAFFFF</item>
+        <item>@color/captioning_color_FF0055</item>
+        <item>@color/captioning_color_FF00AA</item>
+        <item>@color/captioning_color_FF5500</item>
+        <item>@color/captioning_color_FF5555</item>
+        <item>@color/captioning_color_FF55AA</item>
+        <item>@color/captioning_color_FF55FF</item>
+        <item>@color/captioning_color_FFAA00</item>
+        <item>@color/captioning_color_FFAA55</item>
+        <item>@color/captioning_color_FFAAAA</item>
+        <item>@color/captioning_color_FFAAFF</item>
+        <item>@color/captioning_color_FFFF55</item>
+        <item>@color/captioning_color_FFFFAA</item>
+    </array>
+    <array name="captioning_color_selector_titles">
+        <item>@string/color_white</item>
+        <item>@string/color_black</item>
+        <item>@string/color_red</item>
+        <item>@string/color_yellow</item>
+        <item>@string/color_green</item>
+        <item>@string/color_cyan</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_magenta</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>None</item>
+        <item>Outline</item>
+        <item>Drop shadow</item>
+        <item>Raised</item>
+        <item>Depressed</item>
+    </array>
+    <array name="captioning_edge_type_selector_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Very small</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Very large</item>
+    </array>
+    <array name="captioning_font_size_selector_values">
+        <item>0.25</item>
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_opacity_selector_values">
+        <item>40FFFFFF</item>
+        <item>80FFFFFF</item>
+        <item>C0FFFFFF</item>
+        <item>FFFFFFFF</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Default</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Small capitals</item>
+    </array>
+    <array name="captioning_typeface_selector_values">
+        <item>default</item>
+        <item>sans-serif</item>
+        <item>sans-serif-condensed</item>
+        <item>sans-serif-monospace</item>
+        <item>serif</item>
+        <item>serif-monospace</item>
+        <item>casual</item>
+        <item>cursive</item>
+        <item>sans-serif-smallcaps</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>NO CEC Device</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </array>
+    <array name="color_mode_ids">
+        <item>@null</item>
+        <item>-1</item>
+        <item>7</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </array>
+    <array name="debug_hw_overdraw_values">
+        <item>false</item>
+        <item>show</item>
+        <item>show_deuteranomaly</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Off</item>
+        <item>On</item>
+        <item>CC w/mute</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>None</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </array>
+    <array name="enable_opengl_traces_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>error</item>
+    </array>
+    <array name="esp_timezone_keys">
+        <item>Europe/Madrid</item>
+        <item>Atlantic/Canary</item>
+    </array>
+    <array name="esp_timezone_names">
+        <item>@string/Madrid_time</item>
+        <item>@string/Canary_Islands_time</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Never use HDCP checking</item>
+        <item>Use HDCP checking for DRM content only</item>
+        <item>Always use HDCP checking</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Never check</item>
+        <item>Check for DRM content only</item>
+        <item>Always check</item>
+    </array>
+    <array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </array>
+    <array name="hdmi2_setting_entries">
+        <item>4K@60Hz 4:2:0</item>
+        <item>4K@60Hz 4:4:4/4:2:2</item>
+    </array>
+    <array name="hdmi2_setting_entries_values">
+        <item>@null</item>
+        <item>1</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Auto EDID</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="menu_audio_visually_fader_array">
+        <item>@string/menu_arrays_fader_main_max</item>
+        <item>@string/menu_arrays_fader_main_sub</item>
+        <item>@string/menu_arrays_fader_equal</item>
+        <item>@string/menu_arrays_fader_ad_sub</item>
+        <item>@string/menu_arrays_fader_ad_max</item>
+    </array>
+    <array name="menu_audio_visually_fader_array_values">
+        <item>@null</item>
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </array>
+    <array name="no_signal_auto_power_off_entries">
+        <item>@null</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </array>
+    <array name="no_signal_auto_power_off_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>None</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </array>
+    <array name="overlay_display_devices_values">
+        <item />
+        <item>720x480/142</item>
+        <item>720x480/142,secure</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,secure</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,secure</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,secure</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,secure</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Manual</item>
+        <item>Semi-Auto</item>
+        <item>Auto</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Off</item>
+        <item>Auto</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Off</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_values">
+        <item>@null</item>
+        <item>1</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_values_cn">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>All</item>
+        <item>Right</item>
+        <item>Left</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_effect_entries">
+        <item>Off</item>
+        <item>Low</item>
+        <item>Middle</item>
+        <item>High</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_effect_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_advanced_video_4k_uhd_upscaling_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Off</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>Strong</item>
+        <item>Auto</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Off</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>Strong</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_advanced_video_adaptive_luma_control_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_advanced_video_flesh_tone_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Auto</item>
+        <item>Full</item>
+        <item>Limit</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Off</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_advanced_video_macro_dimming_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_advanced_video_mpeg_artifact_reduction_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Off</item>
+        <item>Minimum</item>
+        <item>Medium</item>
+        <item>Maximum</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>User</item>
+        <item>Cool</item>
+        <item>Standard</item>
+        <item>Warm</item>
+    </array>
+    <array name="picture_color_temperature_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Dark</item>
+        <item>Middle</item>
+        <item>Bright</item>
+    </array>
+    <array name="picture_gamma_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>On</item>
+        <item>Off</item>
+    </array>
+    <array name="picture_hdr_entry_values">
+        <item>1</item>
+        <item>@null</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Bright</item>
+        <item>Dolby Vision Dark</item>
+    </array>
+    <array name="picture_mode_dovi_entry_values">
+        <item>5</item>
+        <item>6</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>User</item>
+        <item>Cinema</item>
+        <item>Sports</item>
+        <item>Vivid</item>
+        <item>Hi-Bright</item>
+    </array>
+    <array name="picture_mode_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standard</item>
+        <item>Natural</item>
+        <item>Vivid</item>
+        <item>Sports</item>
+        <item>Movie</item>
+        <item>Game</item>
+        <item>Energy Saving</item>
+    </array>
+    <array name="picture_mode_fun_entry_values">
+        <item>7</item>
+        <item>8</item>
+        <item>3</item>
+        <item>2</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>User</item>
+        <item>Standard</item>
+        <item>Vivid</item>
+        <item>Sport</item>
+        <item>Movie</item>
+        <item>Game</item>
+        <item>Energy Saving</item>
+    </array>
+    <array name="picture_mode_ref_entry_values">
+        <item>@null</item>
+        <item>7</item>
+        <item>3</item>
+        <item>2</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </array>
+    <array name="picture_white_balance11_entries">
+        <item>5％</item>
+        <item>10％</item>
+        <item>20％</item>
+        <item>30％</item>
+        <item>40％</item>
+        <item>50％</item>
+        <item>60％</item>
+        <item>70％</item>
+        <item>80％</item>
+        <item>90％</item>
+        <item>100％</item>
+    </array>
+    <array name="picture_white_balance11_entry_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Off</item>
+        <item>%d Minutes</item>
+    </array>
+    <array name="power_switch_off_timer_entries_latest">
+        <item>@null</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>210</item>
+        <item>240</item>
+    </array>
+    <array name="power_switch_off_timer_entries_values">
+        <item>@null</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>210</item>
+        <item>240</item>
+    </array>
+    <array name="remove_time_zone_for_custom">
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Living Room TV</item>
+        <item>Family Room TV</item>
+        <item>Bedroom TV</item>
+    </array>
+    <array name="rus_timezone_keys">
+        <item>Europe/Kaliningrad</item>
+        <item>Europe/Moscow</item>
+        <item>Europe/Samara</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Omsk</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Yakutsk</item>
+        <item>Asia/Vladivostok</item>
+        <item>Asia/Magadan</item>
+        <item>Asia/Kamchatka</item>
+    </array>
+    <array name="rus_timezone_names">
+        <item>@string/rus_kaliningrad_time</item>
+        <item>@string/rus_moscow_time</item>
+        <item>@string/rus_samara_time</item>
+        <item>@string/rus_yekaterinburg_time</item>
+        <item>@string/rus_omsk_time</item>
+        <item>@string/rus_krasnoyarsk_time</item>
+        <item>@string/rus_irkutsk_time</item>
+        <item>@string/rus_yakutsk_time</item>
+        <item>@string/rus_vladivostok_time</item>
+        <item>@string/rus_magadan_time</item>
+        <item>@string/rus_kamchatka_time</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Automatic</item>
+        <item>Super zoom</item>
+        <item>4:3</item>
+        <item>Movie expand 14:9</item>
+        <item>Movie expand 16:9</item>
+        <item>Wide screen</item>
+        <item>Full</item>
+        <item>Unscaled</item>
+    </array>
+    <array name="screen_mode_array_funai_values">
+        <item>7</item>
+        <item>3</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>5</item>
+        <item>1</item>
+        <item>6</item>
+    </array>
+    <array name="screen_mode_array_funai_values_vga">
+        <item>3</item>
+        <item>1</item>
+        <item>6</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Super zoom</item>
+        <item>Full</item>
+        <item>Unscaled</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Automatic</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Full</item>
+        <item>Zoom</item>
+    </array>
+    <array name="screen_mode_array_mtk_values">
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>1</item>
+        <item>3</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>12 hours</item>
+        <item>Never</item>
+    </array>
+    <array name="screen_off_timeout_values">
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>10800000</item>
+        <item>21600000</item>
+        <item>43200000</item>
+        <item>-1</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Off</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>16777216</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Off</item>
+        <item>All log buffers</item>
+        <item>All but radio log buffers</item>
+        <item>kernel log buffer only</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Off</item>
+        <item>All</item>
+        <item>All but radio</item>
+        <item>kernel only</item>
+    </array>
+    <array name="select_logpersist_values">
+        <item />
+        <item>all</item>
+        <item>default,security,kernel</item>
+        <item>kernel</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </array>
+    <array name="show_non_rect_clip_values">
+        <item>hide</item>
+        <item>region</item>
+        <item>highlight</item>
+    </array>
+    <array name="simulate_color_space_entries">
+        <item>@string/daltonizer_mode_disabled</item>
+        <item>@string/daltonizer_mode_monochromacy</item>
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+    </array>
+    <array name="simulate_color_space_values">
+        <item>-1</item>
+        <item>@null</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+    </array>
+    <array name="sleep_timeout_values">
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>7200000</item>
+    </array>
+    <array name="sound_advanced_dialog_enhancer_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Game</item>
+        <item>Movie</item>
+        <item>Music</item>
+        <item>News</item>
+        <item>Stadium</item>
+        <item>Standard</item>
+        <item>User</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entry_values">
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>9</item>
+        <item>8</item>
+        <item>10</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Off</item>
+        <item>On</item>
+        <item>Auto</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Off</item>
+        <item>Normal</item>
+        <item>Night</item>
+    </array>
+    <array name="sound_dbx_total_vol_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="sound_digital_output_entry_values">
+        <item>@null</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+        <item>1</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Surround</item>
+    </array>
+    <array name="sound_downmix_mode_entry_values">
+        <item>11</item>
+        <item>1</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Off</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Live</item>
+        <item>Dance</item>
+        <item>Techno</item>
+        <item>Classic</item>
+        <item>Soft</item>
+    </array>
+    <array name="sound_equalizer_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Auto</item>
+        <item>Bypass</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Off</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP Passthough</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_spdif_type_entry_values">
+        <item>7</item>
+        <item>4</item>
+        <item>2</item>
+        <item>5</item>
+        <item>1</item>
+    </array>
+    <array name="sound_spdif_type_entry_values_ms12b">
+        <item>@null</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>TV Speakers</item>
+        <item>External Audio System</item>
+    </array>
+    <array name="sound_speakers_entry_values">
+        <item>@null</item>
+        <item>1</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>User</item>
+        <item>Standard</item>
+        <item>Vivid</item>
+        <item>Sports</item>
+        <item>Movie</item>
+        <item>Music</item>
+        <item>News</item>
+    </array>
+    <array name="sound_style_funai_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standard</item>
+        <item>Sports</item>
+        <item>Movie</item>
+        <item>Music</item>
+        <item>User</item>
+    </array>
+    <array name="sound_style_mtk_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normal</item>
+        <item>Hearing Impaired</item>
+        <item>Visually Impaired</item>
+    </array>
+    <array name="sound_type_entry_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="surround_sound_entries">
+        <item>@string/surround_sound_auto_summary</item>
+        <item>@string/surround_sound_none_summary</item>
+        <item>@string/surround_sound_manual_summary</item>
+    </array>
+    <array name="surround_sound_entry_values">
+        <item>auto</item>
+        <item>never</item>
+        <item>manual</item>
+    </array>
+    <array name="time_zone_for_custom">
+        <item>Asia/Thimphu</item>
+    </array>
+    <array name="timer_power_off_timer_type_entries">
+        <item>@string/pic_advance_video_entries_off</item>
+        <item>@string/pic_advance_video_entries_on</item>
+        <item>@string/timer_power_off_timer_type_once</item>
+    </array>
+    <array name="timer_power_off_timer_type_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="timer_power_on_channel_select_mode_entries">
+        <item>@string/timer_power_on_channel_select_mode1</item>
+        <item>@string/timer_power_on_channel_select_mode2</item>
+    </array>
+    <array name="timer_power_on_channel_select_mode_entries_values">
+        <item>Last Status</item>
+        <item>User Select</item>
+    </array>
+    <array name="timer_power_on_timer_type_entries">
+        <item>@string/pic_advance_video_entries_off</item>
+        <item>@string/pic_advance_video_entries_on</item>
+        <item>@string/timer_power_off_timer_type_once</item>
+    </array>
+    <array name="timer_power_on_timer_type_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="timer_sleep_timer_entries">
+        <item>@null</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+    </array>
+    <array name="timer_sleep_timer_entries_values">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="track_frame_time_values">
+        <item>false</item>
+        <item>visual_bars</item>
+        <item>true</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </array>
+    <array name="transition_animation_scale_values">
+        <item>@null</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </array>
+    <array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </array>
+    <array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+    </array>
+    <array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Charging</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </array>
+    <array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+    </array>
+    <array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Poor</item>
+        <item>Fair</item>
+        <item>Good</item>
+        <item>Excellent</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Scanning…</item>
+        <item>Connecting…</item>
+        <item>Authenticating…</item>
+        <item>Obtaining IP address…</item>
+        <item>Connected</item>
+        <item>Suspended</item>
+        <item>Disconnecting…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Scanning…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>Suspended</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </array>
+    <array name="window_animation_scale_values">
+        <item>@null</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </array>
+</resources>

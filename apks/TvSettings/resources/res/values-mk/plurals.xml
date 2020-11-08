@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">Пред %d ден</item>
+        <item quantity="other">Пред %d дена</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">Пред %d мин.</item>
+        <item quantity="other">Пред %d мин.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">Пред %d год.</item>
+        <item quantity="other">Пред %d год.</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d сметка</item>
+        <item quantity="other">%1$d сметки</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Поврзан влез</item>
+        <item quantity="other">Поврзани влеза</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Неповрзан влез</item>
+        <item quantity="other">Неповрзани влеза</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Влез за подготвеност</item>
+        <item quantity="other">Влеза за подготвеност</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d додаток</item>
+        <item quantity="other">%1$d додатоци</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">Дозволена е %d апликација</item>
+        <item quantity="other">Дозволени се %d апликации</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Сега сте на %1$d чекор од станување програмер</item>
+        <item quantity="other">Сега сте на %1$d чекори од станување програмер</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Поврзан е %1$d уред</item>
+        <item quantity="other">Поврзани се %1$d уреди</item>
+    </plurals>
+</resources>

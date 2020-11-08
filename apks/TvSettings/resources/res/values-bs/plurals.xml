@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">Prije %d dan</item>
+        <item quantity="few">Prije %d dana</item>
+        <item quantity="other">Prije %d dana</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">Prije %d min.</item>
+        <item quantity="few">Prije %d min.</item>
+        <item quantity="other">Prije %d min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">Prije %d god.</item>
+        <item quantity="few">Prije %d god.</item>
+        <item quantity="other">Prije %d god.</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d račun</item>
+        <item quantity="few">%1$d računa</item>
+        <item quantity="other">%1$d računa</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">povezani ulaz</item>
+        <item quantity="few">povezana ulaza</item>
+        <item quantity="other">povezanih ulaza</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">ulaz koji nije povezan</item>
+        <item quantity="few">ulaza koja nisu povezana</item>
+        <item quantity="other">ulaza koji nisu povezani</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">ulaz u stanju mirovanja</item>
+        <item quantity="few">ulaza u stanju mirovanja</item>
+        <item quantity="other">ulaza u stanju mirovanja</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d periferni uređaj</item>
+        <item quantity="few">%1$d periferna uređaja</item>
+        <item quantity="other">%1$d perifernih uređaja</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d aplikacija je odobrena</item>
+        <item quantity="few">%d aplikacije su odobrene</item>
+        <item quantity="other">%d aplikacija je odobreno</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Još %1$d korak vam treba da postanete programer</item>
+        <item quantity="few">Još %1$d koraka vam trebaju da postanete programer</item>
+        <item quantity="other">Još %1$d koraka vam treba da postanete programer</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Povezan je %1$d uređaj</item>
+        <item quantity="few">Povezana su %1$duređaja</item>
+        <item quantity="other">Povezano je %1$d uređaja</item>
+    </plurals>
+</resources>

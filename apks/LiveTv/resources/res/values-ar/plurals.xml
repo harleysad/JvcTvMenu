@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="zero">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\10يُرجى إعادة المحاولة بعد %1$d ثانية.</item>
+        <item quantity="one">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\10يُرجى إعادة المحاولة بعد %1$d ثانية.</item>
+        <item quantity="two">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\10يُرجى إعادة المحاولة بعد ثانيتين (%1$d).</item>
+        <item quantity="few">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\10يُرجى إعادة المحاولة بعد %1$d ثوانٍ.</item>
+        <item quantity="many">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\10يُرجى إعادة المحاولة بعد %1$d ثانية.</item>
+        <item quantity="other">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\10يُرجى إعادة المحاولة بعد %1$d ثانية.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="zero">%1$d قناة</item>
+        <item quantity="one">قناة (%1$d)</item>
+        <item quantity="two">قناتان (%1$d)</item>
+        <item quantity="few">%1$d قنوات</item>
+        <item quantity="many">%1$d قناة</item>
+        <item quantity="other">%1$d قناة</item>
+    </plurals>
+</resources>

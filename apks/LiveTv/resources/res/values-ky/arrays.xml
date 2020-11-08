@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ampm">
+        <item>түшкө чейин</item>
+        <item>түштөн кийин</item>
+    </array>
+</resources>

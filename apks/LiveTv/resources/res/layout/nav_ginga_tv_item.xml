@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:layout_gravity="bottom" android:id="@+id/nav_ginga_tv_item_imageView" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.8"/>
+    <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:layout_gravity="center_vertical" android:id="@+id/nav_ginga_tv_item_textView" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.2" android:textIsSelectable="false"/>
+</LinearLayout>

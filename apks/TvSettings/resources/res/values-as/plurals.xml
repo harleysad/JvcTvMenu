@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$dটা একাউণ্ট</item>
+        <item quantity="other">%1$dটা একাউণ্ট</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">সংযুক্ত ইনপুটসমূহ</item>
+        <item quantity="other">সংযুক্ত ইনপুটসমূহ</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">কোনো সংযুক্ত ইনপুট নাই</item>
+        <item quantity="other">কোনো সংযুক্ত ইনপুট নাই</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">ষ্টেণ্ডবাই ইনপুট</item>
+        <item quantity="other">ষ্টেণ্ডবাই ইনপুটবোৰ</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$dটা সহায়ক সামগ্ৰী</item>
+        <item quantity="other">%1$dটা সহায়ক সামগ্ৰী</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d এপৰ অনুমতি আছে</item>
+        <item quantity="other">%d এপৰ অনুমতি আছে</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">আপুনি ডেভেলপাৰ হোৱাৰপৰা %1$d পদক্ষেপ দূৰত</item>
+        <item quantity="other">আপুনি ডেভেলপাৰ হোৱাৰপৰা %1$d পদক্ষেপ দূৰত</item>
+    </plurals>
+</resources>

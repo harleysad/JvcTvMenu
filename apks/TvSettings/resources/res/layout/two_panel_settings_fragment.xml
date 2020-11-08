@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.tv.twopanelsettings.TwoPanelSettingsRootView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:orientation="horizontal" android:id="@+id/two_panel_fragment_container" android:background="@color/tp_fragment_container_background_color" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.android.tv.twopanelsettings.TwoPanelScrollView android:id="@+id/scrollview" android:scrollbars="none" android:layout_width="@dimen/tp_settings_panes_width" android:layout_height="match_parent" android:importantForAccessibility="no">
+        <LinearLayout android:orientation="horizontal" android:id="@+id/linearlayout" android:layout_width="@dimen/tp_settings_panes_width" android:layout_height="match_parent">
+            <FrameLayout android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/preference_pane_padding_start" android:layout_height="match_parent"/>
+            <FrameLayout android:id="@+id/frame1_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame1" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame1_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame2_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame2" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame2_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame3_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame3" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame3_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame4_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame4" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame4_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame5_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame5" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame5_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame6_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame6" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame6_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame7_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame7" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame7_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame8_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame8" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame8_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame9_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame9" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame9_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+            </FrameLayout>
+            <FrameLayout android:id="@+id/frame10_container" android:background="@color/tp_preference_panel_background_color" android:layout_width="@dimen/tp_settings_preference_pane_width" android:layout_height="match_parent" android:paddingEnd="@dimen/preference_pane_padding_end">
+                <FrameLayout android:id="@+id/frame10" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <FrameLayout android:id="@+id/frame10_overlay" android:background="@color/tp_preview_panel_overlay_color" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            </FrameLayout>
+        </LinearLayout>
+    </com.android.tv.twopanelsettings.TwoPanelScrollView>
+</com.android.tv.twopanelsettings.TwoPanelSettingsRootView>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>FRA</item>
+        <item>VENSTRE</item>
+        <item>HØJRE</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demovideo</item>
+        <item>e-POP venstre</item>
+        <item>e-POP nederst</item>
+    </array>
+    <array name="ampm">
+        <item>Før middag</item>
+        <item>Efter middag</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animation fra</item>
+        <item>Animationsskala 0,5x</item>
+        <item>Animationsskala 1x</item>
+        <item>Animationsskala 1,5x</item>
+        <item>Animationsskala 2x</item>
+        <item>Animationsskala 5x</item>
+        <item>Animationsskala 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animation fra</item>
+        <item>Animationsskala 0,5x</item>
+        <item>Animationsskala 1x</item>
+        <item>Animationsskala 1,5x</item>
+        <item>Animationsskala 2x</item>
+        <item>Animationsskala 5x</item>
+        <item>Animationsskala 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standardgrænse</item>
+        <item>Ingen baggrundsprocesser</item>
+        <item>Højst 1 proces</item>
+        <item>Højst 2 processer</item>
+        <item>Højst 3 processer</item>
+        <item>Højst 4 processer</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Brug netværkets tid</item>
+        <item>Fra</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Brug netværkets tid</item>
+        <item>Brug transportstrømmens tid</item>
+        <item>Fra</item>
+    </array>
+    <array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Brug systemvalg (standard)</item>
+        <item>16 bit pr. eksempel</item>
+        <item>24 bit pr. eksempel</item>
+        <item>32 bit pr. eksempel</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Brug systemvalg (standard)</item>
+        <item>16 bit pr. eksempel</item>
+        <item>24 bit pr. eksempel</item>
+        <item>32 bit pr. eksempel</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Brug systemvalg (standard)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Brug systemvalg (standard)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimeret til lydkvalitet</item>
+        <item>Afbalancer lyd- og forbindelseskvalitet</item>
+        <item>Optimeret til forbindelseskvalitet</item>
+        <item>Bedste resultat (tilpasset bithastighed)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimeret til lydkvalitet (990 kbps/909 kbps)</item>
+        <item>Afbalancer lyd- og forbindelseskvalitet (660 kbps/606 kbps)</item>
+        <item>Optimeret til forbindelseskvalitet (330 kbps/303 kbps)</item>
+        <item>Bedste resultat (tilpasset bithastighed)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Brug systemvalg (standard)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Brug systemvalg (standard)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Brug systemvalg (standard)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™-lyd</item>
+        <item>Qualcomm® aptX™ HD-lyd</item>
+        <item>LDAC</item>
+        <item>Aktivér Optional Codecs</item>
+        <item>Deaktiver Optional Codecs</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Brug systemvalg (standard)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™-lyd</item>
+        <item>Qualcomm® aptX™ HD-lyd</item>
+        <item>LDAC</item>
+        <item>Aktivér Optional Codecs</item>
+        <item>Deaktiver Optional Codecs</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (standard)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Standard</item>
+        <item>Ingen</item>
+        <item>Kontur</item>
+        <item>Dropskygge</item>
+        <item>Hævet</item>
+        <item>Sænket</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Standard</item>
+        <item>Sort</item>
+        <item>Hvid</item>
+        <item>Grøn</item>
+        <item>Blå</item>
+        <item>Rød</item>
+        <item>Cyan</item>
+        <item>Gul</item>
+        <item>Magenta</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Standard</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif, enkelt tegnafstand</item>
+        <item>Serif</item>
+        <item>Serif, enkelt tegnafstand</item>
+        <item>Uformel</item>
+        <item>Kursiv</item>
+        <item>Små versaler</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Standard</item>
+        <item>Ensfarvet</item>
+        <item>Gennemsigtig</item>
+        <item>Gennemsigtig</item>
+        <item>Blinkende</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Standard</item>
+        <item>Lille</item>
+        <item>Normal</item>
+        <item>Stor</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Ingen</item>
+        <item>Omrids</item>
+        <item>Baggrundsskygge</item>
+        <item>Hævet skrift</item>
+        <item>Sænket skrift</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Meget lille</item>
+        <item>Lille</item>
+        <item>Normal</item>
+        <item>Stor</item>
+        <item>Meget stor</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Standard</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif, kondenseret</item>
+        <item>Sans-serif, enkelt tegnafstand</item>
+        <item>Serif</item>
+        <item>Serif, enkelt tegnafstand</item>
+        <item>Uformel</item>
+        <item>Kursiv</item>
+        <item>Små versaler</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Der blev ikke fundet nogen Cec-enhed</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Forbedrede farver</item>
+        <item>Naturlige farver, som øjet opfatter dem</item>
+        <item>Farver, der er optimeret til digitalt indhold</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Klare (standard)</item>
+        <item>Naturlige</item>
+        <item>Standard</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Fra</item>
+        <item>Vis områder med overlap</item>
+        <item>Vis områder for deuteranomali</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Fra</item>
+        <item>Til</item>
+        <item>Undertekster, hvor lyden er slået fra</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Ingen</item>
+        <item>Logcat</item>
+        <item>Systrace (grafik)</item>
+        <item>Kaldestak på glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Brug aldrig HDCP-kontrol</item>
+        <item>Brug kun HDCP-kontrol ved DRM-indhold</item>
+        <item>Brug altid HDCP-kontrol</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Tjek aldrig</item>
+        <item>Tjek kun for DRM-indhold</item>
+        <item>Tjek altid</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Automatisk EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Ingen</item>
+        <item>480p</item>
+        <item>480p (sikker)</item>
+        <item>720p</item>
+        <item>720p (sikker)</item>
+        <item>1080p</item>
+        <item>1080p (sikker)</item>
+        <item>4K</item>
+        <item>4K (sikker)</item>
+        <item>4K (opskaleret)</item>
+        <item>4K (opskaleret, sikker)</item>
+        <item>720p, 1080p (dobbelt skærm)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Manuel</item>
+        <item>Semiautomatisk</item>
+        <item>Automatisk</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Fra</item>
+        <item>Automatisk</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Fra</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Alle</item>
+        <item>Højre</item>
+        <item>Venstre</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Fra</item>
+        <item>Lav</item>
+        <item>Middel</item>
+        <item>Hård</item>
+        <item>Automatisk</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Fra</item>
+        <item>Lav</item>
+        <item>Middel</item>
+        <item>Hård</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Automatisk</item>
+        <item>Fuld skærm</item>
+        <item>Grænse</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Fra</item>
+        <item>Lav</item>
+        <item>Middel</item>
+        <item>Høj</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Fra</item>
+        <item>Minimum</item>
+        <item>Middel</item>
+        <item>Maksimalt</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Bruger</item>
+        <item>Kølig</item>
+        <item>Standard</item>
+        <item>Varm</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Mørk</item>
+        <item>Midtfor</item>
+        <item>Lys</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Til</item>
+        <item>Fra</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Bright</item>
+        <item>Dolby Vision Dark</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Bruger</item>
+        <item>Biograf</item>
+        <item>Sport</item>
+        <item>Levende</item>
+        <item>Meget lys</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standard</item>
+        <item>Naturlig</item>
+        <item>Levende</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Spil</item>
+        <item>Energisparefunktion</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Bruger</item>
+        <item>Standard</item>
+        <item>Levende</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Spil</item>
+        <item>Energisparefunktion</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Fra</item>
+        <item>%d minutter</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Fjernsyn i stuen</item>
+        <item>Fjernsyn i køkkenet</item>
+        <item>Fjernsyn i soveværelset</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Automatisk</item>
+        <item>Superzoom</item>
+        <item>4:3</item>
+        <item>Filmudvidelse 14:9</item>
+        <item>Filmudvidelse 16:9</item>
+        <item>Bredformat</item>
+        <item>Fuld skærm</item>
+        <item>Ikke skaleret</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Superzoom</item>
+        <item>Fuld skærm</item>
+        <item>Ikke skaleret</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Automatisk</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Fuld skærm</item>
+        <item>Zoom</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>3 timer</item>
+        <item>6 timer</item>
+        <item>12 timer</item>
+        <item>Aldrig</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Fra</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Fra</item>
+        <item>64 kB pr. logbuffer</item>
+        <item>256 kB pr. logbuffer</item>
+        <item>1 MB pr. logbuffer</item>
+        <item>4 MB pr. logbuffer</item>
+        <item>16 MB pr. logbuffer</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Fra</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Fra</item>
+        <item>Alle logbuffere</item>
+        <item>Alle undtagen radiologbuffere</item>
+        <item>kun logbuffer for kerne</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Fra</item>
+        <item>Alle</item>
+        <item>Radio undtaget</item>
+        <item>kun kerne</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Fra</item>
+        <item>Tegn ikke-rektangulært klippeområde med blåt</item>
+        <item>Fremhæv testede tegnekommandoer med grønt</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 minutter</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Spil</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Nyheder</item>
+        <item>Stadion</item>
+        <item>Standard</item>
+        <item>Bruger</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Fra</item>
+        <item>Til</item>
+        <item>Automatisk</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Fra</item>
+        <item>Normal</item>
+        <item>Nat</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Surroundsound</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Fra</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Live</item>
+        <item>Dance</item>
+        <item>Tekno</item>
+        <item>Klassisk</item>
+        <item>Blød</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Automatisk</item>
+        <item>Tilsidesæt</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Fra</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP-gennemførsel</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>Fjernsynshøjttalere</item>
+        <item>Eksternt lydsystem</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Bruger</item>
+        <item>Standard</item>
+        <item>Levende</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Nyheder</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standard</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Musik</item>
+        <item>Bruger</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normal</item>
+        <item>Nedsat hørelse</item>
+        <item>Nedsat syn</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Fra</item>
+        <item>På skærmen som søjler</item>
+        <item>I adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animation fra</item>
+        <item>Animationsskala 0,5x</item>
+        <item>Animationsskala 1x</item>
+        <item>Animationsskala 1,5x</item>
+        <item>Animationsskala 2x</item>
+        <item>Animationsskala 5x</item>
+        <item>Animationsskala 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Meget langsom</item>
+        <item>Langsom</item>
+        <item>Normal</item>
+        <item>Hurtig</item>
+        <item>Hurtigere</item>
+        <item>Meget hurtig</item>
+        <item>Lynhurtig</item>
+        <item>Ekstra lynhurtig</item>
+        <item>Hurtigst</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Oplader</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Lydkilde</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Ingen</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Ingen</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Dårlig</item>
+        <item>Rimelig</item>
+        <item>God</item>
+        <item>Fremragende</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Scanner ...</item>
+        <item>Opretter forbindelse...</item>
+        <item>Godkender...</item>
+        <item>Henter IP-adresse…</item>
+        <item>Tilsluttet</item>
+        <item>Sat på pause</item>
+        <item>Afbryder ...</item>
+        <item>Afbrudt</item>
+        <item>Mislykkedes</item>
+        <item>Blokeret</item>
+        <item>Undgår midlertidigt dårlig forbindelse</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Scanner ...</item>
+        <item>Opretter forbindelse til %1$s ...</item>
+        <item>Godkender med %1$s ...</item>
+        <item>Henter IP-adresse fra %1$s ...</item>
+        <item>Forbundet til %1$s</item>
+        <item>Sat på pause</item>
+        <item>Afbryder fra %1$s ...</item>
+        <item>Afbrudt</item>
+        <item>Mislykkedes</item>
+        <item>Blokeret</item>
+        <item>Undgår midlertidigt dårlig forbindelse</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animation fra</item>
+        <item>Animationsskala 0,5x</item>
+        <item>Animationsskala 1x</item>
+        <item>Animationsskala 1,5x</item>
+        <item>Animationsskala 2x</item>
+        <item>Animationsskala 5x</item>
+        <item>Animationsskala 10x</item>
+    </array>
+</resources>

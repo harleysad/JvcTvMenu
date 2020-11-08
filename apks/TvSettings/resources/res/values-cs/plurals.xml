@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">před %d dnem</item>
+        <item quantity="few">před %d dny</item>
+        <item quantity="many">před %d dne</item>
+        <item quantity="other">před %d dny</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">před %d min</item>
+        <item quantity="few">před %d min</item>
+        <item quantity="many">před %d min</item>
+        <item quantity="other">před %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">před %d rokem</item>
+        <item quantity="few">před %d lety</item>
+        <item quantity="many">před %d roku</item>
+        <item quantity="other">před %d lety</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d účet</item>
+        <item quantity="few">%1$d účty</item>
+        <item quantity="many">%1$d účtu</item>
+        <item quantity="other">%1$d účtů</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Připojený vstup</item>
+        <item quantity="few">Připojené vstupy</item>
+        <item quantity="many">Připojené vstupy</item>
+        <item quantity="other">Připojené vstupy</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Nepřipojený vstup</item>
+        <item quantity="few">Nepřipojené vstupy</item>
+        <item quantity="many">Nepřipojené vstupy</item>
+        <item quantity="other">Nepřipojené vstupy</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Vstup v úsporném režimu</item>
+        <item quantity="few">Vstupy v úsporném režimu</item>
+        <item quantity="many">Vstupy v úsporném režimu</item>
+        <item quantity="other">Vstupy v úsporném režimu</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d příslušenství</item>
+        <item quantity="few">%1$d příslušenství</item>
+        <item quantity="many">%1$d příslušenství</item>
+        <item quantity="other">%1$d příslušenství</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 povolená aplikace</item>
+        <item quantity="few">%d povolené aplikace</item>
+        <item quantity="many">%d povolené aplikace</item>
+        <item quantity="other">%d povolených aplikací</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Ještě %1$d krok a budou z vás vývojáři</item>
+        <item quantity="few">Ještě %1$d kroky a budou z vás vývojáři</item>
+        <item quantity="many">Ještě %1$d kroku a budou z vás vývojáři</item>
+        <item quantity="other">Ještě %1$d kroků a budou z vás vývojáři</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Připojeno %1$d zařízení</item>
+        <item quantity="few">Připojena %1$d zařízení</item>
+        <item quantity="many">Připojeno %1$d zařízení</item>
+        <item quantity="other">Připojeno %1$d zařízení</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:textSize="@dimen/nav_pvr_textsize" android:textColor="@color/white" android:id="@+id/device_info_hint" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20sp" android:layout_marginRight="50sp" android:stretchColumns="0,1,2,3,4" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+    <TableRow>
+        <TextView android:textColor="@color/yellow" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="@+id/schedule_channel_name" android:src="@drawable/tk_cm_color_key_green" android:text="@string/pvr_schedulepvr_ch41"/>
+        <TextView android:textColor="@color/yellow" android:layout_gravity="center_vertical" android:id="@+id/schedule_date" android:text="@string/pvr_schedulepvr_date"/>
+        <TextView android:textColor="@color/yellow" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="@+id/schedule_duration" android:src="@drawable/tk_cm_color_key_blue" android:text="@string/pvr_schedulepvr_time"/>
+        <TextView android:textColor="@color/yellow" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="@+id/schedule_internel" android:text="@string/pvr_schedulepvr_week"/>
+        <TextView android:textColor="@color/yellow" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/schedule_notification" android:minWidth="70dp" android:text="@string/pvr_schedulepvr_record"/>
+    </TableRow>
+</TableLayout>

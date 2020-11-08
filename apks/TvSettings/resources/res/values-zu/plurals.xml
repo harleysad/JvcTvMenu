@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d izinsuku ezedlule</item>
+        <item quantity="other">%d izinsuku ezedlule</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d iminithi eledlule</item>
+        <item quantity="other">%d iminithi eledlule</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d unyaka owedlule</item>
+        <item quantity="other">%d unyaka owedlule</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d ama-akhawunti</item>
+        <item quantity="other">%1$d ama-akhawunti</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Okokufaka okuxhunyiwe</item>
+        <item quantity="other">Okokufaka okuxhunyiwe</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Okokufaka okungaxhunyiwe</item>
+        <item quantity="other">Okokufaka okungaxhunyiwe</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Okokufaka okulindile</item>
+        <item quantity="other">Okokufaka okulindile</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d izinsiza</item>
+        <item quantity="other">%1$d izinsiza</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d izinhlelo zokusebenza ezivunyelwe</item>
+        <item quantity="other">%d izinhlelo zokusebenza ezivunyelwe</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Manje sewusele ngezinyathelo ezingu-%1$d ekubeni ngunjiniyela</item>
+        <item quantity="other">Manje sewusele ngezinyathelo ezingu-%1$d ekubeni ngunjiniyela</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d amadivayisi axhunyiwe</item>
+        <item quantity="other">%1$d amadivayisi axhunyiwe</item>
+    </plurals>
+</resources>

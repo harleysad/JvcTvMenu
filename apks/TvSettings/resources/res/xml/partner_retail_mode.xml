@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/s_retail_mode">
+    <SwitchPreference android:persistent="false" android:title="@string/s_retail_mode" android:key="k_retail_mode"/>
+    <ListPreference android:persistent="false" android:entries="@array/a_retail_messaging_entries" android:title="@string/s_retail_messaging" android:key="k_retail_messaging" android:summary="%s" android:entryValues="@array/a_retail_messaging_entry_values"/>
+    <ListPreference android:persistent="false" android:entries="@array/a_pq_demo_entries" android:title="@string/s_pq_demo" android:key="k_PQ_Demo" android:summary="%s" android:entryValues="@array/a_pq_demo_entry_values"/> /&gt; 
+</PreferenceScreen>

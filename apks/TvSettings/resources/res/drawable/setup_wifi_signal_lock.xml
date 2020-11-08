@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/setup_wifi_signal_open"/>
+    <item>
+        <level-list>
+            <item android:drawable="@drawable/ic_wifi_signal_lock" android:maxLevel="3"/>
+        </level-list>
+    </item>
+</layer-list>

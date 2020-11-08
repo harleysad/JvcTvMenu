@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">잘못된 PIN을 5회 입력했습니다.\10%1$d초 후에 다시 시도하세요.</item>
+        <item quantity="other">잘못된 PIN을 5회 입력했습니다.\10%1$d초 후에 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d개 채널</item>
+        <item quantity="other">%1$d개 채널</item>
+    </plurals>
+</resources>

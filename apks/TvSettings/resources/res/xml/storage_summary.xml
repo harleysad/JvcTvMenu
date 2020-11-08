@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_storage">
+    <PreferenceCategory android:title="@string/storage_device_storage_section" android:key="device_storage"/>
+    <PreferenceCategory android:title="@string/storage_removable_storage_section" android:key="removable_storage"/>
+</PreferenceScreen>

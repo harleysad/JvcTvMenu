@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Ke futur kodin e gabuar PIN 5 herë.\10Provo përsëri pas %1$d sekonde.</item>
+        <item quantity="other">Ke futur kodin e gabuar PIN 5 herë.\10Provo përsëri pas %1$d sekondash.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d kanal</item>
+        <item quantity="other">%1$d kanale</item>
+    </plurals>
+</resources>

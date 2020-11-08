@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="@dimen/content_fragment_description_text_size" android:textColor="#fff" android:id="@+id/netflix_esn_info_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/menu_versioninfo_name"/>
+    <TextView android:textSize="@dimen/content_fragment_description_text_size" android:textColor="#fff" android:id="@+id/netflix_esn_info_number" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp"/>
+</LinearLayout>

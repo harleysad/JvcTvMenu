@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/epg_password_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no">
+    <LinearLayout android:orientation="vertical" android:id="@+id/epg_password_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <LinearLayout android:gravity="center" android:id="@+id/epg_input_pwd_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="no">
+            <TextView android:textSize="@dimen/epg_program_ts" android:textColor="#c0eeeeee" android:gravity="center" android:id="@+id/epg_pwd_name" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/nav_parent_psw" android:importantForAccessibility="no" android:fontFamily="sans-serif"/>
+            <TextView android:textSize="@dimen/epg_program_ts" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/epg_pwd_value" android:background="#4b5459" android:layout_width="match_parent" android:layout_height="@dimen/epg_pwd_height" android:layout_marginLeft="@dimen/epg_pwd_value_marginLeft" android:layout_marginRight="@dimen/epg_pwd_value_marginRight"/>
+        </LinearLayout>
+        <TextView android:textSize="@dimen/epg_program_ts" android:textColor="#c0eeeeee" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@+id/epg_pwd_error" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/epg_pwd_error_marginTop" android:text="@string/nav_parent_wrong_psw" android:fontFamily="sans-serif"/>
+    </LinearLayout>
+</ScrollView>

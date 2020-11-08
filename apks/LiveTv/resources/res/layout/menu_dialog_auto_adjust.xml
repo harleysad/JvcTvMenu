@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:id="@+id/menu_dialog_auto_adjust" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:gravity="center" android:id="@+id/menu_dialog_auto_adjust_text" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <com.mediatek.wwtv.tvcenter.commonview.Loading android:id="@+id/menu_dialog_auto_adjust_loading" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@+id/menu_dialog_auto_adjust_text" android:layout_alignTop="@+id/menu_dialog_auto_adjust_text"/>
+</RelativeLayout>

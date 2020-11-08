@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ampm">
+        <item>π.μ.</item>
+        <item>μ.μ.</item>
+    </array>
+</resources>

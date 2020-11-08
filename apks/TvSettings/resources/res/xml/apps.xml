@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/applications_category_title">
+    <PreferenceCategory android:title="@string/apps_recently_used_category_title" android:key="recently_used_apps_category"/>
+    <Preference android:title="@string/apps_see_all_apps" android:key="see_all_apps" android:fragment="com.android.tv.settings.device.apps.AllAppsFragment"/>
+    <PreferenceCategory android:title="@string/apps_permissions_category_title" android:key="permissions">
+        <Preference android:title="@string/device_apps_permissions" android:key="Permissions">
+            <intent android:action="android.intent.action.MANAGE_PERMISSIONS"/>
+        </Preference>
+        <Preference android:title="@string/special_access" android:key="special_access" android:fragment="com.android.tv.settings.device.apps.specialaccess.SpecialAppAccess"/>
+    </PreferenceCategory>
+    <Preference android:title="@string/system_security" android:key="security" android:fragment="com.android.tv.settings.system.SecurityFragment"/>
+</PreferenceScreen>

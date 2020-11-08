@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="barcolor">#33b5e5</drawable>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="epg_2nd_list_item_normal">#f237474f</drawable>
+    <drawable name="epg_list_item">#800176bc</drawable>
+    <drawable name="epg_list_item_normal">#f2263238</drawable>
+    <drawable name="green">#7700ff00</drawable>
+    <drawable name="nav_ch_list">#2e2f32</drawable>
+    <drawable name="nav_input_pwd">#4b5459</drawable>
+    <drawable name="nav_list_common_select_back_color">#33eeeeee</drawable>
+    <drawable name="nav_source_list_dialog_item_divider_color">#00000000</drawable>
+    <drawable name="nav_source_list_dialog_item_select_background">@drawable/nav_list_common_select_back_color</drawable>
+    <drawable name="network_item">#ff707070</drawable>
+    <drawable name="network_item_focus">#ff5cc0ff</drawable>
+    <drawable name="notification_template_icon_bg">#3333b5e5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <drawable name="red">#0000</drawable>
+    <drawable name="screen_background_black">#ff000000</drawable>
+    <drawable name="settings_item_bg_disabled">#ff555555</drawable>
+    <drawable name="settings_item_bg_normal">#ff333333</drawable>
+    <drawable name="settings_item_bg_pressed">#ff777777</drawable>
+    <drawable name="translucent_background">#00000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+    <drawable name="tv_background">#00000000</drawable>
+    <drawable name="tv_dialog_bg">#ff384248</drawable>
+    <drawable name="tvview_background">#fff74dff</drawable>
+    <drawable name="white">#ffffffff</drawable>
+    <drawable name="yellow">#77ffff00</drawable>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d дн. назад</item>
+        <item quantity="few">%d дн. назад</item>
+        <item quantity="many">%d дн. назад</item>
+        <item quantity="other">%d дн. назад</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d мин. назад</item>
+        <item quantity="few">%d мин. назад</item>
+        <item quantity="many">%d мин. назад</item>
+        <item quantity="other">%d мин. назад</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d г. назад</item>
+        <item quantity="few">%d г. назад</item>
+        <item quantity="many">%d лет назад</item>
+        <item quantity="other">%d г. назад</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d аккаунт</item>
+        <item quantity="few">%1$d аккаунта</item>
+        <item quantity="many">%1$d аккаунтов</item>
+        <item quantity="other">%1$d аккаунта</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Подключенные входы</item>
+        <item quantity="few">Подключенные входы</item>
+        <item quantity="many">Подключенные входы</item>
+        <item quantity="other">Подключенные входы</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Отключенные входы</item>
+        <item quantity="few">Отключенные входы</item>
+        <item quantity="many">Отключенные входы</item>
+        <item quantity="other">Отключенные входы</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Резервные входы</item>
+        <item quantity="few">Резервные входы</item>
+        <item quantity="many">Резервные входы</item>
+        <item quantity="other">Резервные входы</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d устройство</item>
+        <item quantity="few">%1$d устройства</item>
+        <item quantity="many">%1$d устройств</item>
+        <item quantity="other">%1$d устройства</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">Разрешено %d приложение</item>
+        <item quantity="few">Разрешены %d приложения</item>
+        <item quantity="many">Разрешено %d приложений</item>
+        <item quantity="other">Разрешены %d приложения</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Почти готово! Остался %1$d шаг.</item>
+        <item quantity="few">Почти готово! Осталось %1$d шага.</item>
+        <item quantity="many">Почти готово! Осталось %1$d шагов.</item>
+        <item quantity="other">Почти готово! Осталось %1$d шага.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Подключено %1$d устройство</item>
+        <item quantity="few">Подключено %1$d устройства</item>
+        <item quantity="many">Подключено %1$d устройств</item>
+        <item quantity="other">Подключено %1$d устройства</item>
+    </plurals>
+</resources>

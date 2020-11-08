@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/ews_layout" android:background="@color/blue_new" android:paddingLeft="15dp" android:paddingRight="15dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="@dimen/nav_ews_dialog_margin_left" android:layout_marginTop="@dimen/nav_ews_dialog_margin_top" android:layout_marginRight="@dimen/nav_ews_dialog_margin_left" android:layout_marginBottom="@dimen/nav_ews_dialog_margin_top">
+        <RelativeLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5">
+            <ImageView android:id="@+id/disaster_logo" android:layout_width="108dp" android:layout_height="108dp" android:layout_alignParentLeft="true"/>
+            <ImageView android:id="@+id/disaster_authority" android:layout_width="108dp" android:layout_height="108dp" android:layout_alignParentRight="true"/>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_toLeftOf="@+id/disaster_authority" android:layout_toRightOf="@+id/disaster_logo">
+                <TextView android:textSize="@dimen/nav_ews_textsize_large" android:textStyle="bold" android:gravity="center" android:layout_gravity="center" android:id="@+id/disaster_status" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <TextView android:textSize="@dimen/nav_ews_textsize_normal" android:textStyle="bold" android:textColor="@color/black" android:ellipsize="marquee" android:gravity="center_horizontal" android:layout_gravity="center" android:id="@+id/disaster_area" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:layout_weight="1" android:marqueeRepeatLimit="marquee_forever"/>
+            </LinearLayout>
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/ews_middle_lay" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="3">
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <TextView android:textSize="@dimen/nav_ews_textsize_large" android:textColor="@color/black" android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/ews_bencana" android:layout_weight="6"/>
+                <TextView android:textSize="@dimen/nav_ews_textsize_normal" android:textColor="@color/black" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@+id/ews_bencana" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:layout_weight="1" android:marqueeRepeatLimit="marquee_forever"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <TextView android:textSize="@dimen/nav_ews_textsize_large" android:textColor="@color/black" android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/ews_tanggal" android:layout_weight="6"/>
+                <TextView android:textSize="@dimen/nav_ews_textsize_normal" android:textColor="@color/black" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@+id/ews_tanggal" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:layout_weight="1" android:marqueeRepeatLimit="marquee_forever"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <TextView android:textSize="@dimen/nav_ews_textsize_large" android:textColor="@color/black" android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/ews_posisi" android:layout_weight="6"/>
+                <TextView android:textSize="@dimen/nav_ews_textsize_normal" android:textColor="@color/black" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@+id/ews_posisi" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:layout_weight="1" android:marqueeRepeatLimit="marquee_forever"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <TextView android:textSize="@dimen/nav_ews_textsize_large" android:textColor="@color/black" android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/ews_karakter" android:layout_weight="6"/>
+                <TextView android:textSize="@dimen/nav_ews_textsize_normal" android:textColor="@color/black" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@+id/ews_karakter" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:layout_weight="1" android:marqueeRepeatLimit="marquee_forever"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <TextView android:textSize="@dimen/nav_ews_textsize_large" android:textColor="@color/black" android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/ews_pesan" android:layout_weight="6"/>
+                <TextView android:textSize="@dimen/nav_ews_textsize_normal" android:textColor="@color/black" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@+id/ews_pesan" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:layout_weight="1" android:marqueeRepeatLimit="marquee_forever"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/ews_logo_shape" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/nav_ews_textsize_normal" android:layout_weight="5">
+            <ScrollView android:paddingLeft="5dp" android:paddingRight="5dp" android:scrollbars="vertical" android:fadingEdge="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:verticalScrollbarPosition="right">
+                <TextView android:textSize="@dimen/nav_ews_textsize_normal" android:textColor="@android:color/black" android:id="@+id/infomation" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

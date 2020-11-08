@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Þú slóst inn rangt PIN-númer fimm sinnum.\10Reyndu aftur eftir %1$d sekúndu.</item>
+        <item quantity="other">Þú slóst inn rangt PIN-númer fimm sinnum.\10Reyndu aftur eftir %1$d sekúndur.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d stöð</item>
+        <item quantity="other">%1$d stöðvar</item>
+    </plurals>
+</resources>

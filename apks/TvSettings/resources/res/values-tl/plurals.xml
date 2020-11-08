@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d araw ang nakalipas</item>
+        <item quantity="other">%d na araw ang nakalipas</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d minuto ang nakalipas</item>
+        <item quantity="other">%d na minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d taon ang nakalipas</item>
+        <item quantity="other">%d na taon ang nakalipas</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d account</item>
+        <item quantity="other">%1$d na account</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Mga Nakakonektang Input</item>
+        <item quantity="other">Mga Nakakonektang Input</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Mga Hindi Nakakonektang Input</item>
+        <item quantity="other">Mga Hindi Nakakonektang Input</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Mga Naka-standby na Input</item>
+        <item quantity="other">Mga Naka-standby na Input</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d accessory</item>
+        <item quantity="other">%1$d na accessory</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d app ang pinapayagan</item>
+        <item quantity="other">%d na app ang pinapayagan</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">%1$d hakbang na lang ang layo mo mula sa pagiging isang developer</item>
+        <item quantity="other">%1$d na hakbang na lang ang layo mo mula sa pagiging isang developer</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d device ang nakakonekta</item>
+        <item quantity="other">%1$d na device ang nakakonekta</item>
+    </plurals>
+</resources>

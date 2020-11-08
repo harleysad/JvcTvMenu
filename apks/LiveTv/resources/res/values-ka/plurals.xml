@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">თქვენ 5-ჯერ შეიყვანეთ არასწორი PIN-კოდი.\10ცადეთ ხელახლა %1$d წამში.</item>
+        <item quantity="other">თქვენ 5-ჯერ შეიყვანეთ არასწორი PIN-კოდი.\10ცადეთ ხელახლა %1$d წამში.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d არხი</item>
+        <item quantity="other">%1$d არხი</item>
+    </plurals>
+</resources>

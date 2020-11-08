@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/turnkey_comm_dialog" android:background="#171717" android:padding="@dimen/menu_finetune_padding" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textStyle="bold" android:gravity="center" android:id="@+id/comm_finetune_numr" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"/>
+    <TextView android:textStyle="bold" android:gravity="center" android:id="@+id/comm_finetune_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_tv_channel_name" android:singleLine="true" android:layout_below="@+id/comm_finetune_numr"/>
+    <TextView android:textStyle="bold" android:gravity="center" android:id="@+id/comm_finetune_namer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@+id/comm_finetune_name" android:layout_alignTop="@+id/comm_finetune_name"/>
+    <TextView android:textStyle="bold" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/comm_finetune_frequency" android:layout_width="200dp" android:layout_height="wrap_content" android:singleLine="true" android:layout_above="@+id/common_finetune_line4" android:layout_below="@+id/comm_finetune_name" android:layout_centerVertical="true"/>
+    <ImageView android:id="@+id/comm_finetune_picgo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/menu_finetune_padding" android:src="@drawable/tk_cm_key_select_leftright" android:layout_toRightOf="@+id/comm_finetune_frequency" android:layout_above="@+id/common_finetune_line4" android:layout_below="@+id/comm_finetune_name" android:layout_centerVertical="true"/>
+    <TableLayout android:gravity="center" android:id="@+id/common_finetune_line4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:stretchColumns="*" android:layout_alignParentBottom="true">
+        <TableRow>
+            <TextView android:textStyle="bold" android:layout_gravity="center" android:id="@+id/comm_finetune_enter" android:text="@string/menu_enter" android:drawableLeft="@drawable/tk_cm_key_enter"/>
+            <TextView android:textStyle="bold" android:layout_gravity="center" android:id="@+id/comm_finetune_exit" android:text="@string/menu_exit" android:drawableLeft="@drawable/tk_cm_key_exit"/>
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>

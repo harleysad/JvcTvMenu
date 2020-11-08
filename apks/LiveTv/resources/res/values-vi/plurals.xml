@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Bạn đã nhập sai mã PIN 5 lần.\10Hãy thử lại sau %1$d giây.</item>
+        <item quantity="other">Bạn đã nhập sai mã PIN 5 lần.\10Hãy thử lại sau %1$d giây.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d kênh</item>
+        <item quantity="other">%1$d kênh</item>
+    </plurals>
+</resources>

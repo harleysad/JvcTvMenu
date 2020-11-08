@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/nav_infobar_basic_bg" android:layout_width="400dp" android:layout_height="200dp">
+    <TableLayout android:id="@+id/setup_ll_foot" android:layout_width="match_parent" android:layout_height="wrap_content" android:stretchColumns="*" android:shrinkColumns="*">
+        <TableRow>
+            <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:layout_gravity="center" android:visibility="invisible" android:drawableLeft="@drawable/tk_cm_key_back"/>
+            <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:layout_gravity="center" android:id="@+id/pvr_play_multi_audio" android:drawableLeft="@drawable/toolbar_typeicon_music"/>
+            <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:layout_gravity="center" android:id="@+id/pvr_play_subtitle" android:drawableLeft="@drawable/toolbar_icon_subtitle"/>
+            <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:layout_gravity="center" android:visibility="invisible" android:drawableLeft="@drawable/tk_cm_key_exit"/>
+        </TableRow>
+    </TableLayout>
+    <LinearLayout android:gravity="left" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@+id/pvr_play_btn" android:padding="@dimen/padding_medium" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="8dp" android:layout_toLeftOf="@+id/info"/>
+        <ImageView android:gravity="center" android:id="@+id/pvr_play_fb_btn" android:padding="@dimen/padding_medium" android:layout_width="50dp" android:layout_height="50dp" android:src="@drawable/timshift_pasuse"/>
+        <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/pvr_playinfo" android:padding="@dimen/padding_medium" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_nf_info"/>
+        <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_play_info"/>
+        <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/pvr_playinfo_endtime" android:padding="@dimen/padding_medium" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_nf_info"/>
+        <TextView android:textSize="15sp" android:id="@+id/pvr_playfast_view" android:padding="@dimen/padding_medium" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_nf_info"/>
+    </LinearLayout>
+    <ProgressBar android:id="@+id/pvr_play_progress" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="15dp" android:layout_marginRight="20dp" android:progress="40" android:layout_centerVertical="true" style="?android:attr/progressBarStyleHorizontal"/>
+    <TextView android:textSize="20sp" android:padding="@dimen/padding_medium" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/state_file_pvr_playback"/>
+</LinearLayout>

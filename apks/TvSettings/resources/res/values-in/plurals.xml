@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d hari lalu</item>
+        <item quantity="other">%d hari lalu</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d menit lalu</item>
+        <item quantity="other">%d menit lalu</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d tahun lalu</item>
+        <item quantity="other">%d tahun lalu</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d akun</item>
+        <item quantity="other">%1$d akun</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Input yang Terhubung</item>
+        <item quantity="other">Input yang Terhubung</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Input yang Tidak Terhubung</item>
+        <item quantity="other">Input yang Tidak Terhubung</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Input Siaga</item>
+        <item quantity="other">Input Siaga</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d aksesori</item>
+        <item quantity="other">%1$d aksesori</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 aplikasi diizinkan</item>
+        <item quantity="other">%d aplikasi diizinkan</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">%1$d langkah lagi untuk menjadi pengembang</item>
+        <item quantity="other">%1$d langkah lagi untuk menjadi pengembang</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d perangkat terhubung</item>
+        <item quantity="other">%1$d perangkat terhubung</item>
+    </plurals>
+</resources>

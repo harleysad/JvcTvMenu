@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d konto</item>
+        <item quantity="other">%1$d konton</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Ansluten ingångskälla</item>
+        <item quantity="other">Anslutna ingångskällor</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Ej ansluten ingångskälla</item>
+        <item quantity="other">Ej anslutna ingångskällor</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Standby-ingångskälla</item>
+        <item quantity="other">Standby-ingångskällor</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d tillbehör</item>
+        <item quantity="other">%1$d tillbehör</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 app tillåts</item>
+        <item quantity="other">%d appar tillåts</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Du är nu %1$d steg från att bli utvecklare</item>
+        <item quantity="other">Du är nu %1$d steg från att bli utvecklare</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d enhet är ansluten</item>
+        <item quantity="other">%1$d enheter är anslutna</item>
+    </plurals>
+</resources>

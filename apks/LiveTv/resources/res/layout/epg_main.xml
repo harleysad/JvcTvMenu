@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/epg_root_layout" android:background="@drawable/epg_bg" android:nextFocusDown="@+id/epg_listview_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:id="@+id/epg_top_layout" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.95">
+        <TextView android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/epg_retrieving_data" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="3" style="@style/epg_TextAppearance_StatusBarTitle"/>
+        <TextView android:textSize="@dimen/epg_time_ts" android:textColor="@color/lightblue" android:gravity="center" android:layout_gravity="center" android:id="@+id/epg_top_date_info_tv" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/epg_title_layout" android:focusable="false" android:layout_marginTop="@dimen/epg_title_rmargin" android:layout_weight="0.97" style="@style/epg_list_layout_style">
+        <TextView android:gravity="center" android:id="@+id/epg_title_date_selected_tv" android:paddingLeft="@dimen/epg_title_lpadding" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="3"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="@dimen/epg_time_rmargin" android:layout_weight="1">
+            <TextView android:id="@+id/epg_title_time_begin_tv" style="@style/epg_time_zoom_text"/>
+            <TextView android:id="@+id/epg_title_time_end_tv" style="@style/epg_time_zoom_text"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/epg_listview_layout" android:focusable="true" android:layout_weight="0.6" style="@style/epg_list_layout_style">
+        <com.mediatek.wwtv.tvcenter.nav.commonview.EPGListView android:id="@+id/epg_program_forecast_listview" android:focusable="true" android:scrollbars="none" android:fadingEdge="none" android:nextFocusLeft="@+id/epg_program_forecast_listview" android:nextFocusRight="@+id/epg_program_forecast_listview" android:nextFocusUp="@+id/epg_program_forecast_listview" android:nextFocusDown="@+id/epg_program_forecast_listview" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="@drawable/epg_listview_bg" android:scrollingCache="false" android:divider="@android:color/transparent"/>
+    </LinearLayout>
+    <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+    <LinearLayout android:id="@+id/epg_content_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.7">
+        <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2"/>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:textSize="@dimen/epg_program_ts" android:id="@+id/epg_program_info_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true"/>
+            <TextView android:textSize="@dimen/epg_program_ts" android:id="@+id/epg_program_info_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/epg_program_info_name" android:layout_alignParentLeft="true"/>
+            <ImageView android:id="@+id/epg_info_lock_icon" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/epg_icon_margin" android:layout_marginTop="@dimen/epg_title_rpadding" android:src="@drawable/nav_banner_lock_icon" android:layout_toRightOf="@+id/epg_program_info_time" android:layout_below="@+id/epg_program_info_name"/>
+            <ImageView android:id="@+id/epg_info_sttl_icon" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/epg_title_dpadding" android:src="@drawable/nav_banner_icon_sttl" android:layout_toRightOf="@+id/epg_info_lock_icon" android:layout_below="@+id/epg_program_info_name" android:layout_alignParentRight="true"/>
+            <TextView android:scrollbarThumbVertical="@drawable/translucent_background" android:textSize="@dimen/epg_bottom_ts" android:textColor="@color/lightblue" android:id="@+id/epg_program_info_detail" android:scrollbars="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textScaleX="1.3" android:lines="3" android:singleLine="false" android:layout_below="@+id/epg_program_info_time" android:layout_alignParentLeft="true" android:lineSpacingMultiplier="1.5"/>
+            <TextView android:textSize="@dimen/epg_program_ts" android:textColor="@color/lightblue" android:id="@+id/epg_info_page_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/epg_program_info_detail" android:layout_alignParentRight="true" android:layout_alignParentBottom="true"/>
+        </RelativeLayout>
+        <TextView android:textSize="@dimen/epg_program_type_ts" android:gravity="center_horizontal" android:id="@+id/epg_program_info_type" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2"/>
+        <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2"/>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/epg_bottom_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.96">
+        <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+        <TextView android:id="@+id/epg_bottom_prev_day_tv" android:text="@string/epg_bottom_prev_day" android:drawableLeft="@drawable/tk_cm_color_key_red" style="@style/epg_bottom_textView"/>
+        <TextView android:id="@+id/epg_bottom_next_day_tv" android:text="@string/epg_bottom_next_day" android:drawableLeft="@drawable/tk_cm_color_key_green" style="@style/epg_bottom_textView"/>
+        <TextView android:id="@+id/epg_bottom_view_detail" android:drawableLeft="@drawable/tk_cm_color_key_yellow" style="@style/epg_bottom_textView"/>
+        <TextView android:id="@+id/epg_bottom_view_filter" android:text="@string/epg_bottom_type_filter" android:drawableLeft="@drawable/tk_cm_color_key_blue" style="@style/epg_bottom_textView"/>
+        <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+    </LinearLayout>
+</LinearLayout>

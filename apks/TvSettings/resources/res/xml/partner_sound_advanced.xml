@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/sound_dap">
+    <SwitchPreference android:persistent="false" android:title="@string/sound_dap" android:key="sound_advanced_dolby_ap"/>
+    <ListPreference android:persistent="false" android:entries="@array/sound_advanced_sound_mode_entries" android:title="@string/device_sound_advanced_soundmode" android:key="sound_advanced_sound_mode" android:summary="%s" android:entryValues="@array/sound_advanced_sound_mode_entry_values"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_advanced_volumeleveler" android:key="sound_advanced_volume_leveler"/>
+    <ListPreference android:persistent="false" android:entries="@array/picture_advanced_video_local_contrast_entries" android:title="@string/device_sound_advanced_dialogueenhancer" android:key="sound_advanced_dialogue_enhancer" android:summary="%s" android:entryValues="@array/sound_advanced_dialog_enhancer_entry_values"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_advanced_surroundvirtualizer" android:key="sound_advanced_surround_virtualizer"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_advanced_dolbyatmos" android:key="sound_advanced_dolby_atmos"/>
+</PreferenceScreen>

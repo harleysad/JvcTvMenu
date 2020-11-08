@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">ပင်နံပါတ်အမှားကို ၅ ကြိမ် ထည့်သွင်းထားသည်။\10%1$d စက္ကန့်အကြာတွင် ထပ်စမ်းကြည့်ပါ။</item>
+        <item quantity="other">ပင်နံပါတ်အမှားကို ၅ ကြိမ် ထည့်သွင်းထားသည်။\10%1$d စက္ကန့်အကြာတွင် ထပ်စမ်းကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">ချန်နယ် %1$d ခု</item>
+        <item quantity="other">ချန်နယ် %1$d ခု</item>
+    </plurals>
+</resources>

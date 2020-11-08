@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d ଆକାଉଣ୍ଟ</item>
+        <item quantity="other">%1$d ଆକାଉଣ୍ଟ</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">କନେକ୍ଟ ହୋଇଥିବା ଇନପୁଟ୍‌</item>
+        <item quantity="other">କନେକ୍ଟ ହୋଇଥିବା ଇନ୍‌ପୁଟ୍‌ଗୁଡିକ</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">କନେକ୍ଟ ହୋଇନଥିବା ଇନ୍‌ପୁଟ୍‌</item>
+        <item quantity="other">କନେକ୍ଟ ହୋଇନଥିବା ଇନ୍‌ପୁଟ୍‌</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">ଷ୍ଟାଣ୍ଡବାଏ ଇନ୍‌ପୁଟ୍‌</item>
+        <item quantity="other">ଷ୍ଟାଣ୍ଡବାଏ ଇନ୍‌ପୁଟ୍‌</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d ଆସେରୋରୀ</item>
+        <item quantity="other">%1$d ଆସେସୋରୀଗୁଡିକ</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 ଆପ୍‌ ଅନୁମୋଦିତ ଅଟେ</item>
+        <item quantity="other">%d ଆପ୍‌ ଅନୁମୋଦିତ ଅଟେ</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">ଜଣେ ଡେଭଲପର୍ ହେବାରେ ଆପଣ ବର୍ତ୍ତମାନ %1$dଟି ପାଦ ଦୂରରେ ଅଛନ୍ତି।</item>
+        <item quantity="other">ଜଣେ ଡେଭଲପର୍ ହେବାରେ ଆପଣ ବର୍ତ୍ତମାନ %1$dଟି ପାଦ ଦୂରରେ ଅଛନ୍ତି।</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$dଟି ଡିଭାଇସ୍ ସଂଯୁକ୍ତ ହୋଇଛି</item>
+        <item quantity="other">%1$dଟି ଡିଭାଇସ୍‌ ସଂଯୁକ୍ତ ହୋଇଛି</item>
+    </plurals>
+</resources>

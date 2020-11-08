@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">ပြီးခဲ့သော %d ရက်</item>
+        <item quantity="other">ပြီးခဲ့သော %d ရက်</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">ပြီးခဲ့သော%dမိနစ်</item>
+        <item quantity="other">ပြီးခဲ့သော%dမိနစ်</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">ပြီးခဲ့သော %dနှစ်</item>
+        <item quantity="other">ပြီးခဲ့သော %dနှစ်</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">အကောင့် %1$d ခု</item>
+        <item quantity="other">အကောင့် %1$d ခု</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">ချိတ်ဆက်ထားသည့် ထည့်သွင်းမှု</item>
+        <item quantity="other">ချိတ်ဆက်ထားသည့် ထည့်သွင်းမှုများ</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">ချိတ်ဆက်မထားသည့် ထည့်သွင်းမှု</item>
+        <item quantity="other">ချိတ်ဆက်မထားသည့် ထည့်သွင်းမှုများ</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">အရန်သင့်ထည့်သွင်းမှု</item>
+        <item quantity="other">အရန်သင့်ထည့်သွင်းမှုများ</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">ဆက်စပ်ပစ္စည်း %1$d ခု</item>
+        <item quantity="other">ဆက်စပ်ပစ္စည်း %1$d ခု</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">အက်ပ်၁ ခု ခွင့်ပြုသည်</item>
+        <item quantity="other">အက်ပ်%d ခု ခွင့်ပြုသည်</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">သင်သည် ယခု ပြုစုသူ တစ်ဦး ဖြစ်လာရန် ခြေလှမ်း %1$d သာလိုပါတော့သည်</item>
+        <item quantity="other">သင်သည် ယခု ပြုစုသူ တစ်ဦး ဖြစ်လာရန် ခြေလှမ်း %1$d သာလိုပါတော့သည်</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">စက် %1$d ခု ချိတ်ဆက်ထားသည်</item>
+        <item quantity="other">စက် %1$d ခု ချိတ်ဆက်ထားသည်</item>
+    </plurals>
+</resources>

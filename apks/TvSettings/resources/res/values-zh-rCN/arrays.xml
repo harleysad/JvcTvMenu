@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>关闭</item>
+        <item>左</item>
+        <item>右</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>演示视频</item>
+        <item>e-POP（靠左）</item>
+        <item>e-POP（置底）</item>
+    </array>
+    <array name="ampm">
+        <item>上午</item>
+        <item>下午</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>关闭动画</item>
+        <item>动画缩放 0.5x</item>
+        <item>动画缩放 1x</item>
+        <item>动画缩放 1.5x</item>
+        <item>动画缩放 2x</item>
+        <item>动画缩放 5x</item>
+        <item>动画缩放 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>关闭动画</item>
+        <item>动画缩放 0.5x</item>
+        <item>动画缩放 1x</item>
+        <item>动画缩放 1.5x</item>
+        <item>动画缩放 2x</item>
+        <item>动画缩放 5x</item>
+        <item>动画缩放 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>标准限制</item>
+        <item>不允许后台进程</item>
+        <item>不得超过1个进程</item>
+        <item>不得超过2个进程</item>
+        <item>不得超过3个进程</item>
+        <item>不得超过4个进程</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>使用网络提供的时间</item>
+        <item>关闭</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>使用网络提供的时间</item>
+        <item>使用传输流提供的时间</item>
+        <item>关闭</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>使用系统选择（默认）</item>
+        <item>16 位/样本</item>
+        <item>24 位/样本</item>
+        <item>32 位/样本</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>使用系统选择（默认）</item>
+        <item>16 位/样本</item>
+        <item>24 位/样本</item>
+        <item>32 位/样本</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>使用系统选择（默认）</item>
+        <item>单声道</item>
+        <item>立体声</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>使用系统选择（默认）</item>
+        <item>单声道</item>
+        <item>立体声</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>偏重音频质量</item>
+        <item>兼顾音频和连接质量</item>
+        <item>偏重连接质量</item>
+        <item>尽可能提供更佳音质（自适应比特率）</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>偏重音频质量 (990kbps/909kbps)</item>
+        <item>兼顾音频和连接质量 (660kbps/606kbps)</item>
+        <item>偏重连接质量 (330kbps/303kbps)</item>
+        <item>尽可能提供更佳音质（自适应比特率）</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>使用系统选择（默认）</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>使用系统选择（默认）</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>使用系统选择（默认）</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ 音频</item>
+        <item>Qualcomm® aptX™ HD 音频</item>
+        <item>LDAC</item>
+        <item>启用可选编解码器</item>
+        <item>停用可选编解码器</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>使用系统选择（默认）</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ 音频</item>
+        <item>Qualcomm® aptX™ HD 音频</item>
+        <item>LDAC</item>
+        <item>启用可选编解码器</item>
+        <item>停用可选编解码器</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4（默认）</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>默认</item>
+        <item>无</item>
+        <item>外框</item>
+        <item>阴影</item>
+        <item>凸起</item>
+        <item>凹陷</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>默认</item>
+        <item>黑色</item>
+        <item>白色</item>
+        <item>绿色</item>
+        <item>蓝色</item>
+        <item>红色</item>
+        <item>青色</item>
+        <item>黄色</item>
+        <item>紫红色</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>默认</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif 等宽字体</item>
+        <item>Serif</item>
+        <item>Serif 等宽字体</item>
+        <item>休闲</item>
+        <item>Cursive</item>
+        <item>小型大写字母</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>默认</item>
+        <item>实心</item>
+        <item>半透明</item>
+        <item>透明</item>
+        <item>闪烁</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>默认</item>
+        <item>小</item>
+        <item>一般</item>
+        <item>大</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>无</item>
+        <item>轮廓</item>
+        <item>阴影</item>
+        <item>凸起</item>
+        <item>凹陷</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>超小</item>
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+        <item>超大</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>默认</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Small capitals</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>找不到 CEC 设备</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>增强的颜色</item>
+        <item>肉眼所看到的自然颜色</item>
+        <item>针对数字内容优化的颜色</item>
+    </array>
+    <array name="color_mode_names">
+        <item>鲜亮（默认）</item>
+        <item>自然</item>
+        <item>标准</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>关闭</item>
+        <item>显示过度绘制区域</item>
+        <item>显示适合绿色弱视患者查看的区域</item>
+    </array>
+    <array name="display_caption_array">
+        <item>关闭</item>
+        <item>开启</item>
+        <item>显示字幕并静音</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>无</item>
+        <item>Logcat</item>
+        <item>Systrace（图形）</item>
+        <item>glGetError 上的调用堆栈</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>一律不使用 HDCP 检查</item>
+        <item>仅使用 HDCP 检查 DRM 内容</item>
+        <item>始终使用 HDCP 检查</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>永不检查</item>
+        <item>仅检查 DRM 内容</item>
+        <item>总是检查</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>自动 EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>无</item>
+        <item>480p</item>
+        <item>480p（安全）</item>
+        <item>720p</item>
+        <item>720p（安全）</item>
+        <item>1080p</item>
+        <item>1080p（安全）</item>
+        <item>4K</item>
+        <item>4K（安全）</item>
+        <item>4K（画质提升）</item>
+        <item>4K（画质提升、安全）</item>
+        <item>720p，1080p（双屏）</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>手动</item>
+        <item>半自动</item>
+        <item>自动</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>关闭</item>
+        <item>自动</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>关闭</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>全部</item>
+        <item>右</item>
+        <item>左</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>关闭</item>
+        <item>低</item>
+        <item>中</item>
+        <item>强</item>
+        <item>自动</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>关闭</item>
+        <item>低</item>
+        <item>中</item>
+        <item>强</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>自动</item>
+        <item>全屏</item>
+        <item>限制</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>关闭</item>
+        <item>低</item>
+        <item>中</item>
+        <item>高</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>关闭</item>
+        <item>最小值</item>
+        <item>中</item>
+        <item>最大值</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>用户</item>
+        <item>冷色</item>
+        <item>标准</item>
+        <item>暖色</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>阴暗</item>
+        <item>中等</item>
+        <item>明亮</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>开启</item>
+        <item>关闭</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>杜比视界明亮</item>
+        <item>杜比视界阴暗</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>用户</item>
+        <item>影院</item>
+        <item>体育</item>
+        <item>明艳</item>
+        <item>高亮度</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>标准</item>
+        <item>自然</item>
+        <item>明艳</item>
+        <item>体育</item>
+        <item>影片</item>
+        <item>游戏</item>
+        <item>节能</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>用户</item>
+        <item>标准</item>
+        <item>明艳</item>
+        <item>体育</item>
+        <item>影片</item>
+        <item>游戏</item>
+        <item>节能</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>关闭</item>
+        <item>%d 分钟</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>客厅电视</item>
+        <item>家庭活动室电视</item>
+        <item>卧室电视</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>自动</item>
+        <item>超级缩放</item>
+        <item>4:3</item>
+        <item>影片按 14:9 的比例展开</item>
+        <item>影片按 16:9 的比例展开</item>
+        <item>宽屏</item>
+        <item>全屏</item>
+        <item>未调整</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>超级缩放</item>
+        <item>全屏</item>
+        <item>未调整</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>自动</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>全屏</item>
+        <item>缩放</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 分钟</item>
+        <item>1 小时</item>
+        <item>3 小时</item>
+        <item>6 小时</item>
+        <item>12 小时</item>
+        <item>永不</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>关闭</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>关闭</item>
+        <item>每个日志缓冲区 64K</item>
+        <item>每个日志缓冲区 256K</item>
+        <item>每个日志缓冲区 1M</item>
+        <item>每个日志缓冲区 4M</item>
+        <item>每个日志缓冲区 16M</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>关闭</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>关闭</item>
+        <item>所有日志缓冲区</item>
+        <item>所有非无线电日志缓冲区</item>
+        <item>仅限内核日志缓冲区</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>关闭</item>
+        <item>全部</item>
+        <item>所有非无线电</item>
+        <item>仅限内核</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>关闭</item>
+        <item>以蓝色填充非矩形剪裁区域</item>
+        <item>以绿色突出显示测试绘制命令</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 分钟</item>
+        <item>15 分钟</item>
+        <item>30 分钟</item>
+        <item>1 小时</item>
+        <item>2 小时</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>游戏</item>
+        <item>影片</item>
+        <item>音乐</item>
+        <item>新闻</item>
+        <item>体育馆</item>
+        <item>标准</item>
+        <item>用户</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>关闭</item>
+        <item>开启</item>
+        <item>自动</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>关闭</item>
+        <item>一般</item>
+        <item>夜间</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>立体声</item>
+        <item>环绕声</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>关闭</item>
+        <item>摇滚</item>
+        <item>流行乐</item>
+        <item>直播</item>
+        <item>舞曲</item>
+        <item>铁克诺</item>
+        <item>经典</item>
+        <item>轻柔</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>自动</item>
+        <item>略过</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>关闭</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP 直通</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>电视扬声器</item>
+        <item>外部音频系统</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>用户</item>
+        <item>标准</item>
+        <item>明艳</item>
+        <item>体育</item>
+        <item>影片</item>
+        <item>音乐</item>
+        <item>新闻</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>标准</item>
+        <item>体育</item>
+        <item>影片</item>
+        <item>音乐</item>
+        <item>用户</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>一般</item>
+        <item>听力障碍</item>
+        <item>视力损害</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>关闭</item>
+        <item>在屏幕上显示为条形图</item>
+        <item>在 adb shell dumpsys gfxinfo 中</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>关闭动画</item>
+        <item>动画缩放 0.5x</item>
+        <item>动画缩放 1x</item>
+        <item>动画缩放 1.5x</item>
+        <item>动画缩放 2x</item>
+        <item>动画缩放 5x</item>
+        <item>动画缩放 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>很慢</item>
+        <item>慢</item>
+        <item>正常</item>
+        <item>快</item>
+        <item>较快</item>
+        <item>非常快</item>
+        <item>超快</item>
+        <item>极快</item>
+        <item>最快</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>充电</item>
+        <item>MTP（媒体传输协议）</item>
+        <item>PTP（图片传输协议）</item>
+        <item>RNDIS（USB 以太网）</item>
+        <item>音频来源</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>无</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>无</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>弱</item>
+        <item>一般</item>
+        <item>强</item>
+        <item>极强</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>正在扫描...</item>
+        <item>正在连接...</item>
+        <item>正在验证身份…</item>
+        <item>正在获取IP地址...</item>
+        <item>已连接</item>
+        <item>已暂停</item>
+        <item>正在断开连接...</item>
+        <item>已断开连接</item>
+        <item>失败</item>
+        <item>已停用</item>
+        <item>暂时关闭（网络状况不佳）</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>正在扫描...</item>
+        <item>正在连接到 %1$s...</item>
+        <item>正在通过 %1$s 进行身份验证...</item>
+        <item>正在从%1$s获取IP地址...</item>
+        <item>已连接到 %1$s</item>
+        <item>已暂停</item>
+        <item>正在断开与 %1$s 的连接...</item>
+        <item>已断开连接</item>
+        <item>失败</item>
+        <item>已停用</item>
+        <item>暂时关闭（网络状况不佳）</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>关闭动画</item>
+        <item>动画缩放 0.5x</item>
+        <item>动画缩放 1x</item>
+        <item>动画缩放 1.5x</item>
+        <item>动画缩放 2x</item>
+        <item>动画缩放 5x</item>
+        <item>动画缩放 10x</item>
+    </array>
+</resources>

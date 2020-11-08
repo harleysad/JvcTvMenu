@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">pred %d dnem</item>
+        <item quantity="two">pred %d dnevoma</item>
+        <item quantity="few">pred %d dnevi</item>
+        <item quantity="other">pred %d dnevi</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">pred %d minuto</item>
+        <item quantity="two">pred %d minutama</item>
+        <item quantity="few">pred %d minutami</item>
+        <item quantity="other">pred %d minutami</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">pred %d letom</item>
+        <item quantity="two">pred %d letoma</item>
+        <item quantity="few">pred %d leti</item>
+        <item quantity="other">pred %d leti</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d račun</item>
+        <item quantity="two">%1$d računa</item>
+        <item quantity="few">%1$d računi</item>
+        <item quantity="other">%1$d računov</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Povezani vhodi</item>
+        <item quantity="two">Povezani vhodi</item>
+        <item quantity="few">Povezani vhodi</item>
+        <item quantity="other">Povezani vhodi</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Nepovezani vhodi</item>
+        <item quantity="two">Nepovezani vhodi</item>
+        <item quantity="few">Nepovezani vhodi</item>
+        <item quantity="other">Nepovezani vhodi</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Vhodi v pripravljenosti</item>
+        <item quantity="two">Vhodi v pripravljenosti</item>
+        <item quantity="few">Vhodi v pripravljenosti</item>
+        <item quantity="other">Vhodi v pripravljenosti</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d dodatek</item>
+        <item quantity="two">%1$d dodatka</item>
+        <item quantity="few">%1$d dodatki</item>
+        <item quantity="other">%1$d dodatkov</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d dovoljena aplikacija</item>
+        <item quantity="two">%d dovoljeni aplikaciji</item>
+        <item quantity="few">%d dovoljene aplikacije</item>
+        <item quantity="other">%d dovoljenih aplikacij</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">%1$d korak vas loči od tega, da postanete razvijalec</item>
+        <item quantity="two">%1$d koraka vas ločita od tega, da postanete razvijalec</item>
+        <item quantity="few">%1$d koraki vas ločijo od tega, da postanete razvijalec</item>
+        <item quantity="other">%1$d korakov vas loči od tega, da postanete razvijalec</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Povezana je %1$d naprava</item>
+        <item quantity="two">Povezani sta %1$d napravi</item>
+        <item quantity="few">Povezane so %1$d naprave</item>
+        <item quantity="other">Povezanih je %1$d naprav</item>
+    </plurals>
+</resources>

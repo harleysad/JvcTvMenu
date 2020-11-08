@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d день тому</item>
+        <item quantity="few">%d дні тому</item>
+        <item quantity="many">%d днів тому</item>
+        <item quantity="other">%d дня тому</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d хвилину тому</item>
+        <item quantity="few">%d хвилини тому</item>
+        <item quantity="many">%d хвилин тому</item>
+        <item quantity="other">%d хвилини тому</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d рік тому</item>
+        <item quantity="few">%d роки тому</item>
+        <item quantity="many">%d років тому</item>
+        <item quantity="other">%d року тому</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d обліковий запис</item>
+        <item quantity="few">%1$d облікові записи</item>
+        <item quantity="many">%1$d облікових записів</item>
+        <item quantity="other">%1$d облікового запису</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Під’єднані джерела сигналу</item>
+        <item quantity="few">Під’єднані джерела сигналу</item>
+        <item quantity="many">Під’єднані джерела сигналу</item>
+        <item quantity="other">Під’єднані джерела сигналу</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Непід’єднані джерела сигналу</item>
+        <item quantity="few">Непід’єднані джерела сигналу</item>
+        <item quantity="many">Непід’єднані джерела сигналу</item>
+        <item quantity="other">Непід’єднані джерела сигналу</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Резервні джерела сигналу</item>
+        <item quantity="few">Резервні джерела сигналу</item>
+        <item quantity="many">Резервні джерела сигналу</item>
+        <item quantity="other">Резервні джерела сигналу</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d аксесуар</item>
+        <item quantity="few">%1$d аксесуари</item>
+        <item quantity="many">%1$d аксесуарів</item>
+        <item quantity="other">%1$d аксесуара</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">Дозволено %d додаток</item>
+        <item quantity="few">Дозволено %d додатки</item>
+        <item quantity="many">Дозволено %d додатків</item>
+        <item quantity="other">Дозволено %d додатка</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Щоб стати розробником, потрібно виконати ще %1$d дію</item>
+        <item quantity="few">Щоб стати розробником, потрібно виконати ще %1$d дії</item>
+        <item quantity="many">Щоб стати розробником, потрібно виконати ще %1$d дій</item>
+        <item quantity="other">Щоб стати розробником, потрібно виконати ще %1$d дії</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Під’єднано %1$d пристрій</item>
+        <item quantity="few">Під’єднано %1$d пристрої</item>
+        <item quantity="many">Під’єднано %1$d пристроїв</item>
+        <item quantity="other">Під’єднано %1$d пристрою</item>
+    </plurals>
+</resources>

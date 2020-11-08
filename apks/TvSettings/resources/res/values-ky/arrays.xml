@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ӨЧҮК</item>
+        <item>СОЛГО</item>
+        <item>ОҢГО</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Демо видео</item>
+        <item>e-POP сол жакта</item>
+        <item>e-POP астында</item>
+    </array>
+    <array name="ampm">
+        <item>түшкө чейин</item>
+        <item>түштөн кийин</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Анимация өчүк</item>
+        <item>Анимация ченөлчөмү .5x</item>
+        <item>Анимация ченөлчөмү 1x</item>
+        <item>Анимация ченөлчөмү 1.5x</item>
+        <item>Анимация ченөлчөмү 2x</item>
+        <item>Анимация ченөлчөмү 5x</item>
+        <item>Анимация ченөлчөмү 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Анимацияны токтотуу</item>
+        <item>Анимация масштабы .5x</item>
+        <item>Анимация масштабы 1x</item>
+        <item>Анимация масштабы 1.5x</item>
+        <item>Анимация масштабы  2x</item>
+        <item>Анимация масштабы 5x</item>
+        <item>Анимация масштабы 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Стандарттык чектөө</item>
+        <item>Фондо процесстер жок</item>
+        <item>Эң көп дегенде 1 процесс</item>
+        <item>Эң көп дегенде 2 процесс</item>
+        <item>Эң көп дегенде 3 процесс</item>
+        <item>Эң көп дегенде 4 процесс</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Тармактын убакыты колдонулат</item>
+        <item>Өчүк</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Тармактын убакыты колдонулат</item>
+        <item>Транспорт агымдар убакытын колдонуу</item>
+        <item>Өчүк</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Тутум тандаганды колдонуу (демейки)</item>
+        <item>16 бит/үлгү</item>
+        <item>24 бит/үлгү</item>
+        <item>32 бит/үлгү</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Тутум тандаганды колдонуу (демейки)</item>
+        <item>16 бит/үлгү</item>
+        <item>24 бит/үлгү</item>
+        <item>32 бит/үлгү</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Тутум тандаганды колдонуу (демейки)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Тутум тандаганды колдонуу (демейки)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Аудионун сапатын оптималдаштыруу</item>
+        <item>Теңделген аудио жана туташуу сапаты</item>
+        <item>Туташуунун сапатын оптималдаштыруу</item>
+        <item>Эң жакшы сунуш (Ыңгайлуу өткөрүү ылдамдыгы)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Аудионун сапатын оптималдаштыруу (990кб/сек./909кб/сек.)</item>
+        <item>Теңделген аудио жана туташуу сапаты (660кб/сек./606кб/сек.)</item>
+        <item>Туташуунун сапатын оптималдаштыруу (330кб/сек./303кб/сек.)</item>
+        <item>Эң жакшы сунуш (Ыңгайлуу өткөрүү ылдамдыгы)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Тутум тандаганды колдонуу (демейки)</item>
+        <item>44,1 кГц</item>
+        <item>48,0 кГц</item>
+        <item>88,2 кГц</item>
+        <item>96,0 кГц</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Тутум тандаганды колдонуу (демейки)</item>
+        <item>44,1 кГц</item>
+        <item>48,0 кГц</item>
+        <item>88,2 кГц</item>
+        <item>96,0 кГц</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Тутум тандаганды колдонуу (демейки)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ аудио</item>
+        <item>Qualcomm® aptX™ HD аудио</item>
+        <item>LDAC</item>
+        <item>Кошумча кодекстер иштетилсин</item>
+        <item>Кошумча кодекстер өчүрүлсүн</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Тутум тандаганды колдонуу (демейки)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ аудио</item>
+        <item>Qualcomm® aptX™ HD аудио</item>
+        <item>LDAC</item>
+        <item>Кошумча кодекстер иштетилсин</item>
+        <item>Кошумча кодекстер өчүрүлсүн</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Демейки)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Демейки</item>
+        <item>Эч бири</item>
+        <item>Контур</item>
+        <item>Көлөкө түшүрүү</item>
+        <item>Көтөрүлгөн</item>
+        <item>Ныгырылган</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Демейки</item>
+        <item>Кара</item>
+        <item>Ак</item>
+        <item>Жашыл</item>
+        <item>Көк</item>
+        <item>Кызыл</item>
+        <item>Көгүлтүр</item>
+        <item>Сары</item>
+        <item>Кочкул кызыл</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Демейки</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif (бирдей боштуктар менен)</item>
+        <item>Serif</item>
+        <item>Serif (бирдей боштуктар менен)</item>
+        <item>Эркин</item>
+        <item>Жантык</item>
+        <item>Кичине баш тамгалар</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Демейки</item>
+        <item>Катуу</item>
+        <item>Жарыкта көрүнүүчү</item>
+        <item>Тунук</item>
+        <item>Жаркылдаган</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Демейки</item>
+        <item>Кичине</item>
+        <item>Орточо</item>
+        <item>Чоң</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Эч бири</item>
+        <item>Контур</item>
+        <item>Көлөкөлөтүү</item>
+        <item>Дөмпөйгөн</item>
+        <item>Ныгырылган</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Өтө кичине</item>
+        <item>Кичине</item>
+        <item>Орточо</item>
+        <item>Чоң</item>
+        <item>Өтө чоң</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Демейки</item>
+        <item>Sans-serif</item>
+        <item>Жыш жазылган Sans-serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Бириндеген</item>
+        <item>Жантык</item>
+        <item>Кичине баш тамгалар</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC түзмөгү табылган жок</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Жакшыртылган түстөр</item>
+        <item>Көзгө көрүнгөн табигый түстөр</item>
+        <item>Санарип мазмун үчүн оптималдаштырылган түстөр</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Толкундуу (демейки)</item>
+        <item>Табигый</item>
+        <item>Кадимки</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Өчүк</item>
+        <item>Үстүнө тартуу аймагын көргөзүү</item>
+        <item>Дейтераномалиялуулар үчүн мейкиндикти көргөзүү</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Өчүк</item>
+        <item>Күйүк</item>
+        <item>Үнүн басуу менен Коштомо жазуу</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Эчтеке жок</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>glGetError&apos;го карата стекти чакыруу</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Эч качан HDCP текшерүү колдонулбасын</item>
+        <item>HDCP текшерүү DRM мазмунуна гана колдонулсун</item>
+        <item>Ар дайым HDCP текшерүү колдонулсун</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Эч качан текшерилбесин</item>
+        <item>DRM мазмуну гана текшерилсин</item>
+        <item>Ар дайым текшерилсин</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Авто EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Эчтеке жок</item>
+        <item>480p</item>
+        <item>480p (коопсуз)</item>
+        <item>720p</item>
+        <item>720p (коопсуз)</item>
+        <item>1080p</item>
+        <item>1080p (коопсуз)</item>
+        <item>4K</item>
+        <item>4K (коопсуз)</item>
+        <item>4K (жогорку сапатта)</item>
+        <item>4K (жогорку сапатта, коопсуз)</item>
+        <item>720p, 1080p (кош экран)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Кол менен</item>
+        <item>Жарым-авто</item>
+        <item>Авто</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Өчүк</item>
+        <item>Авто</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Өчүк</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Баары</item>
+        <item>Оңго</item>
+        <item>Солго</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Өчүк</item>
+        <item>Төмөн</item>
+        <item>Орточо</item>
+        <item>Күчтүү</item>
+        <item>Авто</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Өчүк</item>
+        <item>Төмөн</item>
+        <item>Орточо</item>
+        <item>Күчтүү</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Авто</item>
+        <item>Толук</item>
+        <item>Чеги</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Өчүк</item>
+        <item>Төмөн</item>
+        <item>Орточо</item>
+        <item>Жогору</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Өчүк</item>
+        <item>Кеминде</item>
+        <item>Орточо</item>
+        <item>Эң көп</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Колдонуучу</item>
+        <item>Муздак</item>
+        <item>Стандарттуу</item>
+        <item>Жылуу</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Күңүрт</item>
+        <item>Орто</item>
+        <item>Жарык</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Күйүк</item>
+        <item>Өчүк</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Жарык</item>
+        <item>Dolby Vision Күңүрт</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Колдонуучу</item>
+        <item>Кинотеатр</item>
+        <item>Спорт</item>
+        <item>Ачык</item>
+        <item>Жапжарык</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Стандарттуу</item>
+        <item>Табигый</item>
+        <item>Ачык</item>
+        <item>Спорт</item>
+        <item>Кино</item>
+        <item>Оюн</item>
+        <item>Кубатты үнөмдөө</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Колдонуучу</item>
+        <item>Стандарттуу</item>
+        <item>Ачык</item>
+        <item>Спорт</item>
+        <item>Кино</item>
+        <item>Оюн</item>
+        <item>Кубатты үнөмдөө</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Өчүрүү</item>
+        <item>%d мүнөт</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Конок үйдөгү сыналгы</item>
+        <item>Төркү бөлмөдөгү сыналгы</item>
+        <item>Уктоочу бөлмөдөгү сыналгы</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Автоматтык</item>
+        <item>Өтө чоңойтуп/кичирейтүү</item>
+        <item>4:3</item>
+        <item>Кинону жайып көрсөтүү 14:9</item>
+        <item>Кинону жайып көрсөтүү 16:9</item>
+        <item>Кең экран</item>
+        <item>Толук</item>
+        <item>Масштабы өзгөртүлгөн эмес</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Өтө чоңойтуп/кичирейтүү</item>
+        <item>Толук</item>
+        <item>Масштабы өзгөртүлгөн эмес</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Автоматтык</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Толук</item>
+        <item>Чоңойтуп/кичирейтүү</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 мүнөт</item>
+        <item>1 саат</item>
+        <item>3 саат</item>
+        <item>6 саат</item>
+        <item>12 саат</item>
+        <item>Эч качан</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Өчүк</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Өчүк</item>
+        <item>Буфер: 64КБ ашпашы керек</item>
+        <item>Буфер: 256КБ ашпашы керек</item>
+        <item>Буфер: 1М ашпашы керек</item>
+        <item>Буфер: 4М ашпашы керек</item>
+        <item>Буфер: 16М ашпашы керек</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Өчүк</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Өчүк</item>
+        <item>Бардык таржымал буферлери</item>
+        <item>Радио таржымал буферлеринен башкаларынын баары</item>
+        <item>өзөктүк журнал буфери гана</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Өчүк</item>
+        <item>Бардыгы</item>
+        <item>Радиодон башка</item>
+        <item>өзөк гана</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Өчүрүү</item>
+        <item>Тик бурчтуу эмес кесилген аймакты көк түстө тартуу</item>
+        <item>Текшерилген тартуу буйруктарын жашыл менен белгилөө</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 мүнөт</item>
+        <item>15 мүнөт</item>
+        <item>30 мүнөт</item>
+        <item>1 саат</item>
+        <item>2 саат</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Оюн</item>
+        <item>Кино</item>
+        <item>Музыка</item>
+        <item>Жаңылыктар</item>
+        <item>Стадион</item>
+        <item>Стандарттуу</item>
+        <item>Колдонуучу</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Өчүк</item>
+        <item>Күйүк</item>
+        <item>Авто</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Өчүк</item>
+        <item>Орточо</item>
+        <item>Түн</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Стерео</item>
+        <item>Айлана</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Өчүк</item>
+        <item>Рок</item>
+        <item>Поп-музыка</item>
+        <item>Түз обо</item>
+        <item>Бий</item>
+        <item>Техно</item>
+        <item>Классикалык</item>
+        <item>Жумшак</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Авто</item>
+        <item>Айланып өтүү</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Өчүк</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP аркылуу өтүү</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>TV динамиктери</item>
+        <item>Тышкы аудио тутум</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Колдонуучу</item>
+        <item>Стандарттуу</item>
+        <item>Ачык</item>
+        <item>Спорт</item>
+        <item>Кино</item>
+        <item>Музыка</item>
+        <item>Жаңылыктар</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Стандарттуу</item>
+        <item>Спорт</item>
+        <item>Кино</item>
+        <item>Музыка</item>
+        <item>Колдонуучу</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Орточо</item>
+        <item>Угуу сапаты начар</item>
+        <item>Визуалдык жактан сапаты начар</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Өчүк</item>
+        <item>Экранда тилке катары</item>
+        <item>Төмөнкүдө: adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Анимацияны өчүрүү</item>
+        <item>Анимация масштабы .5x</item>
+        <item>Анимация масштабы 1x</item>
+        <item>Анимация масштабы 1.5x</item>
+        <item>Анимация масштабы 2x</item>
+        <item>Анимация масштабы 5x</item>
+        <item>Анимация масштабы 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Өтө жай</item>
+        <item>Жай</item>
+        <item>Орточо</item>
+        <item>Ылдам</item>
+        <item>Ылдамыраак</item>
+        <item>Абдан ылдам</item>
+        <item>Тез</item>
+        <item>Өтө тез</item>
+        <item>Эң ылдам</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Кубатталууда</item>
+        <item>MTP (Медиа өткөрүүчү протокол)</item>
+        <item>PTP (Сүрөт өткөрүүчү протокол)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Аудио булак</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Жок</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Жок</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Начар</item>
+        <item>Орто</item>
+        <item>Жакшы</item>
+        <item>Мыкты</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Скандалууда…</item>
+        <item>Туташууда…</item>
+        <item>Аныктыгы текшерилүүдө…</item>
+        <item>IP дареги алынууда…</item>
+        <item>Туташып турат</item>
+        <item>Убактылуу токтотулду</item>
+        <item>Ажыратылууда…</item>
+        <item>Ажыратылган</item>
+        <item>Ийгиликсиз</item>
+        <item>Бөгөттөлгөн</item>
+        <item>Начар байланыштан убактылуу баш тартууда</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Скандалууда…</item>
+        <item>%1$s тармагына туташууда…</item>
+        <item>%1$s менен аныктыгы текшерилүүдө…</item>
+        <item>%1$s тармагынан IP дареги алынууда…</item>
+        <item>%1$s тармагына туташты</item>
+        <item>Убактылуу токтотулду</item>
+        <item>%1$s тармагынан ажыратылууда…</item>
+        <item>Ажыратылган</item>
+        <item>Ийгиликсиз</item>
+        <item>Бөгөттөлгөн</item>
+        <item>Начар байланыштан убактылуу баш тартууда</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Анимацияны өчүрүү</item>
+        <item>Анимация масштабы .5x</item>
+        <item>Анимация масштабы 1x</item>
+        <item>Анимация масштабы 1.5x</item>
+        <item>Анимация масштабы 2x</item>
+        <item>Анимация масштабы 5x</item>
+        <item>Анимация масштабы 10x</item>
+    </array>
+</resources>

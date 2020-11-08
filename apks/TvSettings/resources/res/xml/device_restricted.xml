@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_pref_category_title">
+    <Preference android:icon="@drawable/ic_info_outline" android:title="@string/about_preference" android:key="about_device" android:fragment="com.android.tv.settings.about.AboutFragment"/>
+    <Preference android:icon="@drawable/ic_language" android:title="@string/system_language" android:key="language" android:fragment="com.android.tv.settings.system.LanguageFragment"/>
+    <Preference android:icon="@drawable/ic_access_time" android:title="@string/system_date_time" android:key="date_time" android:fragment="com.android.tv.settings.system.DateTimeFragment"/>
+    <Preference android:icon="@drawable/ic_keyboard" android:title="@string/system_keyboard" android:key="keyboard" android:fragment="com.android.tv.settings.inputmethod.KeyboardFragment"/>
+    <Preference android:icon="@drawable/ic_home" android:title="@string/system_home" android:key="home">
+        <intent android:action="com.google.android.tvlauncher.SETTINGS"/>
+    </Preference>
+    <Preference android:title="@string/system_google" android:key="google_settings">
+        <intent android:action="com.google.assistant.GOOGLE_SETTINGS"/>
+    </Preference>
+    <Preference android:icon="@drawable/ic_accessibility_new" android:title="@string/system_accessibility" android:key="accessibility" android:fragment="com.android.tv.settings.accessibility.AccessibilityFragment"/>
+    <Preference android:icon="@drawable/ic_location_on" android:title="@string/system_location" android:key="location" android:fragment="com.android.tv.settings.system.LocationFragment"/>
+</PreferenceScreen>

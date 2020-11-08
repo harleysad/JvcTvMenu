@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Ви 5 разів неправильно ввели PIN-код.\10Повторіть спробу за %1$d секунду.</item>
+        <item quantity="few">Ви 5 разів неправильно ввели PIN-код.\10Повторіть спробу за %1$d секунди.</item>
+        <item quantity="many">Ви 5 разів неправильно ввели PIN-код.\10Повторіть спробу за %1$d секунд.</item>
+        <item quantity="other">Ви 5 разів неправильно ввели PIN-код.\10Повторіть спробу за %1$d секунди.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d канал</item>
+        <item quantity="few">%1$d канали</item>
+        <item quantity="many">%1$d каналів</item>
+        <item quantity="other">%1$d каналу</item>
+    </plurals>
+</resources>

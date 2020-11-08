@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d gün önce</item>
+        <item quantity="other">%d gün önce</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d dk. önce</item>
+        <item quantity="other">%d dk. önce</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d yıl önce</item>
+        <item quantity="other">%d yıl önce</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d hesap</item>
+        <item quantity="other">%1$d hesap</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Bağlı Giriş</item>
+        <item quantity="other">Bağlı Girişler</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Bağlı Olmayan Giriş</item>
+        <item quantity="other">Bağlı Olmayan Girişler</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Bekleme Modundaki Giriş</item>
+        <item quantity="other">Bekleme Modundaki Girişler</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d aksesuar</item>
+        <item quantity="other">%1$d aksesuar</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 uygulamaya izin verildi</item>
+        <item quantity="other">%d uygulamaya izin verildi</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Geliştirici olmanıza yalnızca %1$d adım kaldı</item>
+        <item quantity="other">Geliştirici olmanıza yalnızca %1$d adım kaldı</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d cihaz bağlı</item>
+        <item quantity="other">%1$d cihaz bağlı</item>
+    </plurals>
+</resources>

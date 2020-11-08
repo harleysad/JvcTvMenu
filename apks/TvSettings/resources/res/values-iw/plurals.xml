@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">חשבון אחד (%1$d)</item>
+        <item quantity="two">%1$d חשבונות</item>
+        <item quantity="many">%1$d חשבונות</item>
+        <item quantity="other">%1$d חשבונות</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">ערוץ קלט מחובר</item>
+        <item quantity="two">ערוצי קלט מחוברים</item>
+        <item quantity="many">ערוצי קלט מחוברים</item>
+        <item quantity="other">ערוצי קלט מחוברים</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">ערוץ קלט לא מחובר</item>
+        <item quantity="two">ערוצי קלט לא מחוברים</item>
+        <item quantity="many">ערוצי קלט לא מחוברים</item>
+        <item quantity="other">ערוצי קלט לא מחוברים</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">ערוץ קלט בהמתנה</item>
+        <item quantity="two">ערוצי קלט בהמתנה</item>
+        <item quantity="many">ערוצי קלט בהמתנה</item>
+        <item quantity="other">ערוצי קלט בהמתנה</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">אביזר אחד (%1$d)</item>
+        <item quantity="two">%1$d אביזרים</item>
+        <item quantity="many">%1$d אביזרים</item>
+        <item quantity="other">%1$d אביזרים</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">אפליקציה אחת מותרת</item>
+        <item quantity="two">%d אפליקציות מותרות</item>
+        <item quantity="many">%d אפליקציות מותרות</item>
+        <item quantity="other">%d אפליקציות מותרות</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">אתה כעת במרחק של צעד %1$d מלהפוך למפתח</item>
+        <item quantity="two">אתה כעת במרחק של %1$d צעדים מלהפוך למפתח</item>
+        <item quantity="many">אתה כעת במרחק של %1$d צעדים מלהפוך למפתח</item>
+        <item quantity="other">אתה כעת במרחק של %1$d צעדים מלהפוך למפתח</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">מכשיר אחד מחובר</item>
+        <item quantity="two">‏%1$d מכשירים מחוברים</item>
+        <item quantity="many">‏%1$d מכשירים מחוברים</item>
+        <item quantity="other">‏%1$d מכשירים מחוברים</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$dটি অ্যাকাউন্ট</item>
+        <item quantity="other">%1$dটি অ্যাকাউন্ট</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">টি সংযুক্ত ইনপুট</item>
+        <item quantity="other">টি সংযুক্ত ইনপুট</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">টি সংযুক্ত না থাকা ইনপুট</item>
+        <item quantity="other">টি সংযুক্ত না থাকা ইনপুট</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">টি অপেক্ষারত ইনপুট</item>
+        <item quantity="other">টি অপেক্ষারত ইনপুট</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$dটি অ্যাক্সেসরি</item>
+        <item quantity="other">%1$dটি অ্যাক্সেসরি</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%dটি অ্যাপ্লিকেশান অনুমোদিত</item>
+        <item quantity="other">%dটি অ্যাপ্লিকেশান অনুমোদিত</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">এখন আর %1$dটি পদক্ষেপ পরেই আপনি একজন ডেভেলপার হিসাবে চিহ্নিত হবেন</item>
+        <item quantity="other">এখন আর %1$dটি পদক্ষেপ পরেই আপনি একজন ডেভেলপার হিসাবে চিহ্নিত হবেন</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$dটি ডিভাইস সংযুক্ত</item>
+        <item quantity="other">%1$dটি ডিভাইস সংযুক্ত</item>
+    </plurals>
+</resources>

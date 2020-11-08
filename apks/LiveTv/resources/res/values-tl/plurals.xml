@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Naglagay ka ng maling PIN nang 5 beses.\10Subukang muli sa loob ng %1$d segundo.</item>
+        <item quantity="other">Naglagay ka ng maling PIN nang 5 beses.\10Subukang muli sa loob ng %1$d na segundo.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d channel</item>
+        <item quantity="other">%1$d na channel</item>
+    </plurals>
+</resources>

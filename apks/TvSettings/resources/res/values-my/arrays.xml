@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ပိတ်ရန်</item>
+        <item>ဘယ်</item>
+        <item>ညာ</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>သရုပ်ပြဗီဒီယို</item>
+        <item>e-POP ကျန်သည်</item>
+        <item>e-POP အောက်ခြေ</item>
+    </array>
+    <array name="ampm">
+        <item>နံနက်</item>
+        <item>ညနေ</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>လှုပ်ရှားများကို ပိတ်ရန်</item>
+        <item>လှုပ်ရှားပုံများ စကေး ၀.၅ဆ</item>
+        <item>လှုပ်ရှားပုံများ စကေး ၁x</item>
+        <item>လှုပ်ရှားပုံများ စကေး ၁.၅ဆ</item>
+        <item>လှုပ်ရှားပုံများ ၂x</item>
+        <item>လှုပ်ရှားပုံများ စကေး ၅x</item>
+        <item>လှုပ်ရှားပုံများ စကေး ၁၀x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>လှုပ်ရှားသက်ဝင်ပုံများကိုပိတ်ပါ</item>
+        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၀.၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၁ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၁.၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၂ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၁၀ဆ</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>သတ်မှတ်စံနှုန်း</item>
+        <item>နောက်ခံပြုလုပ်နေသောလုပ်ငန်းစဉ်မရှိ</item>
+        <item>အများဆုံးလုပ်ငန်းစဉ်(၁)ခု</item>
+        <item>အများဆုံးလုပ်ငန်းစဉ်ခု</item>
+        <item>အများဆုံးလုပ်ငန်းစဉ်(၃)ခု</item>
+        <item>အများဆုံးလုပ်ငန်းစဉ်(၄)ခု</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>ကွန်ယက်မှပေးသော အချိန်ကို အသုံးပြုရန်</item>
+        <item>ပိတ်ပါ</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>ကွန်ယက်မှပေးသော အချိန်ကို အသုံးပြုရန်</item>
+        <item>သယ်ယူပို့ဆောင်ရေးမှ ထောက်ပံ့သည့် အချိန်ကိုအသုံးပြုရန်</item>
+        <item>ပိတ်ပါ</item>
+    </array>
+    <array name="battery_labels">
+        <item>၀%</item>
+        <item>၅၀%</item>
+        <item>၁၀၀%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
+        <item>၁၆ bits/နမူနာ</item>
+        <item>၂၄ bits/နမူနာ</item>
+        <item>၃၂ bits/နမူနာ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
+        <item>၁၆ bits/နမူနာ</item>
+        <item>၂၄ bits/နမူနာ</item>
+        <item>၃၂ bits/နမူနာ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
+        <item>မိုနို</item>
+        <item>စတီရီယို</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
+        <item>မိုနို</item>
+        <item>စတီရီယို</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>အသံအရည်အသွေးကို ပိုကောင်းအောင် ပြုလုပ်ထားသည်</item>
+        <item>အသံနှင့် ချိတ်ဆက်မှု အရည်သွေးကို မျှတအောင် ချိန်ဆပေးသည်</item>
+        <item>ချိတ်ဆက်မှု အရည်အသွေးကို ပိုကောင်းအောင် ပြုလုပ်ထားသည်</item>
+        <item>အကောင်းဆုံးကြိုးပမ်းမှု (ပေးပို့နှုန်း အလိုက်)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>အသံအရည်အသွေးကို ပိုကောင်းအောင် ပြုလုပ်ထားသည် (၉၉၀kbps/၉၀၉kbps)</item>
+        <item>အသံနှင့် ချိတ်ဆက်မှု အရည်အသွေးကို မျှတအောင် ချိန်ဆပေးသည် (၆၆၀kbps/၆၀၆kbps)</item>
+        <item>ချိတ်ဆက်မှု အရည်အသွေးကို ပိုကောင်းအောင် ပြုလုပ်ထားသည် (၃၃၀kbps/၃၀၃kbps)</item>
+        <item>အကောင်းဆုံးကြိုးပမ်းမှု (ပေးပို့နှုန်း အလိုက်)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
+        <item>၄၄.၁ kHz</item>
+        <item>၄၈.၀ kHz</item>
+        <item>၈၈.၂ kHz</item>
+        <item>၉၆.၀ kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
+        <item>၄၄.၁ kHz</item>
+        <item>၄၈.၀ kHz</item>
+        <item>၈၈.၂ kHz</item>
+        <item>၉၆.၀ kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ အသံ</item>
+        <item>Qualcomm® aptX™ HD အသံ</item>
+        <item>LDAC</item>
+        <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
+        <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ အသံ</item>
+        <item>Qualcomm® aptX™ HD အသံ</item>
+        <item>LDAC</item>
+        <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ဖွင့်ပါ</item>
+        <item>စိတ်ကြိုက်ထည့်သွင်းနိုင်သော ကိုးဒက်ခ်များကို ပိတ်ပါ</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (မူလ)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>မူလ</item>
+        <item>မရှိပါ</item>
+        <item>အနားသတ်</item>
+        <item>အရိပ်ထည့်ခြင်း</item>
+        <item>စာလုံးကြွ</item>
+        <item>စာလုံးချိုင့်</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>မူလ</item>
+        <item>အနက်</item>
+        <item>အဖြူ</item>
+        <item>အစိမ်း</item>
+        <item>အပြာ</item>
+        <item>အနီ</item>
+        <item>စိမ်းပြာ</item>
+        <item>အဝါ</item>
+        <item>ပန်းခရမ်း</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>မူလ</item>
+        <item>Sans Serif</item>
+        <item>Sans-serif နေရာတစ်ခုခြား</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>သာမန်</item>
+        <item>လက်ရေးဆက်</item>
+        <item>အရွယ်သေး စာလုံးကြီးများ</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>မူလ</item>
+        <item>အပိတ်</item>
+        <item>အကြည်</item>
+        <item>အကြည်</item>
+        <item>မှိတ်တုတ်မှိတ်တုတ်</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>မူလ</item>
+        <item>သေး</item>
+        <item>ပုံမှန်</item>
+        <item>ကြီး</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>မရှိ</item>
+        <item>အနားသတ်</item>
+        <item>အရိပ်ချပေး</item>
+        <item>မြှင့်ထား</item>
+        <item>နှိမ့်ထား</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>အလွန်သေး</item>
+        <item>သေး</item>
+        <item>ပုံမှန်</item>
+        <item>ကြီးမား</item>
+        <item>သိပ်ကြီးမား</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>၂၅%</item>
+        <item>၅၀%</item>
+        <item>၇၅%</item>
+        <item>၁၀၀%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>ပုံသေ</item>
+        <item>Sans-seri</item>
+        <item>Sans-serif သိပ်သည်း</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>သာမန်</item>
+        <item>Cursive</item>
+        <item>စာလုံးကြီး အသေး</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC ကိရိယာ မရှိပါ</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ထားသည့် အရောင်များ</item>
+        <item>မျက်လုံးမှတွေ့ရသည့် သဘာဝအရောင်</item>
+        <item>ဒီဂျစ်တယ်အကြောင်းအရာအတွက် ပြင်ဆင်ထားသည့် အရောင်များ</item>
+    </array>
+    <array name="color_mode_names">
+        <item>တက်ကြွခြင်း (မူလ)</item>
+        <item>သဘာဝ</item>
+        <item>စံ</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>ပိတ်ရန်</item>
+        <item>ရှိရင်းစွဲထက်ပိုသော ဧရိယာများကိုပြရန်</item>
+        <item>အရောင်ရောနှောသောဧရိယာများပြရန်</item>
+    </array>
+    <array name="display_caption_array">
+        <item>ပိတ်ရန်</item>
+        <item>ဖွင့်ရန်</item>
+        <item>CC w/အသံတိတ်ရန်</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>လော့ဂ်ကက်</item>
+        <item>စနစ်ခြေရာခံခြင်း (ရုပ်ပုံများ)</item>
+        <item>glGetError အမှားတက်လျှင်ခေါ်သောလုပ်ငန်းစဉ်</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>HDCP checking အား ဘယ်တော့မှ မသုံးပါနှင့်</item>
+        <item>DRMအကြောင်းအရာအတွက် HDCPစစ်ဆေးခြင်းကိုသုံးမည်</item>
+        <item>HDCP checkingအားအမြဲသုံးပါ</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>ဘယ်တော့မှ မစစ်ဆေးပါနှင့်</item>
+        <item>DRM အကြောင်းအရာကိုသာ စစ်ဆေးရန်</item>
+        <item>အမြဲစစ်ဆေးရန်</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>အော်တို EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>ကိုယ်တိုင်</item>
+        <item>တစ်စိတ်တစ်ပိုင်း အော်တို</item>
+        <item>အော်တို</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>ပိတ်ရန်</item>
+        <item>အော်တို</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>ပိတ်ရန်</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>အားလုံး</item>
+        <item>ညာ</item>
+        <item>ဘယ်</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>ပိတ်ရန်</item>
+        <item>နိမ့်</item>
+        <item>အတော်အသင့်</item>
+        <item>အားကောင်းသည်</item>
+        <item>အော်တို</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>ပိတ်ရန်</item>
+        <item>နိမ့်</item>
+        <item>အတော်အသင့်</item>
+        <item>အားကောင်းသည်</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>အော်တို</item>
+        <item>အပြည့်</item>
+        <item>ကန့်သတ်ချက်</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>ပိတ်ရန်</item>
+        <item>နိမ့်</item>
+        <item>အတော်အသင့်</item>
+        <item>မြင့်</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>ပိတ်ရန်</item>
+        <item>အနည်းဆုံး</item>
+        <item>အတော်အသင့်</item>
+        <item>အများဆုံး</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>အသုံးပြုသူ</item>
+        <item>အေးသော</item>
+        <item>စံ</item>
+        <item>နွေးသော</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>အမှောင်</item>
+        <item>အလယ်အလတ်</item>
+        <item>လင်းသော</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>ဖွင့်ရန်</item>
+        <item>ပိတ်ရန်</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby မြင်ကွင်း အလင်း</item>
+        <item>Dolby မြင်ကွင်း အမှောင်</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>အသုံးပြုသူ</item>
+        <item>ရုပ်ရှင်</item>
+        <item>အားကစား</item>
+        <item>တောက်ပစိုပြေသော</item>
+        <item>အလွန်တောက်ပမှု</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>စံ</item>
+        <item>သဘာဝ</item>
+        <item>တောက်ပစိုပြေသော</item>
+        <item>အားကစား</item>
+        <item>ရုပ်ရှင်</item>
+        <item>ဂိမ်း</item>
+        <item>စွမ်းအင် ချွေတာခြင်း</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>အသုံးပြုသူ</item>
+        <item>စံ</item>
+        <item>တောက်ပစိုပြေသော</item>
+        <item>အားကစား</item>
+        <item>ရုပ်ရှင်</item>
+        <item>ဂိမ်း</item>
+        <item>စွမ်းအင် ချွေတာခြင်း</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>ပိတ်ရန်</item>
+        <item>%d မိနစ်</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>ဧည့်ခန်း TV</item>
+        <item>မိသားစုအခန်း TV</item>
+        <item>အိပ်ခန်း TV</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>အလိုအလျောက်</item>
+        <item>အထူးဇူးမ်</item>
+        <item>၄ x ၃</item>
+        <item>ရုပ်ရှင်ကို ၁၄ x ၉ ချဲ့ကြည့်မည်</item>
+        <item>ရုပ်ရှင်ကို ၁၆ x ၉ ချဲ့ကြည့်မည်</item>
+        <item>ဖန်သားပြင်ကျယ်</item>
+        <item>အပြည့်</item>
+        <item>စကေးထည့်မထားပါ</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>အထူးဇူးမ်</item>
+        <item>အပြည့်</item>
+        <item>စကေးထည့်မထားပါ</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>အလိုအလျောက်</item>
+        <item>၄ x ၃</item>
+        <item>၁၄ x ၉</item>
+        <item>၁၆ x ၉</item>
+        <item>အပြည့်</item>
+        <item>ဇူးမ်</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 မိနစ်</item>
+        <item>1 နာရီ</item>
+        <item>3 နာရီ</item>
+        <item>6 နာရီ</item>
+        <item>12 နာရီ</item>
+        <item>မည်သည့်အခါမှ</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>ပိတ်ရန်</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>ပိတ်ရန်</item>
+        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 64K</item>
+        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 256K</item>
+        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 1M</item>
+        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 4M</item>
+        <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 16M</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>ပိတ်ရန်</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>ပိတ်ရန်</item>
+        <item>မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်များ အားလုံး</item>
+        <item>ရေဒီယို မှတ်တမ်းသိမ်းဆည်းရန်လျာထားချက်မှလွဲ၍ အားလုံး</item>
+        <item>ကာနယ်မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်သာ</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>ပိတ်ရန်</item>
+        <item>အားလုံး</item>
+        <item>ရေဒီယိုမှလွဲ၍ အားလုံး</item>
+        <item>ကာနယ်သာ</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>ပိတ်ရန်</item>
+        <item>စတုဂံမဟုတ်သော ဖောက်ရန်အပိုင်းကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
+        <item>စမ်းသပ်ထားသော ပုံဆွဲရန်ညွှန်ကြားချက်များကို အစိမ်းရောင်ဖြင့် အသားပေး ဖော်ပြပါ</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+        <item>၁ နာရီ</item>
+        <item>၂ နာရီ</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>ဂိမ်း</item>
+        <item>ရုပ်ရှင်</item>
+        <item>တေးဂီတ</item>
+        <item>သတင်း</item>
+        <item>အားကစားကွင်း</item>
+        <item>စံ</item>
+        <item>အသုံးပြုသူ</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>ပိတ်ရန်</item>
+        <item>ဖွင့်ရန်</item>
+        <item>အော်တို</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>ပိတ်ရန်</item>
+        <item>ပုံမှန်</item>
+        <item>ည</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>စတီရီယို</item>
+        <item>ပတ်လည်</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>ပိတ်ရန်</item>
+        <item>ရော့ခ်</item>
+        <item>ပေါ့ပ်</item>
+        <item>တိုက်ရိုက်</item>
+        <item>အက</item>
+        <item>တက်ကနို</item>
+        <item>ဂန္ထဝင်</item>
+        <item>အပျော့စား</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>အော်တို</item>
+        <item>လမ်းလွှဲရန်</item>
+        <item>PCM</item>
+        <item>Dolby ဒစ်ဂျစ်တယ် Plus</item>
+        <item>Dolby ဒစ်ဂျစ်တယ်</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>ပိတ်ရန်</item>
+        <item>Dolby ဒစ်ဂျစ်တယ်</item>
+        <item>PCM</item>
+        <item>DDP Passthough</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>တီဗီ စပီကာများ</item>
+        <item>ပြင်ပ စနစ်အသံ</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>အသုံးပြုသူ</item>
+        <item>စံ</item>
+        <item>အသံစုံလင်သော</item>
+        <item>အားကစား</item>
+        <item>ရုပ်ရှင်</item>
+        <item>တေးဂီတ</item>
+        <item>သတင်း</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>စံ</item>
+        <item>အားကစား</item>
+        <item>ရုပ်ရှင်</item>
+        <item>တေးဂီတ</item>
+        <item>အသုံးပြုသူ</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>ပုံမှန်</item>
+        <item>အကြားအာရုံ ချွတ်ယွင်းသူအတွက်</item>
+        <item>အမြင်အာရုံ ချွတ်ယွင်းသူအတွက်</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>ပိတ်ရန်</item>
+        <item>ဖန်သားပြင်ပေါ်မှာ မျဉ်းတန်းကဲ့သို့</item>
+        <item>adb shell dumpsys gfxinfo ဖြင့်</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁.၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၂ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁၀ဆ</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>အလွန်နှေး</item>
+        <item>နှေး</item>
+        <item>ပုံမှန်</item>
+        <item>မြန်</item>
+        <item>ပိုမြန်</item>
+        <item>အလွန်မြန်</item>
+        <item>သွက်သွက်</item>
+        <item>အရမ်းသွက်</item>
+        <item>အမြန်ဆုံး</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>အားသွင်းနေပါသည်</item>
+        <item>MTP (မီဒီယာ လွှဲပြောင်းမှု ပရိုတိုကော)</item>
+        <item>PTP (ပုံ လွှဲပြောင်းမှု ပရိုတိုကော)</item>
+        <item>RNDIS (USB အီသာနက်)</item>
+        <item>အသံ ရင်းမြစ်</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>မရှိ</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>မရှိ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>ညံ့</item>
+        <item>သင့်တင့်</item>
+        <item>ကောင်း</item>
+        <item>အလွန်ကောင်း</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>စကင်ပြုလုပ်နေပြီ</item>
+        <item>ချိတ်ဆက်နေသည်</item>
+        <item>စစ်မှန်ကြောင်းအတည်ပြုနေသည်</item>
+        <item>အိုင်ပီလိပ်စာရယူနေသည်</item>
+        <item>ဆက်သွယ်ထားပြီး</item>
+        <item>ဆိုင်းငံ့ထားသည်</item>
+        <item>အဆက်အသွယ်ဖြတ်တောက်နေသည်</item>
+        <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>
+        <item>မအောင်မြင်ပါ</item>
+        <item>ပိတ်ထားသည်</item>
+        <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>စကင်ပြုလုပ်နေပြီ</item>
+        <item>%1$s နှင့် ဆက်သွယ်နေပါသည်</item>
+        <item>%1$sနှင့်စစ်မှန်ကြောင်းအတည်ပြုနေသည်</item>
+        <item>%1$s မှ IPလိပ်စာရယူနေသည်</item>
+        <item>%1$s နှင့် ဆက်သွယ်ထားပြီး</item>
+        <item>ဆိုင်းငံ့ထားသည်</item>
+        <item>%1$sမှ ဆက်သွယ်မှုဖြတ်တောက်သွားသည်</item>
+        <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>
+        <item>မအောင်မြင်ပါ</item>
+        <item>ပိတ်ထားသည်</item>
+        <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁.၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၂ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၅ဆ</item>
+        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁၀ဆ</item>
+    </array>
+</resources>

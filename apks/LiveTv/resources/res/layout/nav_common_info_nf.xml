@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@drawable/nav_infobar_basic_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/nav_common_info_icon" android:background="@drawable/nav_ib_warning_icon" android:padding="@dimen/padding_medium" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_centerVertical="true" android:contentDescription="@string/fav_list_is_full"/>
+    <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/info" android:padding="@dimen/padding_medium" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_nf_info" android:layout_toRightOf="@+id/nav_common_info_icon" android:layout_centerVertical="true"/>
+</RelativeLayout>

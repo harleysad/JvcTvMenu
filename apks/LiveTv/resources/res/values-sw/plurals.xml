@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Umeweka PIN isiyo sahihi mara 5.\10Jaribu tena baada ya sekunde %1$d.</item>
+        <item quantity="other">Umeweka PIN isiyo sahihi mara 5.\10Jaribu tena baada ya sekunde %1$d.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">Kituo %1$d</item>
+        <item quantity="other">Vituo %1$d</item>
+    </plurals>
+</resources>

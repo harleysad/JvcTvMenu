@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">PIN の入力を 5 回間違えました。\10%1$d 秒後にもう一度お試しください。</item>
+        <item quantity="other">PIN の入力を 5 回間違えました。\10%1$d 秒後にもう一度お試しください。</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d チャンネル</item>
+        <item quantity="other">%1$d チャンネル</item>
+    </plurals>
+</resources>

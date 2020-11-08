@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="#ff384248" android:padding="@dimen/menu_main_draw_pad" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:id="@+id/msg_dialog_content_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+        <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+        <TextView android:textSize="@dimen/nav_common_dialog_content_text" android:textStyle="bold" android:gravity="center_vertical" android:id="@+id/nav_common_msg_dialog_content" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.25"/>
+        <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+        <Button android:textColor="@android:color/white" android:id="@+id/comm_dialog_buttonYes" android:background="@drawable/menu_dialog_button" android:layout_width="@dimen/nav_common_dialog_button_width" android:layout_height="@dimen/nav_common_dialog_button_height" android:text="@string/common_dialog_msg_yes"/>
+        <Button android:textColor="@android:color/white" android:id="@+id/comm_dialog_buttonNo" android:background="@drawable/menu_dialog_button" android:layout_width="@dimen/nav_common_dialog_button_width" android:layout_height="@dimen/nav_common_dialog_button_height" android:layout_marginLeft="@dimen/nav_common_dialog_button_margin" android:text="@string/common_dialog_msg_no"/>
+    </LinearLayout>
+</LinearLayout>

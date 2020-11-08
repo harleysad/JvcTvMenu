@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_daydream">
+    <ListPreference android:persistent="true" android:title="@string/device_daydreams_select" android:key="activeDream" android:summary="%s" android:dialogTitle="@string/device_daydreams_select"/>
+    <com.android.tv.settings.device.display.daydream.DreamTimePreference android:persistent="true" android:entries="@array/sleep_timeout_entries" android:title="@string/device_daydreams_sleep" android:key="dreamTime" android:summary="@string/device_daydreams_sleep_summary" android:dialogTitle="@string/device_daydreams_sleep" android:entryValues="@array/sleep_timeout_values"/>
+    <com.android.tv.settings.device.display.daydream.DreamTimePreference android:persistent="true" android:entries="@array/screen_off_timeout_entries" android:title="@string/device_daydreams_screen_off" android:key="sleepTime" android:summary="@string/device_daydreams_sleep_summary" android:dialogTitle="@string/device_daydreams_screen_off" android:entryValues="@array/screen_off_timeout_values"/>
+    <Preference android:persistent="true" android:title="@string/device_daydreams_test" android:key="dreamNow"/>
+</PreferenceScreen>

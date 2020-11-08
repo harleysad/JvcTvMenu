@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_picture_color_temperature">
+    <ListPreference android:entries="@array/picture_color_temperature_entries" android:title="@string/device_picture_color_temperature" android:key="picture_color_temperature" android:summary="%s" android:entryValues="@array/picture_color_temperature_entry_values"/>
+    <com.android.tv.settings.partnercustomizer.utils.ProgressPreference android:title="@string/device_picture_red_gain" android:key="picture_red_gain" app:sliderMax="20" app:sliderMin="-20"/>
+    <com.android.tv.settings.partnercustomizer.utils.ProgressPreference android:title="@string/device_picture_green_gain" android:key="picture_green_gain" app:sliderMax="20" app:sliderMin="-20"/>
+    <com.android.tv.settings.partnercustomizer.utils.ProgressPreference android:title="@string/device_picture_blue_gain" android:key="picture_blue_gain" app:sliderMax="20" app:sliderMin="-20"/>
+</PreferenceScreen>

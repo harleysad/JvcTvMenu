@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_picture_advanced_video_MJC">
+    <ListPreference android:entries="@array/picture_advanced_vedio_mjc_effect_entries" android:title="@string/device_picture_advanced_video_MJC_effect" android:key="tv_picture_advance_video_mjc_effect" android:summary="%s" android:entryValues="@array/picture_advanced_vedio_mjc_effect_entries_values"/>
+    <ListPreference android:entries="@array/picture_advanced_vedio_mjc_demo_partition_entries" android:title="@string/device_picture_advanced_video_MJC_demo_partition" android:key="tv_picture_video_mjc_demo_partition" android:summary="%s" android:entryValues="@array/picture_advanced_vedio_mjc_demo_partition_entries_values"/>
+    <com.android.tv.settings.partnercustomizer.picture.DialogPreference android:title="@string/device_picture_advanced_video_MJC_demo" android:key="picture_advanced_video_MJC_demo"/>
+</PreferenceScreen>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>DEZACTIVAT</item>
+        <item>STÂNGA</item>
+        <item>DREAPTA</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Videoclip demonstrativ</item>
+        <item>e-POP stânga</item>
+        <item>e-POP jos</item>
+    </array>
+    <array name="ampm">
+        <item>a.m.</item>
+        <item>p.m.</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animație dezactivată</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animație dezactivată</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Limita standard</item>
+        <item>Nu există procese de fundal</item>
+        <item>Cel mult 1 proces</item>
+        <item>Cel mult 2 procese</item>
+        <item>Cel mult 3 procese</item>
+        <item>Cel mult 4 procese</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Folosiți ora specificată de rețea</item>
+        <item>Dezactivat</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Folosiți ora specificată de rețea</item>
+        <item>Folosiți ora specificată de fluxul de transport</item>
+        <item>Dezactivat</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Folosiți selectarea sist. (prestabilit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Folosiți selectarea sist. (prestabilit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Folosiți selectarea sist. (prestabilit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Folosiți selectarea sist. (prestabilit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizat pentru calitatea audio</item>
+        <item>Calitatea audio și a conexiunii echilibrată</item>
+        <item>Optimizat pentru calitatea conexiunii</item>
+        <item>Cel mai bun rezultat (rată de biți adaptivă)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizat pentru calitatea audio (990 kbps/909 kbps)</item>
+        <item>Calitatea audio și a conexiunii echilibrată (660 kbps/606 kbps)</item>
+        <item>Optimizat pentru calitatea conexiunii (330 kbps/303 kbps)</item>
+        <item>Cel mai bun rezultat (rată de biți adaptivă)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Folosiți selectarea sist. (prestabilit)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Folosiți selectarea sist. (prestabilit)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Folosiți selectarea sist. (prestabilit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Activați codecurile opționale</item>
+        <item>Dezactivați codecurile opționale</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Folosiți selectarea sist. (prestabilit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Activați codecurile opționale</item>
+        <item>Dezactivați codecurile opționale</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (prestabilit)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Prestabilită</item>
+        <item>Nu există</item>
+        <item>Contur</item>
+        <item>Proiectare umbră</item>
+        <item>În relief</item>
+        <item>Adâncit</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Prestabilită</item>
+        <item>Negru</item>
+        <item>Alb</item>
+        <item>Verde</item>
+        <item>Albastru</item>
+        <item>Roșu</item>
+        <item>Cyan</item>
+        <item>Galben</item>
+        <item>Magenta</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Prestabilită</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif monospațiat</item>
+        <item>Serif</item>
+        <item>Serif monospațiat</item>
+        <item>Obișnuit</item>
+        <item>Cursiv</item>
+        <item>Majuscule mici</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Prestabilită</item>
+        <item>Uniform</item>
+        <item>Translucid</item>
+        <item>Transparent</item>
+        <item>Intermitentă</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Prestabilită</item>
+        <item>Mică</item>
+        <item>Normal</item>
+        <item>Mare</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Fără</item>
+        <item>Contur</item>
+        <item>Umbră</item>
+        <item>Ridicat</item>
+        <item>Adâncit</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Foarte mică</item>
+        <item>Mică</item>
+        <item>Normală</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Prestabilit</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif condensat</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Obișnuit</item>
+        <item>Cursiv</item>
+        <item>Majuscule mici</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Niciun dispozitiv CEC</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Culori îmbunătățite</item>
+        <item>Culori naturale, așa cum le percepe ochiul</item>
+        <item>Culori optimizate pentru conținutul digital</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Vibrant (prestabilit)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Dezactivată</item>
+        <item>Afișați zonele cu suprapunere</item>
+        <item>Afișați zonele de deuteranomalie</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Dezactivat</item>
+        <item>Activat</item>
+        <item>Subtitrări cu sunet dezactivat</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Niciuna</item>
+        <item>Logcat</item>
+        <item>Systrace (imagini)</item>
+        <item>Apelați stiva pentru glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Nu utiliza niciodată verificarea HDCP</item>
+        <item>Utilizează verificarea HDCP numai pentru conținut DRM</item>
+        <item>Utilizează întotdeauna verificarea HDCP</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Nu verifica niciodată</item>
+        <item>Verifică doar pentru conținut DRM</item>
+        <item>Verifică întotdeauna</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>EDID automat</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Niciuna</item>
+        <item>480p</item>
+        <item>480p (securizat)</item>
+        <item>720p</item>
+        <item>720p (securizat)</item>
+        <item>1080p</item>
+        <item>1080p (securizat)</item>
+        <item>4K</item>
+        <item>4K (securizat)</item>
+        <item>4K (îmbunătățit)</item>
+        <item>4K (îmbunătățit, securizat)</item>
+        <item>720p, 1080p (ecran dual)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Manual</item>
+        <item>Semiautomat</item>
+        <item>Automat</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Dezactivat</item>
+        <item>Automat</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Dezactivat</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Toate</item>
+        <item>Dreapta</item>
+        <item>Stânga</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Dezactivat</item>
+        <item>Scăzut</item>
+        <item>Mediu</item>
+        <item>Puternic</item>
+        <item>Automat</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Dezactivat</item>
+        <item>Scăzut</item>
+        <item>Mediu</item>
+        <item>Puternic</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Automat</item>
+        <item>Complet</item>
+        <item>Limită</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Dezactivat</item>
+        <item>Scăzut</item>
+        <item>Mediu</item>
+        <item>Ridicat</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Dezactivată</item>
+        <item>Minimum</item>
+        <item>Mediu</item>
+        <item>Maximum</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Utilizator</item>
+        <item>Culori reci</item>
+        <item>Standard</item>
+        <item>Culori calde</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Întunecată</item>
+        <item>Medie;</item>
+        <item>Luminoasă</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Activat</item>
+        <item>Dezactivat</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision luminos</item>
+        <item>Dolby Vision întunecat</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Utilizator</item>
+        <item>Cinema</item>
+        <item>Sport</item>
+        <item>Culori vii</item>
+        <item>Foarte luminos</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standard</item>
+        <item>Natural</item>
+        <item>Culori vii</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Joc</item>
+        <item>Economisirea energiei</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Utilizator</item>
+        <item>Standard</item>
+        <item>Culori vii</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Joc</item>
+        <item>Economisirea energiei</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Dezactivat</item>
+        <item>%d minute</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Televizor în camera de zi</item>
+        <item>Televizor în sufragerie</item>
+        <item>Televizor în dormitor</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Automat</item>
+        <item>Super zoom</item>
+        <item>4:3</item>
+        <item>Extindeți filmul la 14:9</item>
+        <item>Extindeți filmul la 16:9</item>
+        <item>Ecran lat</item>
+        <item>Complet</item>
+        <item>Neestimat</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Super zoom</item>
+        <item>Complet</item>
+        <item>Neestimat</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Automat</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Complet</item>
+        <item>Zoom</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 de minute</item>
+        <item>1 oră</item>
+        <item>3 ore</item>
+        <item>6 ore</item>
+        <item>12 ore</item>
+        <item>Niciodată</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Dezactivată</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Dezactivată</item>
+        <item>64 KB/zonă-tampon de înregistrări în jurnal</item>
+        <item>256 KB/zonă-tampon de înregistrări în jurnal</item>
+        <item>1 MB/zonă-tampon de înregistrări în jurnal</item>
+        <item>4 MB/zonă-tampon de înregistrări în jurnal</item>
+        <item>16 MB/zonă-tampon de înregistrări în jurnal</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Dezactivată</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Dezactivată</item>
+        <item>Toate zonele-tampon pentru jurnale</item>
+        <item>Toate zonele-tampon pentru jurnale fără cele radio</item>
+        <item>numai zona-tampon pentru jurnalul nucleului</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Dezactivată</item>
+        <item>Toate</item>
+        <item>Toate, fără radio</item>
+        <item>numai nucleul</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Dezactivat</item>
+        <item>Zonă decupare non-rectangulară albastră</item>
+        <item>Controale de desenare testate, cu verde</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 minute</item>
+        <item>15 minute</item>
+        <item>30 de minute</item>
+        <item>1 oră</item>
+        <item>2 ore</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Joc</item>
+        <item>Film</item>
+        <item>Muzică</item>
+        <item>Știri</item>
+        <item>Stadion</item>
+        <item>Standard</item>
+        <item>Utilizator</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Dezactivat</item>
+        <item>Activat</item>
+        <item>Automat</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Dezactivat</item>
+        <item>Normal</item>
+        <item>Noapte</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Surround</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Dezactivat</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Live</item>
+        <item>Dance</item>
+        <item>Techno</item>
+        <item>Clasic</item>
+        <item>Lin</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Automat</item>
+        <item>Ignorați</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Dezactivat</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>Trecere DDP</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>Difuzoare TV</item>
+        <item>Sistem audio extern</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Utilizator</item>
+        <item>Standard</item>
+        <item>Culori vii</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Muzică</item>
+        <item>Știri</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standard</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Muzică</item>
+        <item>Utilizator</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normal</item>
+        <item>Persoane cu deficiențe de auz</item>
+        <item>Persoane cu deficiențe de vedere</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Dezactivat</item>
+        <item>Pe ecran ca bare</item>
+        <item>În adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animație dezactivată</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Foarte încet</item>
+        <item>Încet</item>
+        <item>Normal</item>
+        <item>Repede</item>
+        <item>Mai repede</item>
+        <item>Foarte repede</item>
+        <item>Rapid</item>
+        <item>Foarte rapid</item>
+        <item>Cel mai repede</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Încărcare</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Sursă audio</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Fără</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Fără</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Slab</item>
+        <item>Acceptabil</item>
+        <item>Bun</item>
+        <item>Excelent</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>În curs de scanare...</item>
+        <item>Se conectează...</item>
+        <item>În curs de autentificare…</item>
+        <item>Se obține adresa IP...</item>
+        <item>Conectată</item>
+        <item>Suspendată</item>
+        <item>În curs de deconectare...</item>
+        <item>Deconectată</item>
+        <item>Nereușit</item>
+        <item>Blocat</item>
+        <item>Evitarea temporară a conexiunii slabe</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>În curs de scanare...</item>
+        <item>Se conectează la %1$s...</item>
+        <item>Se autentifică cu %1$s…</item>
+        <item>Se obține adresa IP de la %1$s…</item>
+        <item>Conectat la %1$s</item>
+        <item>Suspendată</item>
+        <item>În curs de deconectare de la %1$s...</item>
+        <item>Deconectată</item>
+        <item>Nereușit</item>
+        <item>Blocat</item>
+        <item>Evitarea temporară a conexiunii slabe</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animație dezactivată</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </array>
+</resources>

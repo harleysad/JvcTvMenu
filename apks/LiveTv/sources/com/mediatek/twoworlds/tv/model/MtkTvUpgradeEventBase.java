@@ -1,0 +1,40 @@
+package com.mediatek.twoworlds.tv.model;
+
+public class MtkTvUpgradeEventBase {
+    public static final int DOWNLOAD_DOWNLOADING = 1;
+    public static final int DOWNLOAD_DOWNLOAD_COMPLETE = 2;
+    public static final int DOWNLOAD_EXIT = 5;
+    public static final int DOWNLOAD_EXIT_CANCEL_DONE = 1;
+    public static final int DOWNLOAD_EXIT_FAIL = 4;
+    public static final int DOWNLOAD_EXIT_NETWORK_ERROR = 2;
+    public static final int DOWNLOAD_EXIT_NONE = 0;
+    public static final int DOWNLOAD_EXIT_VALIDATE_ERROR = 3;
+    public static final int DOWNLOAD_START = 0;
+    public static final int DOWNLOAD_VALIDATE_COMPLETE = 4;
+    public static final int DOWNLOAD_VALIDATING = 3;
+    public static final int EXIT_REASON_CHECKING_UPDATE_FAIL = 3;
+    public static final int EXIT_REASON_DECRYP_FAIL = 5;
+    public static final int EXIT_REASON_INTERNAL_ERROR = 8;
+    public static final int EXIT_REASON_NETWORK_FAIL = 2;
+    public static final int EXIT_REASON_NONE = 0;
+    public static final int EXIT_REASON_NO_UPDATE = 4;
+    public static final int EXIT_REASON_PARSE_FAIL = 7;
+    public static final int EXIT_REASON_SPACE_NOT_ENOUGH = 10;
+    public static final int EXIT_REASON_USB_DEVICE_FAIL = 1;
+    public static final int EXIT_REASON_USB_NOT_READY = 9;
+    public static final int EXIT_REASON_VALIDATE_FAIL = 6;
+    public static final int STATE_COMPLETE = 7;
+    public static final int STATE_COMPLETE_ONE = 6;
+    public static final int STATE_DEAD = 9;
+    public static final int STATE_DOWNLOADING = 5;
+    public static final int STATE_EXIT = 10;
+    public static final int STATE_FAILED = 8;
+    public static final int STATE_INIT = 0;
+    public static final int STATE_INITED = 4;
+    public static final int STATE_PARSING = 3;
+    public static final int STATE_PREPROCESSING = 1;
+    public static final int STATE_VALIDATING = 2;
+    public static final int UPDATE_DOWNLOAD = 2;
+    public static final int UPDATE_PROGRESS = 1;
+    public static final int UPDATE_STATE = 0;
+}

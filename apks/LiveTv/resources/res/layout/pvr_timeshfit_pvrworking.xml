@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@drawable/info_banner_background" android:paddingTop="30dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/pvr_working_rec" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3dp" android:src="@drawable/pvr_record_rec" android:layout_alignParentStart="true"/>
+        <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/pvr_working_rec_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_tshift_working_rec_time" android:layout_toEndOf="@+id/pvr_working_rec"/>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/pvr_working_rec">
+            <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/pvr_working_currenttime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_tshift_working_cur_time" android:paddingEnd="30dp" android:layout_alignParentEnd="true"/>
+            <ImageView android:padding="@dimen/padding_medium" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/menu_channel_line" android:scaleType="fitXY" android:layout_below="@+id/pvr_working_currenttime"/>
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/pvr_working_dataitem" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="center" android:id="@+id/info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_marginStart="100dp"/>
+</LinearLayout>

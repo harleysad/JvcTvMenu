@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@drawable/info_banner_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/pvr_rec_icon_small" android:padding="@dimen/nav_source_list_divider_height" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pvr_record_rec" android:layout_centerVertical="true"/>
+        <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:id="@+id/info" android:background="@drawable/info_banner_background" android:padding="@dimen/padding_medium" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="70dp" android:text="@string/pvr_nf_info" android:layout_centerInParent="true" android:layout_toEndOf="@+id/pvr_rec_icon_small"/>
+        <TextView android:textSize="15sp" android:id="@+id/pvr_fast_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Sisestasite viis korda vale PIN-koodi.\10Proovige uuesti %1$d sekundi pärast.</item>
+        <item quantity="other">Sisestasite viis korda vale PIN-koodi.\10Proovige uuesti %1$d sekundi pärast.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d kanal</item>
+        <item quantity="other">%1$d kanalit</item>
+    </plurals>
+</resources>

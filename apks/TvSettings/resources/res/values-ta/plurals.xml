@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d கணக்கு</item>
+        <item quantity="other">%1$d கணக்குகள்</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">இணைத்துள்ள இன்புட்</item>
+        <item quantity="other">இணைத்துள்ள இன்புட்கள்</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">இணைக்காத இன்புட்</item>
+        <item quantity="other">இணைக்காத இன்புட்கள்</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">காத்திருப்பு நிலை இன்புட்</item>
+        <item quantity="other">காத்திருப்பு நிலை இன்புட்கள்</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d துணைக்கருவி</item>
+        <item quantity="other">%1$d துணைக்கருவிகள்</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 பயன்பாடு அனுமதிக்கப்படும்</item>
+        <item quantity="other">%d பயன்பாடுகள் அனுமதிக்கப்படும்</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">டெவலப்பராவதற்கு இப்போது %1$d படியே உள்ளது</item>
+        <item quantity="other">டெவலப்பராவதற்கு இப்போது %1$d படிகள் உள்ளன</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d சாதனம் இணைக்கப்பட்டது</item>
+        <item quantity="other">%1$d சாதனங்கள் இணைக்கப்பட்டன</item>
+    </plurals>
+</resources>

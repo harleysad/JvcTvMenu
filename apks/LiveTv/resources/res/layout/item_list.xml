@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.tv.menu.ItemListRowView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/item_list" style="@style/menu_row_view">
+    <TextView android:id="@+id/title" android:importantForAccessibility="no" style="@style/menu_row_title_view"/>
+    <android.support.v17.leanback.widget.HorizontalGridView android:id="@+id/list_view" android:focusable="true" android:clipChildren="false" android:clipToPadding="false" app:horizontalMargin="@dimen/menu_inter_card_spacing" style="@style/menu_row_contents_view"/>
+</com.android.tv.menu.ItemListRowView>

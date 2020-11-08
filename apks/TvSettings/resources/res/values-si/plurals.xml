@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">ගිණුම් %1$d</item>
+        <item quantity="other">ගිණුම් %1$d</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">සම්බන්ධිත ආදාන</item>
+        <item quantity="other">සම්බන්ධිත ආදාන</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">සම්බන්ධිත නැති ආදාන</item>
+        <item quantity="other">සම්බන්ධිත නැති ආදාන</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">සූදානම්ව ඇති ආදාන</item>
+        <item quantity="other">සූදානම්ව ඇති ආදාන</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">ආයිත්තම් %1$d</item>
+        <item quantity="other">ආයිත්තම් %1$d</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">යෙදුම් %d කට ඉඩ දෙන ලදි</item>
+        <item quantity="other">යෙදුම් %d කට ඉඩ දෙන ලදි</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">සංවර්ධකයෙක් වීමට පියවර %1$d ක් ඇතින් ඔබ දැන් සිටියි.</item>
+        <item quantity="other">සංවර්ධකයෙක් වීමට පියවර %1$d ක් ඇතින් ඔබ දැන් සිටියි.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">උපාංග %1$dක් සම්බන්ධ කරන ලදී</item>
+        <item quantity="other">උපාංග %1$dක් සම්බන්ධ කරන ලදී</item>
+    </plurals>
+</resources>

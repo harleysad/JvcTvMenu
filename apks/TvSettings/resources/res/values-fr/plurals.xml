@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d compte</item>
+        <item quantity="other">%1$d comptes</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Entrée connectée</item>
+        <item quantity="other">Entrées connectées</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Entrée déconnectée</item>
+        <item quantity="other">Entrées déconnectées</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Entrée en veille</item>
+        <item quantity="other">Entrées en veille</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d accessoire</item>
+        <item quantity="other">%1$d accessoires</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d application autorisée</item>
+        <item quantity="other">%d applications autorisées</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Plus que %1$d étape pour devenir développeur</item>
+        <item quantity="other">Plus que %1$d étapes pour devenir développeur</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d appareil connecté</item>
+        <item quantity="other">%1$d appareils connectés</item>
+    </plurals>
+</resources>

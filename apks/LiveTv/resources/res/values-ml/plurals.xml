@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">നിങ്ങൾ 5 തവണ തെറ്റായ പിൻ നൽകി.\10 %1$d സെക്കൻഡിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="other">നിങ്ങൾ 5 തവണ തെറ്റായ പിൻ നൽകി.\10 %1$d സെക്കൻഡിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d ചാനൽ</item>
+        <item quantity="other">%1$d ചാനലുകൾ</item>
+    </plurals>
+</resources>

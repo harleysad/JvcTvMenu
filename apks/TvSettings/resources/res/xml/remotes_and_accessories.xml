@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/remotes_and_accessories_category_title">
+    <Preference android:icon="@drawable/ic_bluetooth" android:title="@string/accessories_add" android:key="add_accessory">
+        <intent android:targetPackage="com.android.tv.settings" android:targetClass="com.android.tv.settings.accessories.AddAccessoryActivity"/>
+    </Preference>
+</PreferenceScreen>

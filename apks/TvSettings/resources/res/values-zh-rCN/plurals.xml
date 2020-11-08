@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d 个帐号</item>
+        <item quantity="other">%1$d 个帐号</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">已连接的输入设备</item>
+        <item quantity="other">已连接的输入设备</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">未连接的输入设备</item>
+        <item quantity="other">未连接的输入设备</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">待机的输入设备</item>
+        <item quantity="other">待机的输入设备</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d 个配件</item>
+        <item quantity="other">%1$d 个配件</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">允许使用 1 个应用</item>
+        <item quantity="other">允许使用 %d 个应用</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">现在只需再执行 %1$d 步操作即可进入开发者模式</item>
+        <item quantity="other">现在只需再执行 %1$d 步操作即可进入开发者模式</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">已连接 %1$d 个设备</item>
+        <item quantity="other">已连接 %1$d 个设备</item>
+    </plurals>
+</resources>

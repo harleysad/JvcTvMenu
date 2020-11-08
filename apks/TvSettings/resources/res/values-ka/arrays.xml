@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>გამორთვა</item>
+        <item>მარცხენა</item>
+        <item>მარჯვენა</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>დემო ვიდეო</item>
+        <item>e-POP მარცხენა</item>
+        <item>e-POP ქვედა</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>ანიმაციის გამორთვა</item>
+        <item>ანიმაცია (მასშტაბი - .5x)</item>
+        <item>ანიმაციის მასშტაბი 1x</item>
+        <item>ანიმაცია (მასშტაბი 1.5x)</item>
+        <item>ანიმაცია (მასშტაბი 2x)</item>
+        <item>ანიმაცია (მასშტაბი 5x)</item>
+        <item>ანიმაცია (მასშტაბი 10x)</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>ანიმაციის გარეშე</item>
+        <item>ანიმაციის სიჩქარე .5x</item>
+        <item>ანიმაციის მასშტაბი 1x</item>
+        <item>ანიმაციის სიჩქარე 1.5x</item>
+        <item>ანიმაციის მასშტაბი: 2x</item>
+        <item>ანიმაცია (მასშტაბი 5x)</item>
+        <item>ანიმაციის მასშტაბი: 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>სტანდარტული ლიმიტი</item>
+        <item>ფონური პროცესები არ არის</item>
+        <item>არაუმეტეს 1 პროცესისა</item>
+        <item>არა უმეტეს 2 პროცესისა</item>
+        <item>არა უმეტეს 3 პროცესისა</item>
+        <item>არაუმეტეს 4 პროცესისა</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>ქსელით მოწოდებული დროის გამოყენება</item>
+        <item>გამორთვა</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>ქსელით მოწოდებული დროის გამოყენება</item>
+        <item>სატრანსპორტო ნაკადით მოწოდებული დროის გამოყენება</item>
+        <item>გამორთვა</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>სისტემის არჩეულის გამოყენება (ნაგულისხმევი)</item>
+        <item>16 ბიტი/ნიმუში</item>
+        <item>24 ბიტი/ნიმუში</item>
+        <item>32 ბიტი/ნიმუში</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>სისტემის არჩეულის გამოყენება (ნაგულისხმევი)</item>
+        <item>16 ბიტი/ნიმუში</item>
+        <item>24 ბიტი/ნიმუში</item>
+        <item>32 ბიტი/ნიმუში</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>სისტემის არჩეულის გამოყენება (ნაგულისხმევი)</item>
+        <item>მონო</item>
+        <item>სტერეო</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>სისტემის არჩეულის გამოყენება (ნაგულისხმევი)</item>
+        <item>მონო</item>
+        <item>სტერეო</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>აუდიოს ხარისხისთვის ოპტიმიზებული</item>
+        <item>აუდიოსა და კავშირის დაბალანსებული ხარისხი</item>
+        <item>კავშირის ხარისხისთვის ოპტიმიზებული</item>
+        <item>შეძლებისდაგვარად მაღალი (ადაპტირებადი ბიტური სიხშირე)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>აუდიოს ხარისხისთვის ოპტიმიზებული (990/909 კბიტი/წმ)</item>
+        <item>აუდიოსა და კავშირის დაბალანსებული ხარისხი (660/606 კბიტი/წმ)</item>
+        <item>კავშირის ხარისხისთვის ოპტიმიზებული (330/303 კბიტი/წმ)</item>
+        <item>შეძლებისდაგვარად მაღალი (ადაპტირებადი ბიტური სიხშირე)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>სისტემის არჩეულის გამოყენება (ნაგულისხმევი)</item>
+        <item>44,1 კჰც</item>
+        <item>48,0 კჰც</item>
+        <item>88,2 კჰც</item>
+        <item>96,0 კჰც</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>სისტემის არჩეულის გამოყენება (ნაგულისხმევი)</item>
+        <item>44,1 კჰც</item>
+        <item>48,0 კჰც</item>
+        <item>88,2 კჰც</item>
+        <item>96,0 კჰც</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>სისტემის არჩეულის გამოყენება (ნაგულისხმევი)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ აუდიო</item>
+        <item>Qualcomm® aptX™ HD აუდიო</item>
+        <item>LDAC</item>
+        <item>არასავალდებულო კოდეკების ჩართვა</item>
+        <item>არასავალდებულო კოდეკების გათიშვა</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>სისტემის არჩეულის გამოყენება (ნაგულისხმევი)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ აუდიო</item>
+        <item>Qualcomm® aptX™ HD აუდიო</item>
+        <item>LDAC</item>
+        <item>არასავალდებულო კოდეკების ჩართვა</item>
+        <item>არასავალდებულო კოდეკების გათიშვა</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (ნაგულისხმევი)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>ნაგულისხმევი</item>
+        <item>არცერთი</item>
+        <item>კონტური</item>
+        <item>დაშვებული ჩრდილი</item>
+        <item>ამოწეული</item>
+        <item>ჩაწეული</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>ნაგულისხმევი</item>
+        <item>შავი</item>
+        <item>თეთრი</item>
+        <item>მწვანე</item>
+        <item>ლურჯი</item>
+        <item>წითელი</item>
+        <item>ციანი</item>
+        <item>ყვითელი</item>
+        <item>მეწამული</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>ნაგულისხმევი</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif, ფიქსირებული სიგანის</item>
+        <item>Serif</item>
+        <item>Serif, ფიქსირებული სიგანის</item>
+        <item>არაფორმალური</item>
+        <item>კურსივი</item>
+        <item>პატარა მთავრულები</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>ნაგულისხმევი</item>
+        <item>მყარი</item>
+        <item>სინათლის გამტარი</item>
+        <item>გამჭვირვალე</item>
+        <item>მოციმციმე</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>ნაგულისხმევი</item>
+        <item>პატარა</item>
+        <item>ჩვეულებრივი</item>
+        <item>დიდი</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>არაფერი</item>
+        <item>კონტური</item>
+        <item>ჩრდილი</item>
+        <item>ამაღლებული</item>
+        <item>დაკლებული</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>ძალიან პატარა</item>
+        <item>პატარა</item>
+        <item>ჩვეულებრივი</item>
+        <item>დიდი</item>
+        <item>ძალიან დიდი</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>ნაგულისხმევი</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif შეკუმშული</item>
+        <item>თანაბარი დაშორების Sans-serif</item>
+        <item>Serif</item>
+        <item>თანაბარი დაშორების Serif</item>
+        <item>თავისუფალი</item>
+        <item>კურსივი</item>
+        <item>პატარა მთავრულები</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC მოწყობილობა არ არის</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>გაჯერებული ფერები</item>
+        <item>თვალისთვის ხილული ბუნებრივი ფერები</item>
+        <item>ციფრული კონტენტისთვის ოპტიმიზებული ფერები</item>
+    </array>
+    <array name="color_mode_names">
+        <item>მკვეთრი (ნაგულისხმევი)</item>
+        <item>ბუნებრივი</item>
+        <item>სტანდარტული</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>გამორთვა</item>
+        <item>overdraw არეების ჩვენება</item>
+        <item>დეუტერანომალიის არეების ჩვენება</item>
+    </array>
+    <array name="display_caption_array">
+        <item>გამორთვა</item>
+        <item>ჩართვა</item>
+        <item>CC w/დადუმება</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>არც ერთი</item>
+        <item>Logcat</item>
+        <item>Systrace (გრაფიკა)</item>
+        <item>გამოძახებების სია glGetError-ზე</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>არასდროს გამოიყენო HDCP შემოწმება</item>
+        <item>HDCP შემოწმების გამოყენება მხოლოდ DRM კონტენტის შემთხვევაში</item>
+        <item>ყოველთვის გამოიყენე HDCP შემოწმება</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>არასდროს შეამოწმო</item>
+        <item>შემოწმდეს მხოლოდ DRM კონტენტი</item>
+        <item>შემოწმება ყოველთვის</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>ავტომატური EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>არც ერთი</item>
+        <item>480p</item>
+        <item>480p (დაცული)</item>
+        <item>720p</item>
+        <item>720p (დაცული)</item>
+        <item>1080p</item>
+        <item>1080p (დაცული)</item>
+        <item>4K</item>
+        <item>4K (დაცული)</item>
+        <item>4K (გადიდებული მასშტაბით)</item>
+        <item>4K (გადიდებული მასშტაბით, დაცული)</item>
+        <item>720p, 1080p (ორმაგი ეკრანი)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>ხელით</item>
+        <item>ნახევრადავტომატური</item>
+        <item>ავტომატური</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>გამორთვა</item>
+        <item>ავტომატური</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>გამორთვა</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>ყველა</item>
+        <item>მარჯვენა</item>
+        <item>მარცხენა</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>გამორთვა</item>
+        <item>დაბალი</item>
+        <item>საშუალო</item>
+        <item>ძლიერი</item>
+        <item>ავტომატური</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>გამორთვა</item>
+        <item>დაბალი</item>
+        <item>საშუალო</item>
+        <item>ძლიერი</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>ავტომატური</item>
+        <item>სრული</item>
+        <item>ლიმიტი</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>გამორთვა</item>
+        <item>დაბალი</item>
+        <item>საშუალო</item>
+        <item>მაღალი</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>გამორთვა</item>
+        <item>მინიმალური</item>
+        <item>საშუალო</item>
+        <item>მაქსიმალური</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>მომხმარებელი</item>
+        <item>გრილი</item>
+        <item>სტანდარტული</item>
+        <item>თბილი</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>მუქი</item>
+        <item>საშუალო</item>
+        <item>ნათელი</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>ჩართვა</item>
+        <item>გამორთვა</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision ნათელი</item>
+        <item>Dolby Vision მუქი</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>მომხმარებელი</item>
+        <item>კინო</item>
+        <item>სპორტი</item>
+        <item>მკაფიო</item>
+        <item>ძალიან ნათელი</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>სტანდარტული</item>
+        <item>ბუნებრივი</item>
+        <item>მკაფიო</item>
+        <item>სპორტი</item>
+        <item>ფილმი</item>
+        <item>თამაში</item>
+        <item>ენერგიის დამზოგავი</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>მომხმარებელი</item>
+        <item>სტანდარტული</item>
+        <item>მკაფიო</item>
+        <item>სპორტი</item>
+        <item>ფილმი</item>
+        <item>თამაში</item>
+        <item>ენერგიის დამზოგავი</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>გამორთვა</item>
+        <item>%d წუთი</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>მისაღები ოთახის ტელევიზორი</item>
+        <item>საერთო ოთახის ტელევიზორი</item>
+        <item>საძინებელი ოთახის ტელევიზორი</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>ავტომატური</item>
+        <item>სუპერმასშტაბირება</item>
+        <item>4:3</item>
+        <item>ფილმის გაფართოება 14:9</item>
+        <item>ფილმის გაფართოება 16:9</item>
+        <item>ფართო ეკრანი</item>
+        <item>სრული</item>
+        <item>არამასშტაბირებული</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>სუპერმასშტაბირება</item>
+        <item>სრული</item>
+        <item>არამასშტაბირებული</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>ავტომატური</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>სრული</item>
+        <item>მასშტაბირება</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 წუთი</item>
+        <item>1 საათი</item>
+        <item>3 საათი</item>
+        <item>6 საათი</item>
+        <item>12 საათი</item>
+        <item>არასოდეს</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>გამორთული</item>
+        <item>64 კბაიტი</item>
+        <item>256 კბაიტი</item>
+        <item>1 მბაიტი</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>გამორთული</item>
+        <item>64 კბაიტი / ჟურნალის ბუფერი</item>
+        <item>256 კბაიტი / ჟურნალის ბუფერი</item>
+        <item>1 მბაიტი / ჟურნალის ბუფერი</item>
+        <item>4 მბაიტი / ჟურნალის ბუფერი</item>
+        <item>16 მბაიტი / ჟურნალის ბუფერი</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>გამორთული</item>
+        <item>64 კბაიტი</item>
+        <item>256 კბაიტი</item>
+        <item>1 მბაიტი</item>
+        <item>4 მბაიტი</item>
+        <item>16 მბაიტი</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>გამორთული</item>
+        <item>ჟურნალების ყველა ბუფერი</item>
+        <item>რადიოჟურნალების ბუფერების გარდა ყველა</item>
+        <item>მხოლოდ ბირთვის ჟურნალის ბუფერი</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>გამორთული</item>
+        <item>ყველა</item>
+        <item>რადიოს გარდა ყველა</item>
+        <item>მხოლოდ ბირთვი</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>გამორთული</item>
+        <item>დახატე არა მართკუთხა მოჭრის რეგიონი ლურჯად</item>
+        <item>ხატვის ტესტირებული ბრძანების მწვანე ფერით მონიშვნა</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 წუთი</item>
+        <item>15 წუთი</item>
+        <item>30 წუთი</item>
+        <item>1 საათი</item>
+        <item>2 საათი</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>თამაში</item>
+        <item>ფილმი</item>
+        <item>მუსიკა</item>
+        <item>სიახლეები</item>
+        <item>სტადიონი</item>
+        <item>სტანდარტული</item>
+        <item>მომხმარებელი</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>გამორთვა</item>
+        <item>ჩართვა</item>
+        <item>ავტომატური</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>გამორთვა</item>
+        <item>ჩვეულებრივი</item>
+        <item>ღამე</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>სტერეო</item>
+        <item>მოცულობითი</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>გამორთვა</item>
+        <item>როკი</item>
+        <item>პოპ-მუსიკა</item>
+        <item>პირდაპირი</item>
+        <item>ცეკვა</item>
+        <item>ტექნო</item>
+        <item>კლასიკური</item>
+        <item>მსუბუქი</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>ავტომატური</item>
+        <item>შემოვლითი</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>გამორთვა</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP Passthough</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>ტელევიზორის დინამიკები</item>
+        <item>გარე აუდიოსისტემა</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>მომხმარებელი</item>
+        <item>სტანდარტული</item>
+        <item>მკაფიო</item>
+        <item>სპორტი</item>
+        <item>ფილმი</item>
+        <item>მუსიკა</item>
+        <item>სიახლეები</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>სტანდარტული</item>
+        <item>სპორტი</item>
+        <item>ფილმი</item>
+        <item>მუსიკა</item>
+        <item>მომხმარებელი</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>ჩვეულებრივი</item>
+        <item>სმენადაქვეითებულთათვის</item>
+        <item>მხედველობადაქვეითებულთათვის</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>გამორთვა</item>
+        <item>ეკრანზე ზოლების სახით</item>
+        <item>ბრძანებაში „adb shell dumpsys gfxinfo“</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>ანიმაციის გამორთვა</item>
+        <item>ანიმაცია (მასშტაბი - .5x)</item>
+        <item>ანიმაცია (მასშტაბი 1x)</item>
+        <item>ანიმაცია (მასშტაბი 1.5x)</item>
+        <item>ანიმაციის მასშტაბი: 2x</item>
+        <item>ანიმაციის მასშტაბი 5x</item>
+        <item>ანიმაციის მასშტაბი 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>ძალიან ნელი</item>
+        <item>ნელი</item>
+        <item>ჩვეულებრივი</item>
+        <item>სწრაფი</item>
+        <item>უფრო სწრაფი</item>
+        <item>ძალიან სწრაფი</item>
+        <item>ჩქარი</item>
+        <item>ძალიან ჩქარი</item>
+        <item>უსწრაფესი</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>იტენება</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>აუდიო წყარo</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>არცერთი</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>არცერთი</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>სუსტი</item>
+        <item>ძლიერი</item>
+        <item>კარგი</item>
+        <item>შესანიშნავი</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>სკანირება…</item>
+        <item>დაკავშირება…</item>
+        <item>ავტორიზაცია…</item>
+        <item>IP მისამართის მიღება…</item>
+        <item>დაკავშირებულია</item>
+        <item>შეწყვეტილია</item>
+        <item>კავშირის გაწყვეტა…</item>
+        <item>არ არის ხაზზე</item>
+        <item>ვერ მოხერხდა</item>
+        <item>დაბლოკილი</item>
+        <item>ცუდი კავშირის დროებით თავიდან აცილება</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>სკანირება…</item>
+        <item>მიმდინარეობს დაკავშირება %1$s-თან…</item>
+        <item>ავთენტიფიკაცია %1$s-ში…</item>
+        <item>IP მისამართის მოპოვება %1$s-დან…</item>
+        <item>დაკავშირებულია %1$s-თან</item>
+        <item>შეჩერებული</item>
+        <item>კავშირის გაწყვეტა %1$s-თან…</item>
+        <item>კავშირი გაწყვეტილია</item>
+        <item>ვერ მოხერხდა</item>
+        <item>დაბლოკილი</item>
+        <item>ცუდი კავშირის დროებით თავიდან აცილება</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>ანიმაციის გამორთვა</item>
+        <item>ანიმაციის სიჩქარე .5x</item>
+        <item>ანიმაციის სიჩქარე 1x</item>
+        <item>ანიმაციის სიჩქარე 1.5x</item>
+        <item>ანიმაციის მასშტაბი 2x</item>
+        <item>ანიმაციის მასშტაბი 5x</item>
+        <item>ანიმაციის მასშტაბი 10x</item>
+    </array>
+</resources>

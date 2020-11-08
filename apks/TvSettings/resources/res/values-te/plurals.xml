@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d రోజు క్రితం</item>
+        <item quantity="other">%d రోజుల క్రితం</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d నిమి క్రితం</item>
+        <item quantity="other">%d నిమి క్రితం</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d సం క్రితం</item>
+        <item quantity="other">%d సం క్రితం</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d ఖాతా</item>
+        <item quantity="other">%1$d ఖాతాలు</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">కనెక్ట్ చేసిన ఇన్‌పుట్</item>
+        <item quantity="other">కనెక్ట్ చేసిన ఇన్‌పుట్‌లు</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">కనెక్ట్ చేయని ఇన్‌పుట్</item>
+        <item quantity="other">కనెక్ట్ చేయని ఇన్‌పుట్‌లు</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">స్టాండ్‌బై ఇన్‌పుట్</item>
+        <item quantity="other">స్టాండ్‌బై ఇన్‌పుట్‌లు</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d ఉపకరణం</item>
+        <item quantity="other">%1$d ఉపకరణాలు</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 అనువర్తనం అనుమతించబడింది</item>
+        <item quantity="other">%d అనువర్తనాలు అనుమతించబడ్డాయి</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">మీరు ఇప్పుడు డెవలపర్‌గా కావడానికి %1$d దశ మాత్రమే మిగిలి ఉంది</item>
+        <item quantity="other">మీరు ఇప్పుడు డెవలపర్‌గా కావడానికి %1$d దశలు మాత్రమే మిగిలి ఉన్నాయి</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d పరికరం కనెక్ట్ చేయబడింది</item>
+        <item quantity="other">%1$d పరికరాలు కనెక్ట్ చేయబడ్డాయి</item>
+    </plurals>
+</resources>

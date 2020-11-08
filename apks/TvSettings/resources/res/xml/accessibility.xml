@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/system_accessibility">
+    <SwitchPreference android:persistent="true" android:title="@string/accessibility_audio_description" android:key="audio_description"/>
+    <Preference android:title="@string/accessibility_visually_impaired" android:key="visually_impaired" android:fragment="com.android.tv.settings.partnercustomizer.visually.VisuallyImpairedFragment"/>
+    <SwitchPreference android:persistent="true" android:title="@string/accessibility_hearing_impatred" android:key="hearing_impaired"/>
+    <ListPreference android:persistent="true" android:entries="@array/picture_advanced_video_local_contrast_entries" android:title="@string/ac4_de" android:key="ac4_de" android:summary="%s" android:entryValues="@array/ac4_de_entry_values"/>
+    <Preference android:title="@string/accessibility_captions_fusion" android:key="captions_fusion" android:fragment="com.android.tv.settings.partnercustomizer.captions.CaptionFusionFragment"/>
+    <Preference android:title="@string/accessibility_captions" android:key="captions">
+        <intent android:targetPackage="com.android.tv.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.tv.settings.system.CaptionSetupActivity"/>
+    </Preference>
+    <SwitchPreference android:persistent="true" android:title="@string/accessibility_toggle_high_text_contrast_preference_title" android:key="toggle_high_text_contrast" android:summary="@string/experimental_preference"/>
+</PreferenceScreen>

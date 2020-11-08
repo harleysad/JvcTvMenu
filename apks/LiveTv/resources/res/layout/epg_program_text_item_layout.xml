@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/epg_book_icon" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@drawable/npg_img_pbb_schedule"/>
+    <com.mediatek.wwtv.tvcenter.epg.sa.EPGTextView android:enabled="false" android:textSize="@dimen/epg_list_item_textsize" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/epg_textview" android:focusable="false" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true"/>
+</LinearLayout>

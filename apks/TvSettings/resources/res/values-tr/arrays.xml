@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>KAPALI</item>
+        <item>SOL</item>
+        <item>SAĞ</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demo video</item>
+        <item>Kalan e-POP</item>
+        <item>e-POP alt</item>
+    </array>
+    <array name="ampm">
+        <item>ÖÖ</item>
+        <item>ÖS</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği 0,5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1,5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği 0,5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1,5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standart sınır</item>
+        <item>Arka planda işlem yok</item>
+        <item>En çok 1 işlem</item>
+        <item>En çok 2 işlem</item>
+        <item>En çok 3 işlem</item>
+        <item>En çok 4 işlem</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Ağ tarafından sağlanan saati kullan</item>
+        <item>Kapalı</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Ağ tarafından sağlanan saati kullan</item>
+        <item>Taşıma akışı tarafından sağlanan saati kullan</item>
+        <item>Kapalı</item>
+    </array>
+    <array name="battery_labels">
+        <item>%0</item>
+        <item>%50</item>
+        <item>%100</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ses Kalitesi için optimize edildi</item>
+        <item>Dengeli Ses ve Bağlantı Kalitesi</item>
+        <item>Bağlantı Kalitesi için optimize edildi</item>
+        <item>En İyi Sonuç (Uyarlanabilir Bit Hızı)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ses Kalitesi (990 kb/sn. / 909 kb/sn.) için optimize edildi</item>
+        <item>Dengeli Ses ve Bağlantı Kalitesi (660 kb/sn. / 606 kb/sn.)</item>
+        <item>Bağlantı Kalitesi (330 kb/sn. / 303 kb/sn.) için optimize edildi</item>
+        <item>En İyi Sonuç (Uyarlanabilir Bit Hızı)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ses</item>
+        <item>Qualcomm® aptX™ HD ses</item>
+        <item>LDAC</item>
+        <item>İsteğe Bağlı Codec&apos;leri Etkinleştir</item>
+        <item>İsteğe Bağlı Codec&apos;leri Devre Dışı Bırak</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem Seçimini Kullan (Varsayılan)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ses</item>
+        <item>Qualcomm® aptX™ HD ses</item>
+        <item>LDAC</item>
+        <item>İsteğe Bağlı Codec&apos;leri Etkinleştir</item>
+        <item>İsteğe Bağlı Codec&apos;leri Devre Dışı Bırak</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Varsayılan)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Varsayılan</item>
+        <item>Yok</item>
+        <item>Dış çizgi</item>
+        <item>Gölge</item>
+        <item>Yükseltilmiş</item>
+        <item>Bastırılmış</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Varsayılan</item>
+        <item>Siyah</item>
+        <item>Beyaz</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+        <item>Kırmızı</item>
+        <item>Camgöbeği</item>
+        <item>Sarı</item>
+        <item>Macenta</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Varsayılan</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif sabit aralıklı</item>
+        <item>Serif</item>
+        <item>Serif sabit aralıklı</item>
+        <item>Basit</item>
+        <item>El yazısı</item>
+        <item>Küçük boyutlu büyük harfler</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Varsayılan</item>
+        <item>Düz</item>
+        <item>Saydam</item>
+        <item>Şeffaf</item>
+        <item>Yanıp Sönme</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Varsayılan</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Yok</item>
+        <item>Dış çizgi</item>
+        <item>Gölge</item>
+        <item>Yükseltilmiş</item>
+        <item>Bastırılmış</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Çok küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>%25</item>
+        <item>%50</item>
+        <item>%75</item>
+        <item>%100</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Varsayılan</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif dar</item>
+        <item>Sans-serif sabit aralıklı</item>
+        <item>Serif</item>
+        <item>Serif sabit aralıklı</item>
+        <item>Gayriresmî</item>
+        <item>Bitişik el yazısı</item>
+        <item>Küçük boyutlu büyük harfler</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC Cihazı Yok</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Geliştirilmiş renkler</item>
+        <item>Göze göründüğü şekilde doğal renkler</item>
+        <item>Dijital içerik için optimize edilmiş renkler</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Canlı (varsayılan)</item>
+        <item>Doğal</item>
+        <item>Standart</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Kapalı</item>
+        <item>Fazla çizilen alanları göster</item>
+        <item>Alanları renk körlüğüne uygun olarak göster</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Kapalı</item>
+        <item>Açık</item>
+        <item>Altyazı (sessiz)</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Hiçbiri</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafik)</item>
+        <item>glGetError&apos;da yığın çağır</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>HDCP denetimini hiçbir zaman kullanma</item>
+        <item>HDCP denetimini yalnızca DRM içeriği için kullan</item>
+        <item>HDCP denetimini her zaman kullan</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Hiçbir zaman denetleme</item>
+        <item>Yalnızca DRM içeriğini denetle</item>
+        <item>Her zaman denetle</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Otomatik EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Yok</item>
+        <item>480p</item>
+        <item>480p (güvenli)</item>
+        <item>720p</item>
+        <item>720p (güvenli)</item>
+        <item>1080p</item>
+        <item>1080p (güvenil)</item>
+        <item>4K</item>
+        <item>4K (güvenli)</item>
+        <item>4K (yukarı ölçeklenmiş)</item>
+        <item>4K (yukarı ölçeklenmiş, güvenli)</item>
+        <item>720p, 1080p (çift ekran)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Manuel</item>
+        <item>Yarı Otomatik</item>
+        <item>Otomatik</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Kapalı</item>
+        <item>Otomatik</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Kapalı</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Tümü</item>
+        <item>Sağ</item>
+        <item>Sol</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Kapalı</item>
+        <item>Düşük</item>
+        <item>Orta</item>
+        <item>Güçlü</item>
+        <item>Otomatik</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Kapalı</item>
+        <item>Düşük</item>
+        <item>Orta</item>
+        <item>Güçlü</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Otomatik</item>
+        <item>Dolu</item>
+        <item>Sınır</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Kapalı</item>
+        <item>Düşük</item>
+        <item>Orta</item>
+        <item>Yüksek</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Kapalı</item>
+        <item>Minimum</item>
+        <item>Orta</item>
+        <item>Maksimum</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Kullanıcı</item>
+        <item>Rahat</item>
+        <item>Standart</item>
+        <item>Sıcak</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Koyu</item>
+        <item>Orta</item>
+        <item>Parlak</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Açık</item>
+        <item>Kapalı</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Bright</item>
+        <item>Dolby Vision Dark</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Kullanıcı</item>
+        <item>Sinema</item>
+        <item>Spor</item>
+        <item>Canlı</item>
+        <item>Çok Parlak</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standart</item>
+        <item>Doğal</item>
+        <item>Canlı</item>
+        <item>Spor</item>
+        <item>Film</item>
+        <item>Oyun</item>
+        <item>Enerji Tasarrufu</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Kullanıcı</item>
+        <item>Standart</item>
+        <item>Canlı</item>
+        <item>Spor</item>
+        <item>Film</item>
+        <item>Oyun</item>
+        <item>Enerji Tasarrufu</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Kapalı</item>
+        <item>%d Dakika</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Oturma Odasındaki TV</item>
+        <item>Aile Odasındaki TV</item>
+        <item>Yatak Odasındaki TV</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Otomatik</item>
+        <item>Süper yakınlaştırma</item>
+        <item>4:3</item>
+        <item>Genişletilmiş film 14:9</item>
+        <item>Genişletilmiş film 16:9</item>
+        <item>Geniş ekran</item>
+        <item>Dolu</item>
+        <item>Ölçeklendirilmemiş</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Süper yakınlaştırma</item>
+        <item>Dolu</item>
+        <item>Ölçeklendirilmemiş</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Otomatik</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Dolu</item>
+        <item>Yakınlaştır</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>3 saat</item>
+        <item>6 saat</item>
+        <item>12 saat</item>
+        <item>Hiçbir zaman</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Kapalı</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Kapalı</item>
+        <item>Günlük arabelleği başına 64 KB</item>
+        <item>Günlük arabelleği başına 256 KB</item>
+        <item>Günlük arabelleği başına 1 MB</item>
+        <item>Günlük arabelleği başına 4 MB</item>
+        <item>Günlük arabelleği başına 16 MB</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Kapalı</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Kapalı</item>
+        <item>Günlük arabelleklerin tümü</item>
+        <item>Radyo günlük arabellekleri hariç tümü</item>
+        <item>yalnızca çekirdek günlük arabelleği</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Kapalı</item>
+        <item>Tümü</item>
+        <item>Radyo hariç tümü</item>
+        <item>yaln. çekirdek</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Kapalı</item>
+        <item>Dikdörtgen olm. kırpma bölgesini mavi çiz</item>
+        <item>Test edilmiş çizim komutlarını yeşille vurgula</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Oyun</item>
+        <item>Film</item>
+        <item>Müzik</item>
+        <item>Haberler</item>
+        <item>Stadyum</item>
+        <item>Standart</item>
+        <item>Kullanıcı</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Kapalı</item>
+        <item>Açık</item>
+        <item>Otomatik</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Kapalı</item>
+        <item>Normal</item>
+        <item>Gece</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Surround</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Kapalı</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Canlı</item>
+        <item>Dans</item>
+        <item>Tekno</item>
+        <item>Klasik</item>
+        <item>Yumuşak</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Otomatik</item>
+        <item>Atla</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Kapalı</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP Geçişi</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>TV Hoparlörleri</item>
+        <item>Harici Ses Sistemi</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Kullanıcı</item>
+        <item>Standart</item>
+        <item>Canlı</item>
+        <item>Spor</item>
+        <item>Film</item>
+        <item>Müzik</item>
+        <item>Haberler</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standart</item>
+        <item>Spor</item>
+        <item>Film</item>
+        <item>Müzik</item>
+        <item>Kullanıcı</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normal</item>
+        <item>İşitme Engelli seçeneği</item>
+        <item>Görme Engelli</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Kapalı</item>
+        <item>Ekranda çubuk şeklinde</item>
+        <item>adb shell dumpsys gfxinfo içinde</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği 0,5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1,5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Çok yavaş</item>
+        <item>Yavaş</item>
+        <item>Normal</item>
+        <item>Hızlı</item>
+        <item>Daha hızlı</item>
+        <item>Çok hızlı</item>
+        <item>Seri</item>
+        <item>Çok seri</item>
+        <item>En hızlı</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Şarj oluyor</item>
+        <item>MTP (Medya Aktarım Protokolü)</item>
+        <item>PTP (Resim Aktarım Protokolü)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Ses Kaynağı</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Yok</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Yok</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Zayıf</item>
+        <item>Orta</item>
+        <item>İyi</item>
+        <item>Mükemmel</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Taranıyor…</item>
+        <item>Bağlanıyor…</item>
+        <item>Kimlik doğrulanıyor…</item>
+        <item>IP adresi alınıyor...</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Taranıyor…</item>
+        <item>%1$s ağına bağlanılıyor…</item>
+        <item>%1$s üzerinde kimlik doğrulanıyor…</item>
+        <item>%1$s ağından IP adresi alınıyor…</item>
+        <item>%1$s ağına bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>%1$s bağlantısı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği 0,5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1,5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
+    </array>
+</resources>

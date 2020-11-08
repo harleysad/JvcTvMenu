@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="zero">Jūs 5 reizes ievadījāt nepareizu PIN.\10Mēģiniet vēlreiz pēc %1$d sekundēm.</item>
+        <item quantity="one">Jūs 5 reizes ievadījāt nepareizu PIN.\10Mēģiniet vēlreiz pēc %1$d sekundes.</item>
+        <item quantity="other">Jūs 5 reizes ievadījāt nepareizu PIN.\10Mēģiniet vēlreiz pēc %1$d sekundēm.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="zero">%1$d kanāli</item>
+        <item quantity="one">%1$d kanāls</item>
+        <item quantity="other">%1$d kanāli</item>
+    </plurals>
+</resources>

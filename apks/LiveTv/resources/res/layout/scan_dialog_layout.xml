@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/menu_scan_dialog_id" android:background="@color/livetvsettings_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/menu_scan_dialog_contentview" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="40dp">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="40dp" android:layout_marginEnd="40dp">
+            <TextView android:id="@+id/state" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/middle_margin_edge" style="@style/Canvas.Scan.Text.Large"/>
+            <com.mediatek.wwtv.tvcenter.commonview.Loading android:id="@+id/setup_tv_scan_loading" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/middle_margin_edge" android:layout_toEndOf="@+id/state" style="@style/Canvas.Scan.Text.Large"/>
+            <TextView android:id="@+id/trun_mode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/middle_margin_edge" android:text="@string/menu_tv_tuner_mode" android:layout_marginEnd="@dimen/menu_scan_layout_margin" android:layout_alignParentEnd="true" style="@style/Canvas.Scan.Text.Large"/>
+        </RelativeLayout>
+        <TextView android:id="@+id/dvbsusedigital_channels" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="40dp" style="@style/Canvas.Scan.Text.Middle"/>
+        <TextView android:id="@+id/analoguechannel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="40dp" style="@style/Canvas.Scan.Text.Middle"/>
+        <TextView android:id="@+id/numberchannel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="40dp" style="@style/Canvas.Scan.Text.Middle"/>
+        <TextView android:id="@+id/numberchannel_from_to" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/menu_scan_layout_minWidth" android:layout_marginStart="40dp" style="@style/Canvas.Scan.Text.Middle"/>
+        <RelativeLayout android:id="@+id/menu_scan_proline" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="15dp" android:layout_marginBottom="40dp" android:layout_marginStart="40dp" android:layout_marginEnd="40dp">
+            <TextView android:id="@+id/finishpercentage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true" style="@style/Canvas.Scan.Text.Middle"/>
+            <ProgressBar android:id="@+id/scanprogressbar" android:layout_width="match_parent" android:layout_height="12dp" android:layout_marginTop="10dp" android:layout_below="@+id/finishpercentage" style="?android:attr/progressBarStyleHorizontal"/>
+            <TextView android:id="@+id/scan_finish" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_exit" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" style="@style/Canvas.Scan.Text.Middle"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

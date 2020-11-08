@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/menu_download_firmware_dialog" android:background="@drawable/info_banner_background" android:padding="@dimen/menu_main_draw_pad" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:id="@+id/download_firmware_progress_and_status_ly" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <TextView android:textColor="@android:color/white" android:id="@+id/download_firmware_progress_tv" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2"/>
+                <TextView android:textColor="@color/dark_yellow" android:id="@+id/download_firmware_progress_value_tv" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            </LinearLayout>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                <TextView android:textColor="@android:color/white" android:id="@+id/download_firmware_status_tv" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2"/>
+                <TextView android:textColor="@color/dark_yellow" android:id="@+id/download_firmware_status_value_tv" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <TextView android:gravity="center" android:id="@+id/download_firmware_user_toast" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1.2">
+        <Button android:textColor="@android:color/white" android:gravity="center" android:id="@+id/download_firmware_ok_bt" android:background="@drawable/menu_dialog_button" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <Button android:textColor="@android:color/white" android:gravity="center" android:id="@+id/download_firmware_cancel_bt" android:background="@drawable/menu_dialog_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30dp"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1.5">
+        <TextView android:id="@+id/download_firmware_enter_toast" android:text="@string/menu_enter" android:drawableLeft="@drawable/tk_cm_key_enter" style="@style/menu_prompt_show"/>
+        <TextView android:id="@+id/download_firmware_exit_toast" android:layout_marginLeft="@dimen/prompt_textview_margin" android:text="@string/menu_exit" android:drawableLeft="@drawable/tk_cm_key_exit" style="@style/menu_prompt_show"/>
+    </LinearLayout>
+</LinearLayout>

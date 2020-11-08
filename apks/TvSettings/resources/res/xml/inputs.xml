@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/inputs_inputs">
+    <PreferenceCategory android:orderingFromXml="false" android:key="connected_inputs"/>
+    <PreferenceCategory android:orderingFromXml="false" android:key="standby_inputs"/>
+    <PreferenceCategory android:orderingFromXml="false" android:key="disconnected_inputs"/>
+    <PreferenceCategory android:title="@string/inputs_header_cec" android:key="cec">
+        <SwitchPreference android:persistent="true" android:title="@string/inputs_hdmi_control" android:key="hdmi_control" android:summary="@string/inputs_hdmi_control_desc"/>
+        <SwitchPreference android:persistent="true" android:title="@string/inputs_device_auto_off" android:key="device_auto_off" android:summary="@string/inputs_device_auto_off_desc"/>
+        <SwitchPreference android:persistent="true" android:title="@string/inputs_tv_auto_on" android:key="tv_auto_on" android:summary="@string/inputs_tv_auto_on_desc"/>
+    </PreferenceCategory>
+</PreferenceScreen>

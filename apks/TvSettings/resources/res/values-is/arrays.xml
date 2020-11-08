@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>SLÖKKT</item>
+        <item>VINSTRI</item>
+        <item>HÆGRI</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Kynningarmyndskeið</item>
+        <item>e-POP, vinstri</item>
+        <item>e-POP, neðst</item>
+    </array>
+    <array name="ampm">
+        <item>f.h.</item>
+        <item>e.h.</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Slökkva á hreyfiáhrifum</item>
+        <item>Lengd hreyfiáhrifa 0,5x</item>
+        <item>Lengd hreyfiáhrifa 1x</item>
+        <item>Lengd hreyfiáhrifa 1,5x</item>
+        <item>Lengd hreyfiáhrifa 2x</item>
+        <item>Lengd hreyfiáhrifa 5x</item>
+        <item>Lengd hreyfiáhrifa 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Slökkva á hreyfiáhrifum</item>
+        <item>Lengd hreyfiáhrifa 0,5x</item>
+        <item>Lengd hreyfiáhrifa 1x</item>
+        <item>Lengd hreyfiáhrifa 1,5x</item>
+        <item>Lengd hreyfiáhrifa 2x</item>
+        <item>Lengd hreyfiáhrifa 5x</item>
+        <item>Lengd hreyfiáhrifa 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Venjulegt hámark</item>
+        <item>Engar bakgrunnsvinnslur</item>
+        <item>Að hámarki 1 vinnsla</item>
+        <item>Að hámarki 2 vinnslur</item>
+        <item>Að hámarki 3 vinnslur</item>
+        <item>Að hámarki 4 vinnslur</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Nota tíma frá símkerfi</item>
+        <item>Slökkva</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Nota tíma frá símkerfi</item>
+        <item>Nota tíma frá flutningsstreymi</item>
+        <item>Slökkva</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Nota val kerfisins (sjálfgefið)</item>
+        <item>16 bitar/úrtak</item>
+        <item>24 bitar/úrtak</item>
+        <item>32 bitar/úrtak</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Nota val kerfisins (sjálfgefið)</item>
+        <item>16 bitar/úrtak</item>
+        <item>24 bitar/úrtak</item>
+        <item>32 bitar/úrtak</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Nota val kerfisins (sjálfgefið)</item>
+        <item>Einóma</item>
+        <item>Víðóma</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Nota val kerfisins (sjálfgefið)</item>
+        <item>Einóma</item>
+        <item>Víðóma</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Fínstillt fyrir hljóðgæði</item>
+        <item>Jafnvægi á milli gæða hljóðs og tengingar</item>
+        <item>Fínstillt fyrir gæði tengingar</item>
+        <item>Bestu mögulegu gæði (breytilegur bitahraði)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Fínstillt fyrir hljóðgæði (990kbps/909kbps)</item>
+        <item>Jafnvægi á milli gæða hljóðs og tengingar (660 kbps / 606 kbps)</item>
+        <item>Fínstillt fyrir gæði tengingar (330kbps/303kbps)</item>
+        <item>Bestu mögulegu gæði (breytilegur bitahraði)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Nota val kerfisins (sjálfgefið)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Nota val kerfisins (sjálfgefið)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Nota val kerfisins (sjálfgefið)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ hljóð</item>
+        <item>Qualcomm® aptX™ HD hljóð</item>
+        <item>LDAC</item>
+        <item>Gera valfrjálsa kóðara virka</item>
+        <item>Gera valfrjálsa kóðara óvirka</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Nota val kerfisins (sjálfgefið)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ hljóð</item>
+        <item>Qualcomm® aptX™ HD hljóð</item>
+        <item>LDAC</item>
+        <item>Gera valfrjálsa kóðara virka</item>
+        <item>Gera valfrjálsa kóðara óvirka</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (sjálfgefið)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Sjálfgefið</item>
+        <item>Ekkert</item>
+        <item>Útlínur</item>
+        <item>Skuggi</item>
+        <item>Lyft</item>
+        <item>Þrykkt</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Sjálfgefið</item>
+        <item>Svartur</item>
+        <item>Hvítur</item>
+        <item>Grænn</item>
+        <item>Blár</item>
+        <item>Rauður</item>
+        <item>Ljósblár</item>
+        <item>Gulur</item>
+        <item>Bleikur</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Sjálfgefið</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif, jafnbreitt</item>
+        <item>Serif</item>
+        <item>Serif jafnbreitt</item>
+        <item>Óformlegt</item>
+        <item>Tengistafir</item>
+        <item>Litlir hástafir</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Sjálfgefið</item>
+        <item>Hreinn litur</item>
+        <item>Gagnsætt</item>
+        <item>Gegnsætt</item>
+        <item>Blikkandi</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Sjálfgefin</item>
+        <item>Lítil</item>
+        <item>Venjuleg</item>
+        <item>Stór</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Ekkert</item>
+        <item>Útlínur</item>
+        <item>Skuggi</item>
+        <item>Lyft</item>
+        <item>Sokkið</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Mjög smátt</item>
+        <item>Smátt</item>
+        <item>Venjulegt</item>
+        <item>Stórt</item>
+        <item>Mjög stórt</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Sjálfgefið</item>
+        <item>Sans-serif</item>
+        <item>Þjappað sans-serif</item>
+        <item>Sans-serif jafnbreitt</item>
+        <item>Serif</item>
+        <item>Serif jafnbreitt</item>
+        <item>Óformlegt</item>
+        <item>Tengt</item>
+        <item>Litlir hástafir</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Ekkert CEC-tæki</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Áhrifaríkir litir</item>
+        <item>Náttúrulegir litir eins og augað nemur þá</item>
+        <item>Litir sérhannaðir fyrir stafrænt efni</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Líflegir (sjálfgefið)</item>
+        <item>Náttúrulegir</item>
+        <item>Hefðbundnir</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Slökkt</item>
+        <item>Sýna yfirteiknuð svæði</item>
+        <item>Sýna svæði fyrir litblinda</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Slökkt</item>
+        <item>Kveikt</item>
+        <item>Skjátexti án hljóðs</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Ekkert</item>
+        <item>Logcat</item>
+        <item>Systrace (grafík)</item>
+        <item>Kallastafli á glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Nota aldrei HDCP-eftirlit</item>
+        <item>Nota HDCP-athugun aðeins fyrir höfundarréttarvarið efni</item>
+        <item>Nota alltaf HDCP-eftirlit</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Athuga aldrei</item>
+        <item>Athuga aðeins höfundarréttarvarið efni</item>
+        <item>Athuga alltaf</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Sjálvirkt EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Ekkert</item>
+        <item>480p</item>
+        <item>480p (öruggt)</item>
+        <item>720p</item>
+        <item>720p (öruggt)</item>
+        <item>1080p</item>
+        <item>1080p (öruggt)</item>
+        <item>4K</item>
+        <item>4K (öruggt)</item>
+        <item>4K (stækkað)</item>
+        <item>4K (stækkað, öruggt)</item>
+        <item>720p, 1080p (tvískiptur skjár)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Handvirk</item>
+        <item>Hálfsjálfvirt</item>
+        <item>Sjálfvirkt</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Slökkt</item>
+        <item>Sjálfvirkt</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Slökkt</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Allt</item>
+        <item>Hægri</item>
+        <item>Vinstri</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Slökkt</item>
+        <item>Lítið</item>
+        <item>Miðlungs</item>
+        <item>Öruggt</item>
+        <item>Sjálfvirkt</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Slökkt</item>
+        <item>Lítil</item>
+        <item>Miðlungs</item>
+        <item>Öruggt</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Sjálfvirkt</item>
+        <item>Allur skjárinn</item>
+        <item>Hámark</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Slökkt</item>
+        <item>Lítil</item>
+        <item>Miðlungs</item>
+        <item>Mikil</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Slökkt</item>
+        <item>Lágmark</item>
+        <item>Miðlungs</item>
+        <item>Hámark</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Notandi</item>
+        <item>Svalt</item>
+        <item>Venjulegt</item>
+        <item>Hlýtt</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Dökkt</item>
+        <item>Miðlungs</item>
+        <item>Bjart</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Kveikt</item>
+        <item>Slökkt</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision (bjart)</item>
+        <item>Dolby Vision (dökkt)</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Notandi</item>
+        <item>Bíó</item>
+        <item>Íþróttir</item>
+        <item>Skært</item>
+        <item>Mjög bjart</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Venjulegt</item>
+        <item>Náttúruleg</item>
+        <item>Skært</item>
+        <item>Íþróttir</item>
+        <item>Kvikmynd</item>
+        <item>Leikur</item>
+        <item>Orkusparnaður</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Notandi</item>
+        <item>Venjulegt</item>
+        <item>Skært</item>
+        <item>Íþrótt</item>
+        <item>Kvikmynd</item>
+        <item>Leikur</item>
+        <item>Orkusparnaður</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Slökkt</item>
+        <item>%d mínútur</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Sjónvarp í stofu</item>
+        <item>Sjónvarp í sjónvarpsherbergi</item>
+        <item>Sjónvarp í svefnherbergi</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Sjálfvirkt</item>
+        <item>Ofurstækkun</item>
+        <item>4:3</item>
+        <item>Stækkun kvikmyndar 14:9</item>
+        <item>Stækkun kvikmyndar 16:9</item>
+        <item>Breiðtjald</item>
+        <item>Allur skjárinn</item>
+        <item>Stærð ekki breytt</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Ofurstækkun</item>
+        <item>Allur skjárinn</item>
+        <item>Stærð ekki breytt</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Sjálfvirkt</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Allur skjárinn</item>
+        <item>Stækka</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 mínútur</item>
+        <item>1 klukkustund</item>
+        <item>3 klukkustundir</item>
+        <item>6 klukkustundir</item>
+        <item>12 klukkustundir</item>
+        <item>Aldrei</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Slökkt</item>
+        <item>64 k</item>
+        <item>256 k</item>
+        <item>1 M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Slökkt</item>
+        <item>64 k/biðminni</item>
+        <item>256 k/biðminni</item>
+        <item>1 M/biðminni</item>
+        <item>4 M/biðminni</item>
+        <item>16 M/biðminni</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Slökkt</item>
+        <item>64 k</item>
+        <item>256 k</item>
+        <item>1 M</item>
+        <item>4 M</item>
+        <item>16 M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Slökkt</item>
+        <item>Allt biðminni</item>
+        <item>Allt nema útvarpsbiðminni</item>
+        <item>einungis kjarnaannálabiðminni</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Slökkt</item>
+        <item>Allt</item>
+        <item>Allt n. útvarp</item>
+        <item>einungis kjarni</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Slökkt</item>
+        <item>Teikna klippt svæði sem ekki er rétthyrnt með bláu</item>
+        <item>Auðkenna prófaðar teikniskipanir með grænu</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 mínútur</item>
+        <item>15 mínútur</item>
+        <item>30 mínútur</item>
+        <item>1 klukkustund</item>
+        <item>2 klukkustundir</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Leikur</item>
+        <item>Kvikmynd</item>
+        <item>Tónlist</item>
+        <item>Fréttir</item>
+        <item>Leikvangur</item>
+        <item>Venjulegt</item>
+        <item>Notandi</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Slökkt</item>
+        <item>Kveikt</item>
+        <item>Sjálfvirkt</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Slökkt</item>
+        <item>Venjuleg</item>
+        <item>Nótt</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Víðóma</item>
+        <item>Víðóma</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Slökkt</item>
+        <item>Rokk</item>
+        <item>Poppað</item>
+        <item>Í beinni</item>
+        <item>Dans</item>
+        <item>Teknó</item>
+        <item>Sígilt</item>
+        <item>Slétt</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Sjálfvirkt</item>
+        <item>Sneiða hjá</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Slökkt</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP-sending</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>Sjónvarpshátalarar</item>
+        <item>Ytra hljóðkerfi</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Notandi</item>
+        <item>Venjulegt</item>
+        <item>Skært</item>
+        <item>Íþróttir</item>
+        <item>Kvikmynd</item>
+        <item>Tónlist</item>
+        <item>Fréttir</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Venjulegt</item>
+        <item>Íþróttir</item>
+        <item>Kvikmynd</item>
+        <item>Tónlist</item>
+        <item>Notandi</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Venjuleg</item>
+        <item>Heyrnarskerðing</item>
+        <item>Sjónskerðing</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Slökkt</item>
+        <item>Á skjánum sem stikur</item>
+        <item>Í adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Slökkt á hreyfiáhrifum</item>
+        <item>Lengd hreyfiáhrifa 5x</item>
+        <item>Lengd hreyfiáhrifa 1x</item>
+        <item>Lengd hreyfiáhrifa 1,5x</item>
+        <item>Lengd hreyfiáhrifa 2x</item>
+        <item>Lengd hreyfiáhrifa 5x</item>
+        <item>Lengd hreyfiáhrifa 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Mjög hægt</item>
+        <item>Hægt</item>
+        <item>Venjulegt</item>
+        <item>Hratt</item>
+        <item>Hraðar</item>
+        <item>Mjög hratt</item>
+        <item>Leifturhratt</item>
+        <item>Næsthraðast</item>
+        <item>Hraðast</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Í hleðslu</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Engin</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Engin</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Lélegt</item>
+        <item>Sæmilegt</item>
+        <item>Gott</item>
+        <item>Frábært</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Leitar…</item>
+        <item>Tengist…</item>
+        <item>Auðkennir…</item>
+        <item>Sækir IP-tölu…</item>
+        <item>Tengt</item>
+        <item>Lokað</item>
+        <item>Aftengist…</item>
+        <item>Aftengt</item>
+        <item>Mistókst</item>
+        <item>Læst</item>
+        <item>Forðast lélega tengingu tímabundið</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Leitar…</item>
+        <item>Tengist %1$s…</item>
+        <item>Auðkennir á %1$s…</item>
+        <item>Sækir IP-tölu frá %1$s…</item>
+        <item>Tengt við %1$s</item>
+        <item>Lokað</item>
+        <item>Aftengist %1$s…</item>
+        <item>Aftengt</item>
+        <item>Mistókst</item>
+        <item>Læst</item>
+        <item>Forðast lélega tengingu tímabundið</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Slökkt á hreyfiáhrifum</item>
+        <item>Lengd hreyfiáhrifa 5x</item>
+        <item>Lengd hreyfiáhrifa 1x</item>
+        <item>Lengd hreyfiáhrifa 1,5x</item>
+        <item>Lengd hreyfiáhrifa 2x</item>
+        <item>Lengd hreyfiáhrifa 5x</item>
+        <item>Lengd hreyfiáhrifa 10x</item>
+    </array>
+</resources>

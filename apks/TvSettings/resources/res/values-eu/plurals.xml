@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d kontu</item>
+        <item quantity="other">%1$d kontu</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Konektatutako gailua</item>
+        <item quantity="other">Konektatutako gailuak</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Konektatu gabeko gailua</item>
+        <item quantity="other">Konektatu gabeko gailuak</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Inaktibo dagoen gailua</item>
+        <item quantity="other">Inaktibo dauden gailuak</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d osagarri</item>
+        <item quantity="other">%1$d osagarri</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">Aplikazio batek dauka baimena</item>
+        <item quantity="other">%d aplikaziok daukate baimena</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">%1$d urrats gelditzen zaizu garatzaile bihurtzeko</item>
+        <item quantity="other">%1$d urrats gelditzen zaizkizu garatzaile bihurtzeko</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d gailu dago konektatuta</item>
+        <item quantity="other">%1$d gailu daude konektatuta</item>
+    </plurals>
+</resources>

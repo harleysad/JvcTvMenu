@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:id="@+id/nav_epg_filter" android:background="@drawable/transparent_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+        <TextView android:textSize="@dimen/epg_type_main_ts" android:textColor="@color/white" android:gravity="center" android:id="@+id/nav_epg_filter_type" android:background="@color/nav_ch_list_title_back" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/nav_epg_type" android:layout_weight="0.88"/>
+        <ListView android:id="@+id/nav_epg_type_view" android:background="@color/nav_ch_list_view_back" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="@drawable/nav_epg_type_selector" android:layout_weight="0.12"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="@dimen/epg_title_lpadding" android:layout_weight="1">
+        <TextView android:textSize="@dimen/epg_type_sub_ts" android:textColor="@color/white" android:gravity="center" android:id="@+id/nav_epg_filter_subtype" android:background="@color/nav_ch_list_title_back" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/nav_epg_sub_type" android:layout_weight="0.88"/>
+        <ListView android:id="@+id/nav_epg_sub_type_view" android:background="@color/nav_ch_list_view_back" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="@drawable/nav_epg_type_selector" android:layout_weight="0.12"/>
+    </LinearLayout>
+</LinearLayout>

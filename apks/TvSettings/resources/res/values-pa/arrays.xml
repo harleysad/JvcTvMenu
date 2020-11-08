@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ਬੰਦ</item>
+        <item>ਖੱਬਾ</item>
+        <item>ਸੱਜਾ</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>ਡੈਮੋ ਵੀਡੀਓ</item>
+        <item>e-POP ਖੱਬੇ</item>
+        <item>e-POP ਹੇਠਾਂ</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>ਐਨੀਮੇਸ਼ਨ ਬੰਦ ਹੈ</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ .5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 2x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>ਐਨੀਮੇਸ਼ਨ ਬੰਦ</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ .5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 2x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>ਸਟੈਂਡਰਡ ਸੀਮਾ</item>
+        <item>ਕੋਈ ਪਿਛੋਕੜ ਪ੍ਰਕਿਰਿਆਵਾਂ ਨਹੀਂ</item>
+        <item>ਵੱਧ ਤੋਂ ਵੱਧ 1 ਪ੍ਰਕਿਰਿਆ</item>
+        <item>ਵੱਧ ਤੋਂ ਵੱਧ 2 ਪ੍ਰਕਿਰਿਆਵਾਂ</item>
+        <item>ਵੱਧ ਤੋਂ ਵੱਧ 3 ਪ੍ਰਕਿਰਿਆਵਾਂ</item>
+        <item>ਵੱਧ ਤੋਂ ਵੱਧ 4 ਪ੍ਰਕਿਰਿਆਵਾਂ</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>ਨੈੱਟਵਰਕ ਵੱਲੋਂ ਮੁਹੱਈਆ ਕਰਵਾਇਆ ਸਮਾਂ ਵਰਤੋ</item>
+        <item>ਬੰਦ</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>ਨੈੱਟਵਰਕ ਵੱਲੋਂ ਮੁਹੱਈਆ ਕਰਵਾਇਆ ਸਮਾਂ ਵਰਤੋ</item>
+        <item>ਟ੍ਰਾਂਸਪੋਰਟ ਸਟ੍ਰੀਮ ਵੱਲੋਂ ਮੁਹੱਈਆ ਕੀਤਾ ਸਮਾਂ ਵਰਤੋ</item>
+        <item>ਬੰਦ</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>ਸਿਸਟਮ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>16 ਬਿਟਾਂ/ਨਮੂਨਾ</item>
+        <item>24 ਬਿਟਾਂ/ਨਮੂਨਾ</item>
+        <item>32 ਬਿਟਾਂ/ਨਮੂਨਾ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>ਸਿਸਟਮ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>16 ਬਿਟਾਂ/ਨਮੂਨਾ</item>
+        <item>24 ਬਿਟਾਂ/ਨਮੂਨਾ</item>
+        <item>32 ਬਿਟਾਂ/ਨਮੂਨਾ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>ਸਿਸਟਮ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>ਮੋਨੋ</item>
+        <item>ਸਟੀਰੀਓ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>ਸਿਸਟਮ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>ਮੋਨੋ</item>
+        <item>ਸਟੀਰੀਓ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item> ਆਡੀਓ  ਗੁਣਵੱਤਾ ਲਈ ਸੁਯੋਗ ਬਣਾਇਆ ਗਿਆ</item>
+        <item>ਸੰਤੁਲਿਤ  ਆਡੀਓ  ਅਤੇ ਕਨੈਕਸ਼ਨ ਗੁਣਵੱਤਾ</item>
+        <item>ਕਨੈਕਸ਼ਨ ਗੁਣਵੱਤਾ ਲਈ ਸੁਯੋਗ ਬਣਾਇਆ ਗਿਆ</item>
+        <item>ਸਰਵੋਤਮ ਕੋਸ਼ਿਸ਼ (ਅਨੁਕੂਲਨਕਾਰੀ ਬਿਟ ਰੇਟ)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item> ਆਡੀਓ  ਗੁਣਵੱਤਾ ਲਈ ਸੁਯੋਗ ਬਣਾਇਆ ਗਿਆ (990kbps/909kbps)</item>
+        <item>ਸੰਤੁਲਿਤ  ਆਡੀਓ  ਅਤੇ ਕਨੈਕਸ਼ਨ ਗੁਣਵੱਤਾ (660kbps/606kbps)</item>
+        <item>ਕਨੈਕਸ਼ਨ ਗੁਣਵੱਤਾ ਲਈ ਸੁਯੋਗ ਬਣਾਇਆ ਗਿਆ (330kbps/303kbps)</item>
+        <item>ਸਰਵੋਤਮ ਕੋਸ਼ਿਸ਼ (ਅਨੁਕੂਲਨਕਾਰੀ ਬਿਟ ਰੇਟ)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>ਸਿਸਟਮ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>ਸਿਸਟਮ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>ਸਿਸਟਮ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ਆਡੀਓ</item>
+        <item>Qualcomm® aptX™ HD ਆਡੀਓ</item>
+        <item>LDAC</item>
+        <item>ਵਿਕਲਪਿਕ ਕੋਡੈਕ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਵਿਕਲਪਿਕ ਕੋਡੈਕ ਅਯੋਗ ਬਣਾਓ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>ਸਿਸਟਮ ਚੋਣ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ਆਡੀਓ</item>
+        <item>Qualcomm® aptX™ HD ਆਡੀਓ</item>
+        <item>LDAC</item>
+        <item>ਵਿਕਲਪਿਕ ਕੋਡੈਕ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਵਿਕਲਪਿਕ ਕੋਡੈਕ ਅਯੋਗ ਬਣਾਓ</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ</item>
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>ਰੂਪ-ਰੇਖਾ</item>
+        <item>ਡ੍ਰੌਪ ਸ਼ੈਡੋ</item>
+        <item>ਉੱਭਰੇ ਹੋਏ ਕਿਨਾਰੇ</item>
+        <item>ਨਿਰਾਸ਼</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ</item>
+        <item>ਕਾਲਾ</item>
+        <item>ਸਫ਼ੈਦ</item>
+        <item>ਹਰਾ</item>
+        <item>ਨੀਲਾ</item>
+        <item>ਲਾਲ</item>
+        <item>ਹਰਾ ਨੀਲਾ</item>
+        <item>ਪੀਲਾ</item>
+        <item>ਸੁਰਖ ਗੁਲਾਬੀ</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ</item>
+        <item>ਸਾਂਸ-ਸੈਰਿਫ</item>
+        <item>ਸਾਂਸ-ਸੈਰਿਫ ਮੋਨੋਸਪੇਸ</item>
+        <item>ਸੈਰਿਫ</item>
+        <item>ਸੈਰਿਫ ਮੋਨੋਸਪੇਸ</item>
+        <item>ਆਮ</item>
+        <item>ਪ੍ਰਵਾਹੀ</item>
+        <item>ਛੋਟੇ ਅੱਖਰ</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ</item>
+        <item>ਠੋਸ</item>
+        <item>ਧੁੰਦਲਕਾ</item>
+        <item>ਪਾਰਦਰਸ਼ੀ</item>
+        <item>ਫਲੈਸ਼ਿੰਗ</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ</item>
+        <item>ਛੋਟਾ</item>
+        <item>ਸਧਾਰਨ</item>
+        <item>ਵੱਡਾ</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>ਰੂਪ-ਰੇਖਾ</item>
+        <item>ਡ੍ਰੌਪ ਸ਼ੈਡੋ</item>
+        <item>ਉਭਰੇ ਹੋਏ ਕਿਨਾਰੇ</item>
+        <item>ਨਿਰਾਸ਼</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>ਬਹੁਤ ਛੋਟਾ</item>
+        <item>ਛੋਟਾ</item>
+        <item>ਸਧਾਰਨ</item>
+        <item>ਵੱਡਾ</item>
+        <item>ਬਹੁਤ ਵੱਡਾ</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif ਸੌੜਾ</item>
+        <item>Sans-serif ਮੋਨੋਸਪੇਸ</item>
+        <item>Serif</item>
+        <item>Serif ਮੋਨੋਸਪੇਸ</item>
+        <item>ਅਨਿਯਮਤ</item>
+        <item>ਪ੍ਰਵਾਹਮਈ</item>
+        <item>ਅੰਗਰੇਜ਼ੀ ਦੇ ਵੱਡੇ ਅੱਖਰ ਛੋਟੇ ਆਕਾਰ ਵਿੱਚ</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>ਕੋਈ CEC ਡੀਵਾਈਸ ਨਹੀਂ</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>ਵਿਸਤ੍ਰਿਤ ਰੰਗ</item>
+        <item>ਕੁਦਰਤੀ ਰੰਗ ਜਿਵੇਂ ਅੱਖ ਰਾਹੀਂ ਦੇਖੇ ਜਾਂਦੇ ਹਨ</item>
+        <item>ਡਿਜੀਟਲ ਸਮੱਗਰੀ ਲਈ ਰੰਗ ਅਨੁਕੂਲ ਕੀਤੇ</item>
+    </array>
+    <array name="color_mode_names">
+        <item>ਚਮਕੀਲਾ (ਪੂਰਵ-ਨਿਰਧਾਰਤ)</item>
+        <item>ਕੁਦਰਤੀ</item>
+        <item>ਸਟੈਂਡਰਡ</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>ਬੰਦ</item>
+        <item>ਓਵਰਡ੍ਰਾ ਖੇਤਰ ਦਿਖਾਓ</item>
+        <item>Deuteranomaly ਲਈ ਖੇਤਰ ਦਿਖਾਓ</item>
+    </array>
+    <array name="display_caption_array">
+        <item>ਬੰਦ</item>
+        <item>ਚਾਲੂ</item>
+        <item>CC w/mute</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>Logcat</item>
+        <item>Systrace (ਗ੍ਰਾਫਿਕਸ)</item>
+        <item>glGetError ਤੇ ਕਾਲ ਸਟੈਕ</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>ਕਦੇ ਵੀ HDCP ਜਾਂਚ ਨਾ ਵਰਤੋ</item>
+        <item>ਕੇਵਲ DRM ਸਮੱਗਰੀ ਲਈ HDCP ਜਾਂਚ</item>
+        <item>ਹਮੇਸਾਂ HDCP ਜਾਂਚ ਵਰਤੋ</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>ਕਦੇ ਵੀ ਜਾਂਚ ਨਾ ਕਰੋ</item>
+        <item>ਸਿਰਫ਼ DRM ਸਮੱਗਰੀ ਲਈ ਜਾਂਚ ਕਰੋ</item>
+        <item>ਹਮੇਸ਼ਾਂ ਜਾਂਚ ਕਰੋ</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>ਸਵੈਚਲਿਤ EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>480p</item>
+        <item>480p (ਸੁਰੱਖਿਅਤ)</item>
+        <item>720p</item>
+        <item>720p (ਸੁਰੱਖਿਅਤ)</item>
+        <item>1080p</item>
+        <item>1080p (ਸੁਰੱਖਿਅਤ)</item>
+        <item>4K</item>
+        <item>4K (ਸੁਰੱਖਿਅਤ)</item>
+        <item>4K (ਪੂਰਾ ਕੀਤਾ)</item>
+        <item>4K (ਪੂਰਾ ਕੀਤਾ, ਸੁਰੱਖਿਅਤ)</item>
+        <item>720p, 1080p (ਦੂਹਰੀ ਸਕ੍ਰੀਨ)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>ਹੱਥੀਂ</item>
+        <item>ਅਰਧ-ਸਵੈਚਲਿਤ</item>
+        <item>ਸਵੈਚਲਿਤ</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>ਬੰਦ</item>
+        <item>ਸਵੈਚਲਿਤ</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>ਬੰਦ</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>ਸਭ</item>
+        <item>ਸੱਜਾ</item>
+        <item>ਖੱਬਾ</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>ਬੰਦ</item>
+        <item>ਘੱਟ</item>
+        <item>ਮੱਧਮ</item>
+        <item>ਗੂੜ੍ਹਾ</item>
+        <item>ਸਵੈਚਲਿਤ</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>ਬੰਦ</item>
+        <item>ਘੱਟ</item>
+        <item>ਮੱਧਮ</item>
+        <item>ਗੂੜ੍ਹਾ</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>ਸਵੈਚਲਿਤ</item>
+        <item>ਪੂਰੀ</item>
+        <item>ਸੀਮਾ</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>ਬੰਦ</item>
+        <item>ਘੱਟ</item>
+        <item>ਮੱਧਮ</item>
+        <item>ਉੱਚ</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>ਬੰਦ</item>
+        <item>ਨਿਊਨਤਮ</item>
+        <item>ਮੱਧਮ</item>
+        <item>ਅਧਿਕਤਮ</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>ਵਰਤੋਂਕਾਰ</item>
+        <item>ਸ਼ਾਂਤ</item>
+        <item>ਮਿਆਰੀ</item>
+        <item>ਨਿੱਘਾ</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>ਗੂੜ੍ਹੀ</item>
+        <item>ਵਿਚਕਾਰਲੀ</item>
+        <item>ਚਮਕ</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>ਚਾਲੂ</item>
+        <item>ਬੰਦ</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision ਚਮਕਦਾਰ</item>
+        <item>Dolby Vision ਗੂੜ੍ਹਾ</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>ਵਰਤੋਂਕਾਰ</item>
+        <item>ਸਿਨੇਮਾ</item>
+        <item>ਖੇਡਾਂ</item>
+        <item>ਸਪਸ਼ਟ</item>
+        <item>ਵਧੇਰੇ-ਚਮਕ</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>ਮਿਆਰੀ</item>
+        <item>ਕੁਦਰਤੀ</item>
+        <item>ਸਪਸ਼ਟ</item>
+        <item>ਖੇਡਾਂ</item>
+        <item>ਫ਼ਿਲਮ</item>
+        <item>ਗੇਮ</item>
+        <item>ਊਰਜਾ ਬਚਾਊ</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>ਵਰਤੋਂਕਾਰ</item>
+        <item>ਮਿਆਰੀ</item>
+        <item>ਸਪਸ਼ਟ</item>
+        <item>ਖੇਡ</item>
+        <item>ਫ਼ਿਲਮ</item>
+        <item>ਗੇਮ</item>
+        <item>ਊਰਜਾ ਬਚਾਊ</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>ਬੰਦ</item>
+        <item>%d ਮਿੰਟ</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>ਬੈਠਕ ਵਾਲਾ ਟੀਵੀ</item>
+        <item>ਪਰਿਵਾਰ ਦੇ ਕਮਰੇ ਵਾਲਾ ਟੀਵੀ</item>
+        <item>ਬੈੱਡਰੂਮ ਵਾਲਾ ਟੀਵੀ</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>ਸਵੈਚਲਿਤ</item>
+        <item>ਸੁਪਰ ਜ਼ੂਮ</item>
+        <item>4:3</item>
+        <item>ਫ਼ਿਲਮ ਵਿਸਤਾਰ 14:9</item>
+        <item>ਫ਼ਿਲਮ ਵਿਸਤਾਰ 16:9</item>
+        <item>ਵਾਈਡ ਸਕ੍ਰੀਨ</item>
+        <item>ਪੂਰੀ</item>
+        <item>ਅਣਮਾਪੀ</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>ਸੁਪਰ ਜ਼ੂਮ</item>
+        <item>ਪੂਰੀ</item>
+        <item>ਅਣਮਾਪੀ</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>ਸਵੈਚਲਿਤ</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>ਪੂਰੀ</item>
+        <item>ਜ਼ੂਮ</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 ਮਿੰਟ</item>
+        <item>1 ਘੰਟਾ</item>
+        <item>3 ਘੰਟੇ</item>
+        <item>6 ਘੰਟੇ</item>
+        <item>12 ਘੰਟੇ</item>
+        <item>ਕਦੇ ਵੀ ਨਹੀਂ</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>ਬੰਦ</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>ਬੰਦ</item>
+        <item>64K ਪ੍ਰਤੀ ਲੌਗ ਬਫ਼ਰ</item>
+        <item>256K ਪ੍ਰਤੀ ਲੌਗ ਬਫ਼ਰ</item>
+        <item>1M ਪ੍ਰਤੀ ਲੌਗ ਬਫ਼ਰ</item>
+        <item>4M ਪ੍ਰਤੀ ਲੌਗ ਬਫ਼ਰ</item>
+        <item>16M ਪ੍ਰਤੀ ਲੌਗ ਬਫ਼ਰ</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>ਬੰਦ</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>ਬੰਦ</item>
+        <item>ਸਭ ਲੌਗ ਬਫ਼ਰ</item>
+        <item>ਸਭ ਪਰ ਰੇਡੀਓ ਲੌਗ ਬਫ਼ਰ</item>
+        <item>ਸਿਰਫ਼ ਕਰਨਲ ਲੌਗ ਬਫ਼ਰ</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>ਬੰਦ</item>
+        <item>ਸਭ</item>
+        <item>ਸਭ ਪਰ ਰੇਡੀਓ</item>
+        <item>ਸਿਰਫ਼ ਕਰਨਲ</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>ਬੰਦ</item>
+        <item>ਨੀਲੇ ਵਿੱਚ ਗ਼ੈਰ-ਆਇਤਾਕਾਰ ਕਲਿਪ ਖੇਤਰ ਡ੍ਰਾ ਕਰੋ</item>
+        <item>ਜਾਂਚ ਕੀਤੀਆਂ ਡ੍ਰਾਇੰਗ ਕਮਾਂਡਾਂ ਹਰੇ ਵਿੱਚ ਉਜਾਗਰ ਕਰੋ</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 ਮਿੰਟ</item>
+        <item>15 ਮਿੰਟ</item>
+        <item>30 ਮਿੰਟ</item>
+        <item>1 ਘੰਟਾ</item>
+        <item>2 ਘੰਟੇ</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>ਗੇਮ</item>
+        <item>ਫ਼ਿਲਮ</item>
+        <item>ਸੰਗੀਤ</item>
+        <item>ਖਬਰਾਂ</item>
+        <item>ਸਟੇਡੀਅਮ</item>
+        <item>ਮਿਆਰੀ</item>
+        <item>ਵਰਤੋਂਕਾਰ</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>ਬੰਦ</item>
+        <item>ਚਾਲੂ</item>
+        <item>ਸਵੈਚਲਿਤ</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>ਬੰਦ</item>
+        <item>ਸਧਾਰਨ</item>
+        <item>ਰਾਤ</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>ਸਟੀਰਿਓ</item>
+        <item>ਸਰਾਊਂਡ</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>ਬੰਦ</item>
+        <item>ਰੌਕ</item>
+        <item>ਪੌਪ</item>
+        <item>ਲਾਈਵ</item>
+        <item>ਡਾਂਸ</item>
+        <item>ਟੈਕਨੋ</item>
+        <item>ਕਲਾਸਿਕ</item>
+        <item>ਸਾਫ਼ਟ</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>ਸਵੈਚਲਿਤ</item>
+        <item>ਬਾਈਪਾਸ</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>ਬੰਦ</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP ਨਿਕਾਸੀ</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>ਟੀਵੀ ਸਪੀਕਰ</item>
+        <item>ਬਾਹਰੀ ਆਡੀਓ ਸਿਸਟਮ</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>ਵਰਤੋਂਕਾਰ</item>
+        <item>ਮਿਆਰੀ</item>
+        <item>ਸਪਸ਼ਟ</item>
+        <item>ਖੇਡਾਂ</item>
+        <item>ਫ਼ਿਲਮ</item>
+        <item>ਸੰਗੀਤ</item>
+        <item>ਖਬਰਾਂ</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>ਮਿਆਰੀ</item>
+        <item>ਖੇਡਾਂ</item>
+        <item>ਫ਼ਿਲਮ</item>
+        <item>ਸੰਗੀਤ</item>
+        <item>ਵਰਤੋਂਕਾਰ</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>ਸਧਾਰਨ</item>
+        <item>ਘੱਟ ਸੁਣਨ ਵਾਲੇ</item>
+        <item>ਘੱਟ ਨਜ਼ਰ ਵਾਲੇ</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>ਬੰਦ</item>
+        <item>ਬਾਰਸ ਦੇ ਤੌਰ ਤੇ ਸਕ੍ਰੀਨ ਤੇ</item>
+        <item>adb shell dumpsys gfxinfo ਵਿੱਚ</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>ਐਨੀਮੇਸ਼ਨ ਬੰਦ</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ .5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 2x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>ਬਹੁਤ ਹੌਲੀ</item>
+        <item>ਹੌਲੀ</item>
+        <item>ਸਧਾਰਨ</item>
+        <item>ਤੇਜ਼</item>
+        <item>ਵੱਧ ਤੇਜ਼</item>
+        <item>ਬਹੁਤ ਤੇਜ਼</item>
+        <item>ਤੇਜ਼</item>
+        <item>ਬਹੁਤ ਤੇਜ਼</item>
+        <item>ਸਭ ਤੋਂ ਵੱਧ ਤੇਜ਼</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>ਚਾਰਜਿੰਗ</item>
+        <item>MTP (ਮੀਡੀਆ ਟ੍ਰਾਂਸਫਰ ਪ੍ਰੋਟੋਕੋਲ)</item>
+        <item>PTP (ਪਿਕਚਰ ਟ੍ਰਾਂਸਫਰ ਪ੍ਰੋਟੋਕੋਲ)</item>
+        <item>RNDIS (USB ਈਥਰਨੈਟ)</item>
+        <item> ਆਡੀਓ  ਸਰੋਤ</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>ਕਮਜ਼ੋਰ</item>
+        <item>ਠੀਕ-ਠਾਕ</item>
+        <item>ਵਧੀਆ</item>
+        <item>ਸ਼ਾਨਦਾਰ</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>ਸਕੈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</item>
+        <item>ਕਨੈਕਟ ਕਰ ਰਿਹਾ ਹੈ…</item>
+        <item>ਪ੍ਰਮਾਣਿਤ ਕਰ ਰਿਹਾ ਹੈ…</item>
+        <item>IP ਪਤਾ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹੈ...</item>
+        <item>ਕਨੈਕਟ ਕੀਤਾ</item>
+        <item>ਮੁਅੱਤਲ ਕੀਤਾ</item>
+        <item>ਡਿਸਕਨੈਕਟ ਕਰ ਰਿਹਾ ਹੈ...</item>
+        <item>ਡਿਸਕਨੈਕਟ ਕੀਤਾ</item>
+        <item>ਅਸਫਲ</item>
+        <item>ਬਲੌਕ ਕੀਤਾ</item>
+        <item>ਅਸਥਾਈ ਤੌਰ ਤੇ ਖ਼ਰਾਬ ਕਨੈਕਸ਼ਨ ਤੋਂ ਬਚਣ ਲਈ</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>ਸਕੈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</item>
+        <item>%1$s ਨਾਲ ਕਨੈਕਟ ਕਰ ਰਿਹਾ ਹੈ…</item>
+        <item>%1$s ਨਾਲ ਪ੍ਰਮਾਣਿਤ ਕਰ ਰਿਹਾ ਹੈ…</item>
+        <item>%1$s ਤੋਂ IP ਪਤਾ ਪ੍ਰਾਪਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…</item>
+        <item>%1$s ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ</item>
+        <item>ਮੁਅੱਤਲ ਕੀਤਾ</item>
+        <item>%1$s ਤੋਂ ਡਿਸਕਨੈਕਟ ਕਰ ਰਿਹਾ ਹੈ…</item>
+        <item>ਡਿਸਕਨੈਕਟ ਕੀਤਾ</item>
+        <item>ਅਸਫਲ</item>
+        <item>ਬਲੌਕ ਕੀਤਾ</item>
+        <item>ਅਸਥਾਈ ਤੌਰ ਤੇ ਖ਼ਰਾਬ ਕਨੈਕਸ਼ਨ ਤੋਂ ਬਚਣ ਲਈ</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>ਐਨੀਮੇਸ਼ਨ ਬੰਦ</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ .5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 2x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 5x</item>
+        <item>ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 10x</item>
+    </array>
+</resources>

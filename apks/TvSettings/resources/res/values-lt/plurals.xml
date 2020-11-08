@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">Prieš %d d.</item>
+        <item quantity="few">Prieš %d d.</item>
+        <item quantity="many">Prieš %d d.</item>
+        <item quantity="other">Prieš %d d.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">Prieš %d min.</item>
+        <item quantity="few">Prieš %d min.</item>
+        <item quantity="many">Prieš %d min.</item>
+        <item quantity="other">Prieš %d min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">Prieš %d m.</item>
+        <item quantity="few">Prieš %d m.</item>
+        <item quantity="many">Prieš %d m.</item>
+        <item quantity="other">Prieš %d m.</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d paskyra</item>
+        <item quantity="few">%1$d paskyros</item>
+        <item quantity="many">%1$d paskyros</item>
+        <item quantity="other">%1$d paskyrų</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Prijungtos įvestys</item>
+        <item quantity="few">Prijungtos įvestys</item>
+        <item quantity="many">Prijungtos įvestys</item>
+        <item quantity="other">Prijungtos įvestys</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Neprijungtos įvestys</item>
+        <item quantity="few">Neprijungtos įvestys</item>
+        <item quantity="many">Neprijungtos įvestys</item>
+        <item quantity="other">Neprijungtos įvestys</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Budėjimo režimo įvestys</item>
+        <item quantity="few">Budėjimo režimo įvestys</item>
+        <item quantity="many">Budėjimo režimo įvestys</item>
+        <item quantity="other">Budėjimo režimo įvestys</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d priedas</item>
+        <item quantity="few">%1$d priedai</item>
+        <item quantity="many">%1$d priedo</item>
+        <item quantity="other">%1$d priedų</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">Leidžiama %d programa</item>
+        <item quantity="few">Leidžiamos %d programos</item>
+        <item quantity="many">Leidžiama %d programos</item>
+        <item quantity="other">Leidžiama %d programų</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Kad taptumėte kūrėju, dabar tereikia atlikti %1$d veiksmą</item>
+        <item quantity="few">Kad taptumėte kūrėju, dabar tereikia atlikti %1$d veiksmus</item>
+        <item quantity="many">Kad taptumėte kūrėju, dabar tereikia atlikti %1$d veiksmo</item>
+        <item quantity="other">Kad taptumėte kūrėju, dabar tereikia atlikti %1$d veiksmų</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Prijungtas %1$d įrenginys</item>
+        <item quantity="few">Prijungti %1$d įrenginiai</item>
+        <item quantity="many">Prijungta %1$d įrenginio</item>
+        <item quantity="other">Prijungta %1$d įrenginių</item>
+    </plurals>
+</resources>

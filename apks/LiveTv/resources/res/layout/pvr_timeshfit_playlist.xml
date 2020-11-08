@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <RelativeLayout android:orientation="vertical" android:background="@drawable/info_banner_background" android:layout_width="350dp" android:layout_height="match_parent">
+        <TextView android:textColor="@color/white" android:gravity="center_horizontal" android:id="@+id/playlist_title" android:background="@color/nav_ch_list_title_back" android:padding="17dp" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/pvr_playlist_record_list" style="@style/pvr_tshift_textsize_23"/>
+        <LinearLayout android:textColor="@color/white" android:orientation="vertical" android:id="@+id/playlist_hint" android:padding="2dp" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="4dp" android:layout_marginRight="4dp" android:layout_alignParentBottom="true" style="@style/pvr_tshift_textsize_20">
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="start" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+                    <ImageView android:padding="6dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/tk_cm_color_key_red"/>
+                    <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:id="@+id/playlist_page_up" android:padding="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_playlist_page_up"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="start" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="4dp">
+                    <ImageView android:gravity="right" android:padding="6dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/tk_cm_color_key_yellow"/>
+                    <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:id="@+id/playlist_delet" android:padding="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pager_mid"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="start" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="start" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+                    <ImageView android:padding="6dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/tk_cm_color_key_green"/>
+                    <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:id="@+id/playlist_page_down" android:padding="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_playlist_page_down"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="start" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="4dp">
+                    <ImageView android:gravity="right" android:padding="6dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/tk_cm_color_key_blue"/>
+                    <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:id="@+id/playlist_info" android:padding="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pvr_playlist_info"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <ListView android:textColor="@color/white" android:gravity="center_horizontal" android:id="@+id/playlist_list" android:scrollbars="none" android:nextFocusUp="@+id/playlist_list" android:nextFocusDown="@+id/playlist_list" android:layout_width="wrap_content" android:layout_height="match_parent" android:dividerHeight="0dp" android:layout_above="@+id/playlist_hint" android:layout_below="@+id/playlist_title" android:layout_alignParentLeft="true" style="@style/pvr_tshift_textsize_20"/>
+    </RelativeLayout>
+    <RelativeLayout android:orientation="vertical" android:id="@+id/pvr_file_info" android:background="@drawable/info_banner_background" android:focusable="false" android:focusableInTouchMode="false" android:visibility="invisible" android:layout_width="330dp" android:layout_height="match_parent">
+        <TextView android:textColor="@color/white" android:gravity="center_horizontal" android:id="@+id/playlist_filename" android:background="@color/nav_ch_list_title_back" android:padding="17dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/pvr_playlist_record_detail" style="@style/pvr_tshift_textsize_23"/>
+        <TableLayout android:textColor="@color/white" android:id="@+id/playlist_filemeta" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginTop="100dp" android:layout_below="@+id/playlist_filename" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" style="@style/pvr_tshift_textsize_20">
+            <TableRow>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:layout_column="1" android:text="@string/pvr_playlist_channel_num"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="left" android:id="@+id/pvr_channel_num" android:layout_marginLeft="36sp" android:layout_column="1"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:layout_column="1" android:text="@string/pvr_playlist_channel_name"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="left" android:id="@+id/pvr_channel_str" android:layout_marginLeft="36sp" android:layout_column="1"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:layout_column="1" android:text="@string/pvr_playlist_program_name"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:ellipsize="end" android:gravity="left" android:id="@+id/pvr_programename" android:layout_marginLeft="36sp" android:layout_column="1" android:maxEms="9" android:singleLine="true"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:layout_column="1" android:text="@string/pvr_playlist_date"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="left" android:id="@+id/pvr_channel_date" android:layout_marginLeft="36sp" android:layout_column="1"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:layout_column="1" android:text="@string/pvr_playlist_week"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="left" android:id="@+id/pvr_week" android:layout_marginLeft="36sp" android:layout_column="1"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:layout_column="1" android:text="@string/pvr_playlist_time"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="left" android:id="@+id/pvr_time" android:layout_marginLeft="36sp" android:layout_column="1"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:layout_column="1" android:text="@string/pvr_playlist_duration"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="left" android:id="@+id/pvr_duration" android:layout_marginLeft="36sp" android:layout_column="1"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:layout_column="1" android:text="@string/pvr_playlist_programe_info"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="left" android:id="@+id/pvr_programe_info" android:layout_marginLeft="36sp" android:layout_column="1"/>
+            </TableRow>
+        </TableLayout>
+    </RelativeLayout>
+</LinearLayout>

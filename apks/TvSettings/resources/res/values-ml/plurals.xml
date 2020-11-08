@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d ദിവസം മുൻപ്</item>
+        <item quantity="other">%d ദിവസം മുൻപ്</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d മിനിറ്റ് മുൻപ്</item>
+        <item quantity="other">%d മിനിറ്റ് മുൻപ്</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d വർഷം മുൻപ്</item>
+        <item quantity="other">%d വർഷം മുൻപ്</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d അക്കൗണ്ട്</item>
+        <item quantity="other">%1$d അക്കൗണ്ടുകൾ</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">കണക്‌റ്റുചെയ്‌ത ഇൻപുട്ട്</item>
+        <item quantity="other">കണക്‌റ്റുചെയ്‌ത ഇൻപുട്ടുകൾ</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">കണക്‌റ്റുചെയ്‌തിട്ടില്ലാത്ത ഇൻപുട്ട്</item>
+        <item quantity="other">കണക്‌റ്റുചെയ്‌തിട്ടില്ലാത്ത ഇൻപുട്ടുകൾ</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">സ്‌റ്റാൻഡ്‌ബൈ ഇൻപുട്ട്</item>
+        <item quantity="other">സ്‌റ്റാൻഡ്‌ബൈ ഇൻപുട്ടുകൾ</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d ആക്സസറി</item>
+        <item quantity="other">%1$d ആക്സസറികൾ</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">ഒരു അപ്ലിക്കേഷൻ അനുവദിച്ചു</item>
+        <item quantity="other">%d അപ്ലിക്കേഷനുകൾ അനുവദിച്ചു</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">നിങ്ങൾ ഇപ്പോൾ ഒരു ഡവലപ്പറാകുന്നതിൽ നിന്നും %1$d ചുവട് മാത്രം അകലെയാണ്</item>
+        <item quantity="other">നിങ്ങൾ ഇപ്പോൾ ഒരു ഡവലപ്പറാകുന്നതിൽ നിന്നും %1$d ചുവട് മാത്രം അകലെയാണ്</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d ഉപകരണം കണക്‌റ്റ് ചെയ്‌തു</item>
+        <item quantity="other">%1$d ഉപകരണങ്ങൾ കണക്‌റ്റ് ചെയ്‌തു</item>
+    </plurals>
+</resources>

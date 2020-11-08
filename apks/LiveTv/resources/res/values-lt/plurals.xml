@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">5 kartus įvedėte netinkamą PIN kodą.\10Bandykite dar kartą po %1$d sekundės.</item>
+        <item quantity="few">5 kartus įvedėte netinkamą PIN kodą.\10Bandykite dar kartą po %1$d sekundžių.</item>
+        <item quantity="many">5 kartus įvedėte netinkamą PIN kodą.\10Bandykite dar kartą po %1$d sekundės.</item>
+        <item quantity="other">5 kartus įvedėte netinkamą PIN kodą.\10Bandykite dar kartą po %1$d sekundžių.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d kanalas</item>
+        <item quantity="few">%1$d kanalai</item>
+        <item quantity="many">%1$d kanalo</item>
+        <item quantity="other">%1$d kanalų</item>
+    </plurals>
+</resources>

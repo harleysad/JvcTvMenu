@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.tv.settings.connectivity.setup.MessagePageFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:paddingLeft="@dimen/setup_message_content_margin" android:paddingRight="@dimen/setup_message_content_margin" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="bottom" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@+id/message_content" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textAppearance="@style/Setup.ProgressTitle" android:gravity="center" android:layout_gravity="center" android:id="@+id/status_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingMultiplier="@dimen/activity_progress_title_line_spacing"/>
+        <ProgressBar android:layout_gravity="center" android:id="@+id/progress" android:layout_width="@dimen/setup_progress_spinner_size" android:layout_height="@dimen/setup_progress_spinner_size" android:layout_marginTop="@dimen/setup_progress_spinner_margin_top" android:indeterminate="true" android:indeterminateTint="@color/setup_list_item_background_focused" android:indeterminateTintMode="src_in" style="@style/Widget.Material.Light.ProgressBar.Large"/>
+    </LinearLayout>
+</com.android.tv.settings.connectivity.setup.MessagePageFrameLayout>

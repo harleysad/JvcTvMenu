@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@drawable/translucent_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:background="#f237474f" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="3">
+        <TextView android:textSize="@dimen/epg_channel_number_ts" android:textColor="@drawable/epg_channel_font" android:gravity="center_vertical" android:id="@+id/epg_channel_number" android:paddingTop="@dimen/epg_list_item_padding_top" android:paddingBottom="@dimen/epg_list_item_padding_top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="sans-serif-light"/>
+        <TextView android:textSize="@dimen/epg_bottom_ts" android:textColor="@drawable/epg_channel_font" android:ellipsize="marquee" android:gravity="center" android:id="@+id/epg_channel_name" android:paddingTop="@dimen/epg_list_item_padding_top" android:paddingBottom="@dimen/epg_list_item_padding_top" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:marqueeRepeatLimit="1" android:fontFamily="sans-serif-condensed"/>
+    </LinearLayout>
+    <com.mediatek.wwtv.tvcenter.epg.sa.EPGLinearLayout android:gravity="center_vertical" android:id="@+id/epg_program_forecast_linearlayout" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d วันที่แล้ว</item>
+        <item quantity="other">%d วันที่แล้ว</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d นาทีที่แล้ว</item>
+        <item quantity="other">%d นาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d ปีที่แล้ว</item>
+        <item quantity="other">%d ปีที่แล้ว</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d บัญชี</item>
+        <item quantity="other">%1$d บัญชี</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">อินพุตที่เชื่อมต่อ</item>
+        <item quantity="other">อินพุตที่เชื่อมต่อ</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">อินพุตที่ไม่ได้เชื่อมต่อ</item>
+        <item quantity="other">อินพุตที่ไม่ได้เชื่อมต่อ</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">อินพุตสแตนด์บาย</item>
+        <item quantity="other">อินพุตสแตนด์บาย</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">อุปกรณ์เสริม %1$d ชิ้น</item>
+        <item quantity="other">อุปกรณ์เสริม %1$d ชิ้น</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">อนุญาต 1 แอป</item>
+        <item quantity="other">อนุญาต %d แอป</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">อีก %1$d ขั้นตอน คุณก็จะได้เป็นนักพัฒนาซอฟต์แวร์แล้ว</item>
+        <item quantity="other">อีก %1$d ขั้นตอน คุณก็จะได้เป็นนักพัฒนาซอฟต์แวร์แล้ว</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
+        <item quantity="other">มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
+    </plurals>
+</resources>

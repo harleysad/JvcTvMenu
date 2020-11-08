@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d konto</item>
+        <item quantity="other">%1$d kontot</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Ühendatud sisend</item>
+        <item quantity="other">Ühendatud sisendid</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Ühendamata sisend</item>
+        <item quantity="other">Ühendamata sisendid</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Ooterežiimis sisend</item>
+        <item quantity="other">Ooterežiimis sisendid</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d lisaseade</item>
+        <item quantity="other">%1$d lisaseadet</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 rakendus on lubatud</item>
+        <item quantity="other">%d rakendust on lubatud</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">%1$d toiming veel ja olete arendaja</item>
+        <item quantity="other">%1$d toimingut veel ja olete arendaja</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d seade on ühendatud</item>
+        <item quantity="other">%1$d seadet on ühendatud</item>
+    </plurals>
+</resources>

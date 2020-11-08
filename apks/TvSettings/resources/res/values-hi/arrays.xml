@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>बंद करें</item>
+        <item>बाएं</item>
+        <item>दाएं</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>डेमो वीडियो</item>
+        <item>ई-पॉप बाएं</item>
+        <item>ई-पॉप बॉटम</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>एनिमेशन बंद</item>
+        <item>एनिमेशन पैमाना .5x</item>
+        <item>एनिमेशन पैमाना 1x</item>
+        <item>एनिमेशन पैमाना 1.5x</item>
+        <item>एनिमेशन पैमाना 2x</item>
+        <item>एनिमेशन पैमाना 5x</item>
+        <item>एनिमेशन पैमाना 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>एनिमेशन बंद</item>
+        <item>एनिमेशन स्‍केल .5x</item>
+        <item>एनिमेशन स्‍केल 1x</item>
+        <item>एनिमेशन स्‍केल 1.5x</item>
+        <item>एनिमेशन स्‍केल 2x</item>
+        <item>एनिमेशन स्‍केल 5x</item>
+        <item>एनिमेशन स्‍केल 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>मानक सीमा</item>
+        <item>कोई पृष्ठभूमि प्रक्रियाएं नहीं</item>
+        <item>अधिकतम 1 प्रक्रिया</item>
+        <item>अधिकतम 2 प्रक्रियाएं</item>
+        <item>अधिकतम 3 प्रक्रियाएं</item>
+        <item>अधिकतम 4 प्रक्रियाएं</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>नेटवर्क से मिलने वाले समय का उपयोग करें</item>
+        <item>बंद करें</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>नेटवर्क से मिलने वाले समय का उपयोग करें</item>
+        <item>परिवहन स्‍ट्रीम-प्रदत्त समय का उपयोग करें</item>
+        <item>बंद करें</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>सिस्टम चयन का उपयोग करें (डिफ़ॉल्ट)</item>
+        <item>16 बिट/नमूना</item>
+        <item>24 बिट/नमूना</item>
+        <item>32 बिट/नमूना</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>सिस्टम चयन का उपयोग करें (डिफ़ॉल्ट)</item>
+        <item>16 बिट/नमूना</item>
+        <item>24 बिट/नमूना</item>
+        <item>32 बिट/नमूना</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>सिस्टम चयन का उपयोग करें (डिफ़ॉल्ट)</item>
+        <item>मोनो</item>
+        <item>स्टीरियो</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>सिस्टम चयन का उपयोग करें (डिफ़ॉल्ट)</item>
+        <item>मोनो</item>
+        <item>स्टीरियो</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>ऑडियो की गुणवत्ता के लिए अनुकूलित किया गया</item>
+        <item>संतुलित ऑडियो और कनेक्शन गुणवत्ता</item>
+        <item>कनेक्शन की गुणवत्ता के लिए अनुकूलित किया गया</item>
+        <item>सबसे अच्छी क्वालिटी में चलाएं (अनुकूल बिट रेट)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ऑडियो की गुणवत्ता के लिए अनुकूलित किया गया (990kbps/909kbps)</item>
+        <item>संतुलित ऑडियो और कनेक्शन गुणवत्ता (660kbps/606kbps)</item>
+        <item>कनेक्शन की गुणवत्ता के लिए अनुकूलित किया गया (330kbps/303kbps)</item>
+        <item>सबसे अच्छी क्वालिटी में चलाएं (अनुकूल बिट रेट)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>सिस्टम चयन का उपयोग करें (डिफ़ॉल्ट)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>सिस्टम चयन का उपयोग करें (डिफ़ॉल्ट)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>सिस्टम चयन का उपयोग करें (डिफ़ॉल्ट)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ऑडियो</item>
+        <item>Qualcomm® aptX™ HD ऑडियो</item>
+        <item>LDAC</item>
+        <item>वैकल्पिक कोडेक चालू करें</item>
+        <item>वैकल्पिक कोडेक अक्षम करें</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>सिस्टम चयन का उपयोग करें (डिफ़ॉल्ट)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ऑडियो</item>
+        <item>Qualcomm® aptX™ HD ऑडियो</item>
+        <item>LDAC</item>
+        <item>वैकल्पिक कोडेक चालू करें</item>
+        <item>वैकल्पिक कोडेक अक्षम करें</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (डिफ़ॉल्ट)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>डिफ़ॉल्ट</item>
+        <item>कुछ नहीं</item>
+        <item>आउटलाइन</item>
+        <item>ड्रॉप शैडो</item>
+        <item>उठा हुआ</item>
+        <item>डिप्रेस्ड</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>डिफ़ॉल्ट</item>
+        <item>काला</item>
+        <item>सफ़ेद</item>
+        <item>हरा</item>
+        <item>नीला</item>
+        <item>लाल</item>
+        <item>स्यान</item>
+        <item>पीला</item>
+        <item>मैजेंटा</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>डिफ़ॉल्ट</item>
+        <item>Sans Serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>कैजुअल</item>
+        <item>कर्सिव</item>
+        <item>स्मॉल कैपिटल</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>डिफ़ॉल्ट</item>
+        <item>सॉलिड</item>
+        <item>साफ़ विंडो</item>
+        <item>पारदर्शी</item>
+        <item>फ़्लैशिंग</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>डिफ़ॉल्ट</item>
+        <item>छोटा</item>
+        <item>सामान्य</item>
+        <item>बड़ा</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>कोई नहीं</item>
+        <item>आउटलाइन</item>
+        <item>ड्रॉप शैडो</item>
+        <item>विस्तृत</item>
+        <item>संक्षिप्त</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>बहुत छोटा</item>
+        <item>छोटा</item>
+        <item>सामान्य</item>
+        <item>बड़ा</item>
+        <item>बहुत बड़ा</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>डिफ़ॉल्ट</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Small capitals</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>कोई सीईसी डिवाइस नहीं</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>बेहतर रंग</item>
+        <item>आंखों को दिखाई देने वाले प्राकृतिक रंग</item>
+        <item>डिजिटल सामग्री के लिए ऑप्टिमाइज़़ किए गए रंग</item>
+    </array>
+    <array name="color_mode_names">
+        <item>चमकीला (डिफ़ॉल्ट)</item>
+        <item>स्वाभाविक</item>
+        <item>मानक</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>बंद</item>
+        <item>ओवरड्रॉ क्षेत्रों को दिखाएं</item>
+        <item>हरा रंग पहचानने में कमी के क्षेत्र दिखाएं</item>
+    </array>
+    <array name="display_caption_array">
+        <item>बंद करें</item>
+        <item>चालू करें</item>
+        <item>सबटाइटल म्यूट किए हुए</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>कोई नहीं</item>
+        <item>Logcat</item>
+        <item>Systrace (ग्राफ़िक)</item>
+        <item>glGetError पर कॉल स्टैक</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>कभी भी HDCP जाँच का उपयोग न करें</item>
+        <item>HDCP जाँच का उपयोग केवल DRM सामग्री के लिए करें</item>
+        <item>हमेशा HDCP जाँच का उपयोग करें</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>कभी नही जाँचें</item>
+        <item>केवल DRM सामग्री जाँचें</item>
+        <item>हमेशा जाँचें</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>ऑटो EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>कोई नहीं</item>
+        <item>480p</item>
+        <item>480p (सुरक्षित)</item>
+        <item>720p</item>
+        <item>720p (सुरक्षित)</item>
+        <item>1080p</item>
+        <item>1080p (सुरक्षित)</item>
+        <item>4K</item>
+        <item>4K (सुरक्षित)</item>
+        <item>4K (बेहतर)</item>
+        <item>4K (बेहतर, सुरक्षित)</item>
+        <item>720p, 1080p (ड्यूअल स्‍क्रीन)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>मैन्युअल</item>
+        <item>सेमी-ऑटो</item>
+        <item>ऑटो</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>बंद करें</item>
+        <item>ऑटो</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>बंद करें</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>सभी</item>
+        <item>दाएं</item>
+        <item>बाएं</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>बंद करें</item>
+        <item>कम</item>
+        <item>मीडियम</item>
+        <item>स्ट्रॉन्ग</item>
+        <item>ऑटो</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>बंद करें</item>
+        <item>कम</item>
+        <item>मीडियम</item>
+        <item>स्ट्रॉन्ग</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>ऑटो</item>
+        <item>पूरी स्क्रीन वाला मोड</item>
+        <item>सीमा</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>बंद करें</item>
+        <item>कम</item>
+        <item>मीडियम</item>
+        <item>ज़्यादा</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>बंद करें</item>
+        <item>कम से कम</item>
+        <item>मीडियम</item>
+        <item>ज़्यादा से ज़्यादा:</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>उपयोगकर्ता</item>
+        <item>ठंडा</item>
+        <item>सामान्य</item>
+        <item>वॉर्म</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>गहरे रंग की थीम</item>
+        <item>मध्यम</item>
+        <item>चमकदार</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>चालू करें</item>
+        <item>बंद करें</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>डॉल्बी विज़न ब्राइट</item>
+        <item>डॉल्बी विज़न डार्क</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>उपयोगकर्ता</item>
+        <item>सिनेमा</item>
+        <item>खेल</item>
+        <item>बिल्कुल साफ़</item>
+        <item>ज़्यादा चमकदार</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>सामान्य</item>
+        <item>बिना किसी बदलाव के</item>
+        <item>बिल्कुल साफ़</item>
+        <item>खेल</item>
+        <item>मूवी</item>
+        <item>गेम</item>
+        <item>ऊर्जा की बचत</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>उपयोगकर्ता</item>
+        <item>सामान्य</item>
+        <item>बिल्कुल साफ़</item>
+        <item>खेल</item>
+        <item>मूवी</item>
+        <item>गेम</item>
+        <item>ऊर्जा की बचत</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>बंद करें</item>
+        <item>%d मिनट</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>लिविंग रूम टीवी</item>
+        <item>फ़ैमिली रूम टीवी</item>
+        <item>बेडरूम टीवी</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>अपने आप</item>
+        <item>सुपर ज़ूम</item>
+        <item>4:3</item>
+        <item>स्क्रीन का अनुपात 14:9</item>
+        <item>स्क्रीन का अनुपात 14:9</item>
+        <item>बड़ी स्क्रीन</item>
+        <item>पूरी स्क्रीन वाला मोड</item>
+        <item>स्केल नहीं किया गया</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>सुपर ज़ूम</item>
+        <item>पूरी स्क्रीन वाला मोड</item>
+        <item>स्केल नहीं किया गया</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>अपने आप</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>पूरी स्क्रीन वाला मोड</item>
+        <item>ज़ूम करें</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 मिनट</item>
+        <item>1 घंटा</item>
+        <item>3 घंटे</item>
+        <item>6 घंटे</item>
+        <item>12 घंटे</item>
+        <item>कभी नहीं</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>बंद</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>बंद</item>
+        <item>64K प्रति लॉग बफ़र</item>
+        <item>256K प्रति लॉग बफ़र</item>
+        <item>1M प्रति लॉग बफ़र</item>
+        <item>4M प्रति लॉग बफ़र</item>
+        <item>16M प्रति लॉग बफ़र</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>बंद</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>बंद</item>
+        <item>सभी लॉग बफ़र</item>
+        <item>रेडियो लॉग बफ़र को छोड़कर सभी</item>
+        <item>केवल कर्नल लॉग बफ़र</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>बंद</item>
+        <item>सभी</item>
+        <item>रेडियो छोड़कर सभी</item>
+        <item>केवल कर्नल</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>बंद</item>
+        <item>गैर-आयताकार क्लिप क्षेत्र नीले रंग से बनाएं</item>
+        <item>परीक्षित ड्रॉइंग आदेशों को हरे रंग से हाइलाइट करें</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 मिनट</item>
+        <item>15 मिनट</item>
+        <item>30 मिनट</item>
+        <item>1 घंटा</item>
+        <item>2 घंटे</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>गेम</item>
+        <item>मूवी</item>
+        <item>संगीत</item>
+        <item>समाचार</item>
+        <item>स्टेडियम</item>
+        <item>सामान्य</item>
+        <item>उपयोगकर्ता</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>बंद करें</item>
+        <item>चालू करें</item>
+        <item>ऑटो</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>बंद करें</item>
+        <item>सामान्य</item>
+        <item>रात वाला मोड</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>स्टीरियो</item>
+        <item>सराउंड</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>बंद करें</item>
+        <item>रॉक</item>
+        <item>पॉप</item>
+        <item>लाइव</item>
+        <item>डांस</item>
+        <item>टेक्नो</item>
+        <item>क्लासिक</item>
+        <item>सॉफ़्ट</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>ऑटो</item>
+        <item>बायपास</item>
+        <item>पीसीएम</item>
+        <item>Dolby Digital Plus</item>
+        <item>डॉल्बी डिजिटल</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>बंद करें</item>
+        <item>डॉल्बी डिजिटल</item>
+        <item>पीसीएम</item>
+        <item>डीडीपी पासथ्रू</item>
+        <item>डीडीपी</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>टीवी स्पीकर</item>
+        <item>बाहरी ऑडियो सिस्टम</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>उपयोगकर्ता</item>
+        <item>सामान्य</item>
+        <item>बिल्कुल साफ़</item>
+        <item>खेल</item>
+        <item>मूवी</item>
+        <item>संगीत</item>
+        <item>समाचार</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>सामान्य</item>
+        <item>खेल</item>
+        <item>मूवी</item>
+        <item>संगीत</item>
+        <item>उपयोगकर्ता</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>सामान्य</item>
+        <item>सुनने में परेशानी वाला व्यक्ति</item>
+        <item>दृृष्टि बाधित</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>बंद</item>
+        <item>बार के रूप में स्‍क्रीन पर</item>
+        <item>adb shell dumpsys gfxinfo में</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>एनिमेशन बंद</item>
+        <item>एनिमेशन स्‍केल .5x</item>
+        <item>एनिमेशन स्‍केल 1x</item>
+        <item>एनिमेशन स्‍केल 1.5x</item>
+        <item>एनिमेशन स्‍केल 2x</item>
+        <item>एनिमेशन स्‍केल 5x</item>
+        <item>एनिमेशन स्‍केल 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>अत्‍यधिक धीमा</item>
+        <item>धीमा</item>
+        <item>सामान्य</item>
+        <item>तेज़</item>
+        <item>अधिक तेज़</item>
+        <item>अत्‍यधिक तेज़</item>
+        <item>त्वरित</item>
+        <item>अत्यधिक तीव्र</item>
+        <item>सबसे तेज़</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>चार्ज हो रहा है</item>
+        <item>MTP (मीडिया ट्रांसफर प्रोटोकॉल)</item>
+        <item>PTP (पिक्चर ट्रांसफर प्रोटोकॉल)</item>
+        <item>RNDIS (USB ईथरनेट)</item>
+        <item>ऑडियो स्रोत</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>कोई नहीं</item>
+        <item>एमएससीएचएपीवी2</item>
+        <item>जीटीसी</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>कोई नहीं</item>
+        <item>पीएपी</item>
+        <item>एमएससीएचएपी</item>
+        <item>एमएससीएचएपीवी2</item>
+        <item>जीटीसी</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>खराब</item>
+        <item>उपयुक्त</item>
+        <item>अच्छी</item>
+        <item>उत्कृष्ट</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>स्‍कैन कर रहा है…</item>
+        <item>कनेक्ट हो रहा है...</item>
+        <item>प्रमाणीकरण कर रहा है…</item>
+        <item>आईपी पता ले रहा है…</item>
+        <item>कनेक्ट किया गया</item>
+        <item>निलंबित</item>
+        <item>डिस्‍कनेक्‍ट हो रहा है...</item>
+        <item>डिस्कनेक्‍ट किया गया</item>
+        <item>असफल</item>
+        <item>अवरोधित</item>
+        <item>खराब कनेक्शन को अस्थायी रूप से अनदेखा कर रहा है</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>स्‍कैन कर रहा है…</item>
+        <item>%1$s से कनेक्‍ट कर रहा है…</item>
+        <item>%1$s के साथ प्रमाणीकरण कर रहा है…</item>
+        <item>%1$s से आईपी पता ले रहा है...</item>
+        <item>%1$s से कनेक्‍ट किया गया</item>
+        <item>निलंबित</item>
+        <item>%1$s से डिस्‍कनेक्‍ट कर रहा है…</item>
+        <item>डिस्कनेक्‍ट किया गया</item>
+        <item>असफल</item>
+        <item>अवरोधित</item>
+        <item>खराब कनेक्शन को अस्थायी रूप से अनदेखा कर रहा है</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>एनिमेशन बंद</item>
+        <item>एनिमेशन स्‍केल .5x</item>
+        <item>एनिमेशन स्‍केल 1x</item>
+        <item>एनिमेशन स्‍केल 1.5x</item>
+        <item>एनिमेशन स्‍केल 2x</item>
+        <item>एनिमेशन स्‍केल 5x</item>
+        <item>एनिमेशन स्‍केल 10x</item>
+    </array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">PIN kodea oker idatzi duzu 5 aldiz.\10Saiatu berriro %1$d segundo barru.</item>
+        <item quantity="other">PIN kodea oker idatzi duzu 5 aldiz.\10Saiatu berriro %1$d segundo barru.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d kanal</item>
+        <item quantity="other">%1$d kanal</item>
+    </plurals>
+</resources>

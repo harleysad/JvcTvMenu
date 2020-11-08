@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ampm">
+        <item>පෙ.ව.</item>
+        <item>ප.ව.</item>
+    </array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.mediatek.wwtv.tvcenter.commonview.TvSurfaceView android:id="@+id/nav_tv_base_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.mediatek.wwtv.tvcenter.commonview.TvSurfaceView android:id="@+id/nav_pip_base_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.mediatek.wwtv.tvcenter.commonview.TvBlockView android:id="@+id/block_screen_for_tune" android:background="@android:color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <RelativeLayout android:id="@+id/linear_glview" android:background="@drawable/transparent_background" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.mediatek.wwtv.tvcenter.nav.view.FocusLabel android:id="@+id/nav_pip_focus_picture" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.mediatek.wwtv.tvcenter.nav.view.ZoomTipView android:id="@+id/nav_zoomview" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <LinearLayout android:gravity="bottom" android:id="@+id/nav_misc_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="@dimen/nav_aspect_mar">
+            <com.mediatek.wwtv.tvcenter.nav.view.MiscView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="center" android:id="@+id/nav_misc_textview" android:background="@drawable/nav_sundry_bg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/nav_sundry_textview_margnleft" android:layout_alignParentBottom="true"/>
+        </LinearLayout>
+        <com.mediatek.wwtv.tvcenter.tiftimeshift.TifTimeshiftView android:id="@+id/nav_tiftimeshift" android:visibility="gone" android:layout_width="550dp" android:layout_height="80dp" android:layout_marginLeft="100dp" android:layout_marginRight="100dp" android:layout_marginBottom="5dp" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.mediatek.wwtv.tvcenter.nav.view.TwinkleView android:id="@+id/nav_stv_special_model" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/turnkey_main" android:layout_width="match_parent" android:layout_height="match_parent">
+                <RelativeLayout android:id="@+id/nav_banner_info_bar_all" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2">
+                    <LinearLayout android:gravity="bottom" android:id="@+id/nav_sundry_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="@dimen/nav_aspect_mar">
+                        <com.mediatek.wwtv.tvcenter.nav.view.SundryShowTextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="center" android:id="@+id/nav_tv_shortTip_textview" android:background="@drawable/nav_sundry_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/nav_sundry_textview_margnleft" android:layout_alignParentBottom="true"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <ProgressBar android:id="@+id/fbm_mode_progressbar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="@style/custom_progressBar"/>
+    </RelativeLayout>
+    <include layout="@layout/option_container"/>
+    <android.opengl.GLSurfaceView android:id="@+id/nav_vss_view" android:visibility="gone" android:layout_width="600dp" android:layout_height="400dp" android:layout_margin="30dp"/>
+    <include layout="@layout/menu"/>
+</FrameLayout>

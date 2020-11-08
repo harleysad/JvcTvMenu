@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center_vertical" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/common_itemname" android:paddingLeft="20dp" android:layout_weight="4" style="@style/schedule_list_tv"/>
+    <com.mediatek.wwtv.setting.view.DateTimeView android:gravity="center" android:id="@+id/common_datetimeview" android:focusableInTouchMode="true" android:layout_weight="1" style="@style/schedule_list_tv"/>
+</LinearLayout>

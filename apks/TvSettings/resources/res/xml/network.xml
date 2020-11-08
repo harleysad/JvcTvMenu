@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/connectivity_network_category_title">
+    <SwitchPreference android:persistent="true" android:title="@string/wifi_setting_enable_wifi" android:key="wifi_enable"/>
+    <com.android.tv.settings.connectivity.CollapsibleCategory android:title="@string/wifi_setting_available_networks" android:key="wifi_list"/>
+    <Preference android:title="@string/wifi_setting_see_all" android:key="wifi_collapse"/>
+    <PreferenceCategory android:title="@string/wifi_setting_header_other_options" android:key="wifi_other">
+        <Preference android:title="@string/wifi_setting_other_options_add_network" android:key="wifi_add">
+            <intent android:targetPackage="com.android.tv.settings" android:targetClass="com.android.tv.settings.connectivity.AddWifiNetworkActivity"/>
+        </Preference>
+        <SwitchPreference android:persistent="true" android:title="@string/wifi_setting_always_scan" android:key="wifi_always_scan" android:summary="@string/wifi_setting_always_scan_context"/>
+        <SwitchPreference android:persistent="false" android:title="@string/wifi_setting_wow" android:key="network_wow" android:summary="@string/wifi_setting_wow_context"/>
+        <SwitchPreference android:persistent="false" android:title="@string/wifi_setting_wol" android:key="network_wol" android:summary="@string/wifi_setting_wol_context"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/connectivity_ethernet" android:key="ethernet">
+        <Preference android:title="@string/not_connected" android:key="ethernet_status"/>
+        <Preference android:title="@string/title_wifi_proxy_settings" android:key="ethernet_proxy"/>
+        <Preference android:title="@string/title_wifi_ip_settings" android:key="ethernet_dhcp"/>
+    </PreferenceCategory>
+</PreferenceScreen>

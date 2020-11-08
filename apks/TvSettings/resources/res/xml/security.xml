@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/system_security">
+    <Preference android:title="@string/security_unknown_sources_title" android:key="unknown_sources" android:summary="@string/security_unknown_sources_desc" android:fragment="com.android.tv.settings.device.apps.specialaccess.ExternalSources"/>
+    <SwitchPreference android:title="@string/security_verify_apps_title" android:key="verify_apps" android:summary="@string/security_verify_apps_desc"/>
+    <PreferenceCategory android:title="@string/user_new_profile_name" android:key="restricted_profile_group">
+        <Preference android:title="@string/restricted_profile_switch_to" android:key="restricted_profile_enter"/>
+        <Preference android:title="@string/restricted_profile_switch_out" android:key="restricted_profile_exit"/>
+        <Preference android:title="@string/restricted_profile_configure_apps_title" android:key="restricted_profile_apps" android:fragment="com.android.tv.settings.users.AppRestrictionsFragment"/>
+        <Preference android:title="@string/restricted_profile_change_password_title" android:key="restricted_profile_pin"/>
+        <Preference android:title="@string/restricted_profile_create_title" android:key="restricted_profile_create"/>
+        <Preference android:title="@string/restricted_profile_delete_title" android:key="restricted_profile_delete"/>
+    </PreferenceCategory>
+</PreferenceScreen>

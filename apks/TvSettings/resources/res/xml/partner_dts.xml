@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/sound_dts">
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_virtual_x" android:key="sound_dts_virtual_x"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_tbhdx" android:key="sound_dts_tbhdx"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_limiter" android:key="sound_dts_limiter"/>
+</PreferenceScreen>

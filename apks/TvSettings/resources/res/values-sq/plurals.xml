@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d ditë më parë</item>
+        <item quantity="other">%d ditë më parë</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d minutë më parë</item>
+        <item quantity="other">%d minuta më parë</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d vit më parë</item>
+        <item quantity="other">%d vite më parë</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d llogari</item>
+        <item quantity="other">%1$d llogari</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Hyrje e lidhur</item>
+        <item quantity="other">Hyrje të lidhura</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Hyrje e palidhur</item>
+        <item quantity="other">Hyrje të palidhura</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Hyrje në gatishmëri</item>
+        <item quantity="other">Hyrje në gatishmëri</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d aksesor</item>
+        <item quantity="other">%1$d aksesorë</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 aplikacion i lejuar</item>
+        <item quantity="other">%d aplikacione të lejuara</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Tani të duhet edhe %1$d hap që të bëhesh zhvillues</item>
+        <item quantity="other">Tani të duhen edhe %1$d hapa që të bëhesh zhvillues</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d pajisje e lidhur</item>
+        <item quantity="other">%1$d pajisje të lidhura</item>
+    </plurals>
+</resources>

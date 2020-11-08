@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/epg_book_icon" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="@dimen/epg_title_rpadding" android:src="@drawable/nav_source_list_select_icon" android:scaleType="centerInside"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="@dimen/epg_type_item_ts" android:textColor="@color/white" android:id="@+id/epg_book_channel_name" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="@dimen/epg_title_lmargin" android:layout_marginRight="@dimen/epg_title_rpadding" android:singleLine="true" android:layout_weight="0.5"/>
+        <TextView android:textSize="@dimen/epg_type_item_ts" android:textColor="@color/white" android:id="@+id/epg_book_program_name" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="@dimen/epg_title_lmargin" android:layout_marginRight="@dimen/epg_title_rpadding" android:singleLine="true" android:layout_weight="0.5"/>
+    </LinearLayout>
+</LinearLayout>

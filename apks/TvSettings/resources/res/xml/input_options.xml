@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings">
+    <CheckBoxPreference android:persistent="true" android:title="@string/inputs_show" android:key="show_input"/>
+    <PreferenceCategory android:title="@string/input_header_names" android:key="names">
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:key="name_default" app:radioGroup="name"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/inputs_blu_ray" android:key="name_blu_ray" app:radioGroup="name"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/inputs_cable" android:key="name_cable" app:radioGroup="name"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/inputs_dvd" android:key="name_dvd" app:radioGroup="name"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/inputs_game" android:key="name_game" app:radioGroup="name"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/inputs_aux" android:key="name_aux" app:radioGroup="name"/>
+        <com.android.tv.settings.RadioPreference android:persistent="true" android:title="@string/inputs_custom_name" android:key="name_custom" android:fragment="com.android.tv.settings.system.InputCustomNameFragment" app:radioGroup="name"/>
+    </PreferenceCategory>
+</PreferenceScreen>

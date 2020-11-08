@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d ਖਾਤਾ</item>
+        <item quantity="other">%1$d ਖਾਤੇ</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">ਕਨੈਕਟ ਕੀਤੀ ਇਨਪੁੱਟ</item>
+        <item quantity="other">ਕਨੈਕਟ ਕੀਤੀਆਂ ਇਨਪੁੱਟਾਂ</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">ਕਨੈਕਟ ਨਾ ਕੀਤੀ ਇਨਪੁੱਟ</item>
+        <item quantity="other">ਕਨੈਕਟ ਨਾ ਕੀਤੀਆਂ ਇਨਪੁੱਟਾਂ</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">ਸਟੈਂਡਬਾਏ ਇਨਪੁੱਟ</item>
+        <item quantity="other">ਸਟੈਂਡਬਾਏ ਇਨਪੁੱਟਾਂ</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d ਐਕਸੈਸਰੀ</item>
+        <item quantity="other">%1$d ਐਕਸੈਸਰੀਆਂ</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d ਐਪ ਦੀ ਇਜਾਜ਼ਤ ਹੈ</item>
+        <item quantity="other">%d ਐਪਾਂ ਦੀ ਇਜਾਜ਼ਤ ਹੈ</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਵਿਕਾਸਕਾਰ ਬਣਨ ਤੋਂ %1$d ਕਦਮ ਦੂਰ ਹੋ।</item>
+        <item quantity="other">ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਵਿਕਾਸਕਾਰ ਬਣਨ ਤੋਂ %1$d ਕਦਮ ਦੂਰ ਹੋ।</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d ਡੀਵਾਈਸ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="other">%1$d ਡੀਵਾਈਸ ਕਨੈਕਟ ਕੀਤੇ ਗਏ</item>
+    </plurals>
+</resources>

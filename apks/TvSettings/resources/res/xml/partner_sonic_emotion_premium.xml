@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_sound_sonic_emotion">
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_sonic_emotion" android:key="sound_sonic_emotion"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_dialog_enhancement" android:key="sound_dialog_enhancement"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_bass_enhancement" android:key="sound_bass_enhancement"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_absolute_3d_sound" android:key="sound_absolute_3d_sound"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_auto_volume_leveling" android:key="sound_auto_volume_leveling"/>
+    <SwitchPreference android:persistent="false" android:title="@string/device_sound_digital_output_to_device" android:key="sound_digital_output_to_device"/>
+    <com.android.tv.settings.partnercustomizer.utils.ProgressPreference android:title="@string/device_sound_delta_volume" android:key="sound_delta_volume"/>
+</PreferenceScreen>

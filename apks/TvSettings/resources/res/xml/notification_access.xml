@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/manage_notification_access_title">
+    <Preference android:title="@string/notification_listener_security_warning_summary" android:key="header" android:singleLineTitle="false"/>
+</PreferenceScreen>

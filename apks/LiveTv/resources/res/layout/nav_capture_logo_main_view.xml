@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/capturelogo_bg" android:background="@drawable/tv_background" android:padding="@dimen/nav_capture_padding" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/capture_main" android:background="@drawable/nav_infobar_basic_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:gravity="center" android:id="@+id/cap_logo_title" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/cplogo_title" android:singleLine="true" android:layout_weight="0.6" style="@android:attr/textAppearance"/>
+        <TextView android:gravity="center" android:id="@+id/cap_logo_msg" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:layout_weight="0.5" style="@android:attr/textAppearance"/>
+        <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.45">
+            <ProgressBar android:id="@+id/cap_logo_progressbar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@android:attr/progressBarStyleSmall"/>
+            <LinearLayout android:id="@+id/savePositionView" android:focusable="true" android:visibility="gone" android:descendantFocusability="blocksDescendants" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.4">
+                <ImageView android:layout_gravity="center" android:id="@+id/left_iamge" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/nav_audio_adjust_arrow_left" android:layout_weight="1"/>
+                <TextView android:textSize="15sp" android:gravity="center" android:layout_gravity="center" android:id="@+id/save_position_select" android:background="@drawable/selectbg_gray" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1"/>
+                <ImageView android:layout_gravity="center" android:id="@+id/right_iamge" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/nav_audio_adjust_arrow_right" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <TableLayout android:gravity="center_horizontal" android:paddingBottom="@dimen/nav_capture_paddingBottom" android:layout_width="match_parent" android:layout_height="match_parent" android:stretchColumns="*" android:shrinkColumns="*" android:layout_weight="0.6">
+            <TableRow>
+                <Button android:textColor="@color/white" android:layout_gravity="center" android:id="@+id/bt_left" android:background="@drawable/menu_dialog_button" android:focusable="true" android:focusableInTouchMode="true" android:nextFocusLeft="@+id/bt_right" android:nextFocusRight="@+id/bt_right" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                <Button android:textColor="@color/white" android:layout_gravity="center" android:id="@+id/bt_right" android:background="@drawable/menu_dialog_button" android:nextFocusLeft="@+id/bt_left" android:nextFocusRight="@+id/bt_left" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ఆఫ్</item>
+        <item>ఎడమ</item>
+        <item>కుడి</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>డెమో వీడియో</item>
+        <item>e-POP ఎడమవైపు</item>
+        <item>e-POP కిందివైపు</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>యానిమేషన్ ఆఫ్‌లో ఉంది</item>
+        <item>యానిమేషన్ ప్రమాణం .5x</item>
+        <item>యానిమేషన్ ప్రమాణం 1x</item>
+        <item>యానిమేషన్ ప్రమాణం 1.5x</item>
+        <item>యానిమేషన్ ప్రమాణం 2x</item>
+        <item>యానిమేషన్ ప్రమాణం 5x</item>
+        <item>యానిమేషన్ ప్రమాణం 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>యానిమేషన్ ఆఫ్‌లో ఉంది</item>
+        <item>యానిమేషన్ ప్రమాణం .5x</item>
+        <item>యానిమేషన్ ప్రమాణం 1x</item>
+        <item>యానిమేషన్ ప్రమాణం 1.5x</item>
+        <item>యానిమేషన్ ప్రమాణం 2x</item>
+        <item>యానిమేషన్ ప్రమాణం 5x</item>
+        <item>యానిమేషన్ ప్రమాణం 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>ప్రామాణిక పరిమితి</item>
+        <item>నేపథ్య ప్రాసెస్‌లు లేవు</item>
+        <item>గరిష్టంగా 1 ప్రాసెస్</item>
+        <item>గరిష్టంగా 2 ప్రాసెస్‌లు</item>
+        <item>గరిష్టంగా 3 ప్రాసెస్‌లు</item>
+        <item>గరిష్టంగా 4 ప్రాసెస్‌లు</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>నెట్‌వర్క్ అందించిన సమయాన్ని ఉపయోగించు</item>
+        <item>ఆఫ్ చేయి</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>నెట్‌వర్క్ అందించిన సమయాన్ని ఉపయోగించు</item>
+        <item>రవాణా ప్రసారం అందించిన సమయాన్ని ఉపయోగించు</item>
+        <item>ఆఫ్ చేయి</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>సిస్టమ్ ఎంపికను ఉపయోగించండి (డిఫాల్ట్)</item>
+        <item>16 బిట్‌లు/నమూనా</item>
+        <item>24 బిట్‌లు/నమూనా</item>
+        <item>32 బిట్‌లు/నమూనా</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>సిస్టమ్ ఎంపికను ఉపయోగించండి (డిఫాల్ట్)</item>
+        <item>16 బిట్‌లు/నమూనా</item>
+        <item>24 బిట్‌లు/నమూనా</item>
+        <item>32 బిట్‌లు/నమూనా</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>సిస్టమ్ ఎంపికను ఉపయోగించండి (డిఫాల్ట్)</item>
+        <item>మోనో</item>
+        <item>స్టీరియో</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>సిస్టమ్ ఎంపికను ఉపయోగించండి (డిఫాల్ట్)</item>
+        <item>మోనో</item>
+        <item>స్టీరియో</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>ఆడియో నాణ్యత కోసం అనుకూలీకరించబడింది</item>
+        <item>సమతుల్య ఆడియో మరియు కనెక్షన్ నాణ్యత</item>
+        <item>కనెక్షన్ నాణ్యత కోసం అనుకూలీకరించబడింది</item>
+        <item>ఉత్తమ కృషి (అనుకూల బిట్ రేట్)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ఆడియో నాణ్యత (990kbps/909kbps) కోసం అనుకూలీకరించబడింది</item>
+        <item>సమతుల్య ఆడియో మరియు కనెక్షన్ నాణ్యత (660kbps/606kbps)</item>
+        <item>కనెక్షన్ నాణ్యత (330kbps/303kbps) కోసం అనుకూలీకరించబడింది</item>
+        <item>ఉత్తమ కృషి (అనుకూల బిట్ రేట్)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>సిస్టమ్ ఎంపికను ఉపయోగించండి (డిఫాల్ట్)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>సిస్టమ్ ఎంపికను ఉపయోగించండి (డిఫాల్ట్)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>సిస్టమ్ ఎంపికను ఉపయోగించండి (డిఫాల్ట్)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ఆడియో</item>
+        <item>Qualcomm® aptX™ HD ఆడియో</item>
+        <item>LDAC</item>
+        <item>ఐచ్ఛిక కోడెక్‌లను ప్రారంభించు</item>
+        <item>ఐచ్ఛిక కోడెక్‌లను నిలిపివేయి</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>సిస్టమ్ ఎంపికను ఉపయోగించండి (డిఫాల్ట్)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ఆడియో</item>
+        <item>Qualcomm® aptX™ HD ఆడియో</item>
+        <item>LDAC</item>
+        <item>ఐచ్ఛిక కోడెక్‌లను ప్రారంభించు</item>
+        <item>ఐచ్ఛిక కోడెక్‌లను నిలిపివేయి</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (డిఫాల్ట్)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>డిఫాల్ట్</item>
+        <item>ఏదీ వద్దు</item>
+        <item>చుట్టుగీత</item>
+        <item>నీడను చూపడం</item>
+        <item>పెరిగినట్లుగా</item>
+        <item>కిందికి ఉన్నట్లుగా</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>డిఫాల్ట్</item>
+        <item>నలుపు</item>
+        <item>తెలుపు</item>
+        <item>ఆకుపచ్చ</item>
+        <item>నీలం</item>
+        <item>ఎరుపు</item>
+        <item>ముదురు నీలం</item>
+        <item>పసుపు</item>
+        <item>మెజెంటా</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>డిఫాల్ట్</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>సహజ రీతి</item>
+        <item>గొలుసుకట్టు</item>
+        <item>చిన్న క్యాపిటల్ అక్షరాలు</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>డిఫాల్ట్</item>
+        <item>ఘనం</item>
+        <item>అర్ధ పారదర్శకం</item>
+        <item>పారదర్శకం</item>
+        <item>ఫ్లాష్ కావడం</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>డిఫాల్ట్</item>
+        <item>చిన్నగా</item>
+        <item>సాధారణం</item>
+        <item>పెద్దగా</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>ఏదీ వద్దు</item>
+        <item>చుట్టుగీత</item>
+        <item>నీడ ఉంచు</item>
+        <item>పైకి ఉన్నట్లుగా</item>
+        <item>క్రిందికి ఉన్నట్లుగా</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>చాలా చిన్నది</item>
+        <item>చిన్నది</item>
+        <item>సాధారణం</item>
+        <item>పెద్దది</item>
+        <item>చాలా పెద్దది</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>డిఫాల్ట్</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif సంక్షిప్తం</item>
+        <item>Sans-serif మోనోస్పేస్</item>
+        <item>Serif</item>
+        <item>Serif మోనోస్పేస్</item>
+        <item>సాధారణం</item>
+        <item>కర్సివ్</item>
+        <item>చిన్న క్యాపిటల్‌లు</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC పరికరం లేదు</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>మెరుగైన రంగులు</item>
+        <item>కంటికి కనిపించే విధంగా సహజమైన రంగులు</item>
+        <item>డిజిటల్ కంటెంట్ కోసం అనుకూలీకరించిన రంగులు</item>
+    </array>
+    <array name="color_mode_names">
+        <item>సచేతనం (డిఫాల్ట్)</item>
+        <item>సహజం</item>
+        <item>ప్రామాణికం</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>ఆఫ్</item>
+        <item>ఓవర్‌డ్రా ప్రాంతాలను చూపండి</item>
+        <item>డ్యూటెరానోమలీ కోసం ప్రాంతాలను చూపండి</item>
+    </array>
+    <array name="display_caption_array">
+        <item>ఆఫ్</item>
+        <item>ఆన్</item>
+        <item>CC w/మ్యూట్</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>ఏదీ వద్దు</item>
+        <item>లాగ్‌క్యాట్</item>
+        <item>సిస్‌ట్రేస్ (గ్రాఫిక్స్)</item>
+        <item>glGetError సందర్భంలో స్టాక్‌ను కాల్ చేయి</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>ఎప్పటికీ HDCP తనిఖీని ఉపయోగించవద్దు</item>
+        <item>DRM కంటెంట్‌కు మాత్రమే HDCP తనిఖీని ఉపయోగించండి</item>
+        <item>ఎప్పటికీ HDCP తనిఖీని ఉపయోగించు</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>ఎప్పటికీ తనిఖీ చేయవద్దు</item>
+        <item>DRM కంటెంట్‌కు మాత్రమే తనిఖీ చేయండి</item>
+        <item>ఎల్లప్పుడూ తనిఖీ చేయండి</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>ఆటో EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>ఏదీ వద్దు</item>
+        <item>480p</item>
+        <item>480p (సురక్షితం)</item>
+        <item>720p</item>
+        <item>720p (సురక్షితం)</item>
+        <item>1080p</item>
+        <item>1080p (సురక్షితం)</item>
+        <item>4K</item>
+        <item>4K (సురక్షితం)</item>
+        <item>4K (రిజల్యూషన్ పెంచబడింది)</item>
+        <item>4K (రిజల్యూ. పెంచబడింది, సురక్షితం)</item>
+        <item>720p, 1080p (డ్యూయల్ స్క్రీన్)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>మాన్యువల్</item>
+        <item>సెమీ-ఆటోమేటిక్</item>
+        <item>ఆటోమేటిక్</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>ఆఫ్</item>
+        <item>ఆటోమేటిక్</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>ఆఫ్</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>అన్నీ</item>
+        <item>కుడి</item>
+        <item>ఎడమ</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>ఆఫ్</item>
+        <item>తక్కువ</item>
+        <item>మధ్యస్థం</item>
+        <item>శక్తివంతం</item>
+        <item>ఆటోమేటిక్</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>ఆఫ్</item>
+        <item>తక్కువ</item>
+        <item>మధ్యస్థం</item>
+        <item>శక్తివంతం</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>ఆటోమేటిక్</item>
+        <item>పూర్తిగా</item>
+        <item>పరిమితి</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>ఆఫ్</item>
+        <item>తక్కువ</item>
+        <item>మధ్యస్థం</item>
+        <item>అధికం</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>ఆఫ్</item>
+        <item>కనిష్ఠం</item>
+        <item>మధ్యస్థం</item>
+        <item>గరిష్టం</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>వినియోగదారు</item>
+        <item>నిర్మలం</item>
+        <item>ప్రామాణికం</item>
+        <item>ఉత్తేజవంతం</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>ముదురు రంగు</item>
+        <item>మధ్యస్థం</item>
+        <item>ప్రకాశవంతం</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>ఆన్</item>
+        <item>ఆఫ్</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>డాల్బీ విజన్ బ్రైట్</item>
+        <item>డాల్బీ విజన్ డార్క్</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>వినియోగదారు</item>
+        <item>సినిమా</item>
+        <item>క్రీడలు</item>
+        <item>తళతళలాడే ప్రకాశం</item>
+        <item>అధిక ప్రకాశం</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>ప్రామాణికం</item>
+        <item>సహజం</item>
+        <item>తళతళలాడే ప్రకాశం</item>
+        <item>క్రీడలు</item>
+        <item>సినిమా</item>
+        <item>గేమ్</item>
+        <item>శక్తి ఆదా</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>వినియోగదారు</item>
+        <item>ప్రామాణికం</item>
+        <item>తళతళలాడే ప్రకాశం</item>
+        <item>క్రీడ</item>
+        <item>సినిమా</item>
+        <item>గేమ్</item>
+        <item>శక్తి ఆదా</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>ఆఫ్</item>
+        <item>%d నిమిషాలు</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>విశ్రాంతి గది టీవీ</item>
+        <item>ప్రధాన గది టీవీ</item>
+        <item>పడక గది టీవీ</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>ఆటోమేటిక్</item>
+        <item>సూపర్ జూమ్</item>
+        <item>4:3</item>
+        <item>సినిమా దృశ్య విస్తరణ 14:9</item>
+        <item>సినిమా దృశ్య విస్తరణ 16:9</item>
+        <item>వైడ్ స్క్రీన్</item>
+        <item>పూర్తిగా</item>
+        <item>కొలమాన-రహితంగా</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>సూపర్ జూమ్</item>
+        <item>పూర్తిగా</item>
+        <item>కొలమాన-రహితంగా</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>ఆటోమేటిక్</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>పూర్తిగా</item>
+        <item>జూమ్</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>3 గంటలు</item>
+        <item>6 గంటలు</item>
+        <item>12 గంటలు</item>
+        <item>ఎప్పటికీ వద్దు</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>ఆఫ్</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>ఆఫ్ చేయబడింది</item>
+        <item>లాగ్ బఫర్‌కి 64K</item>
+        <item>లాగ్ బఫర్‌కి 256K</item>
+        <item>లాగ్ బఫర్‌కి 1M</item>
+        <item>లాగ్ బఫర్‌కి 4M</item>
+        <item>లాగ్ బఫర్‌కి 16M</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>ఆఫ్</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>ఆఫ్ చేయి</item>
+        <item>అన్ని లాగ్ బఫర్‌లు</item>
+        <item>అన్నీ కానీ రేడియో లాగ్ బఫర్‌లు</item>
+        <item>కెర్నెల్ లాగ్ బఫర్ మాత్రమే</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>ఆఫ్ చేయి</item>
+        <item>అన్నీ</item>
+        <item>అన్నీ కానీ రేడియో</item>
+        <item>కెర్నెల్ మాత్రమే</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>ఆఫ్‌లో ఉంది</item>
+        <item>దీర్ఘచతురస్రం కాని క్లిప్ ప్రాంతాన్ని నీలి రంగులో గీయండి</item>
+        <item>పరీక్షించబడిన డ్రాయింగ్ ఆదేశాలను పచ్చ రంగులో హైలైట్ చేయండి</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 నిమిషాలు</item>
+        <item>15 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>2 గంటలు</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>గేమ్</item>
+        <item>సినిమా</item>
+        <item>సంగీతం</item>
+        <item>వార్తలు</item>
+        <item>స్టేడియమ్</item>
+        <item>ప్రామాణికం</item>
+        <item>వినియోగదారు</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>ఆఫ్</item>
+        <item>ఆన్</item>
+        <item>ఆటోమేటిక్</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>ఆఫ్</item>
+        <item>సాధారణం</item>
+        <item>రాత్రి మోడ్</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>స్టీరియో</item>
+        <item>సరౌండ్</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>ఆఫ్</item>
+        <item>రాక్</item>
+        <item>పాప్</item>
+        <item>ప్రత్యక్ష ప్రసారం</item>
+        <item>నృత్యం</item>
+        <item>టెక్నో</item>
+        <item>క్లాసిక్</item>
+        <item>మృదుత్వం</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>ఆటోమేటిక్</item>
+        <item>దాటవేయి</item>
+        <item>PCM</item>
+        <item>డాల్బీ డిజిటల్ ప్లస్</item>
+        <item>డాల్బీ డిజిటల్</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>ఆఫ్</item>
+        <item>డాల్బీ డిజిటల్</item>
+        <item>PCM</item>
+        <item>DDP ద్వారా ప్రసరణ</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>టీవీ స్పీకర్‌లు</item>
+        <item>బయటి ఆడియో సిస్టమ్</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>వినియోగదారు</item>
+        <item>ప్రామాణికం</item>
+        <item>తళతళలాడే ప్రకాశం</item>
+        <item>క్రీడలు</item>
+        <item>సినిమా</item>
+        <item>సంగీతం</item>
+        <item>వార్తలు</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>ప్రామాణికం</item>
+        <item>క్రీడలు</item>
+        <item>సినిమా</item>
+        <item>సంగీతం</item>
+        <item>వినియోగదారు</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>సాధారణం</item>
+        <item>వినికిడి సమస్య</item>
+        <item>కంటి చూపు సమస్య</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>ఆఫ్‌లో ఉంది</item>
+        <item>స్క్రీన్‌లో పట్టీలుగా</item>
+        <item>adb shell dumpsys gfxinfoలో</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>యానిమేషన్ ఆఫ్‌లో ఉంది</item>
+        <item>యానిమేషన్ ప్రమాణం .5x</item>
+        <item>యానిమేషన్ ప్రమాణం 1x</item>
+        <item>యానిమేషన్ ప్రమాణం 1.5x</item>
+        <item>యానిమేషన్ ప్రమాణం 2x</item>
+        <item>యానిమేషన్ ప్రమాణం 5x</item>
+        <item>యానిమేషన్ ప్రమాణం 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>చాలా నెమ్మది</item>
+        <item>నెమ్మది</item>
+        <item>సాధారణం</item>
+        <item>వేగవంతం</item>
+        <item>అధిక వేగవంతం</item>
+        <item>చాలా వేగవంతం</item>
+        <item>అధిక వేగం</item>
+        <item>అత్యంత వేగం</item>
+        <item>అత్యంత వేగవంతం</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>ఛార్జింగ్</item>
+        <item>MTP (మీడియా బదిలీ ప్రోటోకాల్)</item>
+        <item>PTP (చిత్రం బదిలీ ప్రోటోకాల్)</item>
+        <item>RNDIS (USB ఈథర్‌నెట్)</item>
+        <item>ఆడియో మూలం</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>ఏదీ లేదు</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>ఏదీ లేదు</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>బలహీనం</item>
+        <item>పర్వాలేదు</item>
+        <item>బాగుంది</item>
+        <item>అద్భుతం</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>స్కాన్ చేస్తోంది…</item>
+        <item>కనెక్ట్ చేస్తోంది...</item>
+        <item>ప్రామాణీకరిస్తోంది…</item>
+        <item>IP చిరునామాను పొందుతోంది…</item>
+        <item>కనెక్ట్ చేయబడింది</item>
+        <item>తాత్కాలికంగా రద్దు చేయబడింది</item>
+        <item>డిస్‌కనెక్ట్ చేస్తోంది...</item>
+        <item>డిస్‌కనెక్ట్ చేయబడింది</item>
+        <item>విఫలమైంది</item>
+        <item>బ్లాక్ చేయబడింది</item>
+        <item>బలహీన కనెక్షన్‌ను తాత్కాలికంగా నివారిస్తోంది</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>స్కాన్ చేస్తోంది…</item>
+        <item>%1$sకి కనెక్ట్ చేస్తోంది…</item>
+        <item>%1$sతో ప్రామాణీకరిస్తోంది…</item>
+        <item>%1$s నుండి IP చిరునామాను పొందుతోంది…</item>
+        <item>%1$sకి కనెక్ట్ చేయబడింది</item>
+        <item>తాత్కాలికంగా రద్దు చేయబడింది</item>
+        <item>%1$s నుండి డిస్‌కనెక్ట్ చేస్తోంది…</item>
+        <item>డిస్‌కనెక్ట్ చేయబడింది</item>
+        <item>విఫలమైంది</item>
+        <item>బ్లాక్ చేయబడింది</item>
+        <item>బలహీన కనెక్షన్‌ను తాత్కాలికంగా నివారిస్తోంది</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>యానిమేషన్ ఆఫ్‌లో ఉంది</item>
+        <item>యానిమేషన్ ప్రమాణం .5x</item>
+        <item>యానిమేషన్ ప్రమాణం 1x</item>
+        <item>యానిమేషన్ ప్రమాణం 1.5x</item>
+        <item>యానిమేషన్ ప్రమాణం 2x</item>
+        <item>యానిమేషన్ ప్రమాణం 5x</item>
+        <item>యానిమేషన్ ప్రమాణం 10x</item>
+    </array>
+</resources>

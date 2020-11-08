@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d account</item>
+        <item quantity="other">%1$d accounts</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Aangesloten ingang</item>
+        <item quantity="other">Aangesloten ingangen</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Niet-aangesloten ingang</item>
+        <item quantity="other">Niet-aangesloten ingangen</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Stand-by-ingang</item>
+        <item quantity="other">Stand-by-ingangen</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d accessoire</item>
+        <item quantity="other">%1$d accessoires</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 app toegestaan</item>
+        <item quantity="other">%d apps toegestaan</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Je moet nog %1$d stap uitvoeren om ontwikkelaar te worden</item>
+        <item quantity="other">Je moet nog %1$d stappen uitvoeren om ontwikkelaar te worden</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d apparaat verbonden</item>
+        <item quantity="other">%1$d apparaten verbonden</item>
+    </plurals>
+</resources>

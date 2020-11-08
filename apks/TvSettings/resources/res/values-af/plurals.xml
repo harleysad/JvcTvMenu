@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d dag gelede</item>
+        <item quantity="other">%d dae gelede</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d min. gelede</item>
+        <item quantity="other">%d min. gelede</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d jaar gelede</item>
+        <item quantity="other">%d jaar gelede</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d rekening</item>
+        <item quantity="other">%1$d rekeninge</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Gekoppelde invoer</item>
+        <item quantity="other">Gekoppelde invoere</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Nie-gekoppelde invoer</item>
+        <item quantity="other">Nie-gekoppelde invoere</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Bystandinvoer</item>
+        <item quantity="other">Bystandinvoere</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d bykomstigheid</item>
+        <item quantity="other">%1$d bykomstighede</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 program toegelaat</item>
+        <item quantity="other">%d programme toegelaat</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Jy is nou %1$d stap daarvan af om &apos;n ontwikkelaar te wees</item>
+        <item quantity="other">Jy is nou %1$d stappe daarvan af om &apos;n ontwikkelaar te wees</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d toestel is gekoppel</item>
+        <item quantity="other">%1$d toestelle is gekoppel</item>
+    </plurals>
+</resources>

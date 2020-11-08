@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Öt alkalommal rosszul adta meg a PIN-kódot.\10Próbálja újra %1$d másodperc múlva.</item>
+        <item quantity="other">Öt alkalommal rosszul adta meg a PIN-kódot.\10Próbálja újra %1$d másodperc múlva.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d csatorna</item>
+        <item quantity="other">%1$d csatorna</item>
+    </plurals>
+</resources>

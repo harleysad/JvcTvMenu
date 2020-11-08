@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingLeft="40dp" android:paddingRight="40dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:gravity="center" android:id="@+id/common_menuview_text_swap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_arrays_Swap" android:drawableLeft="@drawable/tk_cm_color_key_red" android:layout_weight="1"/>
+    <TextView android:gravity="center" android:id="@+id/common_menuview_text_insert" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/menu_tv_insert" android:drawableLeft="@drawable/tk_cm_color_key_green" android:layout_weight="1"/>
+    <TextView android:gravity="center" android:id="@+id/common_menuview_text_delete" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/menu_tv_delete" android:drawableLeft="@drawable/tk_cm_color_key_blue" android:layout_weight="1"/>
+</LinearLayout>

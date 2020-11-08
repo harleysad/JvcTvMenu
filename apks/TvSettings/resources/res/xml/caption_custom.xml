@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/captions_customoptions">
+    <ListPreference android:persistent="true" android:entries="@array/captioning_typeface_selector_titles" android:title="@string/captions_fontfamily" android:key="font_family" android:summary="%s" android:entryValues="@array/captioning_typeface_selector_values"/>
+    <ListPreference android:persistent="true" android:title="@string/captions_textcolor" android:key="text_color" android:summary="%s"/>
+    <ListPreference android:persistent="true" android:entries="@array/captioning_opacity_selector_titles" android:title="@string/captions_textopacity" android:key="text_opacity" android:summary="%s" android:entryValues="@array/captioning_opacity_selector_values"/>
+    <ListPreference android:persistent="true" android:entries="@array/captioning_edge_type_selector_titles" android:title="@string/captions_edgetype" android:key="edge_type" android:summary="%s" android:entryValues="@array/captioning_edge_type_selector_values"/>
+    <ListPreference android:persistent="true" android:title="@string/captions_edgecolor" android:key="edge_color" android:summary="%s"/>
+    <SwitchPreference android:persistent="true" android:title="@string/captions_backgroundshow" android:key="background_show"/>
+    <ListPreference android:persistent="true" android:title="@string/captions_backgroundcolor" android:key="background_color" android:summary="%s" android:dependency="background_show"/>
+    <ListPreference android:persistent="true" android:entries="@array/captioning_opacity_selector_titles" android:title="@string/captions_backgroundopacity" android:key="background_opacity" android:summary="%s" android:dependency="background_show" android:entryValues="@array/captioning_opacity_selector_values"/>
+    <SwitchPreference android:persistent="true" android:title="@string/captions_windowshow" android:key="window_show"/>
+    <ListPreference android:persistent="true" android:title="@string/captions_windowcolor" android:key="window_color" android:summary="%s" android:dependency="window_show"/>
+    <ListPreference android:persistent="true" android:entries="@array/captioning_opacity_selector_titles" android:title="@string/captions_windowopacity" android:key="window_opacity" android:summary="%s" android:dependency="window_show" android:entryValues="@array/captioning_opacity_selector_values"/>
+</PreferenceScreen>

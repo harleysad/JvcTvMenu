@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ବାମ</item>
+        <item>ଡାହାଣ</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>ଡେମୋ ଭିଡିଓ</item>
+        <item>e-POP ବାମ</item>
+        <item>e-POP ତଳ</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>ଆନିମେସନ୍ ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ଆନିମେସନ୍‌ ସ୍କେଲ୍‌ .5x</item>
+        <item>ଆନିମେସନ୍‌ ସ୍କେଲ୍‌ 1x</item>
+        <item>ଆନିମେସନ୍‌ ସ୍କେଲ୍ 1.5x</item>
+        <item>ଆନିମେସନ ସ୍କେଲ୍ 2x</item>
+        <item>ଆନିମେସନ୍‌ ସ୍କେଲ୍‌ 5x</item>
+        <item>ଆନିମେସନ୍‌ ସ୍କେଲ୍‌ 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>ଆନିମେଶନ୍ ବନ୍ଦ</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ .5x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 1x</item>
+        <item>ଆନିମେଶନ୍ ସ୍କେଲ୍ 1.5x</item>
+        <item>ଆନିମେଶନ୍ ସ୍କେଲ୍ 2x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 5x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>ମାନକ ସୀମା</item>
+        <item>କୌଣସି ବ୍ୟାକ୍‌ଗ୍ରାଉଣ୍ଡ ପ୍ରୋସେସ୍ ଚାଲୁନାହିଁ</item>
+        <item>ସର୍ବାଧିକ 1ଟି ପ୍ରକ୍ରିୟା</item>
+        <item>ସର୍ବାଧିକ 2 ଟି ପ୍ରକ୍ରିୟା</item>
+        <item>ଅତିବେଶୀରେ 3ଟି ପ୍ରକ୍ରିୟା</item>
+        <item>ସର୍ବାଧିକ 4 ଟି ପ୍ରକ୍ରିୟା</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>ନେଟ୍‌ୱର୍କ ପ୍ରଦତ୍ତ ସମୟ ବ୍ୟବହାର କରନ୍ତୁ</item>
+        <item>ବନ୍ଦ</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>ନେଟ୍‍ୱାର୍କ ଦ୍ୱାରା ପ୍ରଦାନ କରାଯାଇଥିବା ସମୟ ବ୍ୟବହାର କରନ୍ତୁ</item>
+        <item>ଟ୍ରାନ୍ସପୋର୍ଟ୍‌ ଷ୍ଟ୍ରିମ୍‌ ଦ୍ଵାରା ପ୍ରଦାନ କରାଯାଇଥିବା ସମୟ ବ୍ୟବହାର କରନ୍ତୁ</item>
+        <item>ବନ୍ଦ ଅଛି</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>୫୦%</item>
+        <item>୧୦୦%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>ସିଷ୍ଟମ୍‌ ମନୋନୟନ (ଡିଫଲ୍ଟ) ବ୍ୟବହାର କରନ୍ତୁ</item>
+        <item>୧୬ ବିଟସ୍‌/ନମୁନା</item>
+        <item>24 ବିଟସ୍‌/ନମୂନା</item>
+        <item>32 ବିଟସ୍‌/ନମୁନା</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>ସିଷ୍ଟମ୍‌ର ଚୟନ (ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ) ବ୍ୟବହାର କରନ୍ତୁ</item>
+        <item>16 ବିଟ୍ସ/ସାମ୍ପଲ୍‌</item>
+        <item>24 ବିଟ୍ସ/ନମୁନା</item>
+        <item>32 ବିଟସ୍‌/ନମୂନା</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>ସିଷ୍ଟମ୍ ଚୟନ ବ୍ୟବହାର କରନ୍ତୁ(ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ)</item>
+        <item>ମୋନୋ</item>
+        <item>ଷ୍ଟେରିଓ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>ସିଷ୍ଟମ୍ ଚୟନ ବ୍ୟବହାର କରନ୍ତୁ (ଡିଫଲ୍ଟ)</item>
+        <item>ମୋନୋ</item>
+        <item>ଷ୍ଟେରିଓ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>ଅଡିଓର ଗୁଣବତ୍ତା ପାଇଁ ଅନୁକୂଳିତ</item>
+        <item>ସନ୍ତୁଳିତ ଅଡିଓ ଓ ସଂଯୋଗ କ୍ୱାଲିଟୀ</item>
+        <item>ସଂଯୋଗର ଗୁଣବତ୍ତା ପାଇଁ ଅନୁକୂଳିତ</item>
+        <item>ସର୍ବୋତ୍ତମ ପ୍ରୟାସ (ଅନୁକୂଳ ବିଟ୍‌ ରେଟ୍‌)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ଅଡିଓ ଗୁଣବତ୍ତା ପାଇଁ ଅନୁକୂଳିତ(990kbps/909kbps)</item>
+        <item>ସନ୍ତୁଳିତ ଅଡିଓ ଓ ସଂଯୋଗ ଗୁଣବତ୍ତା (660kbps/606kbps)</item>
+        <item>ସଂଯୋଗର ଗୁଣବତ୍ତା (330kbps/303kbps) ପାଇଁ ଉପଯୁକ୍ତ କରାଯାଇଛି</item>
+        <item>ସର୍ବୋତ୍ତମ ପ୍ରୟାସ (ଅନୁକୁଳ ବିଟ୍‌ ରେଟ୍‌)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>ସିଷ୍ଟମ୍‌ ଚୟନ ବ୍ୟବହାର କରନ୍ତୁ (ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>ସିଷ୍ଟମ୍‌ର ଚୟନ (ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ) ବ୍ୟବହାର କରନ୍ତୁ</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>ସିଷ୍ଟମ୍‌ର ଚୟନ (ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ) ବ୍ୟବହାର କରନ୍ତୁ</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ଅଡିଓ</item>
+        <item>Qualcomm® aptX™ HD ଅଡିଓ</item>
+        <item>LDAC</item>
+        <item>ବିକଳ୍ପ କୋଡେକ୍ସ ସକ୍ଷମ କରନ୍ତୁ</item>
+        <item>ବିକଳ୍ପ କୋଡେକ୍ସ ଅକ୍ଷମ କରନ୍ତୁ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>ସିଷ୍ଟମ୍ ଚୟନ ବ୍ୟବହାର କରନ୍ତୁ (ଡିଫଲ୍ଟ)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ଅଡିଓ</item>
+        <item>Qualcomm® aptX™ HD ଅଡିଓ</item>
+        <item>LDAC</item>
+        <item>ବିକଳ୍ପ କୋଡେକ୍ସକୁ ସକ୍ଷମ କରନ୍ତୁ</item>
+        <item>ବିକଳ୍ପ କୋଡେକ୍‌ଗୁଡ଼ିକୁ ଅକ୍ଷମ କରନ୍ତୁ</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (ଡିଫଲ୍ଟ)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>ଡିଫଲ୍ଟ</item>
+        <item>କୌଣସିଟି ନୁହେଁ</item>
+        <item>ଆଉଟ୍‌ଲାଇନ୍‌</item>
+        <item>ଡ୍ରପ୍ ଶାଡୋ</item>
+        <item>ଉଠାଯାଇଥିବା</item>
+        <item>ବିଷାଦଗ୍ରସ୍ତ</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>ଡିଫଲ୍ଟ</item>
+        <item>କଳା</item>
+        <item>ଧଳା</item>
+        <item>ସବୁଜ</item>
+        <item>ନୀଳ</item>
+        <item>ନାଲି</item>
+        <item>ସାଇଆନ୍</item>
+        <item>ହଳଦିଆ</item>
+        <item>ମାଜେଣ୍ଟା</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>ଡିଫଲ୍ଟ</item>
+        <item>Sans-serif</item>
+        <item>ସାନ୍ସ-ସେରିଫ୍ ମୋନୋସ୍ପେସ୍</item>
+        <item>ସେରିଫ୍</item>
+        <item>ସେରିଫ୍ ମୋନୋସ୍ପେସ୍</item>
+        <item>କେଜୁଆଲ୍</item>
+        <item>କର୍ସିଭ୍‍</item>
+        <item>ଛୋଟ ଆକାରର ଅକ୍ଷର</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>ଡିଫଲ୍ଟ</item>
+        <item>ସଲିଡ୍</item>
+        <item>ଟ୍ରାନ୍ସଲୁସେଣ୍ଟ</item>
+        <item>ପାରଦର୍ଶୀ</item>
+        <item>ଫ୍ଲାସିଂ</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>ଡିଫଲ୍ଟ</item>
+        <item>ଛୋଟ</item>
+        <item>ସାଧାରଣ</item>
+        <item>ବଡ଼</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>କିଛିନାହିଁ</item>
+        <item>ଆଉଟ୍‌ଲାଇନ୍‌</item>
+        <item>ଡ୍ରପ୍‌ ଛାୟା</item>
+        <item>ବଢିଥିବା</item>
+        <item>ସଂକ୍ଷିପ୍ତ</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>ଅତି ଛୋଟ</item>
+        <item>ଛୋଟ</item>
+        <item>ସାଧାରଣ</item>
+        <item>ବହୁତ ବଡ଼</item>
+        <item>ବହୁତ ବଡ଼</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>ଡିଫଲ୍ଟ</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif କନଡେନସେଡ୍</item>
+        <item>Sans-serif ମୋନୋସ୍ପେସ୍</item>
+        <item>Serif</item>
+        <item>Serif ମୋନୋସ୍ପେସ୍</item>
+        <item>ସାଧାରଣ</item>
+        <item>କର୍ସିଭ</item>
+        <item>ଛୋଟ ଆକାରର ଅକ୍ଷରଗୁଡିକ</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>କୌଣସି CEC ଡିଭାଇସ୍‍ ନାହିଁ</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>ବର୍ଦ୍ଧିତ ରଙ୍ଗ</item>
+        <item>ଆଖି ଦ୍ୱାରା ଦେଖାଯାଇଥିବା ପରି ପ୍ରାକୃତିକ ରଙ୍ଗ</item>
+        <item>ଡିଜିଟାଲ୍‌ କଣ୍ଟେଣ୍ଟ ପାଇଁ ରଙ୍ଗଗୁଡ଼ିକ ଅନୁକୂଳିତ ହୋଇଛି</item>
+    </array>
+    <array name="color_mode_names">
+        <item>ଜୀବନ୍ତ (ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ)</item>
+        <item>ପ୍ରାକୃତିକ</item>
+        <item>ମାନକ</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>ଅଫ୍</item>
+        <item>ଓଭର୍‌ ଡ୍ର କ୍ଷେତ୍ରଗୁଡ଼ିକୁ ଦେଖାଅ</item>
+        <item>ଡିଉଟେରାନୋମାଲୀ ପାଇଁ କ୍ଷେତ୍ର ଦେଖନ୍ତୁ</item>
+    </array>
+    <array name="display_caption_array">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ଚାଲୁ କରନ୍ତୁ</item>
+        <item>CC w/ମ୍ୟୁଟ୍</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>କିଛିନାହିଁ</item>
+        <item>Logcat</item>
+        <item>Systrace (ଗ୍ରାଫିକ୍ସ)</item>
+        <item>glGetError ରେ କଲ୍‌ ଷ୍ଟାକ୍</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>କଦାପି HDCP ଯାଞ୍ଚ କରିବା ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ</item>
+        <item>କେବଳ DRM ବିଷୟବସ୍ତୁ ପାଇଁ HDCP ଯାଞ୍ଚ ବ୍ୟବହାର କରନ୍ତୁ</item>
+        <item>ସର୍ବଦା HDCP ଯାଞ୍ଚ ବ୍ୟବହାର କରନ୍ତୁ</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>ଆଦୌ ଯାଞ୍ଚ କରନାହିଁ</item>
+        <item>କେବଳ DRM କଣ୍ଟେଣ୍ଟ ଠାବ କର</item>
+        <item>ସର୍ବଦା ଠାବ କର</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>ସ୍ଵଚାଳିତ EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>କିଛି ନାହିଁ</item>
+        <item>480p</item>
+        <item>480p (ସୁରକ୍ଷିତ)</item>
+        <item>p</item>
+        <item>720p (ସୁରକ୍ଷିତ)</item>
+        <item>1080p</item>
+        <item>1080p (ସୁରକ୍ଷିତ)</item>
+        <item>4K</item>
+        <item>4K (ସୁରକ୍ଷିତ)</item>
+        <item>4K (ଅପ୍‌ସ୍କେଲ୍‌ କରାଯାଇଛି)</item>
+        <item>4K (ଉତ୍ତମ, ସୁରକ୍ଷିତ)</item>
+        <item>720p, 1080p (ଡୁଆଲ୍ ସ୍କ୍ରୀନ୍‌)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>ମାନୁଆଲ୍</item>
+        <item>ଅର୍ଦ୍ଧ-ସ୍ୱଚାଳିତ</item>
+        <item>ସ୍ୱତଃ</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ସ୍ୱତଃ</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>ସମସ୍ତ</item>
+        <item>ଡାହାଣ</item>
+        <item>ବାମ</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>କମ୍</item>
+        <item>ମଧ୍ୟମ</item>
+        <item>ଦୃଢ଼</item>
+        <item>ସ୍ୱତଃ</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>କମ୍</item>
+        <item>ମଧ୍ୟମ</item>
+        <item>ଦୃଢ଼</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>ସ୍ୱତଃ</item>
+        <item>ପୂର୍ଣ୍ଣ</item>
+        <item>ସୀମା</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>କମ୍</item>
+        <item>ମଧ୍ୟମ</item>
+        <item>ଉଚ୍ଚ</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ସର୍ବନିମ୍ନ</item>
+        <item>ମଧ୍ୟମ</item>
+        <item>ସର୍ବାଧିକ</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>ଉପଯୋଗକର୍ତ୍ତା</item>
+        <item>କୁଲ୍</item>
+        <item>ମାନକ</item>
+        <item>ଉଷ୍ମ</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>ଗାଢ଼</item>
+        <item>ମଧ୍ୟ</item>
+        <item>ଉଜ୍ଜ୍ୱଳ</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>ଚାଲୁ କରନ୍ତୁ</item>
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>ଡଲ୍‍ବୀ ଭିଜନ୍ ବ୍ରାଇଟ୍</item>
+        <item>ଡଲ୍‍ବୀ ଭିଜନ୍‍ ଡାର୍କ</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>ଉପଯୋଗକର୍ତ୍ତା</item>
+        <item>ସିନେମା</item>
+        <item>ଖେଳଗୁଡ଼ିକ</item>
+        <item>ଭିଭିଡ୍</item>
+        <item>ଅତ୍ୟଧିକ-ଉଜ୍ଜ୍ୱଳ</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>ମାନକ</item>
+        <item>ପ୍ରାକୃତିକ</item>
+        <item>ଭିଭିଡ୍</item>
+        <item>ଖେଳଗୁଡ଼ିକ</item>
+        <item>ମୁଭି</item>
+        <item>ଗେମ୍</item>
+        <item>ଶକ୍ତି ସଂରକ୍ଷଣ</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>ଉପଯୋଗକର୍ତ୍ତା</item>
+        <item>ମାନକ</item>
+        <item>ଭିଭିଡ୍</item>
+        <item>ଖେଳ</item>
+        <item>ମୁଭି</item>
+        <item>ଗେମ୍</item>
+        <item>ଶକ୍ତି ସଂରକ୍ଷଣ</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>%d ମିନିଟ୍</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>ଲିଭିଂ ରୁମ୍‌ ଟିଭି</item>
+        <item>ଫ୍ୟାମିଲି ରୁମ୍‌ ଟିଭି</item>
+        <item>ବେଡରୁମ୍‌ TV</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>ସ୍ୱଚାଳିତ</item>
+        <item>ସୁପର୍ ଜୁମ୍</item>
+        <item>4:3</item>
+        <item>ମୁଭି ସ୍କ୍ରିନ୍‍ର ବିସ୍ତାର 14:9</item>
+        <item>ମୁଭି ସ୍କ୍ରିନ୍‍ର ବିସ୍ତାର 16:9</item>
+        <item>ଓସାରିଆ ସ୍କ୍ରିନ୍</item>
+        <item>ପୂର୍ଣ୍ଣ</item>
+        <item>ଅନ୍‍‍ସ୍କେଲ୍ଡ</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>ସୁପର୍ ଜୁମ୍</item>
+        <item>ପୂର୍ଣ୍ଣ</item>
+        <item>ଅନ୍‍‍ସ୍କେଲ୍ଡ</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>ସ୍ୱଚାଳିତ</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>ପୂର୍ଣ୍ଣ</item>
+        <item>ଜୁମ୍ କରନ୍ତୁ</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 ମିନିଟ୍</item>
+        <item>1 ଘଣ୍ଟା</item>
+        <item>3 ଘଣ୍ଟା</item>
+        <item>6 ଘଣ୍ଟା</item>
+        <item>12 ଘଣ୍ଟା</item>
+        <item>ଆଦୌ ନୁହେଁ</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>ବନ୍ଦ</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>ବନ୍ଦ</item>
+        <item>64K ପିଛା ଲଗ୍‌ ବଫର୍‌</item>
+        <item>256K ଲଗ୍‌ ପ୍ରତି ବଫର୍‌</item>
+        <item>ଲଗ୍‌ ବଫର୍‌ ପ୍ରତି 1M</item>
+        <item>ଲଗ୍‌ ବଫର୍‌ ପ୍ରତି 4M</item>
+        <item>16M ଲଗ ପିଛା ବଫର୍‌</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>ଅଫ୍</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>ଅଫ</item>
+        <item>ସମସ୍ତ ଲଗ୍‌ ବଫର୍‌</item>
+        <item>ରେଡିଓ ଲଗ୍‌ ବଫର୍‌‌ଗୁଡିକ ଛଡ଼ା ଅନ୍ୟ ସବୁ</item>
+        <item>କେବଳ କର୍ନେଲ୍‌ ଲଗ୍‌ ବଫର୍‌</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>ବନ୍ଦ</item>
+        <item>ସମସ୍ତ</item>
+        <item>ରେଡିଓ ଛଡ଼ା ଅନ୍ୟ ସବୁ</item>
+        <item>କେବଳ କର୍ନେଲ୍</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>ଅଫ୍</item>
+        <item>ଅଣ-ଆୟତାକାର କ୍ଲିପ୍ କ୍ଷେତ୍ର ନୀଳ ରଙ୍ଗରେ ଆଙ୍କନ୍ତୁ</item>
+        <item>ଟେଷ୍ଟ ହୋଇଥିବା ଅଙ୍କନ କମାଣ୍ଡଗୁଡ଼ିକୁ ସବୁଜରେ ଚିହ୍ନିତ କରନ୍ତୁ</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 ମିନିଟ୍</item>
+        <item>15 ମିନିଟ୍</item>
+        <item>30 ମିନିଟ୍</item>
+        <item>1 ଘଣ୍ଟା</item>
+        <item>2 ଘଣ୍ଟା</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>ଗେମ୍</item>
+        <item>ମୁଭି</item>
+        <item>ସଙ୍ଗୀତ</item>
+        <item>ସମାଚାର</item>
+        <item>ଷ୍ଟାଡିୟମ୍</item>
+        <item>ମାନକ</item>
+        <item>ଉପଯୋଗକର୍ତ୍ତା</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ଚାଲୁ କରନ୍ତୁ</item>
+        <item>ସ୍ୱତଃ</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ସାଧାରଣ</item>
+        <item>ରାତି</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>ଷ୍ଟେରିଓ</item>
+        <item>ସରାଉଣ୍ଡ୍</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ରକ୍</item>
+        <item>ପପ୍</item>
+        <item>ଲାଇଭ୍</item>
+        <item>ନୃତ୍ୟ</item>
+        <item>ଟେକ୍ନୋ</item>
+        <item>କ୍ଲାସିକ୍</item>
+        <item>ସଫ୍ଟ</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>ସ୍ୱତଃ</item>
+        <item>ବାଇପାସ୍‍</item>
+        <item>PCM</item>
+        <item>ଡଲ୍‌ବି ଡିଜିଟାଲ୍‍ ପ୍ଲସ୍‌</item>
+        <item>ଡଲ୍‌ବୀ ଡିଜିଟାଲ୍</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ଡଲ୍‌ବୀ ଡିଜିଟାଲ୍</item>
+        <item>PCM</item>
+        <item>DDP ପାସ୍‍ଥ୍ରୁ</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>ଟିଭିର ସ୍ପିକର୍‍ଗୁଡ଼ିକ</item>
+        <item>ବାହ୍ୟ ଅଡିଓ ସିଷ୍ଟମ୍</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>ଉପଯୋଗକର୍ତ୍ତା</item>
+        <item>ମାନକ</item>
+        <item>ଭିଭିଡ୍</item>
+        <item>ଖେଳଗୁଡ଼ିକ</item>
+        <item>ମୁଭି</item>
+        <item>ସଙ୍ଗୀତ</item>
+        <item>ସମାଚାର</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>ମାନକ</item>
+        <item>ଖେଳଗୁଡ଼ିକ</item>
+        <item>ମୁଭି</item>
+        <item>ସଙ୍ଗୀତ</item>
+        <item>ଉପଯୋଗକର୍ତ୍ତା</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>ସାଧାରଣ</item>
+        <item>ବଧିର</item>
+        <item>ଦୃଷ୍ଟିହୀନ</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>ବନ୍ଦ</item>
+        <item>ସ୍କ୍ରୀନ୍‌ରେ ବାର୍‌ ପରି</item>
+        <item>ରେ adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>ଆନିମେଶନ୍‌ ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ .5x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 1x</item>
+        <item>ଆନିମେସନ୍‌ ସ୍କେଲ 1.5x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 2x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 5x</item>
+        <item>ଆନିମେସନ୍‌ ସ୍କେଲ୍‌ 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>ବହୁତ ମନ୍ଥର</item>
+        <item>ମନ୍ଥର</item>
+        <item>ସାମାନ୍ୟ</item>
+        <item>ଦ୍ରୁତ</item>
+        <item>ଦ୍ରୁତତର</item>
+        <item>ଅତି ଦ୍ରୁତ</item>
+        <item>ଦ୍ରୁତ</item>
+        <item>ଅତି ତୀବ୍ର</item>
+        <item>ଦ୍ରୁତତ୍ତମ</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>ଚାର୍ଜ ହେଉଛି</item>
+        <item>MTP (ମିଡିଆ ସ୍ଥାନାନ୍ତର ପ୍ରୋଟୋକଲ୍‌)</item>
+        <item>PTP (ପିକଚର୍‌ ଟ୍ରାନ୍ସଫର୍‌ ପ୍ରୋଟୋକଲ୍‌)</item>
+        <item>RNDIS (USB ଏଥରନେଟ)</item>
+        <item>ଅଡିଓ ଉତ୍ସ</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>କୌଣସିଟି ନୁହେଁ</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>କିଛିନାହିଁ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>ନିମ୍ନମାନ</item>
+        <item>ଠିକ୍‍‍ଠାକ୍‍</item>
+        <item>ଭଲ</item>
+        <item>ସର୍ବୋତ୍ତମ</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>ସ୍କାନ୍‌ କରୁଛି…</item>
+        <item>ସଂଯୋଗ କରୁଛି…</item>
+        <item>ପ୍ରାମାଣିକୀକରଣ କରାଯାଉଛି…</item>
+        <item>IP ଠିକଣା ପ୍ରାପ୍ତ କରୁଛି…</item>
+        <item>ସଂଯୋଜିତ</item>
+        <item>ନିଲମ୍ବିତ</item>
+        <item>ବିଚ୍ଛିନ୍ନ ହେଉଛି…</item>
+        <item>ବିଚ୍ଛିନ୍ନ</item>
+        <item>ଅସଫଳ</item>
+        <item>ଅବରୋଧିତ</item>
+        <item>ସାମୟିକ ଭାବେ ଖରାପ ସଂଯୋଜନାକୁ ଏଡାଉଛି</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>ସ୍କାନ୍‌ କରୁଛି…</item>
+        <item>%1$sକୁ ସଂଯୋଗ କରାଯାଉଛି…</item>
+        <item>%1$s ସହ ପ୍ରମାଣିତ ହେଉଛି…</item>
+        <item>%1$sରୁ IP ଠିକଣା ହାସଲ କରୁଛି…</item>
+        <item>%1$s ସହ ସଂଯୁକ୍ତ</item>
+        <item>କଟିଯାଇଛି</item>
+        <item>%1$sରୁ ବିଚ୍ଛିନ୍ନ ହେଉଛି…</item>
+        <item>ସଂଯୁକ୍ତ ନାହିଁ</item>
+        <item>ଅସଫଳ</item>
+        <item>ଅବରୋଧିତ</item>
+        <item>ଦୁର୍ବଳ ସଂଯୋଗକୂ ସାମୟିକ ଭାବେ ଏଡ଼ାଉଛି</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>ଆନିମେଶନ୍‌ ବନ୍ଦ କରନ୍ତୁ</item>
+        <item>ଆନିମେଶନ ସ୍କେଲ .5x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 1x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 1.5x</item>
+        <item>ଆନିମେଶନ ସ୍କେଲ 2x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 5x</item>
+        <item>ଆନିମେଶନ୍‌ ସ୍କେଲ୍‌ 10x</item>
+    </array>
+</resources>

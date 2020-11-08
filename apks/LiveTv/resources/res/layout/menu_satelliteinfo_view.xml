@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="2dp">
+    <TextView android:id="@+id/satellite_sat_id" android:visibility="gone" android:layout_width="0dp" android:layout_height="match_parent"/>
+    <TextView android:textSize="@dimen/small_text_size" android:textColor="@color/white" android:gravity="center" android:id="@+id/satellite_num" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"/>
+    <TextView android:textSize="@dimen/small_text_size" android:textColor="@color/white" android:gravity="center" android:id="@+id/satellite_name" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="0.3"/>
+    <TextView android:textSize="@dimen/small_text_size" android:textColor="@color/white" android:gravity="center" android:id="@+id/satellite_able" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="0.3"/>
+    <TextView android:textSize="@dimen/small_text_size" android:textColor="@color/white" android:gravity="center" android:id="@+id/satellite_state" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="0.3"/>
+</LinearLayout>

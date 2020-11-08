@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Դուք 5 անգամ սխալ PIN կոդ եք մուտքագրել:\10%1$d վայրկյանից նորից փորձեք:</item>
+        <item quantity="other">Դուք 5 անգամ սխալ PIN կոդ եք մուտքագրել:\10%1$d վայրկյանից նորից փորձեք:</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d ալիք</item>
+        <item quantity="other">%1$d ալիք</item>
+    </plurals>
+</resources>

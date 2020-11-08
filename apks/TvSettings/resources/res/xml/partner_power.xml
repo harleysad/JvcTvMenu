@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/device_power">
+    <ListPreference android:persistent="false" android:entries="@array/timer_sleep_timer_entries" android:title="@string/timer_sleep_timer" android:key="power_sleep_timer" android:summary="%s" android:defaultValue="Off" android:entryValues="@array/timer_sleep_timer_entries_values"/>
+    <Preference android:title="@string/device_power_picture_off" android:key="power_picture_off"/>
+    <ListPreference android:persistent="false" android:entries="@array/power_switch_off_timer_entries_latest" android:title="@string/s_power_switch_off_timer" android:key="power_switch_off_timer" android:summary="%s" android:entryValues="@array/power_switch_off_timer_entries_values"/>
+    <ListPreference android:persistent="false" android:entries="@array/no_signal_auto_power_off_entries" android:title="@string/s_power_no_signal_auto_power_off" android:key="no_signal_auto_power_off" android:summary="%s" android:entryValues="@array/no_signal_auto_power_off_entries_values"/>
+</PreferenceScreen>

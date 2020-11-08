@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d հաշիվ</item>
+        <item quantity="other">%1$d հաշիվ</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Կապակցված մուտքեր</item>
+        <item quantity="other">Կապակցված մուտքեր</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Չկապակցված մուտքեր</item>
+        <item quantity="other">Չկապակցված մուտքեր</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Պահուստային մուտքեր</item>
+        <item quantity="other">Պահուստային մուտքեր</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d լրասարք</item>
+        <item quantity="other">%1$d լրասարք</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">%d հավելված է թույլատրվում</item>
+        <item quantity="other">%d հավելված է թույլատրվում</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Մնաց %1$d քայլ, և դուք մշակող եք</item>
+        <item quantity="other">Մնաց %1$d քայլ, և դուք մշակող եք</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Միացված է %1$d սարք</item>
+        <item quantity="other">Միացված է %1$d սարք</item>
+    </plurals>
+</resources>

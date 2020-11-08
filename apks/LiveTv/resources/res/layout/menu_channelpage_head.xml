@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/common_menuview" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:id="@+id/common_menuview_text1" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_tv_number" android:layout_weight="1"/>
+    <TextView android:id="@+id/common_menuview_text2" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_tv_type" android:layout_weight="1"/>
+    <TextView android:id="@+id/common_menuview_text3" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_tv_frequency" android:layout_weight="1"/>
+    <TextView android:id="@+id/common_menuview_text4" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_tv_system" android:layout_weight="1"/>
+    <TextView android:id="@+id/common_menuview_text5" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_tv_name" android:layout_weight="1"/>
+    <TextView android:gravity="center" android:id="@+id/common_menuview_text6" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_tv_skip" android:layout_weight="1"/>
+</LinearLayout>

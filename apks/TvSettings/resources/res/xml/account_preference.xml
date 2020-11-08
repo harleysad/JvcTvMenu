@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings">
+    <Preference android:title="@string/sync_now" android:key="sync_now"/>
+    <Preference android:title="@string/account_header_remove_account" android:key="remove_account"/>
+    <PreferenceCategory android:title="@string/account_sync" android:key="sync_adapters"/>
+</PreferenceScreen>

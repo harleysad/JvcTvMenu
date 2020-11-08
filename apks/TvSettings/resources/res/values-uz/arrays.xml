@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>YOQILMAGAN</item>
+        <item>CHAP</item>
+        <item>OʻNG</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demo video</item>
+        <item>chap e-POP banneri</item>
+        <item>pastki e-POP banner</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animatsiya o‘chiq</item>
+        <item>Animatsiya o‘lchovi .5x</item>
+        <item>Animatsiya o‘lchovi 1x</item>
+        <item>Animatsiya o‘lchovi 1.5x</item>
+        <item>Animatsiya o‘lchovi 2x</item>
+        <item>Animatsiya o‘lchovi 5x</item>
+        <item>Animatsiya o‘lchovi 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animatsiya o‘chiq</item>
+        <item>0,5x tezlik</item>
+        <item>1x tezlik</item>
+        <item>1,5x tezlik</item>
+        <item>2x tezlik</item>
+        <item>5x tezlik</item>
+        <item>10x tezlik</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standard cheklov</item>
+        <item>Fondagi jarayonlarsiz</item>
+        <item>Ko‘pi bilan 1 ta jarayon</item>
+        <item>ko‘pi bilan 2 jarayonda</item>
+        <item>Ko‘pi bilan 3 ta jarayon</item>
+        <item>Ko‘pi bilan 4 ta jarayon</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Tarmoq vaqtidan foydalanish</item>
+        <item>O‘chirib qo‘yish</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Tarmoq vaqtidan foydalanish</item>
+        <item>Transport oqimi vaqtidan foydalanish</item>
+        <item>O‘chirib qo‘yish</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Tizim tanlovi (birlamchi)</item>
+        <item>16 bit/namuna</item>
+        <item>24 bit/namuna</item>
+        <item>32 bit/namuna</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Tizim tanlovi (birlamchi)</item>
+        <item>16 bit/namuna</item>
+        <item>24 bit/namuna</item>
+        <item>32 bit/namuna</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Tizim tanlovi (birlamchi)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Tizim tanlovi (birlamchi)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ovoz sifatini optimallashtirish</item>
+        <item>Audio sifati balansi va ulanish tezligi</item>
+        <item>Ulanish tezligini optimallashtirish</item>
+        <item>Yuqori sifat (moslashuvchan bitreyt)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ovoz sifatini optimallashtirish (990/909 kbit/s)</item>
+        <item>Audio sifati balansi va ulanish tezligi (660/606 kbit/s)</item>
+        <item>Ulanish tezligini optimallashtirish (330/303 kbit/s)</item>
+        <item>Yuqori sifat (moslashuvchan bitreyt)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Tizim tanlovi (birlamchi)</item>
+        <item>44.1 kGs</item>
+        <item>48.0 kGs</item>
+        <item>88.2 kGs</item>
+        <item>96.0 kGs</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Tizim tanlovi (birlamchi)</item>
+        <item>44.1 kGs</item>
+        <item>48.0 kGs</item>
+        <item>88.2 kGs</item>
+        <item>96.0 kGs</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Tizim tanlovi (birlamchi)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audiokodeki</item>
+        <item>Qualcomm® aptX™ HD audiokodeki</item>
+        <item>LDAC</item>
+        <item>Boshqa kodeklarni yoqish</item>
+        <item>Boshqa kodeklarni o‘chirib qo‘yish</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Tizim tanlovi (birlamchi)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audiokodeki</item>
+        <item>Qualcomm® aptX™ HD audiokodeki</item>
+        <item>LDAC</item>
+        <item>Boshqa kodeklarni yoqish</item>
+        <item>Boshqa kodeklarni o‘chirib qo‘yish</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (asosiy)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Standart</item>
+        <item>Hech qanday</item>
+        <item>Kontur</item>
+        <item>Soyali</item>
+        <item>Qavariq</item>
+        <item>Botiq</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Standart</item>
+        <item>Qora</item>
+        <item>Oq</item>
+        <item>Yashil</item>
+        <item>Koʻk</item>
+        <item>Qizil</item>
+        <item>Zangori</item>
+        <item>Sariq</item>
+        <item>Qirmizi</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Standart</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif (bir xil oraliqli)</item>
+        <item>Serif</item>
+        <item>Serif (bir xil oraliqli)</item>
+        <item>Erkin</item>
+        <item>Qiya</item>
+        <item>Kichik bosh harflar</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Standart</item>
+        <item>Shaffof emas</item>
+        <item>Yarim shaffof</item>
+        <item>Shaffof</item>
+        <item>Chaqnovchi</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Standart</item>
+        <item>Kichik</item>
+        <item>Normal</item>
+        <item>Yirik</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Hech biri</item>
+        <item>Chegara</item>
+        <item>Soyani olib tashlash</item>
+        <item>Ko‘tarilgan</item>
+        <item>Pasaytirilgan</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Juda kichikina</item>
+        <item>Kichik</item>
+        <item>O‘rtacha</item>
+        <item>Katta</item>
+        <item>Juda katta</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Standart</item>
+        <item>Sans-serif</item>
+        <item>Ixchamlashtirilgan Sans-serif</item>
+        <item>Sans-serif (bir xil oraliqli)</item>
+        <item>Serif</item>
+        <item>Serif (bir xil oraliqli)</item>
+        <item>Norasmiy</item>
+        <item>Qiya</item>
+        <item>Kichik bosh harflar</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Hech qanday CEC qurilmasi topilmadi</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Ishlov berilgan ranglar</item>
+        <item>Ko‘zga ko‘rinadigan tabiiy ranglar</item>
+        <item>Raqamli kontentga moslashtirilgan ranglar</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Yorqin (birlamchi)</item>
+        <item>Tabiiy</item>
+        <item>Standart</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>O‘CHIQ</item>
+        <item>Ortiqcha chizilgan joylarni ko‘rsatish</item>
+        <item>Muayyan rangdagi hududlarni ajratib belgilash</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Yoqilmagan</item>
+        <item>Yoniq</item>
+        <item>Ovozsiz taglavhali</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Ma’lumot yo‘q</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafika)</item>
+        <item>glGetError’dagi chaqiruvlar ro‘yxati</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>Hech qachon HDCP tekshiruvidan foydalanilmasin</item>
+        <item>HDCP tekshiruvi faqat DRM kontent uchun ishlatilsin</item>
+        <item>Har doim HDCP tekshiruvidan foydalanilsin</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Hech qachon tekshirilmasin</item>
+        <item>Faqat DRM kontent tekshirilsin</item>
+        <item>Har doim tekshirilsin</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Avto EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Ma’lumot yo‘q</item>
+        <item>480p</item>
+        <item>480p (xavfsiz)</item>
+        <item>720p</item>
+        <item>720p (xavfsiz)</item>
+        <item>1080p</item>
+        <item>1080p (xavfsiz)</item>
+        <item>4K</item>
+        <item>4K (xavfsiz)</item>
+        <item>4K (miqyosi o‘zgaradi)</item>
+        <item>4K (miqyosi o‘zgaradi, xavfsiz)</item>
+        <item>720p, 1080p (ikkita ekran)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Mustaqil</item>
+        <item>Yarim-avtomatik</item>
+        <item>Avto</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Yoqilmagan</item>
+        <item>Avto</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Yoqilmagan</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Hammasi</item>
+        <item>Oʻngga</item>
+        <item>Chapga</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Yoqilmagan</item>
+        <item>Past</item>
+        <item>Oʻrtacha</item>
+        <item>Kuchli</item>
+        <item>Avto</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Yoqilmagan</item>
+        <item>Past</item>
+        <item>Oʻrtacha</item>
+        <item>Kuchli</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Avto</item>
+        <item>Butun ekran</item>
+        <item>Cheklov</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Yoqilmagan</item>
+        <item>Past</item>
+        <item>Oʻrtacha</item>
+        <item>Yuqori</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Yoqilmagan</item>
+        <item>Minimal qiymat</item>
+        <item>Oʻrtacha</item>
+        <item>Maksimal qiymat</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Foydalanuvchi</item>
+        <item>Sovuq</item>
+        <item>Standart</item>
+        <item>Iliq</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Tungi</item>
+        <item>Oʻrtacha</item>
+        <item>Yorqin</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Yoniq</item>
+        <item>Yoqilmagan</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Kunduzgi Dolby Vision</item>
+        <item>Tungi Dolby Vision</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Foydalanuvchi</item>
+        <item>Kino</item>
+        <item>Sport</item>
+        <item>Vivid</item>
+        <item>Yorqin rasm</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standart</item>
+        <item>Tabiiy</item>
+        <item>Vivid</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Oʻyin</item>
+        <item>Quvvatni tejash</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Foydalanuvchi</item>
+        <item>Standart</item>
+        <item>Vivid</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Oʻyin</item>
+        <item>Quvvatni tejash</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Yoqilmagan</item>
+        <item>%d daqiqa</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Mehmonxona TV</item>
+        <item>Oilaviy xona TV</item>
+        <item>Yotoqxona TV</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Avtomatik</item>
+        <item>Super zum</item>
+        <item>4:3</item>
+        <item>Keng formatli film 14:9</item>
+        <item>Keng formatli film 16:9</item>
+        <item>Keng ekran</item>
+        <item>Butun ekran</item>
+        <item>Oʻlchamsiz</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Super zum</item>
+        <item>Butun ekran</item>
+        <item>Oʻlchamsiz</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Avtomatik</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Butun ekran</item>
+        <item>Zum</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 daqiqa</item>
+        <item>1 soat</item>
+        <item>3 soat</item>
+        <item>6 soat</item>
+        <item>12 soat</item>
+        <item>Hech qachon</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>O‘chiq</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>O‘chiq</item>
+        <item>Bufer: maks. 64 KB</item>
+        <item>Bufer: maks. 256 KB</item>
+        <item>Bufer: maks. 1 MB</item>
+        <item>Bufer: maks. 4 MB</item>
+        <item>Bufer: maks. 16 MB</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>O‘chiq</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>O‘chiq</item>
+        <item>Barcha jurnallar buferi</item>
+        <item>Radio jurnallar buferidan tashqari hammasi</item>
+        <item>faqat yadro jurnali buferi</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>O‘chiq</item>
+        <item>Hammasi</item>
+        <item>Radiodan boshqa hammasi</item>
+        <item>faqat yadro</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>O‘ch.</item>
+        <item>To‘g‘ri burchakli bo‘lmagan kesishmalarni ko‘k bilan</item>
+        <item>Chizmaning sinov buyruqlarini yashil bilan</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 daqiqa</item>
+        <item>15 daqiqa</item>
+        <item>30 daqiqa</item>
+        <item>1 soat</item>
+        <item>2 soat</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Oʻyin</item>
+        <item>Film</item>
+        <item>Musiqa</item>
+        <item>Yangiliklar</item>
+        <item>Stadion</item>
+        <item>Standart</item>
+        <item>Foydalanuvchi</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Yoqilmagan</item>
+        <item>Yoniq</item>
+        <item>Avto</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Yoqilmagan</item>
+        <item>Normal</item>
+        <item>Tun</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Qamrovli</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Yoqilmagan</item>
+        <item>Rok</item>
+        <item>Pop</item>
+        <item>Jonli</item>
+        <item>Raqs</item>
+        <item>Texno</item>
+        <item>Klassik</item>
+        <item>Yumshoq</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Avto</item>
+        <item>Chetlab oʻtish sozlamalari</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Yoqilmagan</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP tashqi karnaylarni yoqish</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>TV karnaylari</item>
+        <item>Tashqi audio tizim</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Foydalanuvchi</item>
+        <item>Standart</item>
+        <item>Vivid</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Musiqa</item>
+        <item>Yangiliklar</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standart</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Musiqa</item>
+        <item>Foydalanuvchi</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normal</item>
+        <item>Eshitishi zaiflar uchun</item>
+        <item>Koʻzi ojizlar uchun</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Faolsizlantirish</item>
+        <item>Ekranda bo‘laklar tarzida</item>
+        <item>“adb shell dumpsys gfxinfo” buyrug‘ida</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animatsiya o‘chiq</item>
+        <item>Animatsiya (0,5x)</item>
+        <item>Animatiya (1x)</item>
+        <item>Animatsiya (1,5x)</item>
+        <item>Animatsiya (2x)</item>
+        <item>Animatsiya (5x)</item>
+        <item>Animatsiya (10x)</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Juda sekin</item>
+        <item>Sekin</item>
+        <item>O‘rtacha</item>
+        <item>Tez</item>
+        <item>Tezroq</item>
+        <item>Juda tez</item>
+        <item>Tez</item>
+        <item>Juda tez</item>
+        <item>Eng tez</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Quvvat olmoqda</item>
+        <item>MTP (media fayllarni o‘tkazish protokoli)</item>
+        <item>PTP (rasmlarni o‘tkazish protokoli)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio manbasi</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Hech biri</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Hech biri</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Juda past</item>
+        <item>Past</item>
+        <item>Yaxshi</item>
+        <item>A’lo</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Qidiruv…</item>
+        <item>Ulanmoqda…</item>
+        <item>Tasdiqdan o‘tilmoqda…</item>
+        <item>IP manzil o‘zlashtirilmoqda…</item>
+        <item>Ulangan</item>
+        <item>Muzlatildi</item>
+        <item>Uzilmoqda…</item>
+        <item>Uzilgan</item>
+        <item>Muvaffaqiyatsiz</item>
+        <item>To‘sib qo‘yilgan</item>
+        <item>Sifatsiz ulanishdan vaqtinchalik chetlashish</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Qidiruv…</item>
+        <item>%1$s tarmog‘iga ulanilmoqda…</item>
+        <item>%1$s bilan aloqa o‘rnatilyapti…</item>
+        <item>%1$s IP manzil beryapti…</item>
+        <item>%1$s tarmog‘iga ulanildi</item>
+        <item>Muzlatildi</item>
+        <item>%1$s tarmog‘idan uzilmoqda…</item>
+        <item>Uzildi</item>
+        <item>Muvaffaqiyatsiz</item>
+        <item>To‘sib qo‘yilgan</item>
+        <item>Sifatsiz ulanishdan vaqtinchalik chetlashish</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animatsiya o‘chiq</item>
+        <item>Animatsiya (0,5x)</item>
+        <item>Animatsiya (1x)</item>
+        <item>Animatsiya (1,5x)</item>
+        <item>Animatsiya (2x)</item>
+        <item>Animatsiya (5x)</item>
+        <item>Animatsiya (10x)</item>
+    </array>
+</resources>

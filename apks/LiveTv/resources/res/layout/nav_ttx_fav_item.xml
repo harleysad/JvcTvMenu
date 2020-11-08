@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:layout_gravity="center" android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+    <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="center" android:id="@+id/nav_ttx_fav_item_txt" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

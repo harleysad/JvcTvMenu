@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_input_password_layout" android:background="#384248" android:layout_width="350dp" android:layout_height="200dp">
+    <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="center" android:id="@+id/nav_tv_pwd_error" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/nav_parent_wrong_psw"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/nav_tv_pwd_view" android:layout_width="match_parent" android:layout_height="match_parent">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:textSize="@dimen/epg_type_main_ts" android:textColor="#c0eeeeee" android:id="@+id/nav_tv_pwd_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="25dp" android:layout_marginTop="20dp" android:text="@string/nav_parent_psw" android:fontFamily="sans-serif"/>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/enter_pin" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="85dp">
+                <TextView android:textSize="@dimen/nav_tv_pwd_ts" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/nav_tv_pwd_value" android:background="@drawable/nav_input_pwd" android:layout_width="40dp" android:layout_height="40dp" android:fontFamily="sans-serif-light"/>
+                <TextView android:textSize="@dimen/nav_tv_pwd_ts" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/nav_tv_pwd_value1" android:background="@drawable/nav_input_pwd" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="20dp" android:fontFamily="sans-serif-light"/>
+                <TextView android:textSize="@dimen/nav_tv_pwd_ts" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/nav_tv_pwd_value2" android:background="@drawable/nav_input_pwd" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="20dp" android:fontFamily="sans-serif-light"/>
+                <TextView android:textSize="@dimen/nav_tv_pwd_ts" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/nav_tv_pwd_value3" android:background="@drawable/nav_input_pwd" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="20dp" android:fontFamily="sans-serif-light"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

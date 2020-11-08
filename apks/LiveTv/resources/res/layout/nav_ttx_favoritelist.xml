@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/nav_ttx_favoriteList_layout" android:background="@drawable/info_banner_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="@dimen/nav_textsize_large" android:textColor="@color/white" android:gravity="center" android:id="@+id/nav_favorite_list_title" android:background="@color/nav_ch_list_title_back" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/nav_ttx_favorite_list" android:layout_weight="0.87"/>
+    <ListView android:ellipsize="end" android:id="@+id/nav_favorite_listview" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="@drawable/nav_ch_list_selector" android:divider="@drawable/translucent_background" android:choiceMode="singleChoice" android:layout_weight="0.3">
+        <requestFocus/>
+    </ListView>
+    <TableLayout android:gravity="bottom|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.8">
+        <TableRow android:layout_weight="1">
+            <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/fav_nav_favorite_exit" android:visibility="invisible" android:layout_width="0px" android:layout_height="match_parent" android:text="@string/nav_exit" android:drawableLeft="@drawable/tk_cm_color_key_blue" android:layout_weight="1"/>
+            <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/fav_nav_favorite_select" android:layout_width="0px" android:layout_height="match_parent" android:text="@string/nav_select" android:drawableLeft="@drawable/tk_cm_key_enter" android:layout_weight="1"/>
+        </TableRow>
+        <TableRow android:id="@+id/nav_fav_page_up_down" android:visibility="gone" android:layout_weight="1">
+            <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/fav_nav_page_up" android:layout_width="0px" android:layout_height="match_parent" android:text="@string/nav_page_up" android:drawableLeft="@drawable/tk_cm_color_key_red" android:layout_weight="1"/>
+            <TextView android:textSize="@dimen/nav_textsize_normal" android:textColor="@color/white" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/fav_nav_page_down" android:layout_width="0px" android:layout_height="match_parent" android:text="@string/nav_page_down" android:drawableLeft="@drawable/tk_cm_color_key_green" android:layout_weight="1"/>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

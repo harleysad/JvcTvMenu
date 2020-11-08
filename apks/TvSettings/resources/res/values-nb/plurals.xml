@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d konto</item>
+        <item quantity="other">%1$d kontoer</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Inngangen er tilkoblet</item>
+        <item quantity="other">Inngangene er tilkoblet</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Inngangen er ikke tilkoblet</item>
+        <item quantity="other">Inngangene er ikke tilkoblet</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Venter på inngangen</item>
+        <item quantity="other">Venter på inngangene</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d tilbehør</item>
+        <item quantity="other">%1$d tilbehør</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 app tillatt</item>
+        <item quantity="other">%d apper tillatt</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Du er nå %1$d trinn fra å bli utvikler</item>
+        <item quantity="other">Du er nå %1$d trinn fra å bli utvikler</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d enhet er tilkoblet</item>
+        <item quantity="other">%1$d enheter er tilkoblet</item>
+    </plurals>
+</resources>

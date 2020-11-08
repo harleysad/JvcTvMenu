@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="horizontal" android:background="#171717" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="50dp">
+    <LinearLayout android:orientation="vertical" android:background="#171717" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="3">
+        <TextView android:textSize="50sp" android:gravity="center" android:layout_width="wrap_content" android:layout_height="0dp" android:layout_marginLeft="50dp" android:text="@string/option_ratings" android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="#171717" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:id="@+id/textview1" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_french_g" android:layout_weight="1"/>
+            <RadioButton android:id="@+id/radioButton1" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:id="@+id/textview2" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_french_8ans" android:layout_weight="1"/>
+            <RadioButton android:id="@+id/radioButton2" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:id="@+id/textview3" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_french_13ans" android:layout_weight="1"/>
+            <RadioButton android:id="@+id/radioButton3" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:id="@+id/textview4" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_french_16ans" android:layout_weight="1"/>
+            <RadioButton android:id="@+id/radioButton4" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:id="@+id/textview5" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_french_18ans" android:layout_weight="1"/>
+            <RadioButton android:id="@+id/radioButton5" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <TextView android:gravity="center" android:id="@+id/textview6" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_rating_french_18ans" android:layout_weight="1"/>
+            <RadioButton android:id="@+id/radioButton6" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="150dp" android:layout_weight="1">
+            <RadioButton android:layout_gravity="center" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/menu_allowed_rating" android:layout_weight="1"/>
+            <RadioButton android:layout_gravity="center" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:checked="true" android:text="@string/menu_blocked_rating" android:layout_weight="1"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

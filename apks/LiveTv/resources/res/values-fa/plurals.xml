@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">پین غلط را ۵ بار اشتباه وارد کرد.\10بعد از %1$d ثانیه دوباره امتحان کنید.</item>
+        <item quantity="other">پین غلط را ۵ بار اشتباه وارد کرد.\10بعد از %1$d ثانیه دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d کانال</item>
+        <item quantity="other">%1$d کانال</item>
+    </plurals>
+</resources>

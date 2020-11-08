@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="#000" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="5dp">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="15sp" android:id="@+id/name_tv" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="0.8"/>
+        <TextView android:id="@+id/subtitleName_tv" android:layout_width="0dp" android:layout_height="wrap_content" android:drawableLeft="@drawable/toolbar_icon_subtitle" android:layout_weight="1"/>
+        <TextView android:id="@+id/audioName_tv" android:layout_width="0dp" android:layout_height="wrap_content" android:drawableLeft="@drawable/nav_list_icon_analog_hlt" android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="15sp" android:gravity="center" android:id="@+id/time_tv" android:padding="3dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_margin="5dp" android:layout_weight="0.8"/>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <ImageView android:id="@+id/rewind_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:src="@drawable/timeshift_fb"/>
+            <ImageView android:id="@+id/rewindSpeed_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:src="@drawable/timeshift_f_four"/>
+            <ImageView android:id="@+id/playOrPause_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:src="@drawable/timeshift_play"/>
+            <ImageView android:id="@+id/forward_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:src="@drawable/timeshift_ff"/>
+            <ImageView android:id="@+id/forwardSpeed_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:src="@drawable/timeshift_f_two"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ProgressBar android:id="@+id/progressBar" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="100" android:progress="0" style="?android:attr/progressBarStyleHorizontal"/>
+</LinearLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingTop="6dp" android:paddingBottom="6dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:background="#66eeeeee" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginStart="@dimen/setup_guidedactions_selector_margin_start" android:layout_marginEnd="@dimen/setup_guidedactions_selector_margin_end"/>
+</FrameLayout>

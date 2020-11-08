@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">ඔබ වැරදි PIN අංකය 5 වරක් ඇතුළු කළා.\10තත්පර %1$dකින් නැවත උත්සාහ කරන්න.</item>
+        <item quantity="other">ඔබ වැරදි PIN අංකය 5 වරක් ඇතුළු කළා.\10තත්පර %1$dකින් නැවත උත්සාහ කරන්න.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">නාලිකා %1$dක්</item>
+        <item quantity="other">නාලිකා %1$dක්</item>
+    </plurals>
+</resources>

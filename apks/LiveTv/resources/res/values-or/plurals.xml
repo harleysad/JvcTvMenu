@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">ଆପଣ 5 ଥର ଭୁଲ୍ ପିନ୍ ଲେଖିଛନ୍ତି।\10%1$d ସେକେଣ୍ଡ ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</item>
+        <item quantity="other">ଆପଣ 5 ଥର ଭୁଲ୍ ପିନ୍ ଲେଖିଛନ୍ତି।\10%1$d ସେକେଣ୍ଡ ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d ଚ୍ୟାନେଲ୍</item>
+        <item quantity="other">%1$d ଚ୍ୟାନେଲ୍</item>
+    </plurals>
+</resources>

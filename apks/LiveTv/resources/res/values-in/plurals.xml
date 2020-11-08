@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Anda memasukkan PIN yang salah sebanyak 5 kali.\10Coba lagi dalam %1$d detik.</item>
+        <item quantity="other">Anda memasukkan PIN yang salah sebanyak 5 kali.\10Coba lagi dalam %1$d detik.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d saluran</item>
+        <item quantity="other">%1$d saluran</item>
+    </plurals>
+</resources>

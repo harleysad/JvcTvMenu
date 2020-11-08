@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:background="@drawable/sat_list_background" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_min_height">
+    <TextView android:id="@+id/satellite_sat_id" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" style="@style/Canvas.Text.Dialog.List.Title"/>
+    <TextView android:gravity="center" android:id="@+id/satellite_num" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="1" style="@style/Canvas.Text.Dialog.List.Title"/>
+    <TextView android:gravity="center" android:id="@+id/satellite_name" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="0.3" style="@style/Canvas.Text.Dialog.List.Title"/>
+    <TextView android:gravity="center" android:id="@+id/satellite_able" android:layout_width="wrap_content" android:layout_height="match_parent" android:maxWidth="280dp" android:maxLines="3" android:layout_weight="0.3" style="@style/Canvas.Text.Dialog.List.Title"/>
+    <TextView android:gravity="center" android:id="@+id/satellite_state" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="0.2" style="@style/Canvas.Text.Dialog.List.Title"/>
+    <ImageView android:layout_gravity="center_vertical" android:id="@+id/satellite_scan_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_right" android:scaleType="center" android:layout_weight="0.2"/>
+</LinearLayout>

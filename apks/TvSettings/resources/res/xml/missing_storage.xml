@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings">
+    <Preference android:layout="@layout/pref_wall_of_text" android:title="@string/storage_forget_wall_of_text" android:selectable="false" android:key="wall_of_text"/>
+    <Preference android:title="@string/storage_forget" android:key="forget"/>
+</PreferenceScreen>

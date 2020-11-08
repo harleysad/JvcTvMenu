@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d konto</item>
+        <item quantity="few">%1$d konta</item>
+        <item quantity="many">%1$d kont</item>
+        <item quantity="other">%1$d konta</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Podłączone wejście</item>
+        <item quantity="few">Podłączone wejścia</item>
+        <item quantity="many">Podłączone wejścia</item>
+        <item quantity="other">Podłączone wejścia</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Niepodłączone wejście</item>
+        <item quantity="few">Niepodłączone wejścia</item>
+        <item quantity="many">Niepodłączone wejścia</item>
+        <item quantity="other">Niepodłączone wejścia</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Wejście zapasowe</item>
+        <item quantity="few">Wejścia zapasowe</item>
+        <item quantity="many">Wejścia zapasowe</item>
+        <item quantity="other">Wejścia zapasowe</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d akcesorium</item>
+        <item quantity="few">%1$d akcesoria</item>
+        <item quantity="many">%1$d akcesoriów</item>
+        <item quantity="other">%1$d akcesorium</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 dozwolona aplikacja</item>
+        <item quantity="few">%d dozwolone aplikacje</item>
+        <item quantity="many">%d dozwolonych aplikacji</item>
+        <item quantity="other">Dozwolone aplikacje: %d</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Jesteś teraz o %1$d krok od zostania programistą</item>
+        <item quantity="few">Jesteś teraz %1$d kroki od zostania programistą</item>
+        <item quantity="many">Jesteś teraz %1$d kroków od zostania programistą</item>
+        <item quantity="other">Od zostania programistą dzieli Cię tyle kroków: %1$d</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d urządzenie podłączone</item>
+        <item quantity="few">%1$d urządzenia podłączone</item>
+        <item quantity="many">%1$d urządzeń podłączonych</item>
+        <item quantity="other">%1$d urządzenia podłączonego</item>
+    </plurals>
+</resources>

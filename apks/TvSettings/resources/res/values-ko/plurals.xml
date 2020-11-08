@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">계정 %1$d개</item>
+        <item quantity="other">계정 %1$d개</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">연결된 입력</item>
+        <item quantity="other">연결된 입력</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">연결되지 않은 입력</item>
+        <item quantity="other">연결되지 않은 입력</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">대기 입력</item>
+        <item quantity="other">대기 입력</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">액세서리 %1$d개</item>
+        <item quantity="other">액세서리 %1$d개</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1개 앱 허용됨</item>
+        <item quantity="other">%d개 앱 허용됨</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">개발자가 되기까지 %1$d단계 남았습니다.</item>
+        <item quantity="other">개발자가 되기까지 %1$d단계 남았습니다.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">기기 %1$d개 연결됨</item>
+        <item quantity="other">기기 %1$d개 연결됨</item>
+    </plurals>
+</resources>

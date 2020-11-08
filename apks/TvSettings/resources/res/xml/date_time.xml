@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res/com.android.tv.settings" android:title="@string/system_date_time">
+    <ListPreference android:persistent="true" android:entries="@array/auto_date_time_entries" android:title="@string/system_auto_date_time" android:key="auto_date_time" android:summary="%s" android:entryValues="@array/auto_date_time_entry_values"/>
+    <com.android.tv.settings.system.LeanbackPickerDialogPreference android:persistent="true" android:title="@string/system_set_date" android:key="set_date" app:pickerType="date"/>
+    <com.android.tv.settings.system.LeanbackPickerDialogPreference android:persistent="true" android:title="@string/system_set_time" android:key="set_time" app:pickerType="time"/>
+    <Preference android:persistent="true" android:title="@string/system_set_time_zone" android:key="set_time_zone" android:fragment="com.android.tv.settings.system.TimeZoneFragment"/>
+    <SwitchPreference android:persistent="true" android:title="@string/system_set_time_format" android:key="use_24_hour"/>
+</PreferenceScreen>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Унели сте погрешан PIN 5 пута.\10Пробајте поново за %1$d секунду.</item>
+        <item quantity="few">Унели сте погрешан PIN 5 пута.\10Пробајте поново за %1$d секунде.</item>
+        <item quantity="other">Унели сте погрешан PIN 5 пута.\10Пробајте поново за %1$d секунди.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d канал</item>
+        <item quantity="few">%1$d канала</item>
+        <item quantity="other">%1$d канала</item>
+    </plurals>
+</resources>

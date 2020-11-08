@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d ta hisob</item>
+        <item quantity="other">%1$d ta hisob</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Ulangan port</item>
+        <item quantity="other">Ulangan portlar</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Ulanmagan port</item>
+        <item quantity="other">Ulanmagan portlar</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Kutish rejimidagi port</item>
+        <item quantity="other">Kutish rejimidagi portlar</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d ta aksessuar</item>
+        <item quantity="other">%1$d ta aksessuar</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">1 ilovaga ruxsat berildi</item>
+        <item quantity="other">%d ta ilovaga ruxsat berildi</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Dasturchi sifatida ro‘yxatdan o‘tishni yakunlashga %1$d qadam qoldi</item>
+        <item quantity="other">Dasturchi sifatida ro‘yxatdan o‘tishni yakunlashga %1$d qadam qoldi</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d ta qurilma ulangan</item>
+        <item quantity="other">%1$d ta qurilma ulangan</item>
+    </plurals>
+</resources>

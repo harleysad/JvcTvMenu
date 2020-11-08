@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/nav_oad_layout" android:background="@color/nav_list_common_view_back_color" android:paddingBottom="20dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.8">
+        <LinearLayout android:id="@+id/nav_oad_title_root" android:background="@color/nav_list_common_title_color" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/setup_wizard_pad_foot" android:gravity="center_vertical" android:id="@+id/nav_oad_top_left" android:paddingTop="@dimen/nav_oad_padding" android:text="@string/menu_advanced_oad" style="@style/setup_top_textView"/>
+            <TextView android:textSize="@dimen/setup_wizard_pad_foot" android:gravity="center_vertical" android:id="@+id/nav_oad_version" android:paddingTop="@dimen/nav_oad_padding" android:text="@string/menu_versioninfo_version" style="@style/setup_top_textView"/>
+        </LinearLayout>
+        <RelativeLayout android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@+id/nav_oad_title_root">
+            <LinearLayout android:orientation="horizontal" android:id="@+id/nav_oad_intro_root" android:paddingTop="@dimen/nav_oad_padding" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:id="@+id/nav_oad_intro" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="@dimen/setup_wizard_pad_foot"/>
+                <com.mediatek.wwtv.tvcenter.commonview.Loading android:textSize="@dimen/setup_wizard_common_textsize" android:id="@+id/nav_oad_programming" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="50dp" android:lineSpacingExtra="@dimen/setup_wizard_pad_foot"/>
+                <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:id="@+id/nav_oad_download_wait" android:paddingLeft="20dp" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="@dimen/setup_wizard_pad_foot"/>
+            </LinearLayout>
+            <TableLayout android:id="@+id/nav_oad_ll_foot" android:layout_width="match_parent" android:layout_height="wrap_content" android:stretchColumns="*" android:shrinkColumns="*" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+                <TableRow>
+                    <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:layout_gravity="center" android:id="@+id/nav_oad_bottom_back" android:visibility="invisible" android:text="@string/setup_back" android:drawableLeft="@drawable/tk_cm_key_back"/>
+                    <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:layout_gravity="center" android:id="@+id/nav_oad_bottom_select" android:text="@string/setup_select" android:drawableLeft="@drawable/tk_cm_key_select_up"/>
+                    <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:layout_gravity="center" android:id="@+id/nav_oad_bottom_next" android:text="@string/setup_next" android:drawableLeft="@drawable/tk_cm_key_next"/>
+                    <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:layout_gravity="center" android:id="@+id/nav_oad_bottom_exit" android:text="@string/setup_exit" android:drawableLeft="@drawable/tk_cm_key_exit0"/>
+                </TableRow>
+            </TableLayout>
+            <TextView android:textSize="@dimen/setup_wizard_common_textsize" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/nav_oad_warning_msg" android:paddingBottom="@dimen/nav_oad_padding" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_above="@+id/nav_oad_ll_foot" android:layout_alignParentLeft="true" android:lineSpacingExtra="@dimen/setup_wizard_pad_foot"/>
+            <RelativeLayout android:layout_gravity="center_horizontal" android:id="@+id/nav_oad_progress_layout" android:paddingLeft="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_above="@+id/nav_oad_warning_msg">
+                <ProgressBar android:layout_gravity="center" android:id="@+id/nav_oad_progress_progressbar" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="20dp" android:max="100" android:progress="0" android:layout_centerInParent="true" style="?android:attr/progressBarStyleHorizontal"/>
+                <TextView android:textSize="25sp" android:textColor="@drawable/white" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@+id/nav_oad_progress_percent" android:padding="5dp" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" style="android:style/TextAppearance_Theme_Dialog"/>
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/setup_ll_middle_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@+id/nav_oad_ll_foot" android:layout_alignParentLeft="true">
+                <com.mediatek.wwtv.tvcenter.commonview.CustListView android:textSize="23sp" android:textColor="@color/white" android:layout_gravity="bottom" android:id="@+id/nav_oad_op_list" android:paddingLeft="@dimen/nav_oad_padding" android:paddingBottom="@dimen/nav_oad_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:listSelector="@drawable/setup_list_bg" android:dividerHeight="@dimen/nav_channel_list_padTop" style="@style/setup_textView"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

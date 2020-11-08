@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">คุณป้อน PIN ผิด 5 ครั้ง\10โปรดลองใหม่อีกครั้งใน %1$d วินาที</item>
+        <item quantity="other">คุณป้อน PIN ผิด 5 ครั้ง\10โปรดลองอีกครั้งใน %1$d วินาที</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d ช่อง</item>
+        <item quantity="other">%1$d ช่อง</item>
+    </plurals>
+</resources>

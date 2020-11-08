@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/turnkey_comm_dialog" android:background="@drawable/info_banner_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="15sp" android:textStyle="bold" android:gravity="center" android:id="@+id/comm_dialog_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1"/>
+    <TextView android:gravity="center_horizontal" android:id="@+id/comm_dialog_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:paddingBottom="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:visibility="invisible" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+        <Button android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@+id/comm_dialog_buttonYes" android:background="@drawable/menu_dialog_button" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/menu_setup_button_yes" android:layout_weight="1"/>
+        <Button android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@+id/comm_dialog_buttonNo" android:background="@drawable/menu_dialog_button" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/menu_setup_button_no" android:layout_weight="1"/>
+        <Button android:visibility="invisible" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+    </LinearLayout>
+</LinearLayout>

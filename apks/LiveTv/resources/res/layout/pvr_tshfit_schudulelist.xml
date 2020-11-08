@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <RelativeLayout android:orientation="vertical" android:background="@drawable/info_banner_background" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="horizontal" android:id="@+id/schedulelist_title" android:background="@color/nav_ch_list_title_back" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="@color/white" android:gravity="center_horizontal" android:id="@+id/schedulelist_title_txt" android:padding="25dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/pvr_schedulepvr_schedule_list2" android:layout_weight="0.6" style="@style/pvr_tshift_textsize_23"/>
+            <TextView android:textColor="@color/white" android:gravity="center_horizontal" android:id="@+id/schedulelist_title_diskinfo" android:padding="25dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/pvr_schedulepvr_disk_info" android:layout_weight="0.4" style="@style/pvr_tshift_textsize_23"/>
+        </LinearLayout>
+        <TableLayout android:textColor="@color/white" android:id="@+id/playlist_hint" android:padding="15dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30sp" android:layout_marginRight="30sp" android:stretchColumns="0" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/pvr_tshift_textsize_20">
+            <TableRow>
+                <ImageView android:layout_gravity="center_vertical" android:id="@+id/schedule_add_item_icon" android:padding="5dp" android:visibility="invisible" android:src="@drawable/tk_cm_key_add_updown" android:layout_column="1"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:id="@+id/schedule_add_item_str" android:background="@drawable/schedule_corn_bg" android:padding="1dp" android:layout_column="1" android:text="@string/add_schedule" android:paddingStart="7dp" android:paddingEnd="7dp"/>
+                <ImageView android:layout_gravity="center_vertical" android:id="@+id/schedulelist_icon_select" android:padding="5dp" android:src="@drawable/tk_cm_key_select_up" android:layout_column="1"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:id="@+id/schedulelist_icon_selecttext" android:padding="3dp" android:layout_column="1" android:text="@string/selected"/>
+                <ImageView android:gravity="right" android:layout_gravity="center_vertical" android:padding="5dp" android:visibility="invisible" android:src="@drawable/tk_cm_key_exit" android:layout_column="1"/>
+                <TextView android:textAppearance="@style/nav_pvr_filelist_text" android:gravity="right" android:background="@drawable/schedule_corn_bg" android:padding="1dp" android:layout_column="1" android:text="@string/exit" android:paddingStart="7dp" android:paddingEnd="7dp"/>
+            </TableRow>
+        </TableLayout>
+        <ListView android:textColor="@color/white" android:gravity="center_horizontal" android:id="@+id/schedulelist_list" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:listSelector="@drawable/nav_ch_list_selector" android:dividerHeight="0dp" android:layout_above="@+id/playlist_hint" android:layout_below="@+id/schedulelist_title" android:layout_alignParentLeft="true" style="@style/pvr_tshift_textsize_20"/>
+        <TextView android:textColor="@color/white" android:gravity="center" android:id="@+id/schedulelist_nofiles" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/schedulelist_nofiles" android:layout_above="@+id/playlist_hint" android:layout_below="@+id/schedulelist_title" android:layout_centerVertical="true" style="@style/pvr_tshift_textsize_20"/>
+    </RelativeLayout>
+</LinearLayout>

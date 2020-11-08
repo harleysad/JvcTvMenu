@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Has introduït un PIN incorrecte cinc vegades.\10Torna-ho a provar d&apos;aquí a %1$d segon.</item>
+        <item quantity="other">Has introduït un PIN incorrecte cinc vegades.\10Torna-ho a provar d&apos;aquí a %1$d segons.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d canal</item>
+        <item quantity="other">%1$d canals</item>
+    </plurals>
+</resources>

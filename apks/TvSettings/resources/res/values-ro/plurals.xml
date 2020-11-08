@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">Acum %d zi</item>
+        <item quantity="few">Acum %d zile</item>
+        <item quantity="other">Acum %d de zile</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">Acum %d min.</item>
+        <item quantity="few">Acum %d min.</item>
+        <item quantity="other">Acum %d de min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">Acum %d an</item>
+        <item quantity="few">Acum %d ani</item>
+        <item quantity="other">Acum %d de ani</item>
+    </plurals>
+    <plurals name="accounts_category_summary">
+        <item quantity="one">%1$d cont</item>
+        <item quantity="few">%1$d conturi</item>
+        <item quantity="other">%1$d de conturi</item>
+    </plurals>
+    <plurals name="inputs_header_connected_input">
+        <item quantity="one">Intrare conectată</item>
+        <item quantity="few">Intrări conectate</item>
+        <item quantity="other">Intrări conectate</item>
+    </plurals>
+    <plurals name="inputs_header_disconnected_input">
+        <item quantity="one">Intrare neconectată</item>
+        <item quantity="few">Intrări neconectate</item>
+        <item quantity="other">Intrări neconectate</item>
+    </plurals>
+    <plurals name="inputs_header_standby_input">
+        <item quantity="one">Intrare în standby</item>
+        <item quantity="few">Intrări în standby</item>
+        <item quantity="other">Intrări în standby</item>
+    </plurals>
+    <plurals name="remotes_and_accessories_category_summary">
+        <item quantity="one">%1$d accesoriu</item>
+        <item quantity="few">%1$d accesorii</item>
+        <item quantity="other">%1$d de accesorii</item>
+    </plurals>
+    <plurals name="restricted_profile_configure_apps_description">
+        <item quantity="one">O aplicație permisă</item>
+        <item quantity="few">%d aplicații permise</item>
+        <item quantity="other">%d de aplicații permise</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Mai aveți %1$d pas pentru a deveni dezvoltator</item>
+        <item quantity="few">Mai aveți %1$d pași pentru a deveni dezvoltator</item>
+        <item quantity="other">Mai aveți %1$d de pași pentru a deveni dezvoltator</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d dispozitiv conectat</item>
+        <item quantity="few">%1$d dispozitive conectate</item>
+        <item quantity="other">%1$d de dispozitive conectate</item>
+    </plurals>
+</resources>

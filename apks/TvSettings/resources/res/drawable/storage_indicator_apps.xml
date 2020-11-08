@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <size android:height="@dimen/device_storage_usage_indicator_height" android:width="@dimen/device_storage_usage_indicator_width"/>
+    <solid android:color="@color/storage_apps_usage"/>
+</shape>

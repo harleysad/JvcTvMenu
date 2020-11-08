@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/nav_ll_sourceList_model" android:background="@color/nav_source_list_dialog_title_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="@dimen/nav_source_list_dialog_title_textsize" android:textStyle="bold" android:textColor="@color/nav_source_list_dialog_item_text_select" android:gravity="center_vertical" android:id="@+id/nav_tv_source_title" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/nav_source_main_title" android:layout_weight="@dimen/nav_source_list_dialog_title_weight" android:layout_marginStart="@dimen/nav_source_list_item_margin_left"/>
+    <com.mediatek.wwtv.tvcenter.commonview.CustListView android:id="@+id/nav_source_listview" android:background="@color/nav_source_list_dialog_item_unselect_background" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="@drawable/nav_source_list_selector" android:divider="@drawable/translucent_background" android:dividerHeight="@dimen/nav_source_list_divider_height" android:choiceMode="singleChoice" android:layout_weight="@dimen/nav_source_list_dialog_content_weight">
+        <requestFocus/>
+    </com.mediatek.wwtv.tvcenter.commonview.CustListView>
+</LinearLayout>

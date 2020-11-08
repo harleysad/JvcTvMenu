@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@color/pin_dialog_background" android:paddingTop="@dimen/pin_dialog_top_padding" android:paddingBottom="@dimen/pin_dialog_bottom_padding" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/pin_dialog_horizontal_padding" android:paddingEnd="@dimen/pin_dialog_horizontal_padding" android:elevation="@dimen/pin_dialog_elevation">
+    <TextView android:textSize="@dimen/middle_text_size" android:textColor="@color/white" android:gravity="center" android:id="@+id/common_divx_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/menu_setup_divxreg"/>
+    <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="60dp">
+        <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+            <Button android:textSize="@dimen/large_text_size" android:textColor="@color/white" android:id="@+id/common_divx_btn_ok" android:background="@drawable/menu_dialog_button" android:layout_width="@dimen/menu_button_width" android:layout_height="wrap_content" android:text="@string/menu_ok"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:id="@+id/common_divx_ll_cancel" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+            <Button android:textSize="@dimen/large_text_size" android:textColor="@color/white" android:id="@+id/common_divx_btn_cancel" android:background="@drawable/menu_dialog_button" android:layout_width="@dimen/menu_button_width" android:layout_height="wrap_content" android:text="@string/menu_cancel"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

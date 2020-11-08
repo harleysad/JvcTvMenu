@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate android:interpolator="@android:interpolator/linear_out_slow_in" android:duration="@integer/pin_dialog_anim_duration" android:fromYDelta="@integer/pin_dialog_enter_offset_y" android:toYDelta="0"/>
+    <alpha android:interpolator="@android:interpolator/linear_out_slow_in" android:duration="@integer/pin_dialog_anim_duration" android:fromAlpha="0" android:toAlpha="1"/>
+</set>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>OFF</item>
+        <item>左</item>
+        <item>右</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>デモ動画</item>
+        <item>e-POP（左）</item>
+        <item>e-POP（下）</item>
+    </array>
+    <array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>アニメーションOFF</item>
+        <item>アニメーションスケール.5x</item>
+        <item>アニメーションスケール1x</item>
+        <item>アニメーションスケール1.5x</item>
+        <item>アニメーションスケール2x</item>
+        <item>アニメーションスケール5x</item>
+        <item>アニメーションスケール10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>アニメーションオフ</item>
+        <item>アニメーションスケール.5x</item>
+        <item>アニメーションスケール1x</item>
+        <item>アニメーションスケール1.5x</item>
+        <item>アニメーションスケール2x</item>
+        <item>アニメーションスケール5x</item>
+        <item>アニメーションスケール10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>標準の上限</item>
+        <item>バックグラウンドプロセスを使用しない</item>
+        <item>プロセスの上限: 1</item>
+        <item>プロセスの上限: 2</item>
+        <item>プロセスの上限: 3</item>
+        <item>プロセスの上限: 4</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>ネットワークから提供された時刻を使用する</item>
+        <item>OFF</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>ネットワークから提供された時刻を使用する</item>
+        <item>交通機関からストリーミングされた時刻を使用する</item>
+        <item>OFF</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>16 ビット / サンプル</item>
+        <item>24 ビット / サンプル</item>
+        <item>32 ビット / サンプル</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>16 ビット / サンプル</item>
+        <item>24 ビット / サンプル</item>
+        <item>32 ビット / サンプル</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>モノラル</item>
+        <item>ステレオ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>モノラル</item>
+        <item>ステレオ</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>音質重視で最適化</item>
+        <item>音質と接続の品質のバランスを確保</item>
+        <item>接続の品質重視で最適化</item>
+        <item>ベスト エフォート（アダプティブ ビットレート）</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>音質重視で最適化（990 kbps / 909 kbps）</item>
+        <item>音質と接続の品質のバランスを確保（660 kbps / 606 kbps）</item>
+        <item>接続の品質重視で最適化（330 kbps / 303 kbps）</item>
+        <item>ベスト エフォート（アダプティブ ビットレート）</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ オーディオ</item>
+        <item>Qualcomm® aptX™ HD オーディオ</item>
+        <item>LDAC</item>
+        <item>オプションのコーデックを有効にします</item>
+        <item>オプションのコーデックを無効にします</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ オーディオ</item>
+        <item>Qualcomm® aptX™ HD オーディオ</item>
+        <item>LDAC</item>
+        <item>オプションのコーデックの有効化</item>
+        <item>オプションのコーデックの無効化</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4（デフォルト）</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>デフォルト</item>
+        <item>なし</item>
+        <item>アウトライン</item>
+        <item>ドロップ シャドウ</item>
+        <item>浮き彫り</item>
+        <item>沈み彫り</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>デフォルト</item>
+        <item>黒</item>
+        <item>白</item>
+        <item>緑</item>
+        <item>青</item>
+        <item>赤</item>
+        <item>シアン</item>
+        <item>黄</item>
+        <item>マゼンタ</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>デフォルト</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif 固定幅</item>
+        <item>Serif</item>
+        <item>Serif 固定幅</item>
+        <item>カジュアル</item>
+        <item>草書体</item>
+        <item>スモール キャピタル</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>デフォルト</item>
+        <item>無地</item>
+        <item>半透明</item>
+        <item>透明</item>
+        <item>点滅</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>デフォルト</item>
+        <item>小</item>
+        <item>標準</item>
+        <item>大</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>なし</item>
+        <item>アウトライン</item>
+        <item>ドロップシャドウ</item>
+        <item>浮き彫り</item>
+        <item>沈み彫り</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>極小</item>
+        <item>小</item>
+        <item>標準</item>
+        <item>大</item>
+        <item>極大</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>デフォルト</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif Condensed</item>
+        <item>Sans Serif固定幅</item>
+        <item>Serif</item>
+        <item>Serif固定幅</item>
+        <item>カジュアル</item>
+        <item>草書体</item>
+        <item>スモールキャピタル</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>CEC デバイスはありません</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>拡張色</item>
+        <item>目に自然な色</item>
+        <item>デジタルコンテンツに最適な色</item>
+    </array>
+    <array name="color_mode_names">
+        <item>鮮やか（既定）</item>
+        <item>自然</item>
+        <item>標準</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>OFF</item>
+        <item>オーバードロー領域の表示</item>
+        <item>第二色弱の方向けの領域の表示</item>
+    </array>
+    <array name="display_caption_array">
+        <item>OFF</item>
+        <item>ON</item>
+        <item>字幕（ミュート機能あり）</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>なし</item>
+        <item>Logcat</item>
+        <item>Systrace（画像）</item>
+        <item>glGetErrorでのスタック呼び出し</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>HDCPチェックを使用しない</item>
+        <item>DRMコンテンツにのみHDCPチェックを使用する</item>
+        <item>HDCPチェックを常に使用する</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>チェックしない</item>
+        <item>DRMコンテンツのみをチェック</item>
+        <item>常にチェック</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>自動 EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>なし</item>
+        <item>480p</item>
+        <item>480p（セキュア）</item>
+        <item>720p</item>
+        <item>720p（セキュア）</item>
+        <item>1080p</item>
+        <item>1080p（セキュア）</item>
+        <item>4K</item>
+        <item>4K（セキュア）</item>
+        <item>4K（アップスケール）</item>
+        <item>4K（アップスケール、セキュア）</item>
+        <item>720p、1080p（デュアルスクリーン）</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>手動</item>
+        <item>半自動</item>
+        <item>自動</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>OFF</item>
+        <item>自動</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>OFF</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>すべて</item>
+        <item>右</item>
+        <item>左</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>OFF</item>
+        <item>低</item>
+        <item>中</item>
+        <item>強</item>
+        <item>自動</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>OFF</item>
+        <item>低</item>
+        <item>中</item>
+        <item>強</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>自動</item>
+        <item>フル</item>
+        <item>制限</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>OFF</item>
+        <item>低</item>
+        <item>中</item>
+        <item>高</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>OFF</item>
+        <item>最小</item>
+        <item>中</item>
+        <item>最大</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>ユーザー</item>
+        <item>寒色</item>
+        <item>標準</item>
+        <item>暖色</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>暗</item>
+        <item>中</item>
+        <item>明</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>ON</item>
+        <item>OFF</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>ドルビー ビジョン ブライト</item>
+        <item>ドルビー バージョン ダーク</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>ユーザー</item>
+        <item>シネマ</item>
+        <item>スポーツ</item>
+        <item>ビビッド</item>
+        <item>ハイブライト</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>標準</item>
+        <item>ナチュラル</item>
+        <item>ビビッド</item>
+        <item>スポーツ</item>
+        <item>映画</item>
+        <item>ゲーム</item>
+        <item>省エネ</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>ユーザー</item>
+        <item>標準</item>
+        <item>ビビッド</item>
+        <item>スポーツ</item>
+        <item>映画</item>
+        <item>ゲーム</item>
+        <item>省エネ</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>OFF</item>
+        <item>%d分</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>リビングルームのテレビ</item>
+        <item>ファミリー ルームのテレビ</item>
+        <item>寝室のテレビ</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>自動</item>
+        <item>スーパーズーム</item>
+        <item>4:3</item>
+        <item>映画（14:9 に拡大）</item>
+        <item>映画（16:9 に拡大）</item>
+        <item>ワイド スクリーン</item>
+        <item>フル</item>
+        <item>未調整</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>スーパーズーム</item>
+        <item>フル</item>
+        <item>未調整</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>自動</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>フル</item>
+        <item>ズーム</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 分</item>
+        <item>1 時間</item>
+        <item>3 時間</item>
+        <item>6 時間</item>
+        <item>12 時間</item>
+        <item>スリープにしない</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>OFF</item>
+        <item>64 K</item>
+        <item>256 K</item>
+        <item>1 M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>OFF</item>
+        <item>64 K / ログバッファ</item>
+        <item>256 K / ログバッファ</item>
+        <item>1 M / ログバッファ</item>
+        <item>4 M / ログバッファ</item>
+        <item>16 M / ログバッファ</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>OFF</item>
+        <item>64 K</item>
+        <item>256 K</item>
+        <item>1 M</item>
+        <item>4 M</item>
+        <item>16 M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>OFF</item>
+        <item>すべてのログバッファ</item>
+        <item>ラジオ ログバッファ以外すべて</item>
+        <item>カーネル ログ バッファのみ</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>OFF</item>
+        <item>すべて</item>
+        <item>ラジオ以外すべて</item>
+        <item>カーネルのみ</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>OFF</item>
+        <item>非矩形クリップ領域を青で描画</item>
+        <item>テスト済み描画コマンドを緑でハイライト表示</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 分</item>
+        <item>15 分</item>
+        <item>30 分</item>
+        <item>1 時間</item>
+        <item>2 時間</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>ゲーム</item>
+        <item>映画</item>
+        <item>音楽</item>
+        <item>ニュース</item>
+        <item>スタジアム</item>
+        <item>標準</item>
+        <item>ユーザー</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>OFF</item>
+        <item>ON</item>
+        <item>自動</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>OFF</item>
+        <item>標準</item>
+        <item>夜間</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>ステレオ</item>
+        <item>サラウンド</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>OFF</item>
+        <item>ロック</item>
+        <item>ポップ</item>
+        <item>ライブ</item>
+        <item>ダンス</item>
+        <item>テクノ</item>
+        <item>クラシック</item>
+        <item>ソフト</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>自動</item>
+        <item>バイパス</item>
+        <item>PCM</item>
+        <item>ドルビー デジタル プラス</item>
+        <item>ドルビー デジタル</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>OFF</item>
+        <item>ドルビー デジタル</item>
+        <item>PCM</item>
+        <item>DDP パススルー</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>テレビのスピーカー</item>
+        <item>外付けオーディオ システム</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>ユーザー</item>
+        <item>標準</item>
+        <item>ビビッド</item>
+        <item>スポーツ</item>
+        <item>映画</item>
+        <item>音楽</item>
+        <item>ニュース</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>標準</item>
+        <item>スポーツ</item>
+        <item>映画</item>
+        <item>音楽</item>
+        <item>ユーザー</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>標準</item>
+        <item>聴覚障がい</item>
+        <item>視覚障がい</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>OFF</item>
+        <item>バーとして画面に表示</item>
+        <item>adb shell dumpsys gfxinfo 内</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>アニメーションオフ</item>
+        <item>アニメーションスケール.5x</item>
+        <item>アニメーションスケール1x</item>
+        <item>アニメーションスケール1.5x</item>
+        <item>アニメーションスケール2x</item>
+        <item>アニメーションスケール5x</item>
+        <item>アニメーションスケール10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>非常に遅い</item>
+        <item>遅い</item>
+        <item>標準</item>
+        <item>速い</item>
+        <item>より速い</item>
+        <item>非常に速い</item>
+        <item>高速</item>
+        <item>非常に高速</item>
+        <item>最高速</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>充電</item>
+        <item>MTP（Media Transfer Protocol）</item>
+        <item>PTP（Picture Transfer Protocol）</item>
+        <item>RNDIS（USBイーサネット）</item>
+        <item>オーディオソース</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>なし</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>なし</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>弱</item>
+        <item>中</item>
+        <item>強</item>
+        <item>非常に強い</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>スキャン中...</item>
+        <item>接続処理中...</item>
+        <item>認証中...</item>
+        <item>IPアドレスを取得中...</item>
+        <item>接続済み</item>
+        <item>保留中</item>
+        <item>切断中...</item>
+        <item>切断されました</item>
+        <item>失敗しました</item>
+        <item>ブロック中</item>
+        <item>接続不良により一時的に無効</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>スキャン中...</item>
+        <item>%1$sに接続中...</item>
+        <item>%1$sによる認証中...</item>
+        <item>IPアドレスを%1$sから取得中...</item>
+        <item>%1$sに接続しました</item>
+        <item>保留中</item>
+        <item>%1$sから切断中...</item>
+        <item>切断されました</item>
+        <item>失敗しました</item>
+        <item>ブロック中</item>
+        <item>接続不良により一時的に無効</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>アニメーションオフ</item>
+        <item>アニメーションスケール.5x</item>
+        <item>アニメーションスケール1x</item>
+        <item>アニメーションスケール1.5x</item>
+        <item>アニメーションスケール2x</item>
+        <item>アニメーションスケール5x</item>
+        <item>アニメーションスケール10x</item>
+    </array>
+</resources>

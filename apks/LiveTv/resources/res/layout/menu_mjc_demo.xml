@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" android:stretchColumns="0,2" android:shrinkColumns="*">
+    <TableRow>
+        <TextView android:gravity="center" android:layout_gravity="center" android:id="@+id/mjc_left" android:background="@drawable/menu_mjc_on_off" android:text="@string/common_off"/>
+        <TextView android:gravity="center" android:layout_gravity="center" android:id="@+id/mjc_right" android:background="@drawable/menu_mjc_on_off" android:text="@string/common_on"/>
+    </TableRow>
+</TableLayout>

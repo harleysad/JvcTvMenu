@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">Ufake iphinikhodi engalungile izikhathi ezingu-5.\10Zama futhi kumasekhondi angu-%1$d.</item>
+        <item quantity="other">Ufake iphinikhodi engalungile izikhathi ezingu-5.\10Zama futhi kumasekhondi angu-%1$d.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d iziteshi</item>
+        <item quantity="other">%1$d iziteshi</item>
+    </plurals>
+</resources>

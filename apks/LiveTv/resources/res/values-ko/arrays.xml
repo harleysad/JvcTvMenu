@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ampm">
+        <item>오전</item>
+        <item>오후</item>
+    </array>
+</resources>

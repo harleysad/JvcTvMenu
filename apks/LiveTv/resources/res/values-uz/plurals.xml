@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">PIN kodni 5 marta xato kiritdingiz.\10%1$d soniyadan keyin qayta urining.</item>
+        <item quantity="other">PIN kodni 5 marta xato kiritdingiz.\10%1$d soniyadan keyin qayta urining.</item>
+    </plurals>
+    <plurals name="setup_input_channels">
+        <item quantity="one">%1$d ta kanal</item>
+        <item quantity="other">%1$d ta kanal</item>
+    </plurals>
+</resources>

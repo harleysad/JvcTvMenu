@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a_pq_demo_entries">
+        <item>UIT</item>
+        <item>LINKS</item>
+        <item>RECHTS</item>
+    </array>
+    <array name="a_retail_messaging_entries">
+        <item>Demovideo</item>
+        <item>e-POP links</item>
+        <item>e-POP onder</item>
+    </array>
+    <array name="ampm">
+        <item>a.m.</item>
+        <item>p.m.</item>
+    </array>
+    <array name="animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0,5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1,5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </array>
+    <array name="animator_duration_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0,5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1,5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </array>
+    <array name="app_process_limit_entries">
+        <item>Standaardlimiet</item>
+        <item>Geen achtergrondprocessen</item>
+        <item>Maximaal 1 proces</item>
+        <item>Maximaal 2 processen</item>
+        <item>Maximaal 3 processen</item>
+        <item>Maximaal 4 processen</item>
+    </array>
+    <array name="auto_date_time_entries">
+        <item>Netwerktijd gebruiken</item>
+        <item>Uit</item>
+    </array>
+    <array name="auto_date_time_ts_entries">
+        <item>Netwerktijd gebruiken</item>
+        <item>Transportstreamtijd gebruiken</item>
+        <item>Uit</item>
+    </array>
+    <array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Systeemselectie gebruiken (standaard)</item>
+        <item>16 bits per sample</item>
+        <item>24 bits per sample</item>
+        <item>32 bits per sample</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Systeemselectie gebruiken (standaard)</item>
+        <item>16 bits per sample</item>
+        <item>24 bits per sample</item>
+        <item>32 bits per sample</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Systeemselectie gebruiken (standaard)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Systeemselectie gebruiken (standaard)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Geoptimaliseerd voor audiokwaliteit</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit</item>
+        <item>Beste mogelijkheid (aanpasbare bitsnelheid)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Geoptimaliseerd voor audiokwaliteit (990 kbps/909 kbps)</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit (660 kbps/606 kbps)</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit (330 kbps/303 kbps)</item>
+        <item>Beste mogelijkheid (aanpasbare bitsnelheid)</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Systeemselectie gebruiken (standaard)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Systeemselectie gebruiken (standaard)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_summaries">
+        <item>Systeemselectie gebruiken (standaard)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
+    </array>
+    <array name="bluetooth_a2dp_codec_titles">
+        <item>Systeemselectie gebruiken (standaard)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
+    </array>
+    <array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </array>
+    <array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (standaard)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </array>
+    <array name="caption_edge_type_array">
+        <item>Standaard</item>
+        <item>Geen</item>
+        <item>Contour</item>
+        <item>Slagschaduw</item>
+        <item>Verhoogd</item>
+        <item>Verlaagd</item>
+    </array>
+    <array name="caption_font_color_array">
+        <item>Standaard</item>
+        <item>Zwart</item>
+        <item>Wit</item>
+        <item>Groen</item>
+        <item>Blauw</item>
+        <item>Rood</item>
+        <item>Cyaan</item>
+        <item>Geel</item>
+        <item>Magenta</item>
+    </array>
+    <array name="caption_font_family_array">
+        <item>Standaard</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursief</item>
+        <item>Kleine kapitalen</item>
+    </array>
+    <array name="caption_font_opacity_array">
+        <item>Standaard</item>
+        <item>Ondoorzichtig</item>
+        <item>Doorzichtig</item>
+        <item>Transparant</item>
+        <item>Knippert</item>
+    </array>
+    <array name="caption_text_size_array">
+        <item>Standaard</item>
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+    </array>
+    <array name="captioning_edge_type_selector_titles">
+        <item>Geen</item>
+        <item>Contour</item>
+        <item>Slagschaduw</item>
+        <item>Verhoogd</item>
+        <item>Verlaagd</item>
+    </array>
+    <array name="captioning_font_size_selector_titles">
+        <item>Zeer klein</item>
+        <item>Klein</item>
+        <item>Standaard</item>
+        <item>Groot</item>
+        <item>Zeer groot</item>
+    </array>
+    <array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <array name="captioning_typeface_selector_titles">
+        <item>Standaard</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif versmald</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursief</item>
+        <item>Kleine kapitalen</item>
+    </array>
+    <array name="cec_dev_list_entries">
+        <item>Geen CEC-apparaat</item>
+    </array>
+    <array name="color_mode_descriptions">
+        <item>Verbeterde kleuren</item>
+        <item>Natuurlijke kleuren zoals gezien door het menselijk oog</item>
+        <item>Kleuren geoptimaliseerd voor digitale content</item>
+    </array>
+    <array name="color_mode_names">
+        <item>Levendig (standaard)</item>
+        <item>Natuurlijk</item>
+        <item>Standaard</item>
+    </array>
+    <array name="debug_hw_overdraw_entries">
+        <item>Uit</item>
+        <item>Gedeeltes met overbelasting weergeven</item>
+        <item>Gebieden voor deuteranomalie weergeven</item>
+    </array>
+    <array name="display_caption_array">
+        <item>Uit</item>
+        <item>Aan</item>
+        <item>CC met dempen</item>
+    </array>
+    <array name="enable_opengl_traces_entries">
+        <item>Geen</item>
+        <item>Logcat</item>
+        <item>Systrace (graphics)</item>
+        <item>Oproepstack op glGetError</item>
+    </array>
+    <array name="hdcp_checking_summaries">
+        <item>HDCP-controle nooit gebruiken</item>
+        <item>HDCP-controle alleen voor DRM-content gebruiken</item>
+        <item>HDCP-controle altijd gebruiken</item>
+    </array>
+    <array name="hdcp_checking_titles">
+        <item>Nooit controleren</item>
+        <item>Alleen controleren op DRM-content</item>
+        <item>Altijd controleren</item>
+    </array>
+    <array name="input_hdmi_edid_version_entries">
+        <item>EDID 1.4</item>
+        <item>EDID 2.0</item>
+        <item>Automatische EDID</item>
+    </array>
+    <array name="overlay_display_devices_entries">
+        <item>Geen</item>
+        <item>480p</item>
+        <item>480p (veilig)</item>
+        <item>720p</item>
+        <item>720p (veilig)</item>
+        <item>1080p</item>
+        <item>1080p (veilig)</item>
+        <item>4K</item>
+        <item>4K (veilig)</item>
+        <item>4K (opgeschaald)</item>
+        <item>4K (opgeschaald, veilig)</item>
+        <item>720p, 1080p (dubbel scherm)</item>
+    </array>
+    <array name="picture_3D_Navigation_entries">
+        <item>Handmatig</item>
+        <item>Semi-automatisch</item>
+        <item>Automatisch</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries">
+        <item>Uit</item>
+        <item>Automatisch</item>
+    </array>
+    <array name="picture_advanced_vedio_di_film_mode_entries_cn">
+        <item>Uit</item>
+        <item>SLOW_PIC</item>
+        <item>ACTION_PIC</item>
+    </array>
+    <array name="picture_advanced_vedio_mjc_demo_partition_entries">
+        <item>Alle</item>
+        <item>Rechts</item>
+        <item>Links</item>
+    </array>
+    <array name="picture_advanced_video_DNR_entries">
+        <item>Uit</item>
+        <item>Laag</item>
+        <item>Gemiddeld</item>
+        <item>Sterk</item>
+        <item>Automatisch</item>
+    </array>
+    <array name="picture_advanced_video_MPEG_NR_entries">
+        <item>Uit</item>
+        <item>Laag</item>
+        <item>Gemiddeld</item>
+        <item>Sterk</item>
+    </array>
+    <array name="picture_advanced_video_hdmi_rgb_range_entries">
+        <item>Automatisch</item>
+        <item>Volledig</item>
+        <item>Limiet</item>
+    </array>
+    <array name="picture_advanced_video_local_contrast_entries">
+        <item>Uit</item>
+        <item>Laag</item>
+        <item>Gemiddeld</item>
+        <item>Hoog</item>
+    </array>
+    <array name="picture_advanced_video_noise_reduction_entries">
+        <item>Uit</item>
+        <item>Minimum</item>
+        <item>Gemiddeld</item>
+        <item>Maximum</item>
+    </array>
+    <array name="picture_color_temperature_entries">
+        <item>Gebruiker</item>
+        <item>Koel</item>
+        <item>Standaard</item>
+        <item>Warm</item>
+    </array>
+    <array name="picture_gamma_entries">
+        <item>Donker</item>
+        <item>Midden</item>
+        <item>Helder</item>
+    </array>
+    <array name="picture_hdr_entries">
+        <item>Aan</item>
+        <item>Uit</item>
+    </array>
+    <array name="picture_mode_dovi_entries">
+        <item>Dolby Vision Bright</item>
+        <item>Dolby Vision Dark</item>
+    </array>
+    <array name="picture_mode_entries">
+        <item>Gebruiker</item>
+        <item>Bioscoop</item>
+        <item>Sport</item>
+        <item>Levendig</item>
+        <item>Extra helder</item>
+    </array>
+    <array name="picture_mode_fun_entries">
+        <item>Standaard</item>
+        <item>Natuurlijk</item>
+        <item>Levendig</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Game</item>
+        <item>Energiebesparing</item>
+    </array>
+    <array name="picture_mode_ref_entries">
+        <item>Gebruiker</item>
+        <item>Standaard</item>
+        <item>Levendig</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Game</item>
+        <item>Energiebesparing</item>
+    </array>
+    <array name="power_switch_off_timer_entries">
+        <item>Uit</item>
+        <item>%d minuten</item>
+    </array>
+    <array name="rooms">
+        <item>Android TV</item>
+        <item>Tv in woonkamer</item>
+        <item>Tv in huiskamer</item>
+        <item>Tv in slaapkamer</item>
+    </array>
+    <array name="screen_mode_array_funai">
+        <item>Automatisch</item>
+        <item>Superzoom</item>
+        <item>4:3</item>
+        <item>Film uitbreiden (14:9)</item>
+        <item>Film uitbreiden (16:9)</item>
+        <item>Breedbeeld</item>
+        <item>Volledig</item>
+        <item>Ongeschaald</item>
+    </array>
+    <array name="screen_mode_array_funai_vga">
+        <item>Superzoom</item>
+        <item>Volledig</item>
+        <item>Ongeschaald</item>
+    </array>
+    <array name="screen_mode_array_mtk">
+        <item>Automatisch</item>
+        <item>4:3</item>
+        <item>14:9</item>
+        <item>16:9</item>
+        <item>Volledig</item>
+        <item>Zoomen</item>
+    </array>
+    <array name="screen_off_timeout_entries">
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>3 uur</item>
+        <item>6 uur</item>
+        <item>12 uur</item>
+        <item>Nooit</item>
+    </array>
+    <array name="select_logd_size_lowram_titles">
+        <item>Uit</item>
+        <item>64 K</item>
+        <item>256 K</item>
+        <item>1 M</item>
+    </array>
+    <array name="select_logd_size_summaries">
+        <item>Uit</item>
+        <item>64 K per logbuffer</item>
+        <item>256 K per logbuffer</item>
+        <item>1 M per logbuffer</item>
+        <item>4 M per logbuffer</item>
+        <item>16 M per logbuffer</item>
+    </array>
+    <array name="select_logd_size_titles">
+        <item>Uit</item>
+        <item>64 K</item>
+        <item>256 K</item>
+        <item>1 M</item>
+        <item>4 M</item>
+        <item>16 M</item>
+    </array>
+    <array name="select_logpersist_summaries">
+        <item>Uit</item>
+        <item>Alle logboekbuffers</item>
+        <item>Alle logboekbuffers behalve voor keuzerondjes</item>
+        <item>alleen kernel-logbuffer</item>
+    </array>
+    <array name="select_logpersist_titles">
+        <item>Uit</item>
+        <item>Alle</item>
+        <item>Alle beh. keuzerondje</item>
+        <item>alleen kernel</item>
+    </array>
+    <array name="show_non_rect_clip_entries">
+        <item>Uit</item>
+        <item>Niet-rechthoekige bijsnijdregio tekenen in blauw</item>
+        <item>Geteste tekenopdrachten markeren in groen</item>
+    </array>
+    <array name="sleep_timeout_entries">
+        <item>5 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+    </array>
+    <array name="sound_advanced_sound_mode_entries">
+        <item>Game</item>
+        <item>Film</item>
+        <item>Muziek</item>
+        <item>Nieuws</item>
+        <item>Stadion</item>
+        <item>Standaard</item>
+        <item>Gebruiker</item>
+    </array>
+    <array name="sound_advanced_speaker_virtualizer_entries">
+        <item>Uit</item>
+        <item>Aan</item>
+        <item>Automatisch</item>
+    </array>
+    <array name="sound_dbx_total_vol_entries">
+        <item>Uit</item>
+        <item>Normaal</item>
+        <item>Nacht</item>
+    </array>
+    <array name="sound_downmix_mode_entries">
+        <item>Stereo</item>
+        <item>Surround</item>
+    </array>
+    <array name="sound_equalizer_entries">
+        <item>Uit</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Live</item>
+        <item>Dance</item>
+        <item>Techno</item>
+        <item>Klassiek</item>
+        <item>Zacht</item>
+    </array>
+    <array name="sound_spdif_type_entries">
+        <item>Automatisch</item>
+        <item>Overslaan</item>
+        <item>PCM</item>
+        <item>Dolby Digital Plus</item>
+        <item>Dolby Digital</item>
+    </array>
+    <array name="sound_spdif_type_entries_ms12b">
+        <item>Uit</item>
+        <item>Dolby Digital</item>
+        <item>PCM</item>
+        <item>DDP-passthrough</item>
+        <item>DDP</item>
+    </array>
+    <array name="sound_speakers_entries">
+        <item>Tv-speakers</item>
+        <item>Extern audiosysteem</item>
+    </array>
+    <array name="sound_style_funai_entries">
+        <item>Gebruiker</item>
+        <item>Standaard</item>
+        <item>Levendig</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Muziek</item>
+        <item>Nieuws</item>
+    </array>
+    <array name="sound_style_mtk_entries">
+        <item>Standaard</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Muziek</item>
+        <item>Gebruiker</item>
+    </array>
+    <array name="sound_type_entries">
+        <item>Normaal</item>
+        <item>Gehoorbeperking</item>
+        <item>Visuele beperking</item>
+    </array>
+    <array name="track_frame_time_entries">
+        <item>Uit</item>
+        <item>Op het scherm als balken</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </array>
+    <array name="transition_animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0,5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1,5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </array>
+    <array name="tts_rate_entries">
+        <item>Zeer langzaam</item>
+        <item>Langzaam</item>
+        <item>Normaal</item>
+        <item>Snel</item>
+        <item>Sneller</item>
+        <item>Nog sneller</item>
+        <item>Heel erg snel</item>
+        <item>Snelst</item>
+        <item>Allerallersnelst</item>
+    </array>
+    <array name="usb_configuration_titles">
+        <item>Opladen</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB-Ethernet)</item>
+        <item>Audiobron</item>
+        <item>MIDI</item>
+    </array>
+    <array name="wifi_peap_phase2_entries">
+        <item>Geen</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_phase2_entries">
+        <item>Geen</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </array>
+    <array name="wifi_signal_strength">
+        <item>Slecht</item>
+        <item>Redelijk</item>
+        <item>Goed</item>
+        <item>Uitstekend</item>
+    </array>
+    <array name="wifi_status">
+        <item />
+        <item>Scannen...</item>
+        <item>Verbinding maken...</item>
+        <item>Verifiëren...</item>
+        <item>IP-adres ophalen…</item>
+        <item>Verbonden</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken...</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Slechte verbinding tijdelijk vermijden</item>
+    </array>
+    <array name="wifi_status_with_ssid">
+        <item />
+        <item>Scannen...</item>
+        <item>Verbinding maken met %1$s...</item>
+        <item>Verifiëren met %1$s…</item>
+        <item>IP-adres ophalen van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken met %1$s…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Slechte verbinding tijdelijk vermijden</item>
+    </array>
+    <array name="window_animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0,5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1,5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </array>
+</resources>

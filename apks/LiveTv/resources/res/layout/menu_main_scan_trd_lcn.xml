@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@drawable/tv_dialog_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:id="@+id/scan_lcn_stub_view" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="24sp" android:textColor="@color/white" android:id="@+id/scan_lcn_group_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp"/>
+        <TextView android:textSize="24sp" android:textColor="@color/white" android:id="@+id/scan_lcn_group_conflict_num" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16dp"/>
+        <ListView android:id="@+id/scan_lcn_conflict_list" android:nextFocusLeft="@+id/scan_lcn_conflict_list" android:nextFocusRight="@+id/scan_lcn_conflict_list" android:nextFocusUp="@+id/scan_lcn_conflict_list" android:nextFocusDown="@+id/scan_lcn_conflict_list" android:listSelector="@drawable/scan_condition_background" android:dividerHeight="@dimen/nav_channel_list_padTop" android:nextFocusForward="@+id/scan_lcn_conflict_list" style="@style/setup_textView"/>
+    </LinearLayout>
+</LinearLayout>

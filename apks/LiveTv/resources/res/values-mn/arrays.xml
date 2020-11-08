@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ampm">
+        <item>AM (Үдээс өмнө)</item>
+        <item>PM</item>
+    </array>
+</resources>
